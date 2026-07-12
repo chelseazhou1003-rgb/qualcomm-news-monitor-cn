@@ -1,0 +1,87 @@
+// Chinese section definitions for the UI
+
+export const SECTIONS = [
+  {
+    id: 'core-businesses',
+    title: '核心业务',
+    slug: 'core-businesses',
+    description: '半导体芯片、无线通信、移动芯片、PC芯片与计算平台、汽车芯片与平台、IoT与XR。',
+    page: 'core-businesses.html',
+  },
+  {
+    id: 'ip-legal',
+    title: '知识产权与法律',
+    slug: 'ip-legal',
+    description: '标准必要专利、知识产权、专利诉讼、FRAND与授权争议、监管与反垄断。',
+    page: 'ip-legal.html',
+  },
+  {
+    id: 'growth-areas',
+    title: '增长领域',
+    slug: 'growth-areas',
+    description: '端侧AI与边缘AI、AI PC、具身智能与机器人、车载信息娱乐与ADAS、XR与空间计算。',
+    page: 'growth-areas.html',
+  },
+  {
+    id: 'macro-environment',
+    title: '宏观环境',
+    slug: 'macro-environment',
+    description: '客户与合作伙伴、供应链、地缘政治与出口管制、市场表现。',
+    page: 'macro-environment.html',
+  },
+  {
+    id: 'competitors',
+    title: '竞争对手',
+    slug: 'competitors',
+    description: '苹果与华为的竞争性知识产权、专利及SEP动态。',
+    page: 'competitors.html',
+  },
+  {
+    id: 'stakeholders',
+    title: '关键利益相关方',
+    slug: 'stakeholders',
+    description: '3GPP、ETSI、IEEE、Wi-Fi联盟、蓝牙SIG、USB-IF、O-RAN联盟、监管机构、行业协会、OEM、代工厂、平台合作伙伴。',
+    page: 'stakeholders.html',
+  },
+];
+
+export const SECTION_MAP = Object.fromEntries(SECTIONS.map(s => [s.id, s]));
+
+// Sub-category display labels (Chinese)
+export const SUB_LABELS = {
+  semiconductors: '半导体',
+  wireless: '无线通信',
+  'mobile-chips': '移动芯片',
+  'pc-chips-computing': 'PC芯片与计算',
+  automotive: '汽车',
+  'iot-xr': 'IoT与XR',
+  sep: '标准必要专利',
+  ip: '知识产权',
+  'patent-litigation': '专利诉讼',
+  'frand-licensing': 'FRAND与授权',
+  'regulatory-antitrust': '监管与反垄断',
+  'on-device-ai': '端侧AI/边缘AI',
+  'ai-pc': 'AI PC',
+  'embodied-ai-robotics': '具身智能与机器人',
+  'in-vehicle-infotainment-adas': '车载信息娱乐与ADAS',
+  'xr-spatial-computing': 'XR/空间计算',
+  'data-center': '数据中心',
+  'customers-partners': '客户与合作伙伴',
+  'supply-chain': '供应链',
+  'geopolitics-export-controls': '地缘政治与出口管制',
+  'market-performance': '市场表现',
+  apple: '苹果',
+  huawei: '华为',
+  '3gpp': '3GPP',
+  etsi: 'ETSI',
+  ieee: 'IEEE',
+  'wi-fi-alliance': 'Wi-Fi联盟',
+  'bluetooth-sig': '蓝牙SIG',
+  'usb-if': 'USB-IF',
+  'o-ran': 'O-RAN联盟',
+  regulators: '监管机构',
+  'industry-assoc': '行业协会',
+  oem: 'OEM客户',
+  foundry: '代工厂',
+  'platform-partner': '平台与生态合作伙伴',
+};

@@ -1,0 +1,23 @@
+{
+  "name": "qualcomm-news-monitor-cn",
+  "version": "1.0.0",
+  "description": "Qualcomm news monitoring in Chinese. Sources from Chinese media via RSSHub.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "bundle": "node scripts/bundle-data.cjs",
+    "serve": "npx serve site",
+    "dev": "npx serve site"
+  },
+  "dependencies": {
+    "@node-rs/jieba": "^2.0.0",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

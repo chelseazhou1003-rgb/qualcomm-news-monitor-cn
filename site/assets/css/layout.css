@@ -1,0 +1,210 @@
+/* Layout — 12-col grid, containers, responsive breakpoints */
+
+/* --- Container --- */
+.container {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+/* --- 12-col Grid --- */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: var(--col-gap);
+}
+
+/* Grid column spans */
+.col-1  { grid-column: span 1; }
+.col-2  { grid-column: span 2; }
+.col-3  { grid-column: span 3; }
+.col-4  { grid-column: span 4; }
+.col-5  { grid-column: span 5; }
+.col-6  { grid-column: span 6; }
+.col-7  { grid-column: span 7; }
+.col-8  { grid-column: span 8; }
+.col-9  { grid-column: span 9; }
+.col-10 { grid-column: span 10; }
+.col-11 { grid-column: span 11; }
+.col-12 { grid-column: span 12; }
+
+/* --- Section page layout (main + sidebar) --- */
+.section-layout {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: var(--space-8);
+  align-items: start;
+}
+
+/* --- Dashboard grid --- */
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--space-6);
+}
+
+/* --- Sticky sidebar --- */
+.sticky-sidebar {
+  position: sticky;
+  top: calc(80px + var(--space-4));
+}
+
+/* --- Header --- */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--bg);
+  border-bottom: 1px solid var(--rule);
+}
+
+.header-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: var(--space-3) var(--gutter);
+}
+
+/* Masthead row */
+.masthead {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: var(--space-2) 0;
+  border-bottom: 1px solid var(--rule-light);
+  margin-bottom: var(--space-2);
+}
+
+.masthead-left {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-3);
+}
+
+.masthead-date {
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  color: var(--ink-muted);
+}
+
+.masthead-updated {
+  font-family: var(--font-sans);
+  font-size: var(--text-xs);
+  color: var(--ink-faint);
+}
+
+/* --- Primary Nav --- */
+.primary-nav {
+  display: flex;
+  gap: var(--space-1);
+  overflow-x: auto;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.primary-nav::-webkit-scrollbar { display: none; }
+
+.primary-nav a {
+  padding: var(--space-2) var(--space-3);
+  border-radius: var(--radius-sm);
+  white-space: nowrap;
+}
+
+.primary-nav a.active {
+  background: var(--surface);
+  color: var(--ink-strong);
+}
+
+/* --- Section Header --- */
+.section-header {
+  padding: var(--space-8) 0 var(--space-4);
+  border-bottom: 2px solid var(--ink);
+}
+
+.section-desc {
+  margin-top: var(--space-2);
+  color: var(--ink-muted);
+  font-size: var(--text-sm);
+}
+
+/* --- Page content --- */
+.page-content {
+  padding: var(--space-6) 0 var(--space-16);
+}
+
+/* --- Footer --- */
+.site-footer {
+  border-top: 1px solid var(--rule);
+  padding: var(--space-8) 0;
+  margin-top: var(--space-16);
+}
+
+.footer-inner {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+/* --- Spacing utilities --- */
+.mt-2 { margin-top: var(--space-2); }
+.mt-4 { margin-top: var(--space-4); }
+.mt-6 { margin-top: var(--space-6); }
+.mt-8 { margin-top: var(--space-8); }
+.mb-4 { margin-bottom: var(--space-4); }
+.mb-6 { margin-bottom: var(--space-6); }
+.mb-8 { margin-bottom: var(--space-8); }
+.pt-4 { padding-top: var(--space-4); }
+.pb-8 { padding-bottom: var(--space-8); }
+.py-4 { padding: var(--space-4) 0; }
+.px-4 { padding: 0 var(--space-4); }
+
+/* --- Divider --- */
+.divider {
+  border: none;
+  border-top: 1px solid var(--rule-light);
+  margin: var(--space-6) 0;
+}
+
+.divider-thick {
+  border: none;
+  border-top: 1px solid var(--rule);
+  margin: var(--space-6) 0;
+}
+
+/* --- Responsive --- */
+@media (max-width: 1024px) {
+  .section-layout {
+    grid-template-columns: 1fr;
+  }
+  .sticky-sidebar {
+    position: static;
+  }
+  .dashboard-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 640px) {
+  .container {
+    padding: 0 var(--space-4);
+  }
+  .masthead {
+    flex-direction: column;
+    gap: var(--space-1);
+  }
+  .dashboard-grid {
+    grid-template-columns: 1fr;
+  }
+  .primary-nav {
+    gap: 0;
+  }
+  .primary-nav a {
+    padding: var(--space-2) var(--space-2);
+  }
+  .section-title {
+    font-size: var(--text-2xl);
+  }
+  .section-header {
+    padding: var(--space-4) 0 var(--space-3);
+  }
+}

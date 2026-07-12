@@ -1,0 +1,22 @@
+// Custom dictionary for jieba — Qualcomm-specific terms not in default dictionary
+// Format: word frequency part-of-speech
+// Higher frequency = more likely to be segmented as a single word
+
+骁龙 999999 nz
+安蒙 999999 nr
+数字座舱 99999 n
+端侧AI 99999 n
+边缘AI 99999 n
+车规级 99999 n
+交叉许可 99999 n
+专利池 99999 n
+先进封装 99999 n
+空间计算 99999 n
+具身智能 99999 n
+人形机器人 99999 n
+芯片禁令 99999 n
+技术冷战 99999 n
+双重用途 99999 n
+市场支配地位 99999 n
+ Dragonwing 99999 nz
+ Dragonfly 99999 nz

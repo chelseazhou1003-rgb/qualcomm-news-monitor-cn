@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="高通新闻监控（中文版）— 从国内主流媒体聚合高通相关报道，每小时自动更新。">
+  <title>高通新闻监控</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body>
+
+  <!-- ========== 头部导航 ========== -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="masthead">
+        <div class="masthead-left">
+          <a href="#/" class="masthead-title" style="color:inherit;text-decoration:none;">高通监控</a>
+          <span class="masthead-date" id="masthead-date"></span>
+        </div>
+        <span class="masthead-updated" id="masthead-updated">每小时自动更新 (北京时间)</span>
+        <button class="hamburger" id="hamburger" aria-label="菜单">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+      <nav class="primary-nav" id="primary-nav">
+        <a href="#/" class="nav-link" data-route="/">首页</a>
+        <a href="#/core-businesses" class="nav-link" data-route="/core-businesses">核心业务</a>
+        <a href="#/ip-legal" class="nav-link" data-route="/ip-legal">知识产权与法律</a>
+        <a href="#/growth-areas" class="nav-link" data-route="/growth-areas">增长领域</a>
+        <a href="#/macro-environment" class="nav-link" data-route="/macro-environment">宏观环境</a>
+        <a href="#/competitors" class="nav-link" data-route="/competitors">竞争对手</a>
+        <a href="#/stakeholders" class="nav-link" data-route="/stakeholders">利益相关方</a>
+        <a href="#/about" class="nav-link" data-route="/about">关于</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ========== 动态内容区 ========== -->
+  <main class="container page-content" id="app-content">
+    <div class="section-header" style="border-bottom:2px solid var(--ink);">
+      <h1 class="section-title">今日简报</h1>
+      <p class="body-text section-desc" id="total-articles">加载中...</p>
+    </div>
+    <div class="mt-8">
+      <div class="dashboard-grid" id="dashboard-grid">
+        <div class="dashboard-card skeleton-card-holder" style="height:180px;"></div>
+        <div class="dashboard-card skeleton-card-holder" style="height:180px;"></div>
+        <div class="dashboard-card skeleton-card-holder" style="height:180px;"></div>
+        <div class="dashboard-card skeleton-card-holder" style="height:180px;"></div>
+        <div class="dashboard-card skeleton-card-holder" style="height:180px;"></div>
+        <div class="dashboard-card skeleton-card-holder" style="height:180px;"></div>
+      </div>
+    </div>
+  </main>
+
+  <!-- ========== 页脚 ========== -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="grid">
+        <div class="col-6">
+          <p class="body-sm"><strong>高通新闻监控（中文版）</strong></p>
+          <p class="body-xs mt-2">从国内主流媒体聚合高通相关报道，每小时自动更新。所有内容链接至原始来源。</p>
+          <div class="source-list" style="margin-top:var(--space-4);">
+            <p class="body-xs"><strong>来源媒体列表：</strong>36氪、虎嗅、爱范儿、IT之家、钛媒体、量子位、智东西、新浪科技、腾讯科技、第一财经、财新网、界面新闻、21世纪经济报道、证券时报、爱集微、半导体行业观察、C114通信网、通信世界、新华网、人民网、环球网、百家号。</p>
+          </div>
+        </div>
+        <div class="col-3">
+          <p class="body-xs" style="font-weight:600;margin-bottom:var(--space-1);">板块</p>
+          <a href="#/core-businesses" class="nav-link body-xs" style="display:block;padding:2px 0;">核心业务</a>
+          <a href="#/ip-legal" class="nav-link body-xs" style="display:block;padding:2px 0;">知识产权与法律</a>
+          <a href="#/growth-areas" class="nav-link body-xs" style="display:block;padding:2px 0;">增长领域</a>
+        </div>
+        <div class="col-3">
+          <p class="body-xs" style="font-weight:600;margin-bottom:var(--space-1);">&nbsp;</p>
+          <a href="#/macro-environment" class="nav-link body-xs" style="display:block;padding:2px 0;">宏观环境</a>
+          <a href="#/competitors" class="nav-link body-xs" style="display:block;padding:2px 0;">竞争对手</a>
+          <a href="#/stakeholders" class="nav-link body-xs" style="display:block;padding:2px 0;">利益相关方</a>
+          <a href="#/about" class="nav-link body-xs" style="display:block;padding:2px 0;">关于</a>
+        </div>
+      </div>
+      <div class="divider"></div>
+      <p class="body-xs">通过 RSSHub 和原生 RSS 自动聚合公开新闻源。本站与高通公司无任何隶属关系。</p>
+    </div>
+  </footer>
+
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

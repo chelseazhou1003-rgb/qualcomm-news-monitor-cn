@@ -1,0 +1,6 @@
+node_modules/
+site/data/*.json
+site/data/data.js
+!site/data/.gitkeep
+.env
+*.log
