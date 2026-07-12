@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-12",
+  "generatedAt": "2026-07-12T21:06:32.890Z",
+  "section": "core-businesses",
+  "sectionTitle": "核心业务",
+  "count": 1,
+  "articles": [
+    {
+      "title": "芒米 Air Y 系列掌机公布：竖版造型、高通芯片，预计 7 月 30 日发售",
+      "description": "IT之家 7 月 12 日消息，据科技媒体 Notebookcheck 昨天报道，芒米 Air Y 系列掌机现已公布，新机主打竖版造型，拥有标准版和 Pro 版两个型号。\n\n据介绍，芒米 Air Y 标准版将采用黑色外观，配备十字键、ABXY 按键和单摇杆，机身左侧带有橙色按键、滚轮，以及一颗黑色按键。而 Air Y Pro 的外观则是改为米色，其他与标准版大致相同，但拥有对称的双摇杆。\nIT之家从原报道获悉，这两款掌机都将搭载高通芯片、运行 Android 系统，具体规格暂未公布，预计将在 7 月 30 日开启预售。",
+      "content": "<p data-vmark=\"28dd\">IT之家 7 月 12 日消息，据科技媒体 Notebookcheck 昨天报道，芒米 Air Y 系列掌机现已公布，<strong>新机主打竖版造型</strong>，<strong>拥有标准版和 Pro 版两个型号</strong>。</p><p data-vmark=\"ad14\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/65e310e7-dca1-4f30-803b-ca0b24dc0ff8.jpg\" w=\"1000\" h=\"1000\" data-weibo=\"0\" data-vmark=\"3662\"></p><p data-vmark=\"1918\">据介绍，芒米 Air Y 标准版将采用黑色外观，配备十字键、ABXY 按键和单摇杆，机身左侧带有橙色按键、滚轮，以及一颗黑色按键。而 Air Y Pro 的外观则是改为米色，其他与标准版大致相同，但拥有对称的双摇杆。</p><p data-vmark=\"60e3\">IT之家从原报道获悉，这两款掌机都将搭载高通芯片、运行 Android 系统，具体规格暂未公布，预计将在 7 月 30 日开启预售。</p>",
+      "url": "https://www.ithome.com/0/975/739.htm",
+      "link": "https://www.ithome.com/0/975/739.htm",
+      "pubDate": "Sun, 12 Jul 2026 07:38:05 GMT",
+      "isoDate": "2026-07-12T07:38:05.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 3,
+      "crossTags": []
+    }
+  ]
+}

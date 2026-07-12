@@ -1,0 +1,156 @@
+[
+  {
+    "id": "36kr",
+    "name": "36氪",
+    "group": "tech",
+    "groupLabel": "科技媒体",
+    "feedType": "原生RSS"
+  },
+  {
+    "id": "huxiu",
+    "name": "虎嗅",
+    "group": "tech",
+    "groupLabel": "科技媒体",
+    "feedType": "原生RSS"
+  },
+  {
+    "id": "ifanr",
+    "name": "爱范儿",
+    "group": "tech",
+    "groupLabel": "科技媒体",
+    "feedType": "原生RSS"
+  },
+  {
+    "id": "ithome",
+    "name": "IT之家",
+    "group": "tech",
+    "groupLabel": "科技媒体",
+    "feedType": "原生RSS"
+  },
+  {
+    "id": "tmtpost",
+    "name": "钛媒体",
+    "group": "tech",
+    "groupLabel": "科技媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "qbitai",
+    "name": "量子位",
+    "group": "tech",
+    "groupLabel": "科技媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "zhidx",
+    "name": "智东西",
+    "group": "tech",
+    "groupLabel": "科技媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "sina-tech",
+    "name": "新浪科技",
+    "group": "tech",
+    "groupLabel": "科技媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "tencent-tech",
+    "name": "腾讯科技",
+    "group": "tech",
+    "groupLabel": "科技媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "yicai",
+    "name": "第一财经",
+    "group": "finance",
+    "groupLabel": "财经媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "caixin",
+    "name": "财新网",
+    "group": "finance",
+    "groupLabel": "财经媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "jiemian",
+    "name": "界面新闻",
+    "group": "finance",
+    "groupLabel": "财经媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "21caijing",
+    "name": "21世纪经济报道",
+    "group": "finance",
+    "groupLabel": "财经媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "stcn",
+    "name": "证券时报",
+    "group": "finance",
+    "groupLabel": "财经媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "ijiwei",
+    "name": "爱集微",
+    "group": "semiconductor",
+    "groupLabel": "半导体行业",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "semiinsights",
+    "name": "半导体行业观察",
+    "group": "semiconductor",
+    "groupLabel": "半导体行业",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "c114",
+    "name": "C114通信网",
+    "group": "telecom",
+    "groupLabel": "通信行业",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "txworld",
+    "name": "通信世界",
+    "group": "telecom",
+    "groupLabel": "通信行业",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "xinhuanet",
+    "name": "新华网",
+    "group": "official",
+    "groupLabel": "官方媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "people",
+    "name": "人民网",
+    "group": "official",
+    "groupLabel": "官方媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "huanqiu",
+    "name": "环球网",
+    "group": "official",
+    "groupLabel": "官方媒体",
+    "feedType": "RSSHub"
+  },
+  {
+    "id": "baijiahao",
+    "name": "百家号",
+    "group": "platform",
+    "groupLabel": "内容平台",
+    "feedType": "RSSHub"
+  }
+]
