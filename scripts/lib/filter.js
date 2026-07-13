@@ -4,7 +4,7 @@
 // 2. Contains CONDITIONAL_KEYWORDS + Qualcomm brand → pass
 // 3. Contains GEOPOLITICAL_KEYWORDS → pass with geopoliticalBypass flag (restricted to Macro in tag.js)
 
-import { QUALCOMM_KEYWORDS, CONDITIONAL_KEYWORDS, GEOPOLITICAL_KEYWORDS } from '../config/keywords.js';
+import { QUALCOMM_KEYWORDS, CONDITIONAL_KEYWORDS, GEOPOLITICAL_KEYWORDS, GEOPOLITICAL_CONTEXT_KEYWORDS } from '../config/keywords.js';
 import { containsKeyword } from './jieba-helper.js';
 
 /**
@@ -43,9 +43,11 @@ export function filterQualcommRelevant(articles) {
     }
 
     // Path 3: Geopolitical bypass — no Qualcomm needed, but restricted to Macro section
+    // Requires BOTH a geopolitical keyword AND a secondary context keyword (semiconductor/tech policy)
     const hasGeopolitical = GEOPOLITICAL_KEYWORDS.some(kw => containsKeyword(text, kw));
+    const hasGeoContext = GEOPOLITICAL_CONTEXT_KEYWORDS.some(kw => containsKeyword(text, kw));
 
-    if (hasGeopolitical) {
+    if (hasGeopolitical && hasGeoContext) {
       // Mark for Macro-only restriction in tag.js
       article.geopoliticalBypass = true;
       passed.push(article);

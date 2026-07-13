@@ -19,6 +19,9 @@ export const CONDITIONAL_KEYWORDS = [
 
 // === Geopolitical bypass keywords — articles pass filter without Qualcomm mention ===
 // These articles are restricted to Macro section only (see tag.js)
+// NOTE: Some geopolitical keywords (制裁, 中美) are too broad and can match non-semiconductor articles.
+// To prevent false positives, the bypass also requires a SECONDARY context keyword
+// confirming the article is actually about semiconductor/tech policy.
 export const GEOPOLITICAL_KEYWORDS = [
   '出口管制',
   '制裁',
@@ -36,6 +39,26 @@ export const GEOPOLITICAL_KEYWORDS = [
   '进口禁令',
   '双重用途',
   'CHIPS Act',
+];
+
+// Secondary context keywords required for geopolitical bypass to activate.
+// Prevents false positives from non-semiconductor articles that happen to mention
+// broad terms like "中美" or "制裁" (e.g., AI industry articles).
+export const GEOPOLITICAL_CONTEXT_KEYWORDS = [
+  '芯片',
+  '半导体',
+  '出口管制',
+  'BIS',
+  '实体清单',
+  '技术出口',
+  '技术封锁',
+  '科技战',
+  '芯片战',
+  '卡脖子',
+  '技术禁令',
+  '晶圆',
+  '处理器',
+  'SoC',
 ];
 
 // === Competitor keywords — only Apple and Huawei, both require IP/Patent/SEP co-occurrence ===

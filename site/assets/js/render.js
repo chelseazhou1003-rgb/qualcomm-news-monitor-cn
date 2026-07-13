@@ -52,7 +52,22 @@ const GROUP_LABELS_CN = {
   platform: '内容平台',
 };
 
-// 渲染单篇文章卡片
+// 截断过长摘要，避免显示全文
+function truncateSummary(text, maxLen = 300) {
+  if (!text || text.length <= maxLen) return text;
+  // 尝试在句号、问号、感叹号或换行处截断
+  const truncated = text.substring(0, maxLen);
+  const breakPoint = Math.max(
+    truncated.lastIndexOf('。'),
+    truncated.lastIndexOf('？'),
+    truncated.lastIndexOf('！'),
+    truncated.lastIndexOf('\n'),
+  );
+  if (breakPoint > maxLen * 0.5) {
+    return truncated.substring(0, breakPoint + 1) + '...';
+  }
+  return truncated + '...';
+}
 export function renderArticleCard(article) {
   const timeDisplay = article.publishedAt ? formatTimeAgo(article.publishedAt) : '';
   const groupLabel = GROUP_LABELS_CN[article.sourceGroup] || article.sourceGroup || '';
@@ -85,7 +100,7 @@ export function renderArticleCard(article) {
       <a href="${escapeHtml(article.url || '#')}" target="_blank" rel="noopener" class="article-headline-link">
         <h3 class="article-headline">${escapeHtml(article.title || '')}</h3>
       </a>
-      ${article.summary ? `<p class="article-summary">${escapeHtml(article.summary)}</p>` : ''}
+      ${article.summary ? `<p class="article-summary">${escapeHtml(truncateSummary(article.summary))}</p>` : ''}
       ${tagsHtml}
       <a href="${escapeHtml(article.url || '#')}" target="_blank" rel="noopener" class="read-original">阅读原文 — ${escapeHtml(article.source || '')}</a>
     </article>
