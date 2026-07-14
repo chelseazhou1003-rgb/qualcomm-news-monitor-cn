@@ -1,8 +1,96 @@
 {
   "date": "2026-07-14",
-  "generatedAt": "2026-07-14T14:00:34.134Z",
+  "generatedAt": "2026-07-14T20:00:15.338Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 0,
-  "articles": []
+  "count": 4,
+  "articles": [
+    {
+      "title": "联想拯救者 Y700 无极平板电脑规格 / 外观谍照曝光：8 英寸级 OLED 高刷面板、后置 50Mp 单摄",
+      "description": "IT之家 7 月 14 日消息，博主 @数码闲聊站 发文，曝光了将于 8 月（下月）发布的 Y700 无极平板电脑部分规格信息及产品外观谍照。\n参考其描述，该机配备一块 8 英寸级 OLED 高刷面板，匹配居中单孔摄像头；平板背面搭载 50Mp 单摄，带有 RGB 灯效。同时平板电脑支持插卡，支持 5G 无线网络 N79 频段，预计起步价“5K 档”。\n\n综合IT之家先前报道，Y700 无极平板电脑还将配备支持 10667MT/s 传输速率的 LPDDR5T 内存和 UFS 4.1 Pro 存储。配备高通第五代骁龙 8 至尊领先版 (8 Elite Gen 5 Leading Version)，处理器 CPU 最高主频可达 4.74GHz。",
+      "content": "<p style=\"text-align: left;\" data-vmark=\"7a45\">IT之家 7 月 14 日消息，博主 @数码闲聊站 发文，曝光了将于 8 月（下月）发布的 Y700 无极平板电脑部分规格信息及产品外观谍照。</p><p style=\"text-align: left;\" data-vmark=\"992d\">参考其描述，该机配备一块 8 英寸级 OLED 高刷面板，匹配居中单孔摄像头；平板背面搭载 50Mp 单摄，带有 RGB 灯效。同时平板电脑支持插卡，支持 5G 无线网络 N79 频段，预计起步价“5K 档”。</p><p style=\"text-align: center;\" data-vmark=\"cd8a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/794b28e4-7eaa-473e-af9d-12970af6143d.jpg?x-bce-process=image/format,f_auto\" w=\"772\" h=\"1070\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"1737\" class=\"no-alt-img\"></p><p data-vmark=\"9e54\">综合IT之家先前报道，Y700 无极平板电脑还将配备支持 10667MT/s 传输速率的 LPDDR5T 内存和 UFS 4.1 Pro 存储。配备高通第五代骁龙 8 至尊领先版 (8 Elite Gen 5 Leading Version)，处理器 CPU 最高主频可达 4.74GHz。</p>",
+      "url": "https://www.ithome.com/0/976/716.htm",
+      "link": "https://www.ithome.com/0/976/716.htm",
+      "pubDate": "Tue, 14 Jul 2026 11:53:59 GMT",
+      "isoDate": "2026-07-14T11:53:59.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "tagScore": 2,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "1299 元起：小米 REDMI Note 17 标准版手机发布，第四代骁龙 4 芯片、7 英寸 OLED 护眼屏",
+      "description": "IT之家 7 月 14 日消息，小米今天宣布推出 REDMI Note 17 标准版手机，新机主打“大屏、大电量”，拥有 OLED 旗舰屏、长续航、AI 反诈等特性，定价 1299 元起。\n\nIT之家附该机各版本售价如下：\n\n6GB+128GB：1299 元\n\n8GB+128GB：1399 元\n\n8GB+256GB：1599 元\n\n京东小米（MI）REDMI Note 17 手机 1299 元直达链接\n据介绍，这款手机搭载 REDMI 首款 7 英寸超大 OLED 屏，分辨率为 2396*1080，支持 120Hz 高刷，峰值亮度可达 1800nits，覆盖 DCI-P3 广色域，对比度可达 500 万:1。瞬时触控采样率可达 2160Hz，支持屏下指纹识别、手套模式。\n\n\n规格方面，这款手机配备 8000mAh 金沙江电池，能量密度提升至 821Wh/L，号称可实现“两天一充”。支持 45W 有线快充、22.5W 有线反向充电，可作为便携充电宝使用，1600 次长寿命循环≥80%。\n\n\n同时，这款手机提供黑色、浅水青和流星紫三种配色可选，搭载第四代骁龙 4 移动平台，采用 4nm 制程工艺，可在高清画质下畅玩主流 MOBA 游戏。支持多功能 NFC、红外遥控以及 microSD 卡扩容。\n\n软件方面，这款手机拥有 AI 全链路反诈功能。可通过真实案例训练的模型，识别、提示、拦截剧本诈骗电话，还能够识别 AI 换脸视频通话，自动弹窗提醒。首发银行卡防盗刷技术，三层防护覆盖完整链路。支持远程协助完成杀毒、系统优化、软件卸载，还能够实时同步长辈位置信息。",
+      "content": "<p data-vmark=\"4fa0\">IT之家 7 月 14 日消息，小米今天宣布推出 REDMI Note 17 标准版手机，新机主打“大屏、大电量”，拥有 OLED 旗舰屏、长续航、AI 反诈等特性，<strong>定价 1299 元起</strong>。</p><p style=\"text-align: center;\" data-vmark=\"79ee\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/06d6032f-6815-49da-9fb0-6b06e51ff056.jpg?x-bce-process=image/format,f_auto\" w=\"701\" h=\"1126\" data-weibo=\"0\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d141e01ea8d14b74513e894120589d8da8dbe4fe262615e1f720615df742e1282c5d22053e29190a41\" data-vmark=\"872c\"></p><p data-vmark=\"309f\">IT之家附该机各版本售价如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5a72\">6GB+128GB：1299 元</p></li><li><p data-vmark=\"c2e6\">8GB+128GB：1399 元</p></li><li><p data-vmark=\"2f83\">8GB+256GB：1599 元</p></li></ul><dir><a contenteditable=\"false\" href=\"https://u.jd.com/9DsVWJo\" target=\"_blank\" data-wapurl=\"https://u.jd.com/9gs7HWT\" data-iosurl=\"https://u.jd.com/9rsB6Gf\" data-androidurl=\"https://u.jd.com/9Os5Ypy\" data-hosnexturl=\"https://u.jd.com/9asRvIk\" data-hosurl=\"https://u.jd.com/9as9U8N\" data-uwpurl=\"https://u.jd.com/9Gsmxad\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f9aseF7G%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/9gs7Z09\" data-lpwxurl=\"https://u.jd.com/9Gs92TE\"   data-ncid=\"199008\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/479894/2/5775/32514/6a55e493F63d249c0/008332032042408c.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">小米（MI）REDMI Note 17 手机</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1299 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"538d\">据介绍，这<strong>款手机搭载 REDMI 首款 7 英寸超大 OLED 屏</strong>，<strong>分辨率为 2396*1080</strong>，支持 120Hz 高刷，峰值亮度可达 1800nits，覆盖 DCI-P3 广色域，对比度可达 500 万:1。瞬时触控采样率可达 2160Hz，支持屏下指纹识别、手套模式。</p><p style=\"text-align: center;\" data-vmark=\"f4dc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/79be47be-2e87-48fc-9235-eeda35d57395.jpg?x-bce-process=image/format,f_auto\" w=\"689\" h=\"1373\" data-weibo=\"1\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1b82b66c8c08f1ff404a1709d0a0e44bb14fae66ef0de1318b9efc8a073ab308233dc921a27e07e38\" data-vmark=\"eff0\"></p><p style=\"text-align: center;\" data-vmark=\"36c1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/4f521b4b-5c39-4455-b7bb-7690300c7f8c.jpg?x-bce-process=image/format,f_auto\" w=\"653\" h=\"1139\" data-weibo=\"2\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1ca2452f4e6a13cc79a0b01e5ed1d6309f91ac644ba5afff6625b5ba08afcf596d7145426f3c1b3cf\" data-vmark=\"03a9\"></p><p data-vmark=\"4518\">规格方面，这款手机配备 8000mAh 金沙江电池，能量密度提升至 821Wh/L，号称可实现“两天一充”。支持 45W 有线快充、22.5W 有线反向充电，可作为便携充电宝使用，1600 次长寿命循环≥80%。</p><p style=\"text-align: center;\" data-vmark=\"bb97\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/b432d759-ca16-4d68-9a0c-8b6cb2617f64.jpg?x-bce-process=image/format,f_auto\" w=\"719\" h=\"1251\" data-weibo=\"3\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d111d777fb2d8e232f8c16fa8e6a31a6343effbad34f80acdba9f94eb7b2e61975a52755faaefef666\" data-vmark=\"db74\"></p><p style=\"text-align: center;\" data-vmark=\"d9ec\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/9d46bbd6-9241-4cd9-97bf-8645e8968979.jpg?x-bce-process=image/format,f_auto\" w=\"719\" h=\"1346\" data-weibo=\"4\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d19f2acb5f86d21032d49eb371f1ecffe49977ed6899df92eb097cced4cbe08c3d57a8169fa9112b80\" data-vmark=\"0066\"></p><p data-vmark=\"0819\">同时，这款手机提供黑色、浅水青和流星紫三种配色可选，搭载第四代骁龙 4 移动平台，采用 4nm 制程工艺，<strong>可在高清画质下畅玩主流 MOBA 游戏</strong>。<strong>支持多功能 NFC</strong>、<strong>红外遥控以及 microSD 卡扩容</strong>。</p><p style=\"text-align: center;\" data-vmark=\"d01c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/741bd463-ac72-48ac-8c28-4b0efc72469f.jpg?x-bce-process=image/format,f_auto\" w=\"719\" h=\"768\" data-weibo=\"5\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1305d6abe48e66668670e825b895546671ef5dab366f88b91856f565ab6bdbfc5049eda0f2f5de1f7\" data-vmark=\"ab03\"></p><p data-vmark=\"eec0\">软件方面，<strong>这款手机拥有 AI 全链路反诈功能</strong>。可通过真实案例训练的模型，识别、提示、拦截剧本诈骗电话，还能够识别 AI 换脸视频通话，自动弹窗提醒。首发银行卡防盗刷技术，三层防护覆盖完整链路。支持远程协助完成杀毒、系统优化、软件卸载，还能够实时同步长辈位置信息。</p><p style=\"text-align: center;\" data-vmark=\"1db1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/c29d6020-cb0a-47eb-919a-4e4bc40650d6.jpg?x-bce-process=image/format,f_auto\" w=\"663\" h=\"1851\" data-weibo=\"6\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d1483a234f992c3c9fa2e37e7a93db4e50f7ff23f6dfa7eece0dc155085263443c096e11b4e8056ae1\" data-vmark=\"73dd\"></p><p style=\"text-align: center;\" data-vmark=\"ddee\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/ce202799-efd3-422f-992b-bcf7d0684d27.jpg?x-bce-process=image/format,f_auto\" w=\"674\" h=\"1754\" data-weibo=\"7\" data-mpos=\"2,0\"  data-vmark=\"d15d\"></p>",
+      "url": "https://www.ithome.com/0/976/714.htm",
+      "link": "https://www.ithome.com/0/976/714.htm",
+      "pubDate": "Tue, 14 Jul 2026 11:47:16 GMT",
+      "isoDate": "2026-07-14T11:47:16.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 22,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "小米 REDMI Note 17 Pro 手机发布：9000mAh 电池、骁龙 6s Gen 4 处理器，1599 元起",
+      "description": "IT之家 7 月 14 日消息，在今天的发布会中，小米 REDMI Note 17 Pro 手机正式发布，定价为 1599 元起。\n\n8GB RAM + 128GB 存储空间：1599 元\n\n8GB RAM + 256GB 存储空间：1899 元，首发价 1699 元\n\n12GB RAM + 256GB 存储空间：2199 元，首发价 1999 元\n\n8GB RAM + 512GB 存储空间：2299 元，首发价 2099 元\n\n京东小米 REDMI Note 17 Pro 手机 1599 元起直达链接\n\n该机提供晴空蓝、星云紫、黑色、白色四种配色可选，厚度 8.46mm，重量 226g，拥有 IP66/IP68/IP69/IP69K 认证。\n\n\n手机正面配备一块 6.83 英寸 1.5K 分辨率面板（峰值亮度 3500 尼特，支持小米青山护眼，可低至 1nit 暗光护眼）。侧面采用四微曲包裹式中框；手机背面采用矩形相机模组，匹配 50Mp 主摄。\n\n\n该机搭载高通骁龙 6s Gen 4 处理器，内置 9000mAh 电池（支持 67W 有线充电 +22.5W 有线反充），首销免费送五年电池升级保，四年内电池健康度低于 80%，免费换电池，第五年健康度低于 80%，可免费升级大电池。",
+      "content": "<p data-vmark=\"b5f6\">IT之家 7 月 14 日消息，在今天的发布会中，小米 REDMI Note 17 Pro 手机正式发布，定价为 1599 元起。</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"1adf\">8GB RAM + 128GB 存储空间：1599 元</p></li><li><p data-vmark=\"b36a\">8GB RAM + 256GB 存储空间：1899 元，首发价 1699 元</p></li><li><p data-vmark=\"9522\">12GB RAM + 256GB 存储空间：2199 元，首发价 1999 元</p></li><li><p data-vmark=\"c2f8\">8GB RAM + 512GB 存储空间：2299 元，首发价 2099 元</p></li></ul><dir><a contenteditable=\"false\" href=\"https://u.jd.com/9GsZE47\" target=\"_blank\" data-wapurl=\"https://u.jd.com/9asVCmz\" data-iosurl=\"https://u.jd.com/9asUmbX\" data-androidurl=\"https://u.jd.com/9DsBH1J\" data-hosnexturl=\"https://u.jd.com/9GslXXM\" data-hosurl=\"https://u.jd.com/9OsROJo\" data-uwpurl=\"https://u.jd.com/9GsSlvm\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252f96spTel%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/91sAwiO\" data-lpwxurl=\"https://u.jd.com/9OsHPLW\"   data-ncid=\"198998\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/476283/10/5441/44548/6a4ce21aFff0afa45/0083320320302b67.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">小米 REDMI Note 17 Pro 手机</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 1599 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"d6c9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/abf27f5a-fa4e-41c2-8c64-2570993028a6.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"620\" data-weibo=\"0\" data-vmark=\"8a5b\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d15a0406f9a5232f60ee23a6cf175fc1ad530523babdfa0508e56e881529d4506f4dcbd41b6eeb16fe\"></p><p data-vmark=\"1437\">该机提供晴空蓝、星云紫、黑色、白色四种配色可选，厚度 8.46mm，重量 226g，拥有 IP66/IP68/IP69/IP69K 认证。</p><p data-vmark=\"497c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/bec188b9-ae6f-4425-920d-108c88fbd6d6.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"639\" data-weibo=\"1\" data-vmark=\"3016\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d114b42a380aec2041ce3bb7f1415b361129957764d26395dd162a668e4523a8f3ede118dc3e9b3677\"></p><p data-vmark=\"d399\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/210844b0-ddcb-4bf9-8db8-941c53ab93ac.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"607\" data-weibo=\"2\" data-vmark=\"5d9d\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1b48b750af1935d70eb135f52a0f1e599bbd140473dfcef7057f018b01d926e398bf174231a8aca29\"></p><p data-vmark=\"ba00\">手机正面配备一块 6.83 英寸 1.5K 分辨率面板（峰值亮度 3500 尼特，支持小米青山护眼，可低至 1nit 暗光护眼）。侧面采用四微曲包裹式中框；手机背面采用矩形相机模组，匹配 50Mp 主摄。</p><p data-vmark=\"3b79\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/9aa40029-6e33-44d5-8a2b-af2f7b22ace8.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"614\" data-weibo=\"3\" data-vmark=\"0d47\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1114ad78090c101d80b0e25c1b3114836078d82b44b90cd6d672b26e662e157061b8eed912fdf632e\"></p><p data-vmark=\"4b80\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/fb6a8f62-9b9d-4f42-a249-95e70cb0fac4.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"644\" data-weibo=\"4\" data-vmark=\"18ae\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d15a912505e44cfc8b37a06df3408bd6fb74bf364d3d1bf7f6b094eb41ed0208a2cdf5913718b93c1a\"></p><p data-vmark=\"e0d8\">该机搭载高通骁龙 6s Gen 4 处理器，内置 9000mAh 电池（支持 67W 有线充电 +22.5W 有线反充），首销免费送五年电池升级保，四年内电池健康度低于 80%，免费换电池，第五年健康度低于 80%，可免费升级大电池。</p><p data-vmark=\"cb3e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/67d2fede-140c-45a8-af16-11f868b15401.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"643\" data-weibo=\"5\" data-vmark=\"2463\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d16ef7d8145d39e730da16ca81eab7f5edc49295e22c3e0dbe3b27c67b566bba89cee65c74e1cc29bf\"></p><p data-vmark=\"e025\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/f2962001-778b-41eb-88b4-ed88bc1a6cb9.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"667\" data-weibo=\"6\" data-vmark=\"38b6\" data-mpos=\"2,0\" ></p>",
+      "url": "https://www.ithome.com/0/976/707.htm",
+      "link": "https://www.ithome.com/0/976/707.htm",
+      "pubDate": "Tue, 14 Jul 2026 11:21:12 GMT",
+      "isoDate": "2026-07-14T11:21:12.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 9,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "“一代人才能遇到一次的重大机遇”，韩国为何设立“未来应对基金”",
+      "description": "“未来应对基金” 将定向注资四大战略方向：年轻一代发展、未来增长引擎培育、区域均衡发展以及高端人才培养。\n这是“一代人才能遇到一次的重大机遇”，面对当前AI产业周期带来的超级红利，韩国企划财政部部长朴洪根13日如是表示。\n当天韩国总统李在明宣布，将设立“未来应对基金”，把超额税收收入引导至生产性未来投资。同时，政府的支持引导将转向芯片、AI数据中心和物理AI三大巨型项目。\n14日，韩国政府公布半年度经济政策计划。该计划将韩国今年经济增长预期从之前的2%大幅上调至3%，这将是韩国过去五年来最高经济增速；同时韩国政府承诺，将继续加快人工智能投资，以增强韩国经济表现。\n如何留住并利用好AI带来的红利，是当前韩国社会热议的话题之一。就在5月中旬，韩国总统府政策室长金容范（Kim Yong-beom）就提出，应考虑利用AI产业产生的超额税收，设立所谓的“公民红利”，通过制度性安排将红利回馈给全体民众。他援引历史，尤其强调“韩国在2021至2022年的芯片产业周期中也产生过超额税收，但当时并无预先设计的原则，最终被零散消耗。”\n\n“未来应对基金”\n朴洪根在13日的年度财政战略会议上还表示，鉴于半导体及人工智能产业的强劲表现，韩国政府已将2027年国家税收收入预估由此前的412.1万亿韩元大幅上调至500万亿韩元（约合3316亿美元）。\n韩国政府此前推出了总额超过800万亿韩元的2027财年预算案，这一规模不仅远高于今年727.9万亿韩元的预算水平，也将创下韩国历史上最大规模的财政支出纪录。\n根据韩国政府的介绍，作为财政战略的核心，“未来应对基金”将负责管理和调配超出长期趋势水平的超额税收收入。该基金将定向注资四大战略方向：年轻一代发展、未来增长引擎培育、区域均衡发展以及高端人才培养。\n朴洪根补充称，为了优化财政结构，韩国政府还将同步推进既有财政支出项目的调整与重组，以双轮驱动的方式创造更多财政空间。\n本月早些时候，韩国政府与企业联合公布了约6020万亿韩元（约合27.13万亿元人民币）的投资计划。\n韩国学者金允俊告诉第一财经记者，设立“未来应对基金”本质上就是试图通过二次分配缓解韩国社会贫富不均的矛盾，为高速增长的AI产业争取更广泛的社会支持。\n对于“未来应对基金”的设立，金允俊还表示，其实在韩国国内，大家对基金的争议还是不少，比如有声音认为应该把这笔不小的税收用于民生的改善，毕竟当前的高通胀增加了韩国普通家庭的支出压力；但也有声音认为基金的设立从长计议，尤其关注到了韩国人口方面的痛点。“未来的具体执行有待观望，毕竟涉及如何平衡企业、执政党与在野党等多方利益诉求。”他说，如果一切顺利，基金将在今年四季度正式运作。\n韩央行：本轮半导体周期与以往不同\n在韩国政府期望“留住”AI红利之际，韩国央行13日发布的一份报告显示：随着人工智能基础设施投资快速增长，全球半导体需求大幅攀升，但供应扩张速度相对缓慢。\n在这份报告发布之际，全球市场对AI产业发展的担忧不断涌现，比如，担心AI基础设施建设过度依赖债务融资、相关科技股估值过高，以及未来存储芯片可能出现供过于求等，这些担忧也在近期引发了全球科技股行情的波动。\n面对这些担忧，韩国央行强调，当前半导体景气周期尚未出现放缓迹象。报告称：“由于高带宽内存（HBM）等定制化产品正成为市场主流，半导体供应扩张速度比过去更受限制。因此，全球半导体市场预计将在相当长一段时间内保持扩张态势。”\n同时，韩国央行还认为，本轮半导体周期与以往最大的不同在于，其驱动力来自企业为迎接AI带来的产业生态变革而展开的竞争性投资，而非传统的周期性需求。\n当前，摩根大通、高盛和摩根士丹利等多家国际投资银行普遍预计，全球半导体市场至少将在明年之前继续保持强劲增长。\n上周五于纳斯达克上市的SK海力士首秀表现抢眼。SK海力士首席执行官（CEO）郭鲁正‌（Kwak Noh-jeong）称，2027年将成为存储行业历史上供应最紧张的一年，并预测即便到2030年以后，客户需求仍将持续高于公司的供应能力。他说，过去由消费电子主导的存储周期性波动已彻底结束，AI带来的永久性增量需求完全改写了行业底层逻辑。",
+      "content": "<figure><img src=\"https://imgcdn.yicai.com/uppics/images/android/yicai/b4254247-5e18-4898-8786-0242c50592a8.jpg\" alt=\"“一代人才能遇到一次的重大机遇”，韩国为何设立“未来应对基金”\" referrerpolicy=\"no-referrer\"></figure><p>“未来应对基金” 将定向注资四大战略方向：年轻一代发展、未来增长引擎培育、区域均衡发展以及高端人才培养。</p><p>这是“一代人才能遇到一次的重大机遇”，面对当前AI产业周期带来的超级红利，韩国企划财政部部长朴洪根13日如是表示。</p>\n\n<p>当天韩国总统李在明宣布，将设立“未来应对基金”，把超额税收收入引导至生产性未来投资。同时，政府的支持引导将转向芯片、AI数据中心和物理AI三大巨型项目。</p>\n\n<p>14日，韩国政府公布半年度经济政策计划。该计划将韩国今年经济增长预期从之前的2%大幅上调至3%，这将是韩国过去五年来最高经济增速；同时韩国政府承诺，将继续加快人工智能投资，以增强韩国经济表现。</p>\n\n<p>如何留住并利用好AI带来的红利，是当前韩国社会热议的话题之一。就在5月中旬，韩国总统府政策室长金容范（Kim Yong-beom）就提出，应考虑利用AI产业产生的超额税收，设立所谓的“公民红利”，通过制度性安排将红利回馈给全体民众。他援引历史，尤其强调“韩国在2021至2022年的芯片产业周期中也产生过超额税收，但当时并无预先设计的原则，最终被零散消耗。”</p>\n\n<p align=\"center\"><img align=\"\" alt=\"来源：第一财经资料图\" border=\"0\" height=\"360\" src=\"https://imgcdn.yicai.com/uppics/images/2026/07/81d03826344e4e696dee119cafe0dc12.jpg\" width=\"640\" referrerpolicy=\"no-referrer\"></p>\n\n<p><strong>“未来应对基金”</strong></p>\n\n<p>朴洪根在13日的年度财政战略会议上还表示，鉴于半导体及人工智能产业的强劲表现，韩国政府已将2027年国家税收收入预估由此前的412.1万亿韩元大幅上调至500万亿韩元（约合3316亿美元）。</p>\n\n<p>韩国政府此前推出了总额超过800万亿韩元的2027财年预算案，这一规模不仅远高于今年727.9万亿韩元的预算水平，也将创下韩国历史上最大规模的财政支出纪录。</p>\n\n<p><strong>根据韩国政府的介绍，作为财政战略的核心，“未来应对基金”将负责管理和调配超出长期趋势水平的超额税收收入。该基金将定向注资四大战略方向：年轻一代发展、未来增长引擎培育、区域均衡发展以及高端人才培养。</strong></p>\n\n<p>朴洪根补充称，为了优化财政结构，韩国政府还将同步推进既有财政支出项目的调整与重组，以双轮驱动的方式创造更多财政空间。</p>\n\n<p>本月早些时候，韩国政府与企业联合公布了约6020万亿韩元（约合27.13万亿元人民币）的投资计划。</p>\n\n<p>韩国学者金允俊告诉第一财经记者，设立“未来应对基金”本质上就是试图通过二次分配缓解韩国社会贫富不均的矛盾，为高速增长的AI产业争取更广泛的社会支持。</p>\n\n<p>对于“未来应对基金”的设立，金允俊还表示，其实在韩国国内，大家对基金的争议还是不少，比如有声音认为应该把这笔不小的税收用于民生的改善，毕竟当前的高通胀增加了韩国普通家庭的支出压力；但也有声音认为基金的设立从长计议，尤其关注到了韩国人口方面的痛点。“未来的具体执行有待观望，毕竟涉及如何平衡企业、执政党与在野党等多方利益诉求。”他说，如果一切顺利，基金将在今年四季度正式运作。</p>\n\n<p><strong>韩央行：本轮半导体周期与以往不同</strong></p>\n\n<p>在韩国政府期望“留住”AI红利之际，韩国央行13日发布的一份报告显示：随着人工智能基础设施投资快速增长，全球半导体需求大幅攀升，但供应扩张速度相对缓慢。</p>\n\n<p>在这份报告发布之际，全球市场对AI产业发展的担忧不断涌现，比如，担心AI基础设施建设过度依赖债务融资、相关科技股估值过高，以及未来存储芯片可能出现供过于求等，这些担忧也在近期引发了全球科技股行情的波动。</p>\n\n<p>面对这些担忧，韩国央行强调，当前半导体景气周期尚未出现放缓迹象。报告称：“由于高带宽内存（HBM）等定制化产品正成为市场主流，半导体供应扩张速度比过去更受限制。因此，全球半导体市场预计将在相当长一段时间内保持扩张态势。”</p>\n\n<p><strong>同时，韩国央行还认为，本轮半导体周期与以往最大的不同在于，其驱动力来自企业为迎接AI带来的产业生态变革而展开的竞争性投资，而非传统的周期性需求。</strong></p>\n\n<p>当前，摩根大通、高盛和摩根士丹利等多家国际投资银行普遍预计，全球半导体市场至少将在明年之前继续保持强劲增长。</p>\n\n<p>上周五于纳斯达克上市的SK海力士首秀表现抢眼。SK海力士首席执行官（CEO）郭鲁正‌（Kwak Noh-jeong）称，2027年将成为存储行业历史上供应最紧张的一年，并预测即便到2030年以后，客户需求仍将持续高于公司的供应能力。他说，过去由消费电子主导的存储周期性波动已彻底结束，AI带来的永久性增量需求完全改写了行业底层逻辑。</p>\n",
+      "url": "https://www.yicai.com/news/103274369.html",
+      "link": "https://www.yicai.com/news/103274369.html",
+      "pubDate": "Tue, 14 Jul 2026 09:20:26 GMT",
+      "isoDate": "2026-07-14T09:20:26.000Z",
+      "author": "潘寅茹",
+      "sourceId": "yicai",
+      "sourceName": "第一财经",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 22,
+      "crossTags": []
+    }
+  ]
 }
