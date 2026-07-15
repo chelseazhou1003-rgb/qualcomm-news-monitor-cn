@@ -1,10 +1,35 @@
 {
-  "date": "2026-07-15",
-  "generatedAt": "2026-07-15T20:06:04.329Z",
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-16T00:59:08.069Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
   "count": 4,
   "articles": [
+    {
+      "title": "消息称字节叫停第一代豆包 AI 眼镜，第二代规划全功能版和轻量版双版本、下半年上市",
+      "description": "IT之家 7 月 15 日消息，据 AR 圈消息，今年 4 月，字节原本要发布第一代豆包 AI 眼镜。产品已经走到发布前最后阶段，该项目最终被叫停。\n第二代被推迟到 2026 年下半年，而且直接拆成了两个版本 —— 一个堆满功能，一个把重量死磕到 20 多克。芯片方案也从供应链消息指向的“恒玄 BES2800 + 研极微 ISP”，换成了“高通 AR1 + 恒玄 BES2800”。\n此外，代工与供应链的合作方，也在这次推倒重来中被一并换掉。第一代基于歌尔股份的公版方案打造；到了第二代，字节将代工合作方换成了龙旗科技。\nIT之家从报道获悉，第二代规划了两个 SKU：\n\n全功能版：摄像头 + 扬声器 + 麦克风一个不少，对标 Ray-Ban Meta、乐奇 Rokid × 暴龙的无显示 AI 眼镜，以及阿里千问 G1。能拍、能打电话、能放声音，也能一直跟 AI 说话。\n\n轻量版：砍掉扬声器，只留摄像头和麦克风，目标重量压到 20 多克。\n\n消息称，Oladance 团队负责的第二代无显示豆包 AI 眼镜，上市窗口定在 2026 年下半年；第三代无显示产品预计 2027 年推出。而 PICO 团队的光波导眼镜是另一条产品线。但研发中的消费电子产品，配置、版本、发布时间都随时可能再调整。",
+      "content": "<p data-vmark=\"fc45\">IT之家 7 月 15 日消息，据 AR 圈消息，今年 4 月，字节原本要发布第一代豆包 AI 眼镜。产品已经走到发布前最后阶段，该项目最终被叫停。</p><p data-vmark=\"e8ef\">第二代被推迟到 2026 年下半年，而且直接拆成了两个版本 —— 一个堆满功能，一个把重量死磕到 20 多克。芯片方案也从供应链消息指向的“恒玄 BES2800 + 研极微 ISP”，换成了“高通 AR1 + 恒玄 BES2800”。</p><p data-vmark=\"6e25\">此外，代工与供应链的合作方，也在这次推倒重来中被一并换掉。第一代基于歌尔股份的公版方案打造；到了第二代，字节将代工合作方换成了龙旗科技。</p><p data-vmark=\"637a\">IT之家从报道获悉，第二代规划了两个 SKU：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8f97\"><strong>全功能版</strong>：摄像头 + 扬声器 + 麦克风一个不少，对标 Ray-Ban Meta、乐奇 Rokid × 暴龙的无显示 AI 眼镜，以及阿里千问 G1。能拍、能打电话、能放声音，也能一直跟 AI 说话。</p></li><li><p data-vmark=\"a222\"><strong>轻量版</strong>：砍掉扬声器，只留摄像头和麦克风，目标重量压到 20 多克。</p></li></ul><p data-vmark=\"66a3\">消息称，Oladance 团队负责的第二代无显示豆包 AI 眼镜，<strong>上市窗口定在 2026 年下半年</strong>；第三代无显示产品预计 2027 年推出。而 PICO 团队的光波导眼镜是另一条产品线。但研发中的消费电子产品，配置、版本、发布时间都随时可能再调整。</p>",
+      "url": "https://www.ithome.com/0/977/226.htm",
+      "link": "https://www.ithome.com/0/977/226.htm",
+      "pubDate": "Wed, 15 Jul 2026 13:04:14 GMT",
+      "isoDate": "2026-07-15T13:04:14.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "customers-partners",
+      "tagScore": 8,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "platform-partner"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "platform-partner"
+    },
     {
       "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
       "description": "文｜邓咏仪\n编辑｜张雨忻 杨轩\n《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。\n就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。\n公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI以及努比亚豆包手机大模型共7款服务完成备案。\n大模型浪潮来临后，端侧AI一直处于技术探索和萌芽期。此次七款手机端侧AI同日获批，是业界的重要里程碑——端侧AI不再是概念演示，进入了规模化落地阶段。\n\n△来源：网信中国\n同日，阿里巴巴向媒体确认，阿里千问将作为AI能力集成至Apple智能，覆盖iOS、iPadOS、macOS和visionOS的国行设备，用户无需切换App即可在苹果设备上体验千问的文本与图像理解、内容生成等能力。此后，阿里股价应声上涨超过5%。\n此前，国内手机厂商的端侧AI能力大多由自研模型支撑——华为有小艺、OPPO有AndesGPT、vivo有蓝心、小米有澎湃AI。而如今，阿里千问落地Apple智能、面壁智能搭载三星手机，这说明了AI模型公司正在成为手机AI能力的重要供给方——手机厂商不必事事自研，端侧模型的市场化分工正在形成。\n最早押注端侧AI的初创公司\n面壁智能2022年8月在北京成立，孵化自清华大学自然语言处理实验室。联合创始人、CEO李大海曾任知乎合伙人、CTO；联合创始人、首席科学家刘知远现任清华大学计算机系教授；联合创始人、CTO曾国洋在22岁时作为核心工程负责人，训练了中国第一个大语言模型CPM-1。\n据投资界报道，2026年上半年，面壁智能累计融资超50亿元，估值突破200亿元，成为国内端侧AI领域估值最高的独角兽。\n面壁智能也是国内最早押注端侧AI的初创公司。2023年下半年，当行业还在追赶云端大模型参数规模时，面壁智能决定全力押注端侧。这个选择在当时并不主流——做大模型的公司都在卷参数、卷算力，端侧模型被视为“做小”的边缘路线。\n面壁智能的判断基于一个核心方法论：知识密度。2024年，面壁智能与清华大学团队提出“大模型密度定律”（Densing Law），认为开源大模型的最高能力密度约每3.5个月翻一番，同等智能所需的参数规模呈指数级下降。\n这个判断在后续的模型发布中被逐步验证。2026年5月，面壁联合清华大学、OpenBMB开源的新一代端侧文本基座模型MiniCPM5-1B，参数量仅10亿，在Artificial Analysis Intelligence Index中获得17.9分，超过多款参数规模更大的开源基座模型；另一款MiniCPM-V 4.6仅1.3B参数、6GB内存即可在手机上流畅运行，支持iOS、Android、HarmonyOS等主流操作系统。\n目前，MiniCPM系列开源模型在GitHub、Hugging Face等平台的累计下载量已突破3800万次。\n在近期36氪对曾国洋的专访中，他解释了端侧模型的底层逻辑：“端侧是硬限制——如果模型太大，跑不动就是跑不动，补贴钱没用；功耗太高会发热，你不可能补贴一个冰块。”在他看来，做端侧模型的难度并不亚于做大：“做高效是非常难的，不是越大越简单。”\n端侧模型的落地不只是把模型做高效，还要打通算法、芯片适配、功耗优化、终端部署的全链路。\n面壁智能已完成对高通、联发科、英特尔、瑞芯微、英伟达、AMD等主流芯片平台的全面适配。在国产芯片方面，面壁智能参与了华为昇腾、寒武纪等国产芯片的软件栈构建，发布了全国首个三值量化大模型BitCPM-CANN，推理阶段可节省约6倍显存。\n面壁智能也已建立多样化的端侧模型矩阵。比如，最新发布的MiniCPM-o4.5是一个全双工全模态大模型，以9B参数量，就是实现语音、视频、文本的全模态同步交互。\n端侧模型要在手机上跑起来，得要解决功耗、散热、内存占用、响应延迟，每一个环节都不可缺少。“端侧模型不单看评测效果，还有响应时间、硬件成本，它很难从单一维度胜出。”曾国洋在专访中表示。\n在汽车端，面壁智能已初步验证了规模化落地能力。其自研端侧智能体SuperMate到2026年底预计将交付超30万台量产车，覆盖吉利、上汽大众、广汽、马自达等品牌，跑通了模型适配、硬件兼容、供应链、终端交付的全链路。\n三星是全球出货量最大的安卓手机厂商之一，其端侧AI能力此前主要依赖自研的Galaxy AI和与谷歌的合作。据韩媒报道，三星正与谷歌深度合作，将Gemini整合进其设备生态，包括即将于7月22日在伦敦发布的Galaxy Unpacked 2026系列产品。面壁智能的端侧模型在三星体系中具体承担怎样的角色，仍有待进一步确认。\n封面来源｜AI生成\n \n\n👇🏻  扫码加入「智涌AI交流群」👇🏻\n\n欢迎交流\n本文来自微信公众号“智能涌现”，作者：邓咏仪，36氪经授权发布。",
@@ -88,31 +113,6 @@
       ],
       "isCrossTag": true,
       "crossTagId": "platform-partner"
-    },
-    {
-      "title": "联想海外推出摩托罗拉 Edge 70 Max 手机：骁龙 8 Gen 5 处理器、7100mAh 电池",
-      "description": "IT之家 7 月 15 日消息，联想现已在海外推出了摩托罗拉 Edge 70 Max 手机，该机搭载高通骁龙 8 Gen 5 处理器，匹配 7100mAh 电池，起售价为 54999 印度卢比（IT之家注：现汇率约合 3901 元人民币）。\n\n该机可选三种配色，拥有 IP69 和 MIL-STD-810H 认证，正面配备一块 6.8 英寸 QHD+ 144Hz 打孔屏 AMOLED 面板（峰值亮度 7000 尼特），匹配 32Mp 自拍摄像头；手机侧面采用铝制边框；手机背面相机模组位于左侧顶部，采用 50Mp 索尼 LYTIA 710 主摄、8Mp 超广角，同时配备了二合一光线传感器。\n\n\n该机至高配备 12GB LPDDR5X RAM 内存和 256GB UFS 4.1 存储空间，搭载 7100mAh 电池（支持 90W 有线充电和 25W 无线充电），手机预装安卓 16 系统，提供 3 次系统升级和 5 年安全更新。",
-      "content": "<p data-vmark=\"ad41\">IT之家 7 月 15 日消息，联想现已在海外推出了摩托罗拉 Edge 70 Max 手机，该机搭载高通骁龙 8 Gen 5 处理器，匹配 7100mAh 电池，<strong>起售价为 54999 印度卢比（IT之家注：现汇率约合 3901 元人民币）</strong>。</p><p data-vmark=\"7322\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/ea77d9be-6276-4f32-92c3-1fd2204259ff.jpg\" w=\"1434\" h=\"1056\" data-weibo=\"0\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d14141a597c2dd582e723255747cfb190da9fdaa23341b00d3e50bb3aaeb03a7c07b4ebd396977da66\" data-vmark=\"6acb\" class=\"no-alt-img\"></p><p data-vmark=\"c041\">该机可选三种配色，拥有 IP69 和 MIL-STD-810H 认证，正面配备一块 6.8 英寸 QHD+ 144Hz 打孔屏 AMOLED 面板（峰值亮度 7000 尼特），匹配 32Mp 自拍摄像头；手机侧面采用铝制边框；手机背面相机模组位于左侧顶部，采用 50Mp 索尼 LYTIA 710 主摄、8Mp 超广角，同时配备了二合一光线传感器。</p><p data-vmark=\"0ef8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/99458ab4-b188-4740-ae28-3cdac17cc4b6.jpg\" w=\"1430\" h=\"934\" data-weibo=\"1\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d11803bb4056d9e579369e857ffc307793537b9eb6e18f8ec8910e5bc04e645d33327438e8713a95cc\" data-vmark=\"af18\" class=\"no-alt-img\"></p><p data-vmark=\"9d00\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/558d23e8-a571-4e16-91ab-3869854611cf.jpg\" w=\"1440\" h=\"1104\" data-weibo=\"2\" data-mpos=\"0,2\"  data-vmark=\"cd32\" class=\"no-alt-img\"></p><p data-vmark=\"bfe4\">该机至高配备 12GB LPDDR5X RAM 内存和 256GB UFS 4.1 存储空间，搭载 7100mAh 电池（支持 90W 有线充电和 25W 无线充电），手机预装安卓 16 系统，提供 3 次系统升级和 5 年安全更新。</p>",
-      "url": "https://www.ithome.com/0/977/138.htm",
-      "link": "https://www.ithome.com/0/977/138.htm",
-      "pubDate": "Wed, 15 Jul 2026 09:15:49 GMT",
-      "isoDate": "2026-07-15T09:15:49.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 9,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
     }
   ]
 }
