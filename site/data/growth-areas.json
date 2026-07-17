@@ -1,8 +1,27 @@
 {
   "date": "2026-07-17",
-  "generatedAt": "2026-07-17T06:01:27.473Z",
+  "generatedAt": "2026-07-17T08:15:10.798Z",
   "section": "growth-areas",
   "sectionTitle": "增长领域",
-  "count": 0,
-  "articles": []
+  "count": 1,
+  "articles": [
+    {
+      "title": "高通更新 2026.2.0.0 版骁龙控制面板：重构游戏库导航，增强驱动管理",
+      "description": "IT之家 7 月 17 日消息，高通于 7 月 2 日更新骁龙控制面板，在最新推出的 2026.2.0.0 版中，进一步增强驱动管理，以及提升游戏体验。\nIT之家注：骁龙控制面板适用于搭载骁龙芯片的 Windows PC，为用户提供直观易用的工具，用于管理性能、更新驱动程序和监控系统指标。该控制面板主要支持包括图形、计算和人工智能在内的各种硬件功能，是定制和增强骁龙平台体验的中心枢纽。\n本次更新主要带来以下升级：\n\n原生升级 Hexagon NPU 驱动：用户无需再通过外部渠道或手动下载，现在可直接通过骁龙控制面板，获取并安装最新版 NPU 驱动。\n\n一键游戏优化底层优化：新版重构了一键优化的底层执行流程，显著提升了游戏启动、设置回退及参数刷新等环节的稳定性，减少配置错位和中断。\n\n重新设计游戏库导航：重新设计了游戏库的导航模块，结构更加统一，交互逻辑更自然。同时缩短了收藏功能的操作路径，反馈和响应更及时。\n\n\n\n\n简化界面导航逻辑：移除了顶部的返回按钮，增大了帮助对话框中各功能项的触控区域，并加入了侧边栏状态记忆功能（退出重启后可自动恢复此前浏览位置）。\n\n优化更新状态提示：优化了控制面板自身的更新状态提示，实时反馈更加清晰直观，便于准确掌握安装进度。",
+      "content": "<p data-vmark=\"c6f7\">IT之家 7 月 17 日消息，高通于 7 月 2 日更新骁龙控制面板，<strong>在最新推出的 2026.2.0.0 版中，进一步增强驱动管理，以及提升游戏体验。</strong></p><p data-vmark=\"5a86\">IT之家注：骁龙控制面板适用于搭载骁龙芯片的 Windows PC，为用户提供直观易用的工具，用于管理性能、更新驱动程序和监控系统指标。该控制面板主要支持包括图形、计算和人工智能在内的各种硬件功能，是定制和增强骁龙平台体验的中心枢纽。</p><p data-vmark=\"e08f\">本次更新主要带来以下升级：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0058\">原生升级 Hexagon NPU 驱动：用户无需再通过外部渠道或手动下载，现在可直接通过骁龙控制面板，获取并安装最新版 NPU 驱动。</p></li><li><p data-vmark=\"0ff0\">一键游戏优化底层优化：新版重构了一键优化的底层执行流程，显著提升了游戏启动、设置回退及参数刷新等环节的稳定性，减少配置错位和中断。</p></li><li><p data-vmark=\"1bc8\">重新设计游戏库导航：重新设计了游戏库的导航模块，结构更加统一，交互逻辑更自然。同时缩短了收藏功能的操作路径，反馈和响应更及时。</p></li></ul><p style=\"text-align: center;\" data-vmark=\"a5d3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/337a0817-0f2c-41c1-81d6-e3691604c0c6.png?x-bce-process=image/format,f_auto\" w=\"750\" h=\"422\" data-weibo=\"0\" data-vmark=\"800f\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"3ab4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/8554279e-c18b-40c4-b7d9-ab0886d6dd15.png?x-bce-process=image/format,f_auto\" w=\"814\" h=\"506\" data-weibo=\"1\" data-vmark=\"13e8\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"15ec\">简化界面导航逻辑：移除了顶部的返回按钮，增大了帮助对话框中各功能项的触控区域，并加入了侧边栏状态记忆功能（退出重启后可自动恢复此前浏览位置）。</p></li><li><p data-vmark=\"beeb\">优化更新状态提示：优化了控制面板自身的更新状态提示，实时反馈更加清晰直观，便于准确掌握安装进度。</p></li></ul>",
+      "url": "https://www.ithome.com/0/977/849.htm",
+      "link": "https://www.ithome.com/0/977/849.htm",
+      "pubDate": "Fri, 17 Jul 2026 00:04:21 GMT",
+      "isoDate": "2026-07-17T00:04:21.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "on-device-ai",
+      "tagScore": 6,
+      "crossTags": []
+    }
+  ]
 }
