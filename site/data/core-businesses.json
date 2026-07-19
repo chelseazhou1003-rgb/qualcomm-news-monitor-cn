@@ -1,10 +1,28 @@
 {
   "date": "2026-07-19",
-  "generatedAt": "2026-07-19T19:39:14.461Z",
+  "generatedAt": "2026-07-19T23:33:18.346Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 4,
+  "count": 3,
   "articles": [
+    {
+      "title": "面壁智能发布端侧模型 MiniCPM5-2B，AA-Index 榜单 4B 以下性能第一",
+      "description": "IT之家 7 月 19 日消息，面壁智能今日联合 OpenBMB 在 2026 世界人工智能大会上发布了最新端侧模型 MiniCPM5-2B，并完成多款芯片适配。\n\n官方表示，在最新的 Artificial Analysis（AA）榜单评测中，MiniCPM5-2B 以 17 分的成绩占据榜首，取得了全球 4B 以下模型的最高得分。\n\n据介绍，MiniCPM5-2B 模型原生支持混合思考，可在快速响应与深度推理之间灵活切换，同时提供 512K 超长上下文窗口，单次可处理整本长篇小说或数十万行代码。能力维度覆盖通用知识、数学与代码推理、复杂指令遵循、多语言理解与生成、长文本处理、工具调用及深度搜索，形成当前 4B 以下最为完整的任务覆盖。\n\nMiniCPM5-2B 原生具备工具调用、深度搜索和代码生成等智能体核心能力。训练阶段先后执行 200B 规模的 Agent Midtraining、百万条高质量轨迹的 Agent SFT 以及可扩展的 Agent RL 对齐优化，确保智能体行为稳定可靠。这一设计使得模型可直接作为端侧智能体基座，为手机、PC、智能座舱等设备上的本地化 AI 助手构建提供支撑。\nIT之家获悉，面壁智能已完成对 AMD、英特尔、联发科、高通（按英文首字母排序）等全球主流芯片厂商的端侧模型适配。\n此外，MiniCPM5-2B 联合众智 FlagOS 社区，完成了 9 款芯片的 Day0 适配；覆盖华为昇腾、海光、昆仑芯、沐曦、摩尔线程、平头哥、清微智能、天数智芯、英伟达，并延伸至 ARM 端侧平台。\n官方表示，在不久的将来，MiniCPM5-2B 将正式开源，开发者可通过 Hugging Face、魔搭等平台获取模型权重，同时可获取针对各芯片平台的适配镜像与部署指南。\n相关阅读：\n\n《面壁智能开源 MiniCPM5-1B：在 AA-Index 上超越所有 2B 参数以下模型，能跑在手机、浏览器上》",
+      "content": "<p data-vmark=\"343e\">IT之家 7 月 19 日消息，面壁智能今日联合 OpenBMB 在 2026 世界人工智能大会上发布了最新端侧模型 <strong>MiniCPM5-2B</strong>，并完成多款芯片适配。</p><p data-vmark=\"858c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/579489c4-cd3b-41c9-a2f9-98a9fae0e7ca.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-mpos=\"2,0\" data-weibo=\"0\"  data-vmark=\"5895\" class=\"not-source\"></p><p data-vmark=\"7091\">官方表示，在最新的 Artificial Analysis（AA）榜单评测中，MiniCPM5-2B 以 17 分的成绩占据榜首，<strong>取得了全球 4B 以下模型的最高得分</strong>。</p><p data-vmark=\"14ba\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/8273c134-8dc7-4415-b079-600bb2c3319c.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"557\" data-weibo=\"1\" data-vmark=\"60bb\" class=\"not-source\"></p><p data-vmark=\"c6ed\">据介绍，MiniCPM5-2B 模型原生支持混合思考，可在快速响应与深度推理之间灵活切换，同时提供 512K 超长上下文窗口，单次可处理整本长篇小说或数十万行代码。能力维度覆盖通用知识、数学与代码推理、复杂指令遵循、多语言理解与生成、长文本处理、工具调用及深度搜索，形成<strong>当前 4B 以下最为完整的任务覆盖</strong>。</p><p data-vmark=\"0ee8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/ccaf8232-baed-4325-ad82-54d50888096b.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1042\" data-weibo=\"2\" data-vmark=\"2126\" class=\"not-source\"></p><p data-vmark=\"9d92\">MiniCPM5-2B 原生具备工具调用、深度搜索和代码生成等智能体核心能力。训练阶段先后执行 200B 规模的 Agent Midtraining、百万条高质量轨迹的 Agent SFT 以及可扩展的 Agent RL 对齐优化，确保智能体行为稳定可靠。这一设计使得<strong>模型可直接作为端侧智能体基座，为手机、PC、智能座舱等设备上的本地化 AI 助手构建提供支撑。</strong></p><p data-vmark=\"8c58\">IT之家获悉，面壁智能已完成对 AMD、英特尔、联发科、高通（按英文首字母排序）等全球主流芯片厂商的端侧模型适配。</p><p data-vmark=\"7f87\">此外，MiniCPM5-2B 联合众智 FlagOS 社区，完成了 9 款芯片的 Day0 适配；覆盖华为昇腾、海光、昆仑芯、沐曦、摩尔线程、平头哥、清微智能、天数智芯、英伟达，并延伸至 ARM 端侧平台。</p><p data-vmark=\"2342\">官方表示，<strong>在不久的将来，MiniCPM5-2B 将正式开源</strong>，开发者可通过 Hugging Face、魔搭等平台获取模型权重，同时可获取针对各芯片平台的适配镜像与部署指南。</p><p data-vmark=\"3d7d\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"c67d\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/955/267.htm\">面壁智能开源 MiniCPM5-1B：在 AA-Index 上超越所有 2B 参数以下模型，能跑在手机、浏览器上</a>》</p></li></ul>",
+      "url": "https://www.ithome.com/0/978/796.htm",
+      "link": "https://www.ithome.com/0/978/796.htm",
+      "pubDate": "Sun, 19 Jul 2026 13:40:52 GMT",
+      "isoDate": "2026-07-19T13:40:52.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 14,
+      "crossTags": []
+    },
     {
       "title": "海信墨水屏手机 A10 配置揭晓：高通跃龙 QCM6690 处理器、安卓 16 原生适配，8 月发布",
       "description": "IT之家 7 月 19 日消息，海信墨水屏官方今日公布了墨水屏手机 A10 的细节配置参数。\n\n据介绍，海信墨水屏手机 A10 搭载 4nm 高通跃龙 QCM6690 八核处理器，相较前代性能有所提升，支持 PDF 翻页、多文档分屏、长时间手写批注不卡顿；支持智能控温调度，可减少残影；支持静态阅读自动降频，续航相比旗舰芯有所提升。该机还原生适配安卓 16 系统，支持长期系统更新 + 安全补丁。\n该机还支持六大原生实用功能，包括：NFC、红外遥控（离线可控空调 / 电视 / 投影 / 机顶盒）、原生应用分身（主流应用软件均支持分身）、原生通话录音（系统自带，可一键录制通话）、磁吸无线充电（自动吸附）、专业快刷模式（专攻墨水屏卡顿拖影）。\n据IT之家此前报道，海信墨水屏手机 A10 正面搭载 6.13 英寸纸质观感墨水屏，适合长时间看书、批注笔记等场景；背面可选装 LCD 彩屏，支持自由切换，适合刷图文、看彩漫、浏览图表、日常影音社交等场景。\n\n根据规划，这款墨水屏新机将在 8 月发布（预计会在 8 月底开售）。\n相关阅读：\n\n《海信墨水屏手机 A10 预热：背面可磁吸 LCD 彩屏，支持 5G 全网通》\n\n《“三年磨一剑”：海信预热 A10 墨水屏手机，8 月亮相》",
@@ -45,42 +63,6 @@
           "id": "ieee"
         }
       ]
-    },
-    {
-      "title": "极狐考拉及考拉 S 车型 OTA 升级：新增高德地图红绿灯读秒、智能充电规划等",
-      "description": "IT之家 7 月 19 日消息，近日，极狐考拉及考拉 S 系列车型 OTA 开启推送。此次 OTA 升级将新增两项功能，同时针对两项功能进行优化。\nIT之家附具体信息如下：\n\n新增高德地图实用功能：新增红绿灯读秒、绿波导航、智能播报等功能，提升导航体验。\n\n新增智能充电规划：充电站点一键规划，长途出行更省心。\n\n优化壁纸显示：原“晨辉与暮霭”壁纸，现可跟随深浅色模式自动切换，界面视觉更协调。\n\n优化车机动效与交互：增加状态栏可触面积，优化卡片闪动效果，提升操作便利性。\n\n\n用户可点击中控“娱乐系统 > 车辆设置 > 系统更新”进行升级。一旦开始升级中途无法取消，同时车辆将暂停提供所有功能服务。\n2026 款极狐考拉 S 纯电 SUV 于今年 1 月正式上市，售价 9.98 万元起。车身尺寸为 4500*1870*1675mm，拥有 2820mm 轴距。全系标配宁德时代磷酸铁锂电池，CLTC 纯电续航 520km。\n该车升级到标配 15.6 英寸中控屏、8.8 英寸液晶仪表，以及高通骁龙 8155 芯片，集成豆包、Minimax、Deepseek 等多个大模型；配备哨兵模式和行车记录仪，以及 360° 环视监控；还有舱泊一体智能系统，可灵活应对 40 多种泊车场景。",
-      "content": "<p data-vmark=\"cd15\">IT之家 7 月 19 日消息，近日，极狐考拉及考拉 S 系列车型 OTA 开启推送。此次 OTA 升级将新增两项功能，同时针对两项功能进行优化。</p><p data-vmark=\"62bb\"><strong>IT之家附具体信息如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5ba3\">新增高德地图实用功能：新增红绿灯读秒、绿波导航、智能播报等功能，提升导航体验。</p></li><li><p data-vmark=\"8bd4\">新增智能充电规划：充电站点一键规划，长途出行更省心。</p></li><li><p data-vmark=\"f2d2\">优化壁纸显示：原“晨辉与暮霭”壁纸，现可跟随深浅色模式自动切换，界面视觉更协调。</p></li><li><p data-vmark=\"d536\">优化车机动效与交互：增加状态栏可触面积，优化卡片闪动效果，提升操作便利性。</p></li></ul><p data-vmark=\"5f1b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/ae656614-9d83-40a1-8bab-d8c4f476c550.jpg\" w=\"1080\" h=\"6064\" data-weibo=\"0\"  data-vmark=\"4a5c\" class=\"no-alt-img\"></p><p data-vmark=\"4e67\">用户可点击中控“娱乐系统 &gt; 车辆设置 &gt; 系统更新”进行升级。一旦开始升级中途无法取消，同时车辆将暂停提供所有功能服务。</p><p data-vmark=\"bedb\">2026 款极狐考拉 S 纯电 SUV 于今年 1 月正式上市，<strong>售价 9.98 万元起</strong>。车身尺寸为 4500*1870*1675mm，拥有 2820mm 轴距。全系标配宁德时代磷酸铁锂电池，CLTC 纯电续航 520km。</p><p data-vmark=\"de73\">该车升级到标配 15.6 英寸中控屏、8.8 英寸液晶仪表，以及高通骁龙 8155 芯片，集成豆包、Minimax、Deepseek 等多个大模型；配备哨兵模式和行车记录仪，以及 360° 环视监控；还有舱泊一体智能系统，可灵活应对 40 多种泊车场景。</p>",
-      "url": "https://www.ithome.com/0/978/706.htm",
-      "link": "https://www.ithome.com/0/978/706.htm",
-      "pubDate": "Sun, 19 Jul 2026 07:12:19 GMT",
-      "isoDate": "2026-07-19T07:12:19.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 2,
-      "crossTags": []
-    },
-    {
-      "title": "全球首款 AI 智能体手机努比亚 NaviX Ultra 亮相 WAIC，搭载豆包手机助手",
-      "description": "IT之家 7 月 19 日消息，全球首款 AI 智能体手机努比亚 NaviX Ultra 在 WAIC 期间正式亮相，该机搭载豆包手机助手。\n\n据财联社报道，中兴通讯高级副总裁、努比亚总裁倪飞在接受采访时表示，豆包拥有领先的大模型和智能体能力，努比亚则拥有软件、硬件、产品工程、质量管理、渠道和用户服务等方面的长期积累，从 M153 到现在的 NaviX Ultra，双方的合作即将走过完整的技术验证和产品迭代周期。\n\n\n新机提供蓝境、幻梦、曜黑、雪原四款配色，其中“幻梦”配色采用统一的粉色调设计，包括后置镜头 Deco 在内均呈现粉色，视觉辨识度极高。背部采用辨识度极高的横向条形跑道式镜头 Deco，内置后置三摄系统，包含潜望式长焦镜头，与主流圆形镜头岛形成区分。\n机身侧面配备独立的橙色 AI 按键，支持一键快速唤醒智能体功能。该机正面采用居中单挖孔直屏，配合四等边窄边框设计，整体观感简洁利落。\n努比亚 NaviX Ultra 围绕听得懂、能干活、记得住、够安全四大核心能力打造，支持全场景自然语义理解，可自主跨软件串联完成多步骤任务（如比价下单、行程规划等）。核心大模型运算全部在手机端本地完成，用户数据无需上传云端，叠加官方统一生成式 AI 备案资质，大幅降低信息泄露风险。\n据爆料，该机可能搭载骁龙 8 Elite Gen5 旗舰处理器，内置 7000mAh 超大容量硅碳负极电池，支持 90W/100W 有线快充及无线充电。影像系统方面，预计配备 5000 万像素主摄、超广角及潜望式长焦镜头，前置 5000 万像素高清镜头。\n截至IT之家发稿，官方暂未公布努比亚 NaviX Ultra 的正式售价与开售时间。",
-      "content": "<p data-vmark=\"a4a8\">IT之家 7 月 19 日消息，全球首款 AI 智能体手机努比亚 NaviX Ultra 在 WAIC 期间正式亮相，该机搭载豆包手机助手。</p><p style=\"text-align: center;\" data-vmark=\"db43\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/8f2405d2-a4a9-4b1a-b80e-e49fb9620c58.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-weibo=\"0\" data-vmark=\"e415\" class=\"no-alt-img\"></p><p data-vmark=\"ad2e\">据财联社报道，中兴通讯高级副总裁、努比亚总裁倪飞在接受采访时表示，豆包拥有领先的大模型和智能体能力，努比亚则拥有软件、硬件、产品工程、质量管理、渠道和用户服务等方面的长期积累，从 M153 到现在的 NaviX Ultra，双方的合作即将走过完整的技术验证和产品迭代周期。</p><p style=\"text-align: center;\" data-vmark=\"aafb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/98c87c38-a38b-4ce5-9103-17678be557be.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2160\" data-weibo=\"1\" data-vmark=\"6c91\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"c871\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/3680a3da-9fa4-49c9-88f0-ba2f5dc8e86d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2160\" data-weibo=\"2\" data-vmark=\"f131\" class=\"no-alt-img\"></p><p data-vmark=\"544b\">新机提供蓝境、幻梦、曜黑、雪原四款配色，其中“幻梦”配色采用统一的粉色调设计，包括后置镜头 Deco 在内均呈现粉色，视觉辨识度极高。背部采用辨识度极高的横向条形跑道式镜头 Deco，内置后置三摄系统，包含潜望式长焦镜头，与主流圆形镜头岛形成区分。</p><p data-vmark=\"361d\">机身侧面配备独立的橙色 AI 按键，支持一键快速唤醒智能体功能。该机正面采用居中单挖孔直屏，配合四等边窄边框设计，整体观感简洁利落。</p><p data-vmark=\"7700\">努比亚 NaviX Ultra 围绕听得懂、能干活、记得住、够安全四大核心能力打造，支持全场景自然语义理解，可自主跨软件串联完成多步骤任务（如比价下单、行程规划等）。核心大模型运算全部在手机端本地完成，用户数据无需上传云端，叠加官方统一生成式 AI 备案资质，大幅降低信息泄露风险。</p><p data-vmark=\"0d89\">据爆料，该机可能搭载骁龙 8 Elite Gen5 旗舰处理器，内置 7000mAh 超大容量硅碳负极电池，支持 90W/100W 有线快充及无线充电。影像系统方面，预计配备 5000 万像素主摄、超广角及潜望式长焦镜头，前置 5000 万像素高清镜头。</p><p data-vmark=\"9ef7\">截至IT之家发稿，官方暂未公布努比亚 NaviX Ultra 的正式售价与开售时间。</p>",
-      "url": "https://www.ithome.com/0/978/694.htm",
-      "link": "https://www.ithome.com/0/978/694.htm",
-      "pubDate": "Sun, 19 Jul 2026 06:19:24 GMT",
-      "isoDate": "2026-07-19T06:19:24.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 10,
-      "crossTags": []
     }
   ]
 }
