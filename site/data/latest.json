@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
-  "generatedAt": "2026-07-24T08:11:31.120Z",
-  "totalArticles": 4,
+  "generatedAt": "2026-07-24T17:39:39.830Z",
+  "totalArticles": 6,
   "sections": [
     {
       "id": "core-businesses",
@@ -16,12 +16,12 @@
     {
       "id": "growth-areas",
       "title": "增长领域",
-      "count": 0
+      "count": 1
     },
     {
       "id": "macro-environment",
       "title": "宏观环境",
-      "count": 3
+      "count": 4
     },
     {
       "id": "competitors",
