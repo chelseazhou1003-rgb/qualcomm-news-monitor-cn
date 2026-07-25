@@ -1,9 +1,9 @@
 {
   "date": "2026-07-25",
-  "generatedAt": "2026-07-25T19:03:36.336Z",
+  "generatedAt": "2026-07-25T23:46:10.591Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 2,
+  "count": 1,
   "articles": [
     {
       "title": "零跑 A05 纯电小车设计细节公开：高通 8295 旗舰座舱芯片、二排小桌板等",
@@ -21,24 +21,6 @@
       "section": "core-businesses",
       "subCategory": "automotive",
       "tagScore": 13,
-      "crossTags": []
-    },
-    {
-      "title": "吉利星越 L 销量突破百万，成为首个达成此成就的中国品牌高端燃油 SUV",
-      "description": "IT之家 7 月 25 日消息，吉利汽车今天宣布星越 L 总销量突破 1000000 台，成为首个突破百万销量的中国品牌高端燃油 SUV。\n\nIT之家从吉利官博获悉，第 100 万辆星越 L 今天从吉利西安黑灯工厂下线，官方也同步举办了下线仪式。\n\n作为参考，最近开售的吉利星越 L i-HEV 智擎混动整体设计基本延续在售车型，采用标志性的东方美学设计理念。星越 L i-HEV 搭载 25.6 英寸 HUD、12.3 英寸液晶仪表与双 14.6 英寸中控屏。采用 Flyme Auto 智能座舱系统，配备高通骁龙 8155 芯片。\n\n星越 L i-HEV 智擎混动长宽高分别为 4795/1895/1689mm，轴距 2845mm，采用 1.5TD 混动专用四缸发动机 +DHT 配置，官方指导价 14.57 万元起。",
-      "content": "<p data-vmark=\"d278\">IT之家 7 月 25 日消息，吉利汽车今天宣布星越 L 总销量突破 1000000 台，成为首个突破百万销量的中国品牌高端燃油 SUV。</p><p data-vmark=\"ba9a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/4f1d31ae-9f38-40b2-9757-e7d470e01dc0.jpg\" w=\"690\" h=\"1227\" data-weibo=\"0\" data-vmark=\"d8ee\"></p><p data-vmark=\"89d7\">IT之家从吉利官博获悉，第 100 万辆星越 L 今天从吉利西安黑灯工厂下线，官方也同步举办了下线仪式。</p><p data-vmark=\"9309\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/e94b3b04-2385-4837-84e6-7ac3b6dc2ba5.png\" w=\"958\" h=\"996\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F1691328753%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F1691328753%2FRah8ZgsAu%22%7D\" data-weibo=\"1\" data-mpos=\"2,0\"  data-vmark=\"22ed\"></p><p data-vmark=\"03dc\">作为参考，<a href=\"https://www.ithome.com/0/945/200.htm\" target=\"_blank\">最近开售的吉利星越 L i-HEV 智擎混动整体设计基本延续在售车型</a>，采用标志性的东方美学设计理念。星越 L i-HEV 搭载 25.6 英寸 HUD、12.3 英寸液晶仪表与双 14.6 英寸中控屏。采用 Flyme Auto 智能座舱系统，配备高通骁龙 8155 芯片。</p><p data-vmark=\"41eb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/4/6868e553-1bf9-42f5-843c-b3d4926ff0ef.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1920\" h=\"1080\" data-weibo=\"2\" data-vmark=\"68f6\"></p><p data-vmark=\"67e6\">星越 L i-HEV 智擎混动长宽高分别为 4795/1895/1689mm，轴距 2845mm，采用 1.5TD 混动专用四缸发动机 +DHT 配置，<strong>官方指导价 14.57 万元起</strong>。</p>",
-      "url": "https://www.ithome.com/0/981/479.htm",
-      "link": "https://www.ithome.com/0/981/479.htm",
-      "pubDate": "Sat, 25 Jul 2026 05:29:24 GMT",
-      "isoDate": "2026-07-25T05:29:24.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "automotive",
-      "tagScore": 6,
       "crossTags": []
     }
   ]
