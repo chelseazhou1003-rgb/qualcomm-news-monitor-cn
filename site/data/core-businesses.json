@@ -1,9 +1,9 @@
 {
-  "date": "2026-07-27",
-  "generatedAt": "2026-07-27T20:44:51.524Z",
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-28T02:15:25.270Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 3,
+  "count": 2,
   "articles": [
     {
       "title": "消息称某厂子系骁龙 8E6 Pro 新机排期 10 月发布，预计为一加 16",
@@ -31,29 +31,6 @@
       "link": "https://www.ithome.com/0/982/165.htm",
       "pubDate": "Mon, 27 Jul 2026 09:29:09 GMT",
       "isoDate": "2026-07-27T09:29:09.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 7,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "小米 POCO M8 Power 海外机型 8 月 4 日发布，预计为 REDMI Note 17 标准版手机“套娃机”",
-      "description": "IT之家 7 月 27 日消息，小米现官宣将于 8 月 4 日在印度推出一款 POCO M8 Power 手机，该机将配备一块容量高达 8000mAh 的电池，采用 AMOLED 显示屏，主打电竞体验。\n\n综合IT之家此前报道，该机实际上为小米 REDMI Note 17 标准版的“套娃机”，不过换用了全新橙色配色。\n\n回顾小米 REDMI Note 17 标准版，该机搭载 7 英寸 2396x1080 分辨率 120Hz OLED 面板，至高提供 8GB RAM 和 256GB 存储空间，搭载第四代骁龙 4 移动平台，配备 8000mAh 金沙江电池，国内定价 1299 元起。",
-      "content": "<p data-vmark=\"1e85\">IT之家 7 月 27 日消息，小米现官宣将于 8 月 4 日在印度推出一款 POCO M8 Power 手机，该机将配备一块容量高达 8000mAh 的电池，采用 AMOLED 显示屏，主打电竞体验。</p><p style=\"text-align: center;\" data-vmark=\"362a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/7a39e52a-9bd6-4ad3-bcaf-bdc87a1f1829.png?x-bce-process=image/format,f_auto\" w=\"936\" h=\"1424\" data-weibo=\"0\" data-vmark=\"9d93\"></p><p data-vmark=\"56b4\">综合IT之家此前报道，该机实际上为小米 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/07/15/084b93ba-3290-4bde-85de-af44e9d28096.png?x-bce-process=image/format,f_auto\" data-topic-id=\"64932\">REDMI Note 17</span> 标准版的“套娃机”，不过换用了全新橙色配色。</p><p style=\"text-align: center;\" data-vmark=\"15db\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/c4c9e64d-d07c-42db-9779-d803bfcf8156.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"646\" data-weibo=\"1\" data-vmark=\"46ac\"></p><p data-vmark=\"e01c\">回顾<a href=\"https://www.ithome.com/0/976/714.htm\" target=\"_blank\">小米 REDMI Note 17 标准版</a>，该机搭载 7 英寸 2396x1080 分辨率 120Hz OLED 面板，至高提供 8GB RAM 和 256GB 存储空间，搭载第四代骁龙 4 移动平台，配备 8000mAh 金沙江电池，国内定价 1299 元起。</p><p data-vmark=\"dab4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/img/share/20ca57c3-3d08-4d03-986f-1b072e19f7df.png\" w=\"750\" h=\"1456\" data-for-products=\"JTdCJTIycHJvZHVjdElkcyUyMiUzQSU1QjQ3OTU3JTVEJTJDJTIycHJvZHVjdHMlMjIlM0ElNUIlN0IlMjJwcm9kdWN0TmFtZSUyMiUzQSUyMlJFRE1JJTIwTm90ZSUyMDE3JTIyJTJDJTIycHJvZHVjdElkJTIyJTNBNDc5NTclN0QlNUQlMkMlMjJ0aXRsZSUyMiUzQSUyMiVFNCVCQSVBNyVFNSU5MyU4MSVFNSU4RiU4MiVFNiU5NSVCMCVFOCVBRiVBNiVFNiU4MyU4NSUyMiUyQyUyMmJnQ29sb3IlMjIlM0ElMjIlMjMwMDAwMDAlMjIlMkMlMjJsaW5lQ29sb3IlMjIlM0ElMjIlMjNBMkEyQTIlMjIlMkMlMjJ0ZXh0Q29sb3IlMjIlM0ElMjIlMjNGRkZGRkYlMjIlMkMlMjJmaXJzdENvbG9yJTIyJTNBJTIyJTIzZDIyMjIyJTIyJTJDJTIycXJDb2RlJTIyJTNBdHJ1ZSUyQyUyMndhdGVyTWFyayUyMiUzQXRydWUlMkMlMjJzaG93SW1hZ2UlMjIlM0F0cnVlJTJDJTIyc2hvd1NhdGVsbGl0ZSUyMiUzQWZhbHNlJTdE\" data-vmark=\"0da1\"></p>",
-      "url": "https://www.ithome.com/0/982/109.htm",
-      "link": "https://www.ithome.com/0/982/109.htm",
-      "pubDate": "Mon, 27 Jul 2026 08:21:37 GMT",
-      "isoDate": "2026-07-27T08:21:37.000Z",
       "author": "",
       "sourceId": "ithome",
       "sourceName": "IT之家",
