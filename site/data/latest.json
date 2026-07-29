@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-29",
-  "generatedAt": "2026-07-29T23:43:14.673Z",
+  "date": "2026-07-30",
+  "generatedAt": "2026-07-30T04:15:55.453Z",
   "totalArticles": 13,
   "sections": [
     {
@@ -31,7 +31,7 @@
     {
       "id": "stakeholders",
       "title": "关键利益相关方",
-      "count": 10
+      "count": 9
     }
   ]
 }
