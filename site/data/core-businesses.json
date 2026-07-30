@@ -1,14 +1,104 @@
 {
   "date": "2026-07-30",
-  "generatedAt": "2026-07-30T04:15:55.453Z",
+  "generatedAt": "2026-07-30T08:11:58.975Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
   "count": 7,
   "articles": [
     {
+      "title": "高通第三季度营收99.47亿美元，同比下降4%",
+      "description": "7月30日，高通公布第三季度营收99.47亿美元，同比下降4%；调整后每股收益2.21美元，同比下降20%。公司预计第四季度营收为97亿至105亿美元，预计第四季度调整后每股收益为2.05至2.25美元。（界面）",
+      "content": "7月30日，高通公布第三季度营收99.47亿美元，同比下降4%；调整后每股收益2.21美元，同比下降20%。公司预计第四季度营收为97亿至105亿美元，预计第四季度调整后每股收益为2.05至2.25美元。（界面）",
+      "url": "https://36kr.com/newsflashes/3917368376241537?f=rss",
+      "link": "https://36kr.com/newsflashes/3917368376241537?f=rss",
+      "pubDate": "2026-07-30 08:01:52  +0800",
+      "isoDate": "2026-07-30T00:01:52.000Z",
+      "author": "",
+      "sourceId": "36kr",
+      "sourceName": "36氪",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "",
+      "tagScore": 0,
+      "crossTags": []
+    },
+    {
+      "title": "高通：成为宝马集团未来十年数字座舱与驾驶辅助系统的主要计算芯片提供商",
+      "description": "36氪获悉，7月29日，高通技术公司与宝马集团宣布达成一项重要合作协议。根据协议，高通技术公司将在未来十年为宝马集团下一代数字座舱，以及先进驾驶辅助系统/自动驾驶（ADAS/AD）提供计算芯片。此次合作涵盖高通技术公司的骁龙® 数字底盘™多项解决方案，包括其系统级芯片（SoC）——骁龙® 汽车平台至尊版，以及专用AI加速器。",
+      "content": "36氪获悉，7月29日，高通技术公司与宝马集团宣布达成一项重要合作协议。根据协议，高通技术公司将在未来十年为宝马集团下一代数字座舱，以及先进驾驶辅助系统/自动驾驶（ADAS/AD）提供计算芯片。此次合作涵盖高通技术公司的骁龙® 数字底盘™多项解决方案，包括其系统级芯片（SoC）——骁龙® 汽车平台至尊版，以及专用AI加速器。",
+      "url": "https://36kr.com/newsflashes/3916875023249024?f=rss",
+      "link": "https://36kr.com/newsflashes/3916875023249024?f=rss",
+      "pubDate": "2026-07-30 07:33:48  +0800",
+      "isoDate": "2026-07-29T23:33:48.000Z",
+      "author": "",
+      "sourceId": "36kr",
+      "sourceName": "36氪",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "automotive",
+      "tagScore": 15,
+      "crossTags": []
+    },
+    {
+      "title": "IT早报 0730：仅重 798g 华为 MateBook Pro S 官宣 8 月 5 日发布；荣耀起诉电商平台手机壳商家商标侵权；智驾小蓝灯将被禁用；美团回应多地用户月付被盗刷...",
+      "description": "“IT早报”时间，大家好，现在是 2026 年 7 月 30 日星期四，今天的重要科技资讯有：\n1、仅重 798g，华为史上最轻笔记本电脑 MateBook Pro S 官宣 8 月 5 日亮相\n华为宣布将在 8 月 5 日全场景新品发布会上推出全新 MateBook Pro S，整机重量仅 798 克，再次刷新轻薄本纪录。一同亮相的还有新增金色外观、首次支持手写笔的 MateBook Fold 非凡大师鸿蒙折叠电脑。多款新品蓄势待发。>> 查看详情\n\n2、荣耀起诉一电商平台手机壳商家商标侵权，双方现已达成和解\n记者从荣耀公司及当事电商林坚（化名）双方获悉，目前双方已就相关纠纷达成和解。（深圳商报）>> 查看详情\n3、网传智驾车辆“小蓝灯”不符合国标要求，后续将禁止乘用车安装\n博主 @孙少军09 7 月 29 日分享了一张公告局部截图。页面显示，针对智驾车辆安装的“小蓝灯”，收到工信部管理要求：因“小蓝灯”不符合 GB4785 要求，即日起，禁止乘用车安装小蓝灯。>> 查看详情\n4、美团回应“多名月付用户称被批量盗刷”：很大概率是新型电信诈骗，正积极配合警方调查\n7 月 29 日，美团方面回应称，经逐一核查，相关用户很大概率遭遇了新型电信诈骗，美团正积极配合警方调查，并已采取多种措施，保证用户账户安全。>> 查看详情\n5、中国电信：8 月 1 日起，其他第三方互联网渠道不再提供电信号卡办理相关服务\n中国电信官网发布关于规范互联网渠道售卡管理的公告。>> 查看详情\n\n6、微软推送 Win11 24H2/25H2/26H1 七月可选更新：文件管理器支持 KB / MB / GB 单位显示\n微软 7 月 29 日发布公告，面向 Windows 11 24H2/25H2 以及 26H1 设备，推送 7 月可选更新，进一步推动用户更新安全启动（Secure Boot）证书。>> 查看详情\n7、反网络暴力法来了：预防惩治网暴，国家网信办公开征求意见\n据“网信中国”微信公众号消息，为了预防、制止和惩治网络暴力，加强反网络暴力工作，保护个人、组织的合法权益，维护国家安全和社会公共利益，按照有关立法规划计划安排，国家互联网信息办公室会同有关部门起草了《中华人民共和国反网络暴力法（征求意见稿）》，现向社会公开征求意见。>> 查看详情\n8、一家三口网络打赏超 650 万元、灵机一动让孩子起诉平台，法院驳回全部退款诉求\n北京互联网法院审理了一起案件，一家三口网络打赏消费超 650 万元，事后家长却刻意包装成“孩子偷偷乱花钱”，试图通过诉讼让平台全额退款。>> 查看详情\n9、美国 FCC 宣布禁止进口外国产人形机器人及电力逆变器\n美国 FCC 宣布立即生效禁令，禁止新的中国人形机器人及联网电力逆变器进入美国市场，旨在降低供应链与网络安全风险。措施主要针对新机型，宇树科技等企业或受影响。此举也意在推动关键产业制造环节回流美国。>> 查看详情\n10、全球最轻 14 英寸金属笔记本华为 MateBook Pro S 亮相：搭麒麟 XE90 处理器，首创榫卯一体化结构\n全球最轻 14 英寸金属笔记本 —— 华为 MateBook Pro S 笔记本 7 月 29 日首次公开亮相，搭麒麟 XE90 芯片，首创榫卯一体化结构，将在 8 月 5 日发布。>> 查看详情\n\n11、华为全新鸿蒙折叠电脑 MateBook Fold 非凡大师亮相，首搭麒麟 X90 Plus 处理器\n在 7 月 29 日的华为鸿蒙电脑新品技术沟通会上，华为 MateBook Fold 非凡大师全新鸿蒙折叠电脑也迎来了首次亮相，主打非凡显示、非凡科技、非凡设计、非凡系统和非凡体验。>> 查看详情\n\n12、华为鸿蒙电脑全新麒麟 XE90 / X90 Plus 处理器亮相，主打高能效 / 高性能\n在 7 月 29 日的华为鸿蒙电脑新品技术沟通会上，华为终端 BG 平板与 PC 产品线总裁朱懂东分享了鸿蒙电脑最新取得的成绩。据介绍，麒麟 X90 Plus 是一款定位高性能的 PC 处理器，而全新麒麟 XE90 则是一款定位高能效的处理器。>> 查看详情\n\n13、事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用\n全国汽车标准化技术委员会正研究规范智驾车辆“小蓝灯”，因其灯光滥用易引发眩光、加塞等安全风险。目前国标 GB4785 虽未明令禁止，但原则上不允许使用非标准定义的外部灯具。全国汽车标准化技术委员会已启动相关标准修订工作。>> 查看详情\n14、雷军晒小米机器人在工厂工作视频：“督工”竟也是机器人，还会比耶耍酷\n小米创办人、董事长兼 CEO 雷军 7 月 29 日在微博分享了一条来自机器人团队的视频。视频开头一切正常，就是一辆白色涂装的小米机器人在工作。就在该机器人结束工作时，画面一转，在一旁的“督工”竟也是机器人，它还顺手比了一个耶。>> 查看详情\n\n15、领克汽车：合格证参数录入不一致导致部分四驱 07GT 无法上牌，已提交换证申请、给予相应用户积分补偿\n领克汽车 7 月 29 日发布领克 07GT 答网友问第九期，就部分四驱 07GT 车辆无法上牌事宜进行统一说明。>> 查看详情\n16、蔚来马麟谈“智驾小蓝灯将被禁用”：有些让后车跟车时看着刺眼，有安全隐患\n“智驾小蓝灯将被禁用”7 月 29 日登上热搜。上海蔚来汽车有限公司副总裁品牌与传播资深专家马麟发文谈及此事，称有些比尾灯还亮。他表示，有些让后车跟车时看着刺眼，有安全隐患。这些肯定不合适。>> 查看详情\n17、理想汽车李昕旸回应网传 i6 自动泊车频繁调整仍失败：车后有电动自行车占位，将优化泊车受阻提醒\n理想汽车产品线负责人李昕旸表示，正与自动驾驶团队一起努力，在 9 月推送的 9.1 版本优化复杂场景下的泊车能力，未来也将持续提升辅助驾驶能力，优化泊车受阻提醒。>> 查看详情\n18、理想汽车 CEO 李想欢迎雷军加入增程赛道：预祝小米澎程大卖\n小米创办人、董事长兼 CEO 雷军 7 月 29 日发长文，详细回应了“小米澎程为什么要做增程”和“现在进入是不是太晚”两个问题，其中提到理想新一代 L6 新上市销量持续走高。>> 查看详情\n19、雷军：小米现在出增程车“并不晚”，例如理想新一代 L6 销量持续走高\n雷军公开回应小米推出澎程增程车的相关质疑，称增程市场远未饱和大有可为，小米自研增程系统将在 7 月 30 日技术发布会公开详解。>> 查看详情\n20、国产大飞机 C919 高原型首架机起飞\n据央视新闻，7 月 29 日上午 7 时 59 分，C919 高原型首架机在上海浦东国际机场第四跑道起飞，开展首次飞行试验。>> 查看详情\n21、华为鸿蒙电脑生态应用数量突破 19000 款，覆盖办公、娱乐、创作、游戏等核心场景\n在 7 月 29 日的华为鸿蒙电脑新品技术沟通会上，华为终端 BG 平板与 PC 产品线总裁朱懂东宣布，鸿蒙电脑生态应用数量突破 19000 款，全面覆盖办公、娱乐、创作、游戏等核心场景。>> 查看详情\n22、小米澎程 N90 Max 汽车预热文案闹乌龙，官方更正“可放下两辆 25 英寸公路自行车”表述\n小米澎程官方在预热 N90 Max 后备厢空间时，误将公路自行车描述为“25 英寸”，遭网友指正。目前官方已发文更正为正确的“700C”规格，并公布了实拍图中自行车的具体尺寸信息。小米汽车副总裁李肖爽也转发了更正微博。>> 查看详情\n23、小米 REDMI K100 Pro 手机现身 Geekbench 跑分库：骁龙 8 Elite Gen 5 + 16GB RAM\n该机单核跑分达 3429、多核跑分达 10461，此前曝光信息显示它还将搭载 185Hz 高刷屏、超 8000mAh 大电池等旗舰配置。>> 查看详情\n24、1 个充电桩 8 个码、扫码堪比开盲盒，央广网起底公共充电桩乱象\n“一桩多码”“同桩不同价”，让许多车主扫码充电成了“开盲盒”；而众多掺杂其间的广告码、钓鱼码，又让车主们扫码充电时俨然成了“扫雷”行动。>> 查看详情\n25、消息称朴朴超市入驻淘宝闪购，曾被曝阿里有意 15 亿美元收购\n朴朴超市位于福州的部分门店已开始测试入驻淘宝闪购，预计月底将扩展至福建全省门店。>> 查看详情\n今天就先聊到这里，IT早报，咱们明天见。",
+      "content": "<p data-vmark=\"76c4\">“IT早报”时间，大家好，现在是 2026 年 7 月 30 日星期四，今天的重要科技资讯有：</p><h2 data-vmark=\"54fd\">1、仅重 798g，华为史上最轻笔记本电脑 MateBook Pro S 官宣 8 月 5 日亮相</h2><p data-vmark=\"b15e\">华为宣布将在 8 月 5 日全场景新品发布会上推出全新 MateBook Pro S，整机重量仅 798 克，再次刷新轻薄本纪录。一同亮相的还有新增金色外观、首次支持手写笔的 MateBook Fold 非凡大师鸿蒙折叠电脑。多款新品蓄势待发。&gt;&gt; <a href=\"https://www.ithome.com/0/982/880.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"c587\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/201afc6c-945e-4370-8476-344a94c9dc3d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2560\" data-vmark=\"be4f\" data-weibo=\"0\" class=\"no-alt-img\"></p><h2 data-vmark=\"5fa1\">2、荣耀起诉一电商平台手机壳商家商标侵权，双方现已达成和解</h2><p data-vmark=\"07ed\">记者从荣耀公司及当事电商林坚（化名）双方获悉，目前双方已就相关纠纷达成和解。（深圳商报）&gt;&gt; <a href=\"https://www.ithome.com/0/983/353.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"5bfe\">3、网传智驾车辆“小蓝灯”不符合国标要求，后续将禁止乘用车安装</h2><p data-vmark=\"d8fa\">博主 @孙少军09 7 月 29 日分享了一张公告局部截图。页面显示，针对智驾车辆安装的“小蓝灯”，收到工信部管理要求：因“小蓝灯”不符合 GB4785 要求，即日起，禁止乘用车安装小蓝灯。&gt;&gt; <a href=\"https://www.ithome.com/0/983/089.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"56dc\">4、美团回应“多名月付用户称被批量盗刷”：很大概率是新型电信诈骗，正积极配合警方调查</h2><p data-vmark=\"0d40\">7 月 29 日，美团方面回应称，经逐一核查，相关用户很大概率遭遇了新型电信诈骗，美团正积极配合警方调查，并已采取多种措施，保证用户账户安全。&gt;&gt; <a href=\"https://www.ithome.com/0/983/347.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"5a7b\">5、中国电信：8 月 1 日起，其他第三方互联网渠道不再提供电信号卡办理相关服务</h2><p data-vmark=\"f148\">中国电信官网发布关于规范互联网渠道售卡管理的公告。&gt;&gt; <a href=\"https://www.ithome.com/0/983/303.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"385e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/c06eff84-3588-454a-b6fc-444d8ff8417d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"710\" data-vmark=\"581e\" data-mpos=\"2,0\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1788f94b06446d4fab4c2c8d96f87b57f1e6cc41493d67caddd15a9d2df759e9ad83e7b1d50812654\" class=\"no-alt-img\"></p><h2 data-vmark=\"682e\">6、微软推送 Win11 24H2/25H2/26H1 七月可选更新：文件管理器支持 KB / MB / GB 单位显示</h2><p data-vmark=\"c9fc\">微软 7 月 29 日发布公告，面向 Windows 11 24H2/25H2 以及 26H1 设备，推送 7 月可选更新，进一步推动用户更新安全启动（Secure Boot）证书。&gt;&gt; <a href=\"https://www.ithome.com/0/982/807.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"8177\">7、反网络暴力法来了：预防惩治网暴，国家网信办公开征求意见</h2><p data-vmark=\"8e4d\">据“网信中国”微信公众号消息，为了预防、制止和惩治网络暴力，加强反网络暴力工作，保护个人、组织的合法权益，维护国家安全和社会公共利益，按照有关立法规划计划安排，国家互联网信息办公室会同有关部门起草了《中华人民共和国反网络暴力法（征求意见稿）》，现向社会公开征求意见。&gt;&gt; <a href=\"https://www.ithome.com/0/983/265.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"8388\">8、一家三口网络打赏超 650 万元、灵机一动让孩子起诉平台，法院驳回全部退款诉求</h2><p data-vmark=\"2286\">北京互联网法院审理了一起案件，一家三口网络打赏消费超 650 万元，事后家长却刻意包装成“孩子偷偷乱花钱”，试图通过诉讼让平台全额退款。&gt;&gt; <a href=\"https://www.ithome.com/0/983/244.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"ec35\">9、美国 FCC 宣布禁止进口外国产人形机器人及电力逆变器</h2><p data-vmark=\"bb97\">美国 FCC 宣布立即生效禁令，禁止新的中国人形机器人及联网电力逆变器进入美国市场，旨在降低供应链与网络安全风险。措施主要针对新机型，宇树科技等企业或受影响。此举也意在推动关键产业制造环节回流美国。&gt;&gt; <a href=\"https://www.ithome.com/0/982/826.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"67e2\">10、全球最轻 14 英寸金属笔记本华为 MateBook Pro S 亮相：搭麒麟 XE90 处理器，首创榫卯一体化结构</h2><p data-vmark=\"094d\">全球最轻 14 英寸金属笔记本 —— 华为 MateBook Pro S 笔记本 7 月 29 日首次公开亮相，搭麒麟 XE90 芯片，首创榫卯一体化结构，将在 8 月 5 日发布。&gt;&gt; <a href=\"https://www.ithome.com/0/983/161.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"2b68\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/d473c299-c115-4370-a535-cf898b344be9.jpg\" w=\"1440\" h=\"480\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1ed08fdaae489d7e58faa9d91a555219dc0e9472fd54dd151631026c49dcad42e8b0937dce1e0203b\" data-vmark=\"bcf5\" data-weibo=\"2\" class=\"no-alt-img\"></p><h2 data-vmark=\"f467\">11、华为全新鸿蒙折叠电脑 MateBook Fold 非凡大师亮相，首搭麒麟 X90 Plus 处理器</h2><p data-vmark=\"26c8\">在 7 月 29 日的华为鸿蒙电脑新品技术沟通会上，华为 MateBook Fold 非凡大师全新鸿蒙折叠电脑也迎来了首次亮相，主打非凡显示、非凡科技、非凡设计、非凡系统和非凡体验。&gt;&gt; <a href=\"https://www.ithome.com/0/983/233.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"289c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/99878b09-1985-4df0-b85d-01833d225350.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"480\" data-vmark=\"cd3c\" data-mpos=\"0,0\" data-weibo=\"3\" data-marks=\"1931fd9d012eb6d12b7bae12ce4604649e304845c8d13a70a4e556fd4b2b708d69891ea0e42e1d91ea73edb731b65a76\" class=\"no-alt-img\"></p><h2 data-vmark=\"99b9\">12、华为鸿蒙电脑全新麒麟 XE90 / X90 Plus 处理器亮相，主打高能效 / 高性能</h2><p data-vmark=\"42e2\">在 7 月 29 日的华为鸿蒙电脑新品技术沟通会上，华为终端 BG 平板与 PC 产品线总裁朱懂东分享了鸿蒙电脑最新取得的成绩。据介绍，麒麟 X90 Plus 是一款定位高性能的 PC 处理器，而全新麒麟 XE90 则是一款定位高能效的处理器。&gt;&gt; <a href=\"https://www.ithome.com/0/983/094.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"d008\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/39fd1ad7-480e-4043-a542-70b2de05d9ab.jpg\" w=\"1440\" h=\"1080\" data-mpos=\"2,2\" data-weibo=\"4\"  data-vmark=\"5c8b\" class=\"no-alt-img\"></p><h2 data-vmark=\"c9ba\">13、事关智驾小蓝灯，全国汽车标准化技术委员会正开展相关工作规范汽车灯光安装使用</h2><p data-vmark=\"c729\">全国汽车标准化技术委员会正研究规范智驾车辆“小蓝灯”，因其灯光滥用易引发眩光、加塞等安全风险。目前国标 GB4785 虽未明令禁止，但原则上不允许使用非标准定义的外部灯具。全国汽车标准化技术委员会已启动相关标准修订工作。&gt;&gt; <a href=\"https://www.ithome.com/0/983/329.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"568f\">14、雷军晒小米机器人在工厂工作视频：“督工”竟也是机器人，还会比耶耍酷</h2><p data-vmark=\"95b6\">小米创办人、董事长兼 CEO 雷军 7 月 29 日在微博分享了一条来自机器人团队的视频。视频开头一切正常，就是一辆白色涂装的小米机器人在工作。就在该机器人结束工作时，画面一转，在一旁的“督工”竟也是机器人，它还顺手比了一个耶。&gt;&gt; <a href=\"https://www.ithome.com/0/983/342.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"476d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/b09f8859-4fd3-4542-b07e-02f5b5b39b4f.jpg\" w=\"1080\" h=\"1920\" data-weibo=\"5\" data-vmark=\"e631\" class=\"no-alt-img\"></p><h2 data-vmark=\"b274\">15、领克汽车：合格证参数录入不一致导致部分四驱 07GT 无法上牌，已提交换证申请、给予相应用户积分补偿</h2><p data-vmark=\"2625\">领克汽车 7 月 29 日发布领克 07GT 答网友问第九期，就部分四驱 07GT 车辆无法上牌事宜进行统一说明。&gt;&gt; <a href=\"https://www.ithome.com/0/983/335.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"68ce\">16、蔚来马麟谈“智驾小蓝灯将被禁用”：有些让后车跟车时看着刺眼，有安全隐患</h2><p data-vmark=\"561d\">“智驾小蓝灯将被禁用”7 月 29 日登上热搜。上海蔚来汽车有限公司副总裁品牌与传播资深专家马麟发文谈及此事，称有些比尾灯还亮。他表示，有些让后车跟车时看着刺眼，有安全隐患。这些肯定不合适。&gt;&gt; <a href=\"https://www.ithome.com/0/983/250.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"c47a\">17、理想汽车李昕旸回应网传 i6 自动泊车频繁调整仍失败：车后有电动自行车占位，将优化泊车受阻提醒</h2><p data-vmark=\"5685\">理想汽车产品线负责人李昕旸表示，正与自动驾驶团队一起努力，在 9 月推送的 9.1 版本优化复杂场景下的泊车能力，未来也将持续提升辅助驾驶能力，优化泊车受阻提醒。&gt;&gt; <a href=\"https://www.ithome.com/0/982/984.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"1107\">18、理想汽车 CEO 李想欢迎雷军加入增程赛道：预祝小米澎程大卖</h2><p data-vmark=\"54b9\">小米创办人、董事长兼 CEO 雷军 7 月 29 日发长文，详细回应了“小米澎程为什么要做增程”和“现在进入是不是太晚”两个问题，其中提到理想新一代 L6 新上市销量持续走高。&gt;&gt; <a href=\"https://www.ithome.com/0/982/978.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"0be9\">19、雷军：小米现在出增程车“并不晚”，例如理想新一代 L6 销量持续走高</h2><p data-vmark=\"0c1e\">雷军公开回应小米推出澎程增程车的相关质疑，称增程市场远未饱和大有可为，小米自研增程系统将在 7 月 30 日技术发布会公开详解。&gt;&gt; <a href=\"https://www.ithome.com/0/982/973.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"f7f6\">20、国产大飞机 C919 高原型首架机起飞</h2><p data-vmark=\"57d7\">据央视新闻，7 月 29 日上午 7 时 59 分，C919 高原型首架机在上海浦东国际机场第四跑道起飞，开展首次飞行试验。&gt;&gt; <a href=\"https://www.ithome.com/0/982/818.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"52df\">21、华为鸿蒙电脑生态应用数量突破 19000 款，覆盖办公、娱乐、创作、游戏等核心场景</h2><p data-vmark=\"ff5a\">在 7 月 29 日的华为鸿蒙电脑新品技术沟通会上，华为终端 BG 平板与 PC 产品线总裁朱懂东宣布，鸿蒙电脑生态应用数量突破 19000 款，全面覆盖办公、娱乐、创作、游戏等核心场景。&gt;&gt; <a href=\"https://www.ithome.com/0/983/246.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"96c2\">22、小米澎程 N90 Max 汽车预热文案闹乌龙，官方更正“可放下两辆 25 英寸公路自行车”表述</h2><p data-vmark=\"107d\">小米澎程官方在预热 N90 Max 后备厢空间时，误将公路自行车描述为“25 英寸”，遭网友指正。目前官方已发文更正为正确的“700C”规格，并公布了实拍图中自行车的具体尺寸信息。小米汽车副总裁李肖爽也转发了更正微博。&gt;&gt; <a href=\"https://www.ithome.com/0/983/107.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"8001\">23、小米 REDMI K100 Pro 手机现身 Geekbench 跑分库：骁龙 8 Elite Gen 5 + 16GB RAM</h2><p data-vmark=\"f0b6\">该机单核跑分达 3429、多核跑分达 10461，此前曝光信息显示它还将搭载 185Hz 高刷屏、超 8000mAh 大电池等旗舰配置。&gt;&gt; <a href=\"https://www.ithome.com/0/983/090.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"59b2\">24、1 个充电桩 8 个码、扫码堪比开盲盒，央广网起底公共充电桩乱象</h2><p data-vmark=\"92c8\">“一桩多码”“同桩不同价”，让许多车主扫码充电成了“开盲盒”；而众多掺杂其间的广告码、钓鱼码，又让车主们扫码充电时俨然成了“扫雷”行动。&gt;&gt; <a href=\"https://www.ithome.com/0/983/012.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"7ff1\">25、消息称朴朴超市入驻淘宝闪购，曾被曝阿里有意 15 亿美元收购</h2><p data-vmark=\"04a6\">朴朴超市位于福州的部分门店已开始测试入驻淘宝闪购，预计月底将扩展至福建全省门店。&gt;&gt; <a href=\"https://www.ithome.com/0/982/947.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"cf42\">今天就先聊到这里，IT早报，咱们明天见。</p>",
+      "url": "https://www.ithome.com/0/983/372.htm",
+      "link": "https://www.ithome.com/0/983/372.htm",
+      "pubDate": "Wed, 29 Jul 2026 23:27:28 GMT",
+      "isoDate": "2026-07-29T23:27:28.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "automotive",
+      "tagScore": 41,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        },
+        {
+          "type": "stakeholder",
+          "id": "platform-partner"
+        }
+      ]
+    },
+    {
+      "title": "高通财报预警：苹果业务加速流失，中国手机厂商贡献收入已触底",
+      "description": "IT之家 7 月 30 日消息，高通今日发布了最新的 2026 财年第三季度财报，并对第四季度业绩作出展望。\n高通预计第四季度调整后每股收益在 2.05 至 2.25 美元之间，低于分析师平均预期的 2.36 美元。同时，高通警告称，由于供应链限制，来自苹果产品的收入下滑速度将快于此前预期。\n财报显示，高通第三财季营收为 99.5 亿美元（现汇率约合 674.46 亿元人民币），同比下降 4%，但略高于分析师预期的 96.7 亿美元；调整后每股收益为 2.21 美元，与市场预期基本持平。当季净利润为 20 亿美元（现汇率约合 135.57 亿元人民币）。芯片业务（QCT）营收为 85 亿美元（现汇率约合 576.17 亿元人民币），其中手机相关业务收入为 51 亿美元（现汇率约合 345.7 亿元人民币），同比下降 20%；物联网业务收入为 18.3 亿美元（现汇率约合 124.05 亿元人民币），汽车电子业务收入创纪录地达到 15.9 亿美元（现汇率约合 107.78 亿元人民币），同比增长 61%。\n高通 CEO 克里斯蒂亚诺 · 安蒙（Cristiano Amon）在接受路透社采访时表示，成本上涨不仅限于内存芯片，而是覆盖了整个供应链。为此，高通计划从 9 月 1 日起提高产品售价，以将毛利率恢复至历史水平。安蒙表示，调价需要与各客户逐一协商，短期内毛利率可能因成本和定价之间的暂时错位而小幅承压。\n关于苹果业务，高通预计从第四季度开始，来自苹果产品的收入将加速下滑。安蒙指出，供应限制导致高通在下一代 iPhone 中的零部件份额“远低于此前 20% 的估计”。\n苹果自 2019 年收购英特尔智能手机调制解调器业务后，一直在推进用自研组件取代高通调制解调器的计划。2019 年，两家公司结束了长期的法律纠纷，签署了为期六年的授权协议，苹果后来行使了延长两年的选择权，该协议现有效期至 2027 年 3 月。此外，高通从苹果获得的专利授权收入与芯片销售分开计算，短期内仍将持续。\n安蒙表示，高通正通过业务多元化应对苹果业务的流失，预计到 2027 财年，公司大部分芯片销售将来自智能手机以外的领域。他直言：“我们基本上用数据中心业务替代了苹果。”高通预计其数据中心业务到 2027 财年将创造 50 亿美元（IT之家注：现汇率约合 338.92 亿元人民币）收入。\n在安卓手机市场方面，高通重申，来自中国手机制造商的收入已在第三财季触底。但据 Counterpoint Research 数据，小米、OPPO 和 vivo 在 6 月当季的全球前五大智能手机厂商中出货量降幅最大。安蒙表示，虽然安卓手机销量开始回升，但手机厂商被迫提价，导致消费者转向高端机型中的低端产品甚至旧款机型，这种产品组合变化对高通的利润率构成了压力。\n高通对第四财季的营收指引为 97 亿至 105 亿美元，芯片业务营收预计在 84 亿至 90 亿美元之间。财报发布后，高通股价在盘后交易中下跌超过 4%。\n相关阅读：\n\n《高通 2026 财年第三财季归母净利润 20.02 亿美元，同比下降 24.91%》\n\n《高通宣布 9 月起芯片涨价：涨幅达两位数百分比，骁龙 8 Elite Gen 6 受影响》",
+      "content": "<p data-vmark=\"f49b\">IT之家 7 月 30 日消息，高通今日发布了最新的 2026 财年第三季度财报，并对第四季度业绩作出展望。</p><p data-vmark=\"4e12\">高通预计第四季度调整后每股收益在 2.05 至 2.25 美元之间，低于分析师平均预期的 2.36 美元。同时，高通警告称，由于供应链限制，来自苹果产品的收入下滑速度将快于此前预期。</p><p data-vmark=\"80b8\">财报显示，高通第三财季营收为 99.5 亿美元（现汇率约合 674.46 亿元人民币），同比下降 4%，但略高于分析师预期的 96.7 亿美元；调整后每股收益为 2.21 美元，与市场预期基本持平。当季净利润为 20 亿美元（现汇率约合 135.57 亿元人民币）。芯片业务（QCT）营收为 85 亿美元（现汇率约合 576.17 亿元人民币），其中手机相关业务收入为 51 亿美元（现汇率约合 345.7 亿元人民币），同比下降 20%；物联网业务收入为 18.3 亿美元（现汇率约合 124.05 亿元人民币），汽车电子业务收入创纪录地达到 15.9 亿美元（现汇率约合 107.78 亿元人民币），同比增长 61%。</p><p data-vmark=\"e280\">高通 CEO 克里斯蒂亚诺 · 安蒙（Cristiano Amon）在接受路透社采访时表示，成本上涨不仅限于内存芯片，而是覆盖了整个供应链。为此，高通计划从 9 月 1 日起提高产品售价，以将毛利率恢复至历史水平。安蒙表示，调价需要与各客户逐一协商，短期内毛利率可能因成本和定价之间的暂时错位而小幅承压。</p><p data-vmark=\"2049\">关于苹果业务，高通预计从第四季度开始，来自苹果产品的收入将加速下滑。安蒙指出，供应限制导致高通在下一代 iPhone 中的零部件份额“远低于此前 20% 的估计”。</p><p data-vmark=\"2a28\">苹果自 2019 年收购英特尔智能手机调制解调器业务后，一直在推进用自研组件取代高通调制解调器的计划。2019 年，两家公司结束了长期的法律纠纷，签署了为期六年的授权协议，苹果后来行使了延长两年的选择权，该协议现有效期至 2027 年 3 月。此外，高通从苹果获得的专利授权收入与芯片销售分开计算，短期内仍将持续。</p><p data-vmark=\"8da4\">安蒙表示，高通正通过业务多元化应对苹果业务的流失，预计到 2027 财年，公司大部分芯片销售将来自智能手机以外的领域。他直言：“我们基本上用数据中心业务替代了苹果。”高通预计其数据中心业务到 2027 财年将创造 50 亿美元（IT之家注：现汇率约合 338.92 亿元人民币）收入。</p><p data-vmark=\"96c8\">在安卓手机市场方面，高通重申，来自中国手机制造商的收入已在第三财季触底。但据 Counterpoint Research 数据，小米、OPPO 和 vivo 在 6 月当季的全球前五大智能手机厂商中出货量降幅最大。安蒙表示，虽然安卓手机销量开始回升，但手机厂商被迫提价，导致消费者转向高端机型中的低端产品甚至旧款机型，这种产品组合变化对高通的利润率构成了压力。</p><p data-vmark=\"7bf6\">高通对第四财季的营收指引为 97 亿至 105 亿美元，芯片业务营收预计在 84 亿至 90 亿美元之间。财报发布后，高通股价在盘后交易中下跌超过 4%。</p><p data-vmark=\"f096\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"a154\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/983/357.htm\">高通 2026 财年第三财季归母净利润 20.02 亿美元，同比下降 24.91%</a>》</p></li><li><p data-vmark=\"ab3e\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/981/400.htm\">高通宣布 9 月起芯片涨价：涨幅达两位数百分比，骁龙 8 Elite Gen 6 受影响</a>》</p></li></ul>",
+      "url": "https://www.ithome.com/0/983/363.htm",
+      "link": "https://www.ithome.com/0/983/363.htm",
+      "pubDate": "Wed, 29 Jul 2026 22:41:38 GMT",
+      "isoDate": "2026-07-29T22:41:38.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 31,
+      "crossTags": [
+        {
+          "type": "competitor",
+          "id": "apple"
+        },
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
       "title": "高通 2026 财年第三财季归母净利润 20.02 亿美元，同比下降 24.91%",
-      "description": "IT之家 7 月 30 日消息，高通今日发布 2026 财年（2025 年 9 月 29 日～2026 年 9 月 27 日）第三财季（2026 年 3 月 30 日～2026 年 6 月 28 日）报告：\n \n  营业总收入： 99.47 亿美元，同比下降 4.03% \n  \n  毛利： 52.77 亿美元，同比下降 8.37% \n  \n  毛利率：53.05%，同比下降 2.51 个百分点 \n  \n  归母净利润： 20.02 亿美元，同比下降 24.91% \n  \n  经营现金流： 84.05 亿美元（九个月累计），同比下降 16.08% \n  \n  基本每股收益： 1.89 美元，同比下降 22.54% \n  \n  稀释每股收益： 1.87 美元（GAAP）， 2.21 美元（Non-GAAP），同比下降 23.05% \n \n   \n  \n AI 解读 \n 本次财报营收 99.47 亿美元，处于之前给出的业绩指引区间高端，符合市场预期。\n财报核心亮点\n\n非手机业务增长强劲，QCT汽车业务营收达到 15.88 亿美元，同比增长 61%，已经实现连续23个季度的双位数同比增长；QCT汽车和物联网业务合计营收同比增长 28%，符合公司长期增长战略。\n\n持续向股东回馈资本，本季度累计返还 23 亿美元，包括 9.73 亿美元现金分红和 14 亿美元股票回购，股东回报稳定。\n\n完成对Modular Inc的收购，为生成式和智能AI搭建开放软件基础，完善AI领域布局。\n\n未来展望\n公司预计，2029财年非手机业务总营收将达到 400 亿美元，较2024年11月披露目标实现翻倍；2027财年非手机业务（包括数据中心）同比增速将从2026财年的24%提升至超过60%，迎来增长拐点。对于2026财年第四季度，公司给出业绩指引：\n\n营收预计区间： 97 亿～ 105 亿美元\n\nGAAP稀释每股收益： 1.22 ～ 1.42 美元\n\nNon-GAAP稀释每股收益： 2.05 ～ 2.25 美元\n\n当前半导体行业面临全产业链投入成本上涨压力，公司已采取调价措施应对，预计将逐步改善毛利率水平。 \n \n 相关阅读： \n  \n  《联电 2026H1 营业总收入同比增长 11.28%，Q2 产能利用率达 85%》 \n  \n  《SK 海力士 2026 财年第二财季归母净利润 93.82 万亿韩元，同比增长 1240.8%》 \n  \n  《ASMPT 2026H1 持续经营业务新增订单总额同比增长 85.1%》 \n  \n  《恩智浦 2026 财年第二财季归母净利润 7.67 亿美元，同比增长 72%》 \n  \n  《Cadence 2026 财年第二财季归母净利润 3.67 亿美元，同比增长 129.35%》 \n  \n 风险提示：本文内容由 AI 自动分析生成，仅供参考，不代表IT之家观点。如有出入请以证监会指定上市公司信息披露平台为准。本文内容不构成投资建议，如有投资者据此操作，风险自担，IT之家对此不承担任何责任。",
-      "content": "<p class=\"v-focus\" data-vmark=\"0000\"> IT之家 7 月 30 日消息，高通今日发布 2026 财年（2025 年 9 月 29 日～2026 年 9 月 27 日）第三财季（2026 年 3 月 30 日～2026 年 6 月 28 日）报告：</p><ul class=\"list-paddingleft-2 v-focus\"> <li> <p data-vmark=\"0001\"> <strong>营业总收入</strong>： 99.47 亿美元，同比下降 4.03% </p> </li> <li> <p data-vmark=\"0002\"> <strong>毛利</strong>： 52.77 亿美元，同比下降 8.37% </p> </li> <li> <p data-vmark=\"0003\"> <strong>毛利率</strong>：53.05%，同比下降 2.51 个百分点 </p> </li> <li> <p data-vmark=\"0004\"> <strong>归母净利润</strong>： 20.02 亿美元，同比下降 24.91% </p> </li> <li> <p data-vmark=\"0005\"> <strong>经营现金流</strong>： 84.05 亿美元（九个月累计），同比下降 16.08% </p> </li> <li> <p data-vmark=\"0006\"> <strong>基本每股收益</strong>： 1.89 美元，同比下降 22.54% </p> </li> <li> <p data-vmark=\"0007\"> <strong>稀释每股收益</strong>： 1.87 美元（GAAP）， 2.21 美元（Non-GAAP），同比下降 23.05% </p> </li></ul> <p style=\"text-align: center;\" data-vmark=\"0008\"> <img src=\"https://img.ithome.com/newsuploadfiles/2026/7/85c4d46c-19fb-4619-84ee-00c7359e50bd.png\" class=\"no-alt-img not-source\"> </p> <blockquote class=\"ai-point ai-word-checked v-focus\" data-ai-tip=\"IT之家提示：解读内容由 Doubao Seed 2.0 lite 大模型生成，仅供参考。\"> <h3 class=\"ai-word-checked v-focus\" data-vmark=\"0018\"> AI 解读 </h3> <p class=\"ai-word-checked v-focus\" data-vmark=\"0009\">本次财报营收 99.47 亿美元，处于之前给出的业绩指引区间高端，符合市场预期。</p><h3 data-vmark=\"0019\">财报核心亮点</h3><ul class=\"list-paddingleft-2\"><li><p data-vmark=\"000a\">非手机业务增长强劲，<strong>QCT汽车业务营收达到 15.88 亿美元，同比增长 61%</strong>，已经实现连续23个季度的双位数同比增长；QCT汽车和物联网业务合计营收同比增长 28%，符合公司长期增长战略。</p></li><li><p data-vmark=\"000b\">持续向股东回馈资本，本季度累计返还 23 亿美元，包括 9.73 亿美元现金分红和 14 亿美元股票回购，股东回报稳定。</p></li><li><p data-vmark=\"000c\">完成对Modular Inc的收购，为生成式和智能AI搭建开放软件基础，完善AI领域布局。</p></li></ul><h3 data-vmark=\"001a\">未来展望</h3><p data-vmark=\"000d\">公司预计，2029财年非手机业务总营收将达到 400 亿美元，较2024年11月披露目标实现翻倍；2027财年非手机业务（包括数据中心）同比增速将从2026财年的24%提升至超过60%，迎来增长拐点。对于2026财年第四季度，公司给出业绩指引：</p><ul class=\"list-paddingleft-2\"><li><p data-vmark=\"000e\">营收预计区间： 97 亿～ 105 亿美元</p></li><li><p data-vmark=\"000f\">GAAP稀释每股收益： 1.22 ～ 1.42 美元</p></li><li><p data-vmark=\"0010\">Non-GAAP稀释每股收益： 2.05 ～ 2.25 美元</p></li></ul><p data-vmark=\"0011\">当前半导体行业面临全产业链投入成本上涨压力，公司已采取调价措施应对，预计将逐步改善毛利率水平。 </p></blockquote> <h3 class=\"v-focus\" data-vmark=\"001b\"> <strong>相关阅读：</strong> </h3> <ul class=\"small-size ai-word-checked list-paddingleft-2\"> <li> <p data-vmark=\"0012\"> 《<a target=\"_blank\" href=\"https://www.ithome.com/0/983/188.htm\">联电 2026H1 营业总收入同比增长 11.28%，Q2 产能利用率达 85%</a>》 </p> </li> <li> <p data-vmark=\"0013\"> 《<a target=\"_blank\" href=\"https://www.ithome.com/0/982/797.htm\">SK 海力士 2026 财年第二财季归母净利润 93.82 万亿韩元，同比增长 1240.8%</a>》 </p> </li> <li> <p data-vmark=\"0014\"> 《<a target=\"_blank\" href=\"https://www.ithome.com/0/982/795.htm\">ASMPT 2026H1 持续经营业务新增订单总额同比增长 85.1%</a>》 </p> </li> <li> <p data-vmark=\"0015\"> 《<a target=\"_blank\" href=\"https://www.ithome.com/0/982/791.htm\">恩智浦 2026 财年第二财季归母净利润 7.67 亿美元，同比增长 72%</a>》 </p> </li> <li> <p data-vmark=\"0016\"> 《<a target=\"_blank\" href=\"https://www.ithome.com/0/982/317.htm\">Cadence 2026 财年第二财季归母净利润 3.67 亿美元，同比增长 129.35%</a>》 </p> </li> </ul><p class=\"ad-tips ai-word-checked\" data-vmark=\"0017\"> <span class=\"ai-tip-name\">风险提示：</span>本文内容由 AI 自动分析生成，仅供参考，不代表IT之家观点。如有出入请以证监会指定上市公司信息披露平台为准。本文内容不构成投资建议，如有投资者据此操作，风险自担，IT之家对此不承担任何责任。</p>",
+      "description": "IT之家 7 月 30 日消息，高通今日发布 2026 财年（2025 年 9 月 29 日～2026 年 9 月 27 日）第三财季（2026 年 3 月 30 日～2026 年 6 月 28 日）报告：\n\n营业总收入： 99.47 亿美元（IT之家注：现汇率约合 674.25 亿元人民币），同比下降 4.03%\n\n毛利： 52.77 亿美元（现汇率约合 357.7 亿元人民币），同比下降 8.37%\n\n毛利率：53.05%，同比下降 2.51 个百分点\n\n归母净利润： 20.02 亿美元（现汇率约合 135.7 亿元人民币），同比下降 24.91%\n\n经营现金流： 84.05 亿美元（现汇率约合 569.73 亿元人民币）（九个月累计），同比下降 16.08%\n\n基本每股收益： 1.89 美元（现汇率约合 12.8 元人民币），同比下降 22.54%\n\n稀释每股收益： 1.87 美元（现汇率约合 12.7 元人民币）（GAAP），2.21 美元（现汇率约合 15 元人民币）（Non-GAAP），同比下降 23.05%\n\n\n\n\nAI 解读\n本次财报营收 99.47 亿美元（现汇率约合 674.25 亿元人民币），处于之前给出的业绩指引区间高端，符合市场预期。\n财报核心亮点\n\n非手机业务增长强劲，QCT 汽车业务营收达到 15.88 亿美元（现汇率约合 107.64 亿元人民币），同比增长 61%，已经实现连续 23 个季度的双位数同比增长；QCT 汽车和物联网业务合计营收同比增长 28%，符合公司长期增长战略。\n\n持续向股东回馈资本，本季度累计返还 23 亿美元（现汇率约合 155.9 亿元人民币），包括 9.73 亿美元（现汇率约合 65.95 亿元人民币）现金分红和 14 亿美元（现汇率约合 94.9 亿元人民币）股票回购，股东回报稳定。\n\n完成对 Modular Inc 的收购，为生成式和智能 AI 搭建开放软件基础，完善 AI 领域布局。\n\n未来展望\n公司预计，2029 财年非手机业务总营收将达到 400 亿美元（现汇率约合 2711.39 亿元人民币），较 2024 年 11 月披露目标实现翻倍；2027 财年非手机业务（包括数据中心）同比增速将从 2026 财年的 24% 提升至超过 60%，迎来增长拐点。对于 2026 财年第四季度，公司给出业绩指引：\n\n营收预计区间： 97 亿～ 105 亿美元（现汇率约合 657.51 亿～ 711.74 亿元人民币）\n\nGAAP 稀释每股收益： 1.22 ～ 1.42 美元（现汇率约合 8.3 ～ 9.6 元人民币）\n\nNon-GAAP 稀释每股收益： 2.05 ～ 2.25 美元（现汇率约合 13.9 ～ 15.3 元人民币）\n\n当前半导体行业面临全产业链投入成本上涨压力，公司已采取调价措施应对，预计将逐步改善毛利率水平。\n\n相关阅读： \n\n《联电 2026H1 营业总收入同比增长 11.28%，Q2 产能利用率达 85%》\n\n《SK 海力士 2026 财年第二财季归母净利润 93.82 万亿韩元，同比增长 1240.8%》\n\n《ASMPT 2026H1 持续经营业务新增订单总额同比增长 85.1%》\n\n《恩智浦 2026 财年第二财季归母净利润 7.67 亿美元，同比增长 72%》\n\n《Cadence 2026 财年第二财季归母净利润 3.67 亿美元，同比增长 129.35%》\n\n风险提示：本文内容由 AI 自动分析生成，仅供参考，不代表IT之家观点。如有出入请以证监会指定上市公司信息披露平台为准。本文内容不构成投资建议，如有投资者据此操作，风险自担，IT之家对此不承担任何责任。",
+      "content": "<p data-vmark=\"0000\">IT之家 7 月 30 日消息，高通今日发布 2026 财年（2025 年 9 月 29 日～2026 年 9 月 27 日）第三财季（2026 年 3 月 30 日～2026 年 6 月 28 日）报告：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0001\"><strong>营业总收入</strong>： 99.47 亿美元（IT之家注：现汇率约合 674.25 亿元人民币），同比下降 4.03%</p></li><li><p data-vmark=\"0002\"><strong>毛利</strong>： 52.77 亿美元（现汇率约合 357.7 亿元人民币），同比下降 8.37%</p></li><li><p data-vmark=\"0003\"><strong>毛利率</strong>：53.05%，同比下降 2.51 个百分点</p></li><li><p data-vmark=\"0004\"><strong>归母净利润</strong>： 20.02 亿美元（现汇率约合 135.7 亿元人民币），同比下降 24.91%</p></li><li><p data-vmark=\"0005\"><strong>经营现金流</strong>： 84.05 亿美元（现汇率约合 569.73 亿元人民币）（九个月累计），同比下降 16.08%</p></li><li><p data-vmark=\"0006\"><strong>基本每股收益</strong>： 1.89 美元（现汇率约合 12.8 元人民币），同比下降 22.54%</p></li><li><p data-vmark=\"0007\"><strong>稀释每股收益</strong>： 1.87 美元（现汇率约合 12.7 元人民币）（GAAP），2.21 美元（现汇率约合 15 元人民币）（Non-GAAP），同比下降 23.05%</p></li></ul><p style=\"text-align: center;\" data-vmark=\"af3f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/49de3d2e-1279-43d9-8cff-d8ead0d0364f.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"811\" data-weibo=\"0\" data-vmark=\"71ef\"></p><p style=\"text-align: center;\" data-vmark=\"b6bb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/9d17429b-be7a-4789-bbe8-ac055684a53b.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"806\" data-weibo=\"1\" data-vmark=\"064d\"></p><blockquote class=\"ai-point\" data-ai-tip=\"IT之家提示：解读内容由 Doubao Seed 2.0 lite 大模型生成，仅供参考。\"><h3 data-vmark=\"0018\">AI 解读</h3><p data-vmark=\"0009\">本次财报营收 99.47 亿美元（现汇率约合 674.25 亿元人民币），处于之前给出的业绩指引区间高端，符合市场预期。</p><h3 data-vmark=\"0019\">财报核心亮点</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"000a\">非手机业务增长强劲，<strong>QCT 汽车业务营收达到 15.88 亿美元（现汇率约合 107.64 亿元人民币），同比增长 61%</strong>，已经实现连续 23 个季度的双位数同比增长；QCT 汽车和物联网业务合计营收同比增长 28%，符合公司长期增长战略。</p></li><li><p data-vmark=\"000b\">持续向股东回馈资本，本季度累计返还 23 亿美元（现汇率约合 155.9 亿元人民币），包括 9.73 亿美元（现汇率约合 65.95 亿元人民币）现金分红和 14 亿美元（现汇率约合 94.9 亿元人民币）股票回购，股东回报稳定。</p></li><li><p data-vmark=\"000c\">完成对 Modular Inc 的收购，为生成式和智能 AI 搭建开放软件基础，完善 AI 领域布局。</p></li></ul><h3 data-vmark=\"001a\">未来展望</h3><p data-vmark=\"000d\">公司预计，2029 财年非手机业务总营收将达到 400 亿美元（现汇率约合 2711.39 亿元人民币），较 2024 年 11 月披露目标实现翻倍；2027 财年非手机业务（包括数据中心）同比增速将从 2026 财年的 24% 提升至超过 60%，迎来增长拐点。对于 2026 财年第四季度，公司给出业绩指引：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"000e\">营收预计区间： 97 亿～ 105 亿美元（现汇率约合 657.51 亿～ 711.74 亿元人民币）</p></li><li><p data-vmark=\"000f\">GAAP 稀释每股收益： 1.22 ～ 1.42 美元（现汇率约合 8.3 ～ 9.6 元人民币）</p></li><li><p data-vmark=\"0010\">Non-GAAP 稀释每股收益： 2.05 ～ 2.25 美元（现汇率约合 13.9 ～ 15.3 元人民币）</p></li></ul><p data-vmark=\"0011\">当前半导体行业面临全产业链投入成本上涨压力，公司已采取调价措施应对，预计将逐步改善毛利率水平。</p></blockquote><h3 data-vmark=\"001b\"><strong>相关阅读：</strong> </h3><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"0012\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/983/188.htm\">联电 2026H1 营业总收入同比增长 11.28%，Q2 产能利用率达 85%</a>》</p></li><li><p data-vmark=\"0013\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/982/797.htm\">SK 海力士 2026 财年第二财季归母净利润 93.82 万亿韩元，同比增长 1240.8%</a>》</p></li><li><p data-vmark=\"0014\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/982/795.htm\">ASMPT 2026H1 持续经营业务新增订单总额同比增长 85.1%</a>》</p></li><li><p data-vmark=\"0015\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/982/791.htm\">恩智浦 2026 财年第二财季归母净利润 7.67 亿美元，同比增长 72%</a>》</p></li><li><p data-vmark=\"0016\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/982/317.htm\">Cadence 2026 财年第二财季归母净利润 3.67 亿美元，同比增长 129.35%</a>》</p></li></ul><p class=\"ad-tips\" data-vmark=\"0017\"><span class=\"ai-tip-name\">风险提示：</span>本文内容由 AI 自动分析生成，仅供参考，不代表IT之家观点。如有出入请以证监会指定上市公司信息披露平台为准。本文内容不构成投资建议，如有投资者据此操作，风险自担，IT之家对此不承担任何责任。</p>",
       "url": "https://www.ithome.com/0/983/357.htm",
       "link": "https://www.ithome.com/0/983/357.htm",
       "pubDate": "Wed, 29 Jul 2026 20:04:51 GMT",
@@ -21,24 +111,6 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 12,
-      "crossTags": []
-    },
-    {
-      "title": "高通：成为宝马集团未来十年数字座舱与驾驶辅助系统的主要计算芯片提供商",
-      "description": "IT之家 7 月 29 日消息，高通技术公司与宝马集团宣布达成一项重要合作协议。\n根据协议，高通技术公司将在未来十年为宝马集团下一代数字座舱，以及先进驾驶辅助系统 / 自动驾驶（ADAS / AD）提供计算芯片。\n\n此次合作涵盖高通技术公司的骁龙数字底盘多项解决方案，包括其性能最强大的系统级芯片（SoC）—— 骁龙汽车平台至尊版，以及专用 AI 加速器。\nIT之家获悉，双方最新的合作成果是 2025 年 11 月 Snapdragon Ride Pilot（辅助驾驶系统）在 BMW iX3 成功量产，这也是宝马集团新世代（Neue Klasse）的首款车型。\n相关阅读：\n\n《可双手离开方向盘：宝马与高通合作研发骁龙 Ride Pilot 辅助驾驶》",
-      "content": "<p data-vmark=\"8654\">IT之家 7 月 29 日消息，高通技术公司与宝马集团宣布达成一项重要合作协议。</p><p data-vmark=\"3a07\">根据协议，高通技术公司将在<strong>未来十年</strong>为宝马集团下一代<strong>数字座舱</strong>，以及<strong>先进驾驶辅助系统 / 自动驾驶</strong>（ADAS / AD）提供计算芯片。</p><p style=\"text-align: center;\" data-vmark=\"4d3f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/954d6afa-eecd-47d4-982d-ae61f5f0fa4f.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"564\" data-weibo=\"0\" data-vmark=\"2202\"></p><p data-vmark=\"caad\">此次合作涵盖高通技术公司的骁龙数字底盘多项解决方案，包括其性能最强大的系统级芯片（SoC）—— 骁龙汽车平台至尊版，以及专用 AI 加速器。</p><p data-vmark=\"e953\">IT之家获悉，双方最新的合作成果是 2025 年 11 月 Snapdragon Ride Pilot（辅助驾驶系统）在 BMW iX3 成功量产，这也是宝马集团新世代（Neue Klasse）的首款车型。</p><p data-vmark=\"de53\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"5200\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/880/765.htm\">可双手离开方向盘：宝马与高通合作研发骁龙 Ride Pilot 辅助驾驶</a>》</p></li></ul>",
-      "url": "https://www.ithome.com/0/983/330.htm",
-      "link": "https://www.ithome.com/0/983/330.htm",
-      "pubDate": "Wed, 29 Jul 2026 14:04:12 GMT",
-      "isoDate": "2026-07-29T14:04:12.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "automotive",
-      "tagScore": 15,
       "crossTags": []
     },
     {
@@ -80,70 +152,6 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 7,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "朗界 M540A01 三防新机入网：搭高通 QCM6490 处理器，为诺基亚 IS540.1 工业手机“远房兄弟”",
-      "description": "IT之家 7 月 29 日消息，朗界旗下新款 RG540 工业手机（公网对讲机）已通过电信设备进网许可，该机具体型号为 M540A01，相对于现款 RG540 核心参数一致，预计是组件供应商方面有所变更。\n\n\n参数方面，该机配备一块 6 英寸 1080×2160 分辨率 6 英寸 TFT 面板，匹配 5Mp 前置摄像头；手机后置 48Mp 摄像头。其搭载主频 2.7GHz 的 8 核处理器（高通 QCM6490），配备 8GB RAM + 128GB 内置存储，最高支持 512GB 的 SD 卡扩展存储，配备 4400mAh 额定容量电池，运行安卓操作系统。\n值得一提的是，在公开网络上搜索“M540A01”，反而能找到 i.safe 旗下的 MOBILE IS540.1 工业手机结果，查看相应官网产品，可以发现该机型号同样为 M540A01，外形、配置与上述朗界 RG540 几乎一致，预计就是 RG540 的“套娃机”。\n\n然而实际上诺基亚先前曾联合 i.safe，基于其 MOBILE IS540.1 工业手机推出了一款带有“NOKIA”标的“诺基亚 IS540.1”产品，也就是说目前这款朗界 M540A01 本质上是“诺基亚 IS540.1”的远房兄弟。",
-      "content": "<p data-vmark=\"0000\">IT之家 7 月 29 日消息，朗界旗下新款 RG540 工业手机（公网对讲机）已通过电信设备进网许可，该机具体型号为 M540A01，相对于现款 RG540 核心参数一致，预计是组件供应商方面有所变更。</p><p data-vmark=\"9d13\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/6e9b2265-e936-4d80-ae45-c78fa1e45ab5.png\" w=\"1225\" h=\"1062\" alt=\"设备参数截图1\" data-weibo=\"0\" data-vmark=\"b521\" class=\"not-source\"></p><p data-vmark=\"1da9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/9995ccd3-d172-4413-9244-54d8a80dea1a.jpg\" w=\"1440\" h=\"554\" data-weibo=\"1\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d130971418b97381c6b09270a303bbe8a2ac511f25b82ee6acadcc8e2dc83c10af2a3d21893aa9d9a7\" data-vmark=\"e84e\" class=\"not-source\"></p><p data-vmark=\"0002\">参数方面，该机配备一块 6 英寸 1080×2160 分辨率 6 英寸 TFT 面板，匹配 5Mp 前置摄像头；手机后置 48Mp 摄像头。其搭载主频 2.7GHz 的 8 核处理器（高通 QCM6490），配备 8GB RAM + 128GB 内置存储，最高支持 512GB 的 SD 卡扩展存储，配备 4400mAh 额定容量电池，运行安卓操作系统。</p><p data-vmark=\"0001\">值得一提的是，在公开网络上搜索“M540A01”，反而能找到 <span class=\"link-text-start-with-http\">i.safe</span> 旗下的 MOBILE IS540.1 工业手机结果，查看相应官网产品，可以发现该机型号同样为 M540A01，外形、配置与上述朗界 RG540 几乎一致，预计就是 RG540 的“套娃机”。</p><p data-vmark=\"ce34\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/6e124f26-d2e6-451f-9fbb-afcdd568176b.jpg\" w=\"1440\" h=\"823\" data-weibo=\"2\" data-mpos=\"2,2\"  data-vmark=\"4551\" class=\"not-source\"></p><p data-vmark=\"80c0\">然而实际上诺基亚先前曾联合 <span class=\"link-text-start-with-http\">i.safe</span>，基于其 MOBILE IS540.1 工业手机推出了一款带有“NOKIA”标的“诺基亚 IS540.1”产品，也就是说目前这款朗界 M540A01 本质上是“诺基亚 IS540.1”的远房兄弟。</p><p data-vmark=\"eb92\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2023/9/a496378d-a8bf-4acb-86bd-1bd76443704e.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1200\" h=\"675\" data-weibo=\"3\" data-vmark=\"c1ff\" class=\"not-source\"></p>",
-      "url": "https://www.ithome.com/0/982/793.htm",
-      "link": "https://www.ithome.com/0/982/793.htm",
-      "pubDate": "Wed, 29 Jul 2026 12:10:37 GMT",
-      "isoDate": "2026-07-29T12:10:37.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 9,
-      "crossTags": []
-    },
-    {
-      "title": "OPPO 神秘 8000mAh 电池新机曝光：搭 6.57 英寸 1080P 直屏，预计为 A7 Pro",
-      "description": "IT之家 7 月 29 日消息，博主 @熊猫很禿然 发文，曝光了隶属 OPPO A7 系列产品线的新机，该机整体重量 204g、厚度 8.8mm，正面将配备一块 6.57 英寸 1080P 直屏（预计为 OLED 面板），搭载“2.4GHz 处理器”（预计为高通骁龙 4 Gen 5），内置 8000mAh 电池，支持 80W 有线充电。\n\n综合此前已曝光的 OPPO A7 Pro Max 规格，预计该博主本次曝光的这款新机为 OPPO A7 Pro。\n作为参考，此前消息显示 OPPO A7 Pro Max 厚度 8.47mm，重量 226g，正面配备一块 6.78 英寸 1.5K 120Hz OLED 直屏，匹配 50Mp 自拍摄像头；手机背面配备 50Mp 主摄 + 2Mp 辅助镜头。搭载高通骁龙 4 Gen 5 芯片，拥有 10000mAh 单电芯大电池，支持 80W 有线充电。",
-      "content": "<p data-vmark=\"e994\">IT之家 7 月 29 日消息，博主 @熊猫很禿然 发文，曝光了隶属 OPPO A7 系列产品线的新机，该机整体重量 204g、厚度 8.8mm，正面将配备一块 6.57 英寸 1080P 直屏（预计为 OLED 面板），搭载“2.4GHz 处理器”（预计为高通骁龙 4 Gen 5），内置 8000mAh 电池，支持 80W 有线充电。</p><p data-vmark=\"0cfa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/47046053-bd40-4ca3-8e88-cb5b97b8f84e.jpg\" w=\"796\" h=\"312\" data-weibo=\"0\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d16f7576fc6d97bcd653dc4c32ff56e94718e0c849d89961e7bba7467ff4ff50895be35ab640097c87\" data-vmark=\"7e14\"></p><p data-vmark=\"a35e\">综合此前已曝光的 OPPO A7 Pro Max 规格，预计该博主本次曝光的这款新机为 OPPO A7 Pro。</p><p data-vmark=\"0aaa\">作为参考，此前消息显示 OPPO A7 Pro Max 厚度 8.47mm，重量 226g，正面配备一块 6.78 英寸 1.5K 120Hz OLED 直屏，匹配 50Mp 自拍摄像头；手机背面配备 50Mp 主摄 + 2Mp 辅助镜头。搭载高通骁龙 4 Gen 5 芯片，拥有 10000mAh 单电芯大电池，支持 80W 有线充电。</p><p data-vmark=\"8edf\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/9cffcdfa-4289-4e50-a7da-3a4ac4c8af81.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2680\" data-vmark=\"84d1\" data-mpos=\"2,0\" data-weibo=\"1\" ></p>",
-      "url": "https://www.ithome.com/0/983/278.htm",
-      "link": "https://www.ithome.com/0/983/278.htm",
-      "pubDate": "Wed, 29 Jul 2026 11:38:08 GMT",
-      "isoDate": "2026-07-29T11:38:08.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 4,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "消息称小米平板 8S Pro 配备玄戒 O3 处理器，搭载 12.5 英寸 3.2K 分辨率 LCD 面板",
-      "description": "IT之家 7 月 29 日消息，博主 @熊猫很禿然 发文，曝光了小米平板 8S Pro 的规格信息，该机正面配备一块 12.5 英寸 3.2K 分辨率 LCD 面板，搭载 32Mp 自拍摄像头；平板背面搭载 50Mp 主摄 + 2Mp 辅助摄像头。机身内置玄戒 O3 处理器，内置 12000mAh 电池（支持 120W 有线充电）。\n\n同时，该博主还在评论区透露玄戒 O3 处理器“目前是平板和折叠屏先上”，预计这里的折叠屏就是小米 MIXFold5 折叠屏手机。此前博主透露该机将采用横置相机模组设计，搭载自研无痕铰链，同时采用侧边指纹，为“万元档”价位。\n回顾小米平板 8 Pro，该机搭载 11.2 英寸 3.2K 高清护眼面板，使用高通骁龙 8 至尊版移动平台，上市价格为 2799 元起。",
-      "content": "<p data-vmark=\"c4a9\">IT之家 7 月 29 日消息，博<span class=\"no-auto-spacing\">主 @熊猫很禿然 发文</span>，曝光了小米平板 8S Pro 的规格信息，该机正面配备一块 12.5 英寸 3.2K 分辨率 LCD 面板，搭载 32Mp 自拍摄像头；平板背面搭载 50Mp 主摄 + 2Mp 辅助摄像头。机身内置玄戒 O3 处理器，内置 12000mAh 电池（支持 120W 有线充电）。</p><p style=\"text-align: center;\" data-vmark=\"c94c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/bd8a95b2-137d-4478-a129-73b95350e6e1.jpg?x-bce-process=image/format,f_auto\" w=\"1010\" h=\"372\" data-weibo=\"0\" data-mpos=\"2,2\"  data-vmark=\"ddd6\"></p><p data-vmark=\"26ca\">同时，该博主还在评论区透露玄戒 O3 处理器“目前是平板和折叠屏先上”，预计这里的折叠屏就是小米 MIXFold5 折叠屏手机。此前博主透露该机将采用横置相机模组设计，搭载自研无痕铰链，同时采用侧边指纹，为“万元档”价位。</p><p data-vmark=\"2ff6\">回顾小米平板 8 Pro，该机搭载 11.2 英寸 3.2K 高清护眼面板，使用高通骁龙 8 至尊版移动平台，上市价格为 2799 元起。</p><p style=\"text-align: center;\" data-vmark=\"1a2b\"><img src=\"https://img.ithome.com/img/share/4ba38d80-f6dd-40cf-ba98-f8d869c4687d.png\" w=\"750\" h=\"1516\" data-for-products=\"JTdCJTIycHJvZHVjdElkcyUyMiUzQSU1QjQ3MDkxJTVEJTJDJTIycHJvZHVjdHMlMjIlM0ElNUIlN0IlMjJwcm9kdWN0TmFtZSUyMiUzQSUyMiVFNSVCMCU4RiVFNyVCMSVCMyUyMFBhZCUyMDglMjBQcm8lMjIlMkMlMjJwcm9kdWN0SWQlMjIlM0E0NzA5MSU3RCU1RCUyQyUyMnRpdGxlJTIyJTNBJTIyJUU0JUJBJUE3JUU1JTkzJTgxJUU1JThGJTgyJUU2JTk1JUIwJUU4JUFGJUE2JUU2JTgzJTg1JTIyJTJDJTIyYmdDb2xvciUyMiUzQSUyMiUyMzAwMDAwMCUyMiUyQyUyMmxpbmVDb2xvciUyMiUzQSUyMiUyM0EyQTJBMiUyMiUyQyUyMnRleHRDb2xvciUyMiUzQSUyMiUyM0ZGRkZGRiUyMiUyQyUyMmZpcnN0Q29sb3IlMjIlM0ElMjIlMjNkMjIyMjIlMjIlMkMlMjJxckNvZGUlMjIlM0F0cnVlJTJDJTIyd2F0ZXJNYXJrJTIyJTNBdHJ1ZSUyQyUyMnNob3dJbWFnZSUyMiUzQXRydWUlMkMlMjJzaG93U2F0ZWxsaXRlJTIyJTNBZmFsc2UlN0Q=\" data-vmark=\"f2b6\"></p><p style=\"text-align: center;\" data-vmark=\"9c1d\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/fe5b860f-9f82-4801-b57b-32e36b4842b0.jpg\" w=\"1268\" h=\"846\" alt=\"图片 8\" data-weibo=\"1\" data-vmark=\"1475\"></p>",
-      "url": "https://www.ithome.com/0/983/273.htm",
-      "link": "https://www.ithome.com/0/983/273.htm",
-      "pubDate": "Wed, 29 Jul 2026 11:20:40 GMT",
-      "isoDate": "2026-07-29T11:20:40.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 6,
       "crossTags": [
         {
           "type": "stakeholder",
