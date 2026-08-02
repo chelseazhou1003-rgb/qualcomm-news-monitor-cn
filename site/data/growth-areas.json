@@ -1,8 +1,27 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-02T06:04:31.763Z",
+  "generatedAt": "2026-08-02T15:38:31.855Z",
   "section": "growth-areas",
   "sectionTitle": "增长领域",
-  "count": 0,
-  "articles": []
+  "count": 1,
+  "articles": [
+    {
+      "title": "高通完成收购 Modular，加速 AI 计算布局",
+      "description": "IT之家 8 月 2 日消息，高通公司最近（7 月 29 日）宣布完成收购 Modular Inc.，双方将进一步打造领先的 AI 计算平台，提供完整的 AI 解决方案。\n\nIT之家从官方新闻稿了解到，Modular 是一家专注于 AI 原生软件基础设施的初创企业，他们的软件平台可帮助开发者在异构计算系统中，部署生成式 AI 和智能体。\n据悉，此次收购将加速高通在 AI 方面的发展进度，如数据中心、边缘基础设施、工业 AI 等。同时帮助 Modular 扩大市场并覆盖更多用户。Modular 对开放异构生态系统的承诺不变，并提供 CPU、GPU 和 NPU 的定制方案。\nModular 旗下的 Mojo、MAX 和 Modular Cloud 将继续作为产品和品牌运营，并获得高通公司的投资和支持。Modular 联合创始人兼 CEO Chris Lattner 将出任高通技术公司高级 AI 软件与平台执行副总裁。",
+      "content": "<p data-vmark=\"6f73\">IT之家 8 月 2 日消息，高通公司最近（7 月 29 日）宣布完成收购 Modular Inc.，双方将进一步打造领先的 AI 计算平台，提供完整的 AI 解决方案。</p><p style=\"text-align: center;\" data-vmark=\"ec1c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/4df1c7e0-ce6e-4ec0-80ad-bbac8addf88e.png?x-bce-process=image/format,f_auto\" w=\"1221\" h=\"687\" data-weibo=\"0\" data-vmark=\"a5d4\" class=\"no-alt-img\"></p><p data-vmark=\"47de\">IT之家从官方新闻稿了解到，Modular 是一家专注于 AI 原生软件基础设施的初创企业，他们的软件平台可帮助开发者在异构计算系统中，部署生成式 AI 和智能体。</p><p data-vmark=\"ee50\">据悉，<strong>此次收购将加速高通在 AI 方面的发展进度</strong>，如数据中心、边缘基础设施、工业 AI 等。同时帮助 Modular 扩大市场并覆盖更多用户。Modular 对开放异构生态系统的承诺不变，并提供 CPU、GPU 和 NPU 的定制方案。</p><p data-vmark=\"9467\"><strong>Modular 旗下的 Mojo</strong>、<strong>MAX 和 Modular Cloud 将继续作为产品和品牌运营</strong>，并获得高通公司的投资和支持。Modular 联合创始人兼 CEO <span class=\"hover:entity-accent entity-underline inline cursor-pointer align-baseline\">Chris Lattner 将出任高通技术公司高级 AI 软件与平台执行副总裁。</span></p>",
+      "url": "https://www.ithome.com/0/984/662.htm",
+      "link": "https://www.ithome.com/0/984/662.htm",
+      "pubDate": "Sun, 02 Aug 2026 00:41:30 GMT",
+      "isoDate": "2026-08-02T00:41:30.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "on-device-ai",
+      "tagScore": 4,
+      "crossTags": []
+    }
+  ]
 }
