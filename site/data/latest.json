@@ -1,12 +1,12 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-02T15:38:31.855Z",
-  "totalArticles": 13,
+  "generatedAt": "2026-08-02T19:45:13.482Z",
+  "totalArticles": 8,
   "sections": [
     {
       "id": "core-businesses",
       "title": "核心业务",
-      "count": 5
+      "count": 3
     },
     {
       "id": "ip-legal",
@@ -16,12 +16,12 @@
     {
       "id": "growth-areas",
       "title": "增长领域",
-      "count": 1
+      "count": 0
     },
     {
       "id": "macro-environment",
       "title": "宏观环境",
-      "count": 7
+      "count": 5
     },
     {
       "id": "competitors",
@@ -31,7 +31,7 @@
     {
       "id": "stakeholders",
       "title": "关键利益相关方",
-      "count": 12
+      "count": 8
     }
   ]
 }
