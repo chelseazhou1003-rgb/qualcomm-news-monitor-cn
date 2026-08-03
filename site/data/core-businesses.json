@@ -1,10 +1,55 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T06:01:36.885Z",
+  "generatedAt": "2026-08-04T07:44:07.526Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 8,
+  "count": 7,
   "articles": [
+    {
+      "title": "IT早报 0804：曝三星中国开始收缩手机布局；谷歌总市值超苹果升至全球第二；31.98 万元起比亚迪腾势 Z9S 预售发布；阿里千问 Qwen3.8 模型登场...",
+      "description": "“IT早报”时间，大家好，现在是 2026 年 8 月 4 日星期二，今天的重要科技资讯有：\n1、消息称三星中国开始收缩手机布局：30 万元月销售额不达标门店，将被逐步清退\n三星手机开始收缩中国市场布局。知情人士表示，月销售额不到 30 万元的门店，将被逐步清退。>> 查看详情\n2、谷歌母公司 Alphabet 市值超过苹果，升至全球第二\n当地时间 7 月 17 日，美股开盘数分钟后，市值排行发生变化，谷歌母公司 Alphabet 超过苹果升至全球第二。>> 查看详情\n\n3、比亚迪腾势 Z9S“科技豪华智能轿车”预售发布：搭天神之眼 5.0、充电速度全球第一，31.98 万元起\n比亚迪腾势 Z9S 8 月 3 日晚预售发布，定位“科技豪华智能轿车”，标配天神之眼 5.0、第二代刀片电池，打破了纯电续航最长量产车纪录 —— CLTC 工况达 1100km，预售价 31.98 万元起。>> 查看详情\n\n4、阿里巴巴千问 Qwen3.8-Max 模型正式上线，总参数量 2.4 万亿\n该模型拥有 2.4 万亿参数，在编程、办公等多领域能力全面升级，可低人工介入完成复杂开放任务，模型权重将于下周开源。>> 查看详情\n\n5、华为半导体首席科学家廖恒罕见受访：首提芯片“18 层宝塔”理论，大赞 DeepSeek 梁文锋\n廖恒系统复盘了昇腾 AI 芯片突围历程，指出当前芯片行业稀缺纵向贯通的复合型人才，还评价了 DeepSeek 梁文锋，坦言担忧芯片硬件人才断档。>> 查看详情\n6、全球第一：比亚迪腾势 Z9S 打破纯电续航最长量产车纪录，CLTC 工况达 1100km\n在比亚迪 8 月 3 日晚的腾势 Z9S 预售发布会上，腾势汽车总经理李慧宣布，“科技豪华智能轿车”腾势 Z9S 打破纯电续航最长量产车纪录 —— CLTC 工况可达 1100km，位居全球第一。>> 查看详情\n\n7、小米通报：两网友使用 AI 生成虚假车祸视频，已被行政拘留 7 日、行政罚款\n小米公司 8 月 3 日发文称，两名网友因使用 AI 技术生成虚假车祸视频抹黑小米汽车及高管，已被警方分别处以行政拘留 7 日和行政罚款，并删除所有侵权链接。小米方面强调，网络不是法外之地，将坚决打击造谣行为。>> 查看详情\n8、理想汽车历史上首次拆车直播，新一代 L6 定档 8 月 4 日“开拆”\n理想汽车产品线负责人李昕旸 8 月 3 日发文称“明天准备搞个大工程”。他表示，8 月 4 日 15:00，理想汽车将从一台完整的新一代理想 L6 开始，用几个小时的时间为大家进行现场拆解。>> 查看详情\n9、首位中国科学家：王劲松获威廉 · 诺德伯格奖章，并同步获得一颗小行星命名\n当地时间 8 月 3 日，在意大利佛罗伦萨举办的第 46 届国际空间研究委员会（COSPAR）科学大会上，中国气象局王劲松研究员荣获威廉 · 诺德伯格奖章。>> 查看详情\n10、余承东官宣华为首款 RGB-MiniLED 电视来了：RGB 三原色独立发光，8 月 5 日正式开售\n华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东 8 月 3 日宣布，华为首款 RGB-MiniLED 电视来了！新品可通过 RGB 三原色独立发光，色彩更加准确，将在 8 月 5 日正式开售。>> 查看详情\n11、一加 16 手机定价曝光，8GB+256GB 版 4999 元\n爆料称一加 16 将提供四个配置版本，8+256GB 版本 4999 元，16+1TB 版 7499 元。以上消息官方尚未确认，网传售价是否真实，还需等待官方揭晓。>> 查看详情\n12、AMD Zen 6 处理器核心调度机制优化，改善游戏 1% Low 帧表现\nAMD Zen6 架构将通过全新核心调度机制优化游戏性能，在处理器触及功耗温度墙时，优先给游戏核心分配更多性能空间，预计可改善多任务下 1% Low 帧率表现，相关功能尚未得到官方确认。>> 查看详情\n13、华为余承东预告享界 G9 搭载车身一体化电动顶帐，8 月 5 日开启预订\n华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东 8 月 3 日发文称，享界 G9 空间能够灵活拓展，尾门厨房，可烹饪、可热饮，搭配车身一体化设计的电动顶帐，8 月 5 日正式开启预订。>> 查看详情\n14、小米胡馨心确认 REDMI K100 Pro Max 不会推出冠军版\nREDMI 产品经理胡馨心在微博确认，即将发布的 K100 Pro Max 将不会推出冠军版新机。此前 K 系列多代均与梅赛德斯-AMG、兰博基尼等品牌联名推出冠军版。新机部分配置已公布，搭载第五代骁龙 8 和 185Hz 高刷屏。REDMI K100 Pro Max 将于 8 月 11 日发布。>> 查看详情\n15、微信 8 月 3 日起不再支持非电信运营商主体从事号卡办理、售卡引流、代办开卡等经营行为\n微信官方 8 月 3 日发布公告，即日起不再支持非电信运营商主体从事号卡办理、售卡引流等经营行为，并要求相关账号在 8 月 11 日前完成自查整改，违规者将按平台规则处理。>> 查看详情\n16、理想和极氪都将直播拆车，小米徐洁云发文“为坦坦荡荡的同行鼓掌”\n极氪和理想汽车 8 月 3 日都宣布会进行拆车直播。小米集团董事长特别助理、战略市场部副总经理徐洁云 8 月 3 日转发了该消息，并表示：乐见凭真材实料，明明白白向用户展示的风潮。这才是用户沟通、市场营销的正途。为坦坦荡荡的同行鼓掌。>> 查看详情\n17、小米米家空调数字抽真空服务订单连续两月突破 100 万，新增报告实时预览功能\n小米服务官方 8 月 3 日发布了米家空调数字抽真空服务七月小结。其中提到，数字抽真空服务订单连续两月突破 100 万，服务好评率＞99%，线上 / 线下培训 60+ 场。>> 查看详情\n18、月之暗面回应“最早于本月内提交香港 IPO 申请”传闻：消息不实\n近日有报道称，月之暗面计划最早于本月内提交香港 IPO 申请，或募资约 30 亿美元。月之暗面回应记者称消息不实。>> 查看详情\n19、消息称小米 REDMI Note 17 系列手机迎来系统流畅度升级，微信、淘宝等常用 App 都有专属优化\n据博主 @懒酱的日记本 分享，REDMI Note 17 系列手机迎来系统流畅度升级，微信、今日头条、淘宝等常用 App 都有专属优化。新版本已开启逐步推送，预计一周左右完成全部升级。>> 查看详情\n20、喊出“鼓励真牛逼，打击吹牛逼”口号后，小米徐洁云称提升澎程新车宣传图品质是重大课题\n小米集团董事长特别助理徐洁云 8 月 3 日凌晨发微博称“要鼓励真牛逼，打击吹牛逼”引发热议。他还在另一条微博中转发了小米澎程预售快报，并指出提升官方宣传图品质是当前重大课题，力求更接近实车质感。>> 查看详情\n21、京东外卖推出 AI 智能头盔：搭载 AI 语音助手，内置“单王路线”\n京东外卖 8 月 3 日推出 AI 智能头盔，搭载语音助手、内置“单王路线”导航，还能自动解析订单备注并提醒骑手。该头盔将首批免费发放给全职骑手，旨在提升恶劣天气送餐效率与用户体验。>> 查看详情\n\n今天就先聊到这里，IT早报，咱们明天见。",
+      "content": "<p data-vmark=\"220e\">“IT早报”时间，大家好，现在是 2026 年 8 月 4 日星期二，今天的重要科技资讯有：</p><h2 data-vmark=\"ec3c\">1、消息称三星中国开始收缩手机布局：30 万元月销售额不达标门店，将被逐步清退</h2><p data-vmark=\"40e8\">三星手机开始收缩中国市场布局。知情人士表示，月销售额不到 30 万元的门店，将被逐步清退。&gt;&gt; <a href=\"https://www.ithome.com/0/985/181.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"9bcf\">2、谷歌母公司 Alphabet 市值超过苹果，升至全球第二</h2><p data-vmark=\"1d71\">当地时间 7 月 17 日，美股开盘数分钟后，市值排行发生变化，谷歌母公司 Alphabet 超过苹果升至全球第二。&gt;&gt; <a href=\"https://www.ithome.com/0/985/233.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"2baf\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/df787020-0591-4cb6-a04a-cf38c238b920.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"946\" data-vmark=\"1d97\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1e7ae8f9ea2c13eef386509489ca434cd24b7b7bdaf66c73dc3bf43dd32518b089b5b1be4ea8228b7\"></p><h2 data-vmark=\"dc9f\">3、比亚迪腾势 Z9S“科技豪华智能轿车”预售发布：搭天神之眼 5.0、充电速度全球第一，31.98 万元起</h2><p data-vmark=\"360a\">比亚迪腾势 Z9S 8 月 3 日晚预售发布，定位“科技豪华智能轿车”，标配天神之眼 5.0、第二代刀片电池，打破了纯电续航最长量产车纪录 —— CLTC 工况达 1100km，预售价 31.98 万元起。&gt;&gt; <a href=\"https://www.ithome.com/0/985/222.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"7a87\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/08cf3c96-c0c3-47a3-8364-def27ee65e0d.jpg?x-bce-process=image/format,f_auto\" w=\"1125\" h=\"2346\" data-marks=\"1931fd9d012eb6d1a5dea4db32058d1e84996eb8b0bb31844cec4ebd40a7c8a696ea012b2ee768a74d699a166a5561d1\" data-mpos=\"2,0\" data-vmark=\"d51a\" data-weibo=\"1\"></p><h2 data-vmark=\"5bae\">4、阿里巴巴千问 Qwen3.8-Max 模型正式上线，总参数量 2.4 万亿</h2><p data-vmark=\"e05e\">该模型拥有 2.4 万亿参数，在编程、办公等多领域能力全面升级，可低人工介入完成复杂开放任务，模型权重将于下周开源。&gt;&gt; <a href=\"https://www.ithome.com/0/984/897.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"149b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/9df8f890-5a78-424f-9a78-d06dc47b3775.jpg\" w=\"1440\" h=\"809\" data-weibo=\"2\" data-vmark=\"1be8\"></p><h2 data-vmark=\"37b9\">5、华为半导体首席科学家廖恒罕见受访：首提芯片“18 层宝塔”理论，大赞 DeepSeek 梁文锋</h2><p data-vmark=\"38cd\">廖恒系统复盘了昇腾 AI 芯片突围历程，指出当前芯片行业稀缺纵向贯通的复合型人才，还评价了 DeepSeek 梁文锋，坦言担忧芯片硬件人才断档。&gt;&gt; <a href=\"https://www.ithome.com/0/984/876.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"8165\">6、全球第一：比亚迪腾势 Z9S 打破纯电续航最长量产车纪录，CLTC 工况达 1100km</h2><p data-vmark=\"085a\">在比亚迪 8 月 3 日晚的腾势 Z9S 预售发布会上，腾势汽车总经理李慧宣布，“科技豪华智能轿车”腾势 Z9S 打破纯电续航最长量产车纪录 —— CLTC 工况可达 1100km，位居全球第一。&gt;&gt; <a href=\"https://www.ithome.com/0/985/216.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"1113\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/d500795f-3515-4a30-89d2-0dfff989b0a8.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"816\" data-mpos=\"0,2\" data-weibo=\"3\"  data-vmark=\"0db2\"></p><h2 data-vmark=\"45ec\">7、小米通报：两网友使用 AI 生成虚假车祸视频，已被行政拘留 7 日、行政罚款</h2><p data-vmark=\"f261\">小米公司 8 月 3 日发文称，两名网友因使用 AI 技术生成虚假车祸视频抹黑小米汽车及高管，已被警方分别处以行政拘留 7 日和行政罚款，并删除所有侵权链接。小米方面强调，网络不是法外之地，将坚决打击造谣行为。&gt;&gt; <a href=\"https://www.ithome.com/0/985/202.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"697c\">8、理想汽车历史上首次拆车直播，新一代 L6 定档 8 月 4 日“开拆”</h2><p data-vmark=\"c9eb\">理想汽车产品线负责人李昕旸 8 月 3 日发文称“明天准备搞个大工程”。他表示，8 月 4 日 15:00，理想汽车将从一台完整的新一代理想 L6 开始，用几个小时的时间为大家进行现场拆解。&gt;&gt; <a href=\"https://www.ithome.com/0/985/106.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"b965\">9、首位中国科学家：王劲松获威廉 · 诺德伯格奖章，并同步获得一颗小行星命名</h2><p data-vmark=\"e8c1\">当地时间 8 月 3 日，在意大利佛罗伦萨举办的第 46 届国际空间研究委员会（COSPAR）科学大会上，中国气象局王劲松研究员荣获威廉 · 诺德伯格奖章。&gt;&gt; <a href=\"https://www.ithome.com/0/985/256.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"deb5\">10、余承东官宣华为首款 RGB-MiniLED 电视来了：RGB 三原色独立发光，8 月 5 日正式开售</h2><p data-vmark=\"7561\">华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东 8 月 3 日宣布，华为首款 RGB-MiniLED 电视来了！新品可通过 RGB 三原色独立发光，色彩更加准确，将在 8 月 5 日正式开售。&gt;&gt; <a href=\"https://www.ithome.com/0/985/237.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"d967\">11、一加 16 手机定价曝光，8GB+256GB 版 4999 元</h2><p data-vmark=\"a2b3\">爆料称一加 16 将提供四个配置版本，8+256GB 版本 4999 元，16+1TB 版 7499 元。以上消息官方尚未确认，网传售价是否真实，还需等待官方揭晓。&gt;&gt; <a href=\"https://www.ithome.com/0/985/026.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"64b2\">12、AMD Zen 6 处理器核心调度机制优化，改善游戏 1% Low 帧表现</h2><p data-vmark=\"63cc\">AMD Zen6 架构将通过全新核心调度机制优化游戏性能，在处理器触及功耗温度墙时，优先给游戏核心分配更多性能空间，预计可改善多任务下 1% Low 帧率表现，相关功能尚未得到官方确认。&gt;&gt; <a href=\"https://www.ithome.com/0/984/987.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"e92e\">13、华为余承东预告享界 G9 搭载车身一体化电动顶帐，8 月 5 日开启预订</h2><p data-vmark=\"dc2d\">华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东 8 月 3 日发文称，享界 G9 空间能够灵活拓展，尾门厨房，可烹饪、可热饮，搭配车身一体化设计的电动顶帐，8 月 5 日正式开启预订。&gt;&gt; <a href=\"https://www.ithome.com/0/984/860.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"1a2e\">14、小米胡馨心确认 REDMI K100 Pro Max 不会推出冠军版</h2><p data-vmark=\"6648\">REDMI 产品经理胡馨心在微博确认，即将发布的 K100 Pro Max 将不会推出冠军版新机。此前 K 系列多代均与梅赛德斯-AMG、兰博基尼等品牌联名推出冠军版。新机部分配置已公布，搭载第五代骁龙 8 和 185Hz 高刷屏。REDMI K100 Pro Max 将于 8 月 11 日发布。&gt;&gt; <a href=\"https://www.ithome.com/0/984/845.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"1858\">15、微信 8 月 3 日起不再支持非电信运营商主体从事号卡办理、售卡引流、代办开卡等经营行为</h2><p data-vmark=\"91b3\">微信官方 8 月 3 日发布公告，即日起不再支持非电信运营商主体从事号卡办理、售卡引流等经营行为，并要求相关账号在 8 月 11 日前完成自查整改，违规者将按平台规则处理。&gt;&gt; <a href=\"https://www.ithome.com/0/985/229.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"49c3\">16、理想和极氪都将直播拆车，小米徐洁云发文“为坦坦荡荡的同行鼓掌”</h2><p data-vmark=\"f5f5\">极氪和理想汽车 8 月 3 日都宣布会进行拆车直播。小米集团董事长特别助理、战略市场部副总经理徐洁云 8 月 3 日转发了该消息，并表示：乐见凭真材实料，明明白白向用户展示的风潮。这才是用户沟通、市场营销的正途。为坦坦荡荡的同行鼓掌。&gt;&gt; <a href=\"https://www.ithome.com/0/985/210.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"6623\">17、小米米家空调数字抽真空服务订单连续两月突破 100 万，新增报告实时预览功能</h2><p data-vmark=\"dd1b\">小米服务官方 8 月 3 日发布了米家空调数字抽真空服务七月小结。其中提到，数字抽真空服务订单连续两月突破 100 万，服务好评率＞99%，线上 / 线下培训 60+ 场。&gt;&gt; <a href=\"https://www.ithome.com/0/985/195.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"4615\">18、月之暗面回应“最早于本月内提交香港 IPO 申请”传闻：消息不实</h2><p data-vmark=\"00cf\">近日有报道称，月之暗面计划最早于本月内提交香港 IPO 申请，或募资约 30 亿美元。月之暗面回应记者称消息不实。&gt;&gt; <a href=\"https://www.ithome.com/0/985/169.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"2e6b\">19、消息称小米 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/07/15/084b93ba-3290-4bde-85de-af44e9d28096.png?x-bce-process=image/format,f_auto\" data-topic-id=\"64932\">REDMI Note 17</span> 系列手机迎来系统流畅度升级，微信、淘宝等常用 App 都有专属优化</h2><p data-vmark=\"810b\">据博主 @懒酱的日记本 分享，REDMI Note 17 系列手机迎来系统流畅度升级，微信、今日头条、淘宝等常用 App 都有专属优化。新版本已开启逐步推送，预计一周左右完成全部升级。&gt;&gt; <a href=\"https://www.ithome.com/0/985/162.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"039a\">20、喊出“鼓励真牛逼，打击吹牛逼”口号后，小米徐洁云称提升澎程新车宣传图品质是重大课题</h2><p data-vmark=\"f363\">小米集团董事长特别助理徐洁云 8 月 3 日凌晨发微博称“要鼓励真牛逼，打击吹牛逼”引发热议。他还在另一条微博中转发了小米澎程预售快报，并指出提升官方宣传图品质是当前重大课题，力求更接近实车质感。&gt;&gt; <a href=\"https://www.ithome.com/0/985/012.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"e407\">21、京东外卖推出 AI 智能头盔：搭载 AI 语音助手，内置“单王路线”</h2><p data-vmark=\"277a\">京东外卖 8 月 3 日推出 AI 智能头盔，搭载语音助手、内置“单王路线”导航，还能自动解析订单备注并提醒骑手。该头盔将首批免费发放给全职骑手，旨在提升恶劣天气送餐效率与用户体验。&gt;&gt; <a href=\"https://www.ithome.com/0/984/867.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"2f62\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/84cff17a-5c15-477f-a652-a5930139ac20.jpg\" w=\"1080\" h=\"730\" data-s=\"300,640\" data-weibo=\"4\" alt=\"图片\" data-vmark=\"b1ae\"></p><p data-vmark=\"d756\">今天就先聊到这里，IT早报，咱们明天见。</p>",
+      "url": "https://www.ithome.com/0/985/278.htm",
+      "link": "https://www.ithome.com/0/985/278.htm",
+      "pubDate": "Mon, 03 Aug 2026 23:22:32 GMT",
+      "isoDate": "2026-08-03T23:22:32.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "automotive",
+      "tagScore": 33,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        },
+        {
+          "type": "stakeholder",
+          "id": "platform-partner"
+        }
+      ]
+    },
+    {
+      "title": "TCL 推出 NXTPAPER 版 TAB A1 Plus 平板电脑，搭载类纸护眼屏",
+      "description": "IT之家 8 月 4 日消息，TCL 当地时间 3 日在美国市场推出了 TAB A1 Plus NXTPAPER 平板电脑。这一产品搭载 TCL 特色类纸屏护眼技术，结合硬件 DC 调光提供舒适的长时间使用体验，支持黑白类纸、彩色类纸、常规显示三模切换和应用级显示控制。\n\nTCL TAB A1 Plus NXTPAPER 基于高通骁龙 4 Gen 2 移动平台；配备一块 12.2\" 2400×1600 120Hz 屏幕，日光显示模式下亮度可达 500nits，支持 T-Pen 2 数字笔；提供 6GB 内存和 256GB 存储，支持存储卡扩展；运行 Android 16 操作系统。\n其拥有一体式金属机身；提供 8MP 前摄与 8MP 后摄；支持 Wi-Fi 5 与蓝牙 5.0；搭载 4 扬声器 2 麦克风音频系统；内置 10000mAh 电池，支持 33W 充电；薄至 6.7mm，质量 556g。\nTCL TAB A1 Plus NXTPAPER 平板电脑当前在美国市场的定价为 299.99 美元（IT之家注：现汇率约合 2028 元人民币）。",
+      "content": "<p data-vmark=\"401f\">IT之家 8 月 4 日消息，TCL 当地时间 3 日在美国市场推出了 TAB A1 Plus NXTPAPER 平板电脑。<strong>这一产品搭载 TCL 特色类纸屏护眼技术</strong>，结合硬件 DC 调光提供舒适的长时间使用体验，支持黑白类纸、彩色类纸、常规显示三模切换和应用级显示控制。</p><p data-vmark=\"6011\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/f8a5aacb-bef1-406b-81ea-057b26b521cb.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-weibo=\"0\" data-vmark=\"4b2e\" class=\"no-alt-img\"></p><p data-vmark=\"5071\">TCL TAB A1 Plus NXTPAPER <strong>基于高通骁龙 4 Gen 2 移动平台</strong>；配备一块 12.2\" 2400×1600 120Hz 屏幕，日光显示模式下亮度可达 500nits，支持 T-Pen 2 数字笔；提供 6GB 内存和 256GB 存储，支持存储卡扩展；运行 Android 16 操作系统。</p><p data-vmark=\"bf9c\">其拥有一体式金属机身；提供 8MP 前摄与 8MP 后摄；支持 Wi-Fi 5 与蓝牙 5.0；搭载 4 扬声器 2 麦克风音频系统；内置 10000mAh 电池，支持 33W 充电；薄至 6.7mm，<strong>质量 556g</strong>。</p><p data-vmark=\"5e22\">TCL TAB A1 Plus NXTPAPER 平板电脑当前在美国市场的<strong>定价为 299.99 美元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 2028 元人民币）</span>。</p>",
+      "url": "https://www.ithome.com/0/985/272.htm",
+      "link": "https://www.ithome.com/0/985/272.htm",
+      "pubDate": "Mon, 03 Aug 2026 23:09:22 GMT",
+      "isoDate": "2026-08-03T23:09:22.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 6,
+      "crossTags": []
+    },
     {
       "title": "荣耀俱乐部负责人透露 Robot Phone 样机稀缺，正式发布后或一机难求",
       "description": "IT之家 8 月 3 日消息，荣耀俱乐部负责人 @烛龙春哥 今日分享了一张聊天记录。其中提到，荣耀 Robot Phone 的样机稀缺，该机正式发布后可能像初代 Magic 那样一机难求。\n\n据IT之家此前报道，今年 7 月 28 日，荣耀官方宣布 Robot Phone 手机全渠道预约量超 20 万台，超越品牌历代旗舰产品。\n\n博主 @数码闲聊站 今日发文曝光了荣耀 Robot Phone 手机的核心配置：\n\n6.3 英寸 2640*1216p LTPO 小直屏，6800nits 峰值亮度，AR 抗反射膜；骁龙 8 Elite Gen5 处理器，7060mAh 电池，120W 快充头，荣耀自研芯片 C1+E2+H1，200Mp 1/1.28\" F1.6 23mm 超大底云台主摄，200Mp 1/1.4\" 2.7X F2.6 大底潜望长焦\n\n根据官方介绍，该机是荣耀与阿莱达成战略合作后的首款落地产品，全链路融入阿莱色彩科学工作流，已定档 8 月 12 日发布，将提供「星轨银」和「月影灰」两款配色。",
@@ -72,70 +117,6 @@
           "type": "competitor",
           "id": "huawei"
         },
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "229 美元 → 239 美元：Retroid Pocket Nova 掌机提价，原因为高通芯片采购成本上涨",
-      "description": "IT之家 8 月 3 日消息，Retroid 公司现已确认，Pocket Nova 掌机 8+128GB 版本将于 8 月 6 日起调整价格，从 229 美元（IT之家注：现汇率约合 1548 元人民币）涨至 239 美元（现汇率约合 1616 元人民币）。\n\nRetroid 表示，本轮涨价的原因是高通芯片采购成本上涨，以及原材料成本上涨。官方建议想购买这款掌机的用户尽早下单，以免被此次涨价影响。至于 12+128GB 的高配版本，官方目前还没有涨价计划。\n据IT之家此前报道，高通 CEO 安蒙曾在业绩电话会议中表示，公司计划 9 月 1 日起上调产品价格，涨幅达两位数，以此推动利润率回归历史水平。\n安蒙称，涨价动因来自全产业链成本上行，并非仅受内存芯片涨价影响。安蒙表示，公司将逐一与各客户开展定价谈判，“成本与定价阶段性错位，造成毛利率短期小幅下滑”。",
-      "content": "<p data-vmark=\"445a\">IT之家 8 月 3 日消息，Retroid 公司现已确认，Pocket Nova 掌机 8+128GB 版本将于 8 月 6 日起调整价格，从 229 美元（IT之家注：现汇率约合 1548 元人民币）涨至 239 美元（现汇率约合 1616 元人民币）。</p><p style=\"text-align: center;\" data-vmark=\"11b1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/404ec10a-afe1-4bb9-a5d0-8199b1727c3b.jpg?x-bce-process=image/format,f_auto\" w=\"900\" h=\"675\" data-weibo=\"0\" data-vmark=\"d419\" class=\"no-alt-img\"></p><p data-vmark=\"42d1\">Retroid 表示，<strong>本轮涨价的原因是高通芯片采购成本上涨</strong>，<strong>以及原材料成本上涨</strong>。官方建议想购买这款掌机的用户尽早下单，以免被此次涨价影响。至于 12+128GB 的高配版本，官方目前还没有涨价计划。</p><p data-vmark=\"ed31\"><a href=\"https://www.ithome.com/0/983/525.htm\" target=\"_blank\">据IT之家此前报道</a>，高通 CEO 安蒙曾在业绩电话会议中表示，公司计划 9 月 1 日起上调产品价格，涨幅达两位数，以此推动利润率回归历史水平。</p><p data-vmark=\"daff\">安蒙称，涨价动因来自全产业链成本上行，并非仅受内存芯片涨价影响。安蒙表示，公司将逐一与各客户开展定价谈判，“成本与定价阶段性错位，造成毛利率短期小幅下滑”。</p>",
-      "url": "https://www.ithome.com/0/985/217.htm",
-      "link": "https://www.ithome.com/0/985/217.htm",
-      "pubDate": "Mon, 03 Aug 2026 12:12:58 GMT",
-      "isoDate": "2026-08-03T12:12:58.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 5,
-      "crossTags": []
-    },
-    {
-      "title": "荣耀 Robot Phone 手机核心配置曝光：骁龙 8 Elite Gen5 处理器、7060mAh 电池，8 月 12 日发布",
-      "description": "IT之家 8 月 3 日消息，博主 @数码闲聊站 今日发文曝光了荣耀 Robot Phone 手机的核心配置：\n\n6.3 英寸 2640*1216p LTPO 小直屏，6800nits 峰值亮度，AR 抗反射膜；骁龙 8 Elite Gen5 处理器，7060mAh 电池，120W 快充头，荣耀自研芯片 C1+E2+H1，200Mp 1/1.28\" F1.6 23mm 超大底云台主摄，200Mp 1/1.4\" 2.7X F2.6 大底潜望长焦\n\n\n有网友询问荣耀 Robot Phone 的自研芯片 C1+E2+H1 分别负责哪些方面，博主回复称：“C1+ 射频增强芯片，E2 能效增强芯片，H1 影像芯片。”\n参考IT之家此前报道，该机也是荣耀与阿莱达成战略合作后的首款落地产品，全链路融入阿莱色彩科学工作流，已定档 8 月 12 日发布，将提供「星轨银」和「月影灰」两款配色。",
-      "content": "<p data-vmark=\"cd24\">IT之家 8 月 3 日消息，博主 @数码闲聊站 今日发文曝光了荣耀 Robot Phone 手机的核心配置：</p><blockquote><p data-vmark=\"abd0\"><strong>6.3 英寸 2640*1216p LTPO 小直屏</strong>，6800nits 峰值亮度，AR 抗反射膜；骁龙 8 Elite Gen5 处理器，7060mAh 电池，120W 快充头，<strong>荣耀自研芯片 C1+E2+H1</strong>，200Mp 1/1.28\" F1.6 23mm 超大底云台主摄，200Mp 1/1.4\" 2.7X F2.6 大底潜望长焦</p></blockquote><p style=\"text-align: center;\" data-vmark=\"d2df\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/c8aacf9b-97f5-477d-9f2a-23b2dfba4a4a.png?x-bce-process=image/format,f_auto\" w=\"704\" h=\"849\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRbHmB7UaA%22%7D\" data-vmark=\"9824\" class=\"no-alt-img\"></p><p data-vmark=\"daf3\">有网友询问荣耀 Robot Phone 的自研芯片 C1+E2+H1 分别负责哪些方面，博主回复称：“<strong>C1+ 射频增强芯片，E2 能效增强芯片，H1 影像芯片。</strong>”</p><p data-vmark=\"6c0d\">参考IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/982/445.htm\">该机也是荣耀与阿莱达成战略合作后的首款落地产品</a>，全链路融入阿莱色彩科学工作流，已定档 8 月 12 日发布，将提供「星轨银」和「月影灰」两款配色。</p><p style=\"text-align: center;\" data-vmark=\"f98e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/695f5239-3ae0-49a3-abf1-259f18348553.jpg?x-bce-process=image/auto-orient,o_1\" w=\"540\" h=\"720\" data-weibo=\"1\" data-vmark=\"0c2c\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"e026\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4482\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/0/985/192.htm",
-      "link": "https://www.ithome.com/0/985/192.htm",
-      "pubDate": "Mon, 03 Aug 2026 10:13:19 GMT",
-      "isoDate": "2026-08-03T10:13:19.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 13,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "消息称小米 REDMI Note 17 系列手机迎来系统流畅度升级，微信、淘宝等常用 App 都有专属优化",
-      "description": "IT之家 8 月 3 日消息，据博主 @懒酱的日记本 今日分享，小米 REDMI Note 17 系列手机迎来系统流畅度升级，微信、今日头条、淘宝等常用 App 都有专属优化，操作更丝滑，运行更流畅。\n\n博主表示，目前新版本已开启逐步推送，预计一周左右完成全部升级。\n据IT之家此前报道，小米 REDMI Note 17 系列手机发布于今年 7 月，首发包括标准版和 Pro 款（Pro Max 版也已曝光）。其中标准版搭载第四代骁龙 4 芯片、7 英寸 OLED 护眼屏，定价 1299 元起；Pro 款搭载骁龙 6s Gen 4 处理器、内置 9000mAh 电池，定价 1599 元起。\n\n▲ IT之家图赏：REDMI Note 17 Pro 手机\n相关阅读：\n\n《1299 元起：小米 REDMI Note 17 标准版手机发布，第四代骁龙 4 芯片、7 英寸 OLED 护眼屏》\n\n《小米 REDMI Note 17 Pro 手机发布：9000mAh 电池、骁龙 6s Gen 4 处理器，1599 元起》\n\n《小米 REDMI Note 17 Pro Max 手机曝光：9210mAh 硅碳电池、骁龙 6 Gen 5 芯片》",
-      "content": "<p data-vmark=\"c8bc\">IT之家 8 月 3 日消息，据博主 @懒酱的日记本 今日分享，小米 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/07/15/084b93ba-3290-4bde-85de-af44e9d28096.png?x-bce-process=image/format,f_auto\" data-topic-id=\"64932\">REDMI Note 17</span> 系列手机迎来系统流畅度升级，<strong>微信、今日头条、淘宝等常用 App 都有专属优化</strong>，操作更丝滑，运行更流畅。</p><p style=\"text-align: center;\" data-vmark=\"71b7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/64a2db3c-d5b7-436a-bdea-bebad6bf8baf.png?x-bce-process=image/format,f_auto\" w=\"704\" h=\"706\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6265874748%2FRbEoceTaQ%22%7D\" data-vmark=\"3967\" class=\"no-alt-img\"></p><p data-vmark=\"0495\">博主表示，目前新版本已开启逐步推送，<strong>预计一周左右完成全部升级</strong>。</p><p data-vmark=\"4aee\">据IT之家此前报道，小米 REDMI Note 17 系列手机发布于今年 7 月，首发包括标准版和 Pro 款（<a target=\"_blank\" href=\"https://www.ithome.com/0/984/413.htm\">Pro Max 版也已曝光</a>）。其中<a target=\"_blank\" href=\"https://www.ithome.com/0/976/714.htm\">标准版搭载第四代骁龙 4 芯片</a>、7 英寸 OLED 护眼屏，定价 1299 元起；<a target=\"_blank\" href=\"https://www.ithome.com/0/976/707.htm\">Pro 款搭载骁龙 6s Gen 4 处理器</a>、内置 9000mAh 电池，定价 1599 元起。</p><p style=\"text-align: center;\" data-vmark=\"901a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/8bcc06b3-9828-4937-b65e-df60b1033da3.jpg?x-bce-process=image/format,f_auto\" w=\"820\" h=\"547\" data-weibo=\"1\" alt=\"14\" data-vmark=\"9f7d\"></p><figcaption>▲ IT之家图赏：<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/07/15/03079e71-1056-42b8-9fd2-be75cfa6f71f.png?x-bce-process=image/format,f_auto\" data-topic-id=\"64933\">REDMI Note 17 Pro</span> 手机</figcaption><p data-vmark=\"8f19\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"9c74\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/976/714.htm\">1299 元起：小米 REDMI Note 17 标准版手机发布，第四代骁龙 4 芯片、7 英寸 OLED 护眼屏</a>》</p></li><li><p data-vmark=\"ff82\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/976/707.htm\">小米 REDMI Note 17 Pro 手机发布：9000mAh 电池、骁龙 6s Gen 4 处理器，1599 元起</a>》</p></li><li><p data-vmark=\"2ac4\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/984/413.htm\">小米 REDMI Note 17 Pro Max 手机曝光：9210mAh 硅碳电池、骁龙 6 Gen 5 芯片</a>》</p></li></ul>",
-      "url": "https://www.ithome.com/0/985/162.htm",
-      "link": "https://www.ithome.com/0/985/162.htm",
-      "pubDate": "Mon, 03 Aug 2026 09:44:39 GMT",
-      "isoDate": "2026-08-03T09:44:39.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 21,
-      "crossTags": [
         {
           "type": "stakeholder",
           "id": "oem"
