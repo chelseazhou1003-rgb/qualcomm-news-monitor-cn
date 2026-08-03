@@ -1,10 +1,49 @@
 {
   "date": "2026-08-04",
   "generatedAt": "2026-08-04T03:00:42.680Z",
-  "section": "core-businesses",
-  "sectionTitle": "核心业务",
   "count": 8,
   "articles": [
+    {
+      "title": "早报｜29.99万,小米澎程N90 Max综合续航1705km/苹果iPhone、Mac收入创新高/高通确认9月起芯片涨价",
+      "description": "· OpenAI 将向 10 万名学术研究者免费提供 GPT-5.6 Sol Pro\r\n· 荣耀 A 股 IPO 辅导进入第四期\r\n· 特斯拉第 1000 万辆纯电动车下线\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "content": "· OpenAI 将向 10 万名学术研究者免费提供 GPT-5.6 Sol Pro\r\n· 荣耀 A 股 IPO 辅导进入第四期\r\n· 特斯拉第 1000 万辆纯电动车下线<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "url": "https://www.ifanr.com/1673460?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "link": "https://www.ifanr.com/1673460?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Fri, 31 Jul 2026 00:16:51 +0000",
+      "isoDate": "2026-07-31T00:16:51.000Z",
+      "author": "郑廷旭",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 1,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "高通和 IDC 说，智能眼镜会是手机之外，最重要的 AI 设备",
+      "description": "AI 将会成功智能设备的基础能力。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "content": "AI 将会成功智能设备的基础能力。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "url": "https://www.ifanr.com/1673429?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "link": "https://www.ifanr.com/1673429?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Thu, 30 Jul 2026 08:04:55 +0000",
+      "isoDate": "2026-07-30T08:04:55.000Z",
+      "author": "刘学文",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 1,
+      "crossTags": []
+    },
     {
       "title": "荣耀俱乐部负责人透露 Robot Phone 样机稀缺，正式发布后或一机难求",
       "description": "IT之家 8 月 3 日消息，荣耀俱乐部负责人 @烛龙春哥 今日分享了一张聊天记录。其中提到，荣耀 Robot Phone 的样机稀缺，该机正式发布后可能像初代 Magic 那样一机难求。\n\n据IT之家此前报道，今年 7 月 28 日，荣耀官方宣布 Robot Phone 手机全渠道预约量超 20 万台，超越品牌历代旗舰产品。\n\n博主 @数码闲聊站 今日发文曝光了荣耀 Robot Phone 手机的核心配置：\n\n6.3 英寸 2640*1216p LTPO 小直屏，6800nits 峰值亮度，AR 抗反射膜；骁龙 8 Elite Gen5 处理器，7060mAh 电池，120W 快充头，荣耀自研芯片 C1+E2+H1，200Mp 1/1.28\" F1.6 23mm 超大底云台主摄，200Mp 1/1.4\" 2.7X F2.6 大底潜望长焦\n\n根据官方介绍，该机是荣耀与阿莱达成战略合作后的首款落地产品，全链路融入阿莱色彩科学工作流，已定档 8 月 12 日发布，将提供「星轨银」和「月影灰」两款配色。",
@@ -141,47 +180,6 @@
           "id": "oem"
         }
       ]
-    },
-    {
-      "title": "早报｜29.99万,小米澎程N90 Max综合续航1705km/苹果iPhone、Mac收入创新高/高通确认9月起芯片涨价",
-      "description": "· OpenAI 将向 10 万名学术研究者免费提供 GPT-5.6 Sol Pro\r\n· 荣耀 A 股 IPO 辅导进入第四期\r\n· 特斯拉第 1000 万辆纯电动车下线\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "content": "· OpenAI 将向 10 万名学术研究者免费提供 GPT-5.6 Sol Pro\r\n· 荣耀 A 股 IPO 辅导进入第四期\r\n· 特斯拉第 1000 万辆纯电动车下线<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "url": "https://www.ifanr.com/1673460?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "link": "https://www.ifanr.com/1673460?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Fri, 31 Jul 2026 00:16:51 +0000",
-      "isoDate": "2026-07-31T00:16:51.000Z",
-      "author": "郑廷旭",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 1,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "高通和 IDC 说，智能眼镜会是手机之外，最重要的 AI 设备",
-      "description": "AI 将会成功智能设备的基础能力。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "content": "AI 将会成功智能设备的基础能力。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-      "url": "https://www.ifanr.com/1673429?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "link": "https://www.ifanr.com/1673429?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "pubDate": "Thu, 30 Jul 2026 08:04:55 +0000",
-      "isoDate": "2026-07-30T08:04:55.000Z",
-      "author": "刘学文",
-      "sourceId": "ifanr",
-      "sourceName": "爱范儿",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 1,
-      "crossTags": []
     }
   ]
 }
