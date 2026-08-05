@@ -1,27 +1,8 @@
 {
   "date": "2026-08-05",
-  "generatedAt": "2026-08-05T06:03:41.650Z",
+  "generatedAt": "2026-08-05T16:08:08.904Z",
   "section": "ip-legal",
   "sectionTitle": "知识产权与法律",
-  "count": 1,
-  "articles": [
-    {
-      "title": "腾讯游戏《怪物猎人：旅人》8 月 7 日开启“启明测试”，限骁龙 845 及以上安卓机型",
-      "description": "IT之家 8 月 4 日消息，腾讯游戏《怪物猎人：旅人》“启明测试”今日开启预下载，将于 8 月 7 日 10:00 开启测试。\nIT之家注：此次测试为限号删档计费测试，仅限安卓机型，要求骁龙 845 及以上处理器、Android 12.0 及以上系统。\n\n据介绍，《怪物猎人：旅人》是腾讯和卡普空（CAPCOM）合作打造的一款游戏，由卡普空官方授权，腾讯游戏天美工作室研发的中国大陆首款怪猎正版动作手游。\n《怪物猎人：旅人》已于去年 11 月 14 日进行“传心测试”（iOS / 安卓）、今年 4 月 29 日进行“启程测试”（限安卓），均为删档测试。",
-      "content": "<p data-vmark=\"7a63\">IT之家 8 月 4 日消息，腾讯游戏《怪物猎人：旅人》“启明测试”今日开启预下载，将于 8 月 7 日 10:00 开启测试。</p><p data-vmark=\"e36a\">IT之家注：此次测试为<strong>限号删档计费测试</strong>，仅限安卓机型，要求骁龙 845 及以上处理器、Android 12.0 及以上系统。</p><p style=\"text-align: center;\" data-vmark=\"f680\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/b3aaa16b-55be-4558-998d-c076f633e12e.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"5947\" data-weibo=\"0\" data-vmark=\"fbd7\" class=\"no-alt-img\"></p><p data-vmark=\"3d5e\">据介绍，《怪物猎人：旅人》是腾讯和卡普空（CAPCOM）合作打造的一款游戏，由卡普空官方授权，腾讯游戏天美工作室研发的中国大陆首款怪猎正版动作手游。</p><p data-vmark=\"c6e2\">《怪物猎人：旅人》已于去年 11 月 14 日进行“传心测试”（iOS / 安卓）、今年 4 月 29 日进行“启程测试”（限安卓），均为删档测试。</p><p style=\"text-align: center;\" data-vmark=\"e034\"><iframe class=\"ithome_video bilibili\" src=\"https://player.bilibili.com/player.html?bvid=bv1odJyzHEx5&amp;autoplay=0&amp;page=1\" frameborder=\"no\" width=\"100%\" allowfullscreen=\"true\"> </iframe></p><p style=\"text-align: center;\" data-vmark=\"dea4\"><iframe class=\"ithome_video bilibili\" src=\"https://player.bilibili.com/player.html?bvid=bv1ShM76WEZZ&amp;autoplay=0&amp;page=1\" frameborder=\"no\" width=\"100%\" allowfullscreen=\"true\"> </iframe></p>",
-      "url": "https://www.ithome.com/0/985/713.htm",
-      "link": "https://www.ithome.com/0/985/713.htm",
-      "pubDate": "Tue, 04 Aug 2026 14:33:07 GMT",
-      "isoDate": "2026-08-04T14:33:07.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "frand-licensing",
-      "tagScore": 2,
-      "crossTags": []
-    }
-  ]
+  "count": 0,
+  "articles": []
 }
