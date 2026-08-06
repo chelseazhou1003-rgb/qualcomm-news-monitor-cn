@@ -1,10 +1,26 @@
 {
   "date": "2026-08-07",
   "generatedAt": "2026-08-07T06:01:38.789Z",
-  "section": "stakeholders",
-  "sectionTitle": "关键利益相关方",
-  "count": 1,
+  "count": 2,
   "articles": [
+    {
+      "title": "芒米 AIR Y 系列掌机早鸟价格公布：标准版 599 元、Pro 版 999 元-1199 元",
+      "description": "IT之家 8 月 6 日消息，芒米科技现已公布旗下 AIR Y 系列掌机售价信息，该机早鸟价 599 元起，IT之家整理价格信息如下：\n\nAIR Y（3GB RAM + 32GB 存储空间）：599 元\n\nAIR Y Pro（4GB RAM + 64GB 存储空间）：999 元\n\nAIR Y Pro（8GB RAM + 128GB 存储空间）：1199 元\n\n\n参考官方此前预热，芒米 Air Y 标准版将采用黑色外观，配备十字键、ABXY 按键和单摇杆，机身左侧带有橙色按键、滚轮，以及一颗黑色按键。而 Air Y Pro 的外观则是改为米色，其他与标准版大致相同，但拥有对称的双摇杆。\n规格方面，芒米 Air Y 标准版搭载骁龙 662 芯片，匹配 3GB RAM 和 32GB 存储空间；Air Y Pro 则配备骁龙 865 芯片，匹配至高 8GB RAM 和 128GB 存储空间。",
+      "content": "<p data-vmark=\"6a64\">IT之家 8 月 6 日消息，芒米科技现已公布旗下 AIR Y 系列掌机售价信息，该机早鸟价 599 元起，IT之家整理价格信息如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"97f7\">AIR Y（3GB RAM + 32GB 存储空间）：599 元</p></li><li><p data-vmark=\"a4d7\">AIR Y Pro（4GB RAM + 64GB 存储空间）：999 元</p></li><li><p data-vmark=\"b4c3\">AIR Y Pro（8GB RAM + 128GB 存储空间）：1199 元</p></li></ul><p style=\"text-align: center;\" data-vmark=\"d730\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/2b610c43-f2e9-473b-854d-995dc46735c6.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"807\" data-weibo=\"0\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1b32f83269a2f21ab7811742db2f1bff17fcfd4e164795f8b6053674be3e5d4380542d5ce04091979\" data-vmark=\"9789\" class=\"no-alt-img\"></p><p data-vmark=\"615c\">参考官方此前预热，芒米 Air Y 标准版将采用黑色外观，配备十字键、ABXY 按键和单摇杆，机身左侧带有橙色按键、滚轮，以及一颗黑色按键。而 Air Y Pro 的外观则是改为米色，其他与标准版大致相同，但拥有对称的双摇杆。</p><p data-vmark=\"b619\">规格方面，芒米 Air Y 标准版搭载骁龙 662 芯片，匹配 3GB RAM 和 32GB 存储空间；Air Y Pro 则配备骁龙 865 芯片，匹配至高 8GB RAM 和 128GB 存储空间。</p><p style=\"text-align: center;\" data-vmark=\"804a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/a01d5a1d-cc0f-4db2-8851-0fe30b79b89b.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"1000\" data-weibo=\"1\" data-vmark=\"5740\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/0/986/744.htm",
+      "link": "https://www.ithome.com/0/986/744.htm",
+      "pubDate": "Thu, 06 Aug 2026 14:12:17 GMT",
+      "isoDate": "2026-08-06T14:12:17.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 4,
+      "crossTags": []
+    },
     {
       "title": "vivo Y6t 手机新增“m 版”：换用天玑 6300 处理器，1019 元起",
       "description": "IT之家 8 月 6 日消息，vivo 现已为旗下 Y6t 手机新增一款“m 版”，该版本主要是把 SoC 从骁龙 4 Gen 2 调整为天玑 6300，其他核心规格不变，IT之家整理价格如下：\n\n4GB RAM + 128GB 存储空间：1019 元，国补后 866.15 元\n\n6GB RAM + 256GB 存储空间：1399 元，国补后 1189.15 元\n\n京东 vivo Y6t m 版 1019 元起直达链接\n\n\n这款手机拥有霞光蓝、流云白、暮夜黑三种配色可选，正面配备一块 6.74 英寸 1600x720 分辨率 120Hz  LCD 面板。手机背部带有灵动呼吸灯环，采用 13Mp 主摄。\n该机搭载联发科天玑 6300 处理器，配备 6500mAh 电池，号称可实现“5 年长久使用”，同时，手机还支持 IP65 防尘抗水、红外遥控功能，出厂预装 OriginOS 6 操作系统。",
@@ -26,9 +42,7 @@
           "type": "stakeholder",
           "id": "oem"
         }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
+      ]
     }
   ]
 }
