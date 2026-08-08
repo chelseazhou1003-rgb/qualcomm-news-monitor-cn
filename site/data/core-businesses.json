@@ -1,9 +1,9 @@
 {
   "date": "2026-08-08",
-  "generatedAt": "2026-08-08T17:22:20.535Z",
+  "generatedAt": "2026-08-08T18:14:51.615Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 3,
+  "count": 2,
   "articles": [
     {
       "title": "小米 REDMI K100 Pro 系列真机官宣进驻线下门店，还有一款浅蓝配色",
@@ -21,29 +21,6 @@
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "tagScore": 8,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "消息称小米平板 9/9 Pro 搭载 11.2 英寸 LCD 超高刷大屏、骁龙 8 系平台",
-      "description": "IT之家 8 月 8 日消息，博主 @数码闲聊站 今日爆料，小米平板 9/9 Pro 屏幕物理尺寸为 11.16 英寸，大概率是一块标称 11.2 英寸 3.2K LCD 超高刷大屏，电池是 9720mAh，标准版支持 45W 快充，Pro 版支持 67W 快充，骁龙 8 系平台，主打长续航影音体验。\n\nIT之家注意到，小米有一款型号为 M656BA 的平板电脑于 7 月 17 日通过国家 3C 认证，被认为是小米平板 9。这款平板电脑由西安比亚迪电子有限公司集贤分公司代工，标配 45W 快充头。\n\n另外，此前泄露的代码显示小米平板 9 采用了 9720mAh 大电池，搭载高通骁龙 8s Gen4 处理器，小米平板 9 有望搭载更高规格处理器。小米平板 9/Pro 预计将与小米 18 系列新机一同发布，敬请期待。IT之家后续将保持关注。",
-      "content": "<p data-vmark=\"2abf\">IT之家 8 月 8 日消息，博主 @数码闲聊站 今日爆料，小米平板 9/9 Pro 屏幕物理尺寸为 11.16 英寸，大概率是一块标称 11.2 英寸 3.2K LCD 超高刷大屏，电池是 9720mAh，标准版支持 45W 快充，Pro 版支持 67W 快充，<strong>骁龙 8 系平台</strong>，主打长续航影音体验。</p><p data-vmark=\"f9b8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/dbf8cff5-da95-4eaf-b317-9658c77406b7.png\" w=\"638\" h=\"329\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F6048569942%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRcpKcfaSh%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"a7f5\"></p><p data-vmark=\"68f5\">IT之家注意到，小米有一款型号为 M656BA 的平板电脑于 7 月 17 日通过国家 3C 认证，被认为是小米平板 9。这款平板电脑由西安比亚迪电子有限公司集贤分公司代工，标配 45W 快充头。</p><p data-vmark=\"9cf6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/cec36547-6ba2-49eb-9f5a-c5646bec1291.jpg\" w=\"1122\" h=\"746\" data-mpos=\"2,0\" data-vmark=\"4492\" class=\"lazy\" title=\"小米平板 9 通过 3C 认证：9720mAh 大电池 + 45W 快充头，骁龙 8 系处理器\" data-weibo=\"1\"></p><p data-vmark=\"8b0c\">另外，此前泄露的代码显示小米平板 9 采用了 9720mAh 大电池，搭载高通骁龙 8s Gen4 处理器，小米平板 9 有望搭载更高规格处理器。小米平板 9/Pro 预计将与小米 18 系列新机一同发布，敬请期待。IT之家后续将保持关注。</p>",
-      "url": "https://www.ithome.com/0/987/267.htm",
-      "link": "https://www.ithome.com/0/987/267.htm",
-      "pubDate": "Sat, 08 Aug 2026 02:59:50 GMT",
-      "isoDate": "2026-08-08T02:59:50.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "",
-      "tagScore": 0,
       "crossTags": [
         {
           "type": "stakeholder",
