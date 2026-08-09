@@ -1,9 +1,9 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-10T06:05:40.956Z",
+  "generatedAt": "2026-08-10T07:12:34.923Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 2,
+  "count": 1,
   "articles": [
     {
       "title": "摩托罗拉 Moto G Max 手机印度版公布：骁龙 6s Gen 4 芯片，拥有“外星科技”3.5mm 耳机接口",
@@ -21,31 +21,6 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 14,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    },
-    {
-      "title": "宏碁 Aspire Go 15 笔记本海外发售：骁龙 C 处理器、8GB 内存，499 英镑",
-      "description": "IT之家 8 月 9 日消息，宏碁现 Aspire Go 15 AG15-Q31P 笔记本电脑现已在海外市场发售，这款产品主打平价市场，与 MacBook Neo 正面竞争。\n\n据介绍，这款笔记本搭载高通骁龙 C 处理器，采用八核心设计，集成 Adreno GPU，满足日常办公、网页浏览和多媒体播放等需求。\n\n同时，这款笔记本内置 53Wh 电池，配备 8GB 内存、128GB 硬盘。内置一块 15.6 英寸的屏幕，分辨率为 1920*1080，比例为 16:9。提供带数字键的全尺寸键盘，拥有两个 USB-C 接口、一个 USB-A 接口、一个 3.5mm 接口以及一个 HDMI 1.4 接口。\n\n此外，这款笔记本还支持 Wi-Fi 6E 无线连接，内置 1080P 摄像头和双扬声器，定价 499.99 英镑（IT之家注：现汇率约合 4,553 元人民币）。",
-      "content": "<p data-vmark=\"8603\">IT之家 8 月 9 日消息，宏碁现 Aspire Go 15 AG15-Q31P 笔记本电脑现已在海外市场发售，这款产品主打平价市场，与 MacBook Neo 正面竞争。</p><p style=\"text-align: center;\" data-vmark=\"f97f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/5a05869c-6df0-4790-acb5-0ed520e14039.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-weibo=\"0\" data-vmark=\"b25f\"></p><p data-vmark=\"334d\">据介绍，<strong>这款笔记本搭载高通骁龙 C 处理器</strong>，采用八核心设计，集成 Adreno GPU，满足日常办公、网页浏览和多媒体播放等需求。</p><p style=\"text-align: center;\" data-vmark=\"aa45\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/617175e6-0fb0-46d3-80d9-fad8700a2cc0.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-weibo=\"1\" data-vmark=\"c330\"></p><p data-vmark=\"2c4a\">同时，这款笔记本内置 53Wh 电池，配备 8GB 内存、128GB 硬盘。内置一块 15.6 英寸的屏幕，分辨率为 1920*1080，比例为 16:9。提供带数字键的全尺寸键盘，拥有两个 USB-C 接口、一个 USB-A 接口、一个 3.5mm 接口以及一个 HDMI 1.4 接口。</p><p style=\"text-align: center;\" data-vmark=\"8c32\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/07e36e86-e6e6-4d3b-98c0-852f051bc2e5.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-weibo=\"2\" class=\"not-source\" data-vmark=\"81b8\"></p><p data-vmark=\"61b2\">此外，这款笔记本还支持 Wi-Fi 6E 无线连接，内置 1080P 摄像头和双扬声器，<strong>定价 499.99 英镑<span class=\"exch-money-value\">（IT之家注：现汇率约合 4,553 元人民币）</span></strong>。</p>",
-      "url": "https://www.ithome.com/0/987/552.htm",
-      "link": "https://www.ithome.com/0/987/552.htm",
-      "pubDate": "Sun, 09 Aug 2026 07:19:19 GMT",
-      "isoDate": "2026-08-09T07:19:19.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "tagScore": 2,
       "crossTags": [
         {
           "type": "stakeholder",
