@@ -1,9 +1,9 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-10T14:58:40.183Z",
+  "generatedAt": "2026-08-10T17:02:20.246Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 3,
+  "count": 2,
   "articles": [
     {
       "title": "小米全球机型 REDMI Note 17 Pro Max 现身 Geekbench，骁龙 6 Gen 5 芯片",
@@ -45,31 +45,6 @@
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
-      "tagScore": 14,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    },
-    {
-      "title": "OPPO Watch X3 Mini 智能手表推出全新配色「粉黛海」，8 月 14 日开售",
-      "description": "IT之家 8 月 10 日消息，今日，OPPO Watch X3 Mini 智能手表推出全新配色「粉黛海」，将于 8 月 14 日正式开售。\n\nOPPO Watch X3 Mini 于今年 4 月发布，首发推出高光金、星光银、摩卡棕三种配色，具备 18K 金精钢表壳，支持多种运动模式，售价 1799 元起。\n据介绍，这款手表搭载全新高精度腕温传感器，精度 ±0.1°C，可根据手腕温度变化捕捉女性生理期，帮助用户更早、更准地掌握生理周期。首发生理周期运动指导功能，综合睡眠、HRV 及心率等多维体征数据，智能评估每日运动准备度，并针对不同周期阶段提供科学训练建议。\n\n功能方面，这款手表具备独立 eSIM 版本，支持微信手表版，具备点一点快速找手机、预览手机拍照、碰一碰更换表盘等功能，还可当作电子车钥匙使用，可安装支付宝、QQ、百度地图、QQ 音乐、喜马拉雅 FM 等第三方应用。\n参数方面，这款手表搭载高通骁龙 W5 芯片，配备 1.32 英寸 AMOLED 圆形屏幕，分辨率 466*466 像素，最高亮度可达 1000 尼特。eSIM 版本具备蓝牙 / eSIM / Wi-Fi 连接，蓝牙版则是支持蓝牙 / Wi-Fi 连接。配备 345mAh（额定值）电池，采用磁吸触点方式充电，功率约 7.5W。",
-      "content": "<p data-vmark=\"7d63\">IT之家 8 月 10 日消息，今日，OPPO Watch X3 Mini 智能手表推出全新配色「粉黛海」，将于 8 月 14 日正式开售。</p><p style=\"text-align: center;\" data-vmark=\"6c2f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/a1d5f24f-08c6-492e-a325-c902bc323001.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1920\" data-weibo=\"0\" data-vmark=\"0bec\" class=\"no-alt-img\"></p><p data-vmark=\"b3d5\">OPPO Watch X3 Mini 于今年 4 月发布，首发推出高光金、星光银、摩卡棕三种配色，具备 18K 金精钢表壳，支持多种运动模式，<strong>售价 1799 元起</strong>。</p><p data-vmark=\"1294\">据介绍，这款手表搭载全新高精度腕温传感器，精度 ±0.1°C，可根据手腕温度变化捕捉女性生理期，帮助用户更早、更准地掌握生理周期。首发生理周期运动指导功能，综合睡眠、HRV 及心率等多维体征数据，智能评估每日运动准备度，并针对不同周期阶段提供科学训练建议。</p><p style=\"text-align: center;\" data-vmark=\"ee30\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/4/0fa0553d-f746-45aa-91f9-d8972f97dac0.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"1460\" data-mpos=\"2,0\" data-vmark=\"d0f2\" class=\"lazy no-alt-img\" title=\"1799 元起：OPPO Watch X3 Mini 发布，骁龙 W5 芯片、首发生理周期运动指导功能\" data-weibo=\"1\"></p><p data-vmark=\"9994\">功能方面，这款手表具备<strong>独立 eSIM </strong>版本，支持微信手表版，具备点一点快速找手机、预览手机拍照、碰一碰更换表盘等功能，还可当作电子车钥匙使用，可安装支付宝、QQ、百度地图、QQ 音乐、喜马拉雅 FM 等第三方应用。</p><p data-vmark=\"93cf\">参数方面，这款手表搭载高通<strong>骁龙 W5 芯片</strong>，配备 1.32 英寸 AMOLED 圆形屏幕，分辨率 466*466 像素，最高亮度可达 1000 尼特。eSIM 版本具备蓝牙 / eSIM / Wi-Fi 连接，蓝牙版则是支持蓝牙 / Wi-Fi 连接。配备 345mAh（额定值）电池，采用磁吸触点方式充电，功率约 7.5W。</p>",
-      "url": "https://www.ithome.com/0/987/757.htm",
-      "link": "https://www.ithome.com/0/987/757.htm",
-      "pubDate": "Mon, 10 Aug 2026 03:00:05 GMT",
-      "isoDate": "2026-08-10T03:00:05.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
       "tagScore": 14,
       "crossTags": [
         {
