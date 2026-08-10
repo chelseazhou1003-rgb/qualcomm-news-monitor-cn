@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-10T18:48:22.277Z",
-  "count": 2,
+  "generatedAt": "2026-08-10T20:33:53.768Z",
+  "count": 1,
   "articles": [
     {
       "title": "小米 REDMI 17 5G/REDMI 17 4G 手机海外发布，高通骁龙 4 Gen 5 / 联发科 Helio G91 Ultra 芯片",
@@ -19,29 +19,6 @@
       "section": "core-businesses",
       "subCategory": "wireless",
       "tagScore": 25,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "小米全球机型 REDMI Note 17 Pro Max 现身 Geekbench，骁龙 6 Gen 5 芯片",
-      "description": "IT之家 8 月 10 日消息，一款型号为 2609FRA74G 的小米新机近日现身 Geekbench 跑分数据库，外媒 Notebookcheck 认为该机是 REDMI Note 17 Pro Max，面向全球市场\nIT之家从数据库信息了解到，该机搭载骁龙 6 Gen 5 芯片，配备 Adreno 812 GPU，拥有 8GB 内存，运行 Android 16 系统，录得单核 924 分、多核 2923 分的成绩。\n\n结合 X 平台博主 @Sudhanshu1414 此前爆料，这款手机将配备一块 6.83 英寸的 AMOLED 屏幕，分辨率为 1.5K，支持 120Hz 高刷。新机还拥有 9210mAh 大电池，支持 100W 有线快充，搭载 5000 万像素主摄、800 万像素超广角以及 3200 万像素前置镜头。\n\n作为参考，中国市场的 REDMI 17 Pro 手机搭载骁龙 6s Gen 4 芯片，采用 6.83 英寸 1.5K 分辨率面板，内置 9000mAh 电池（支持 67W 有线充电 +22.5W 有线反充），定价 1599 元起。",
-      "content": "<p data-vmark=\"67f4\">IT之家 8 月 10 日消息，一款型号为 2609FRA74G 的小米新机近日现身 Geekbench 跑分数据库，外媒 Notebookcheck 认为该机是 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/07/15/03079e71-1056-42b8-9fd2-be75cfa6f71f.png?x-bce-process=image/format,f_auto\" data-topic-id=\"64933\">REDMI Note 17 Pro</span> Max，面向全球市场</p><p data-vmark=\"3f9b\">IT之家从数据库信息了解到，该机搭载骁龙 6 Gen 5 芯片，配备 Adreno 812 GPU，拥有 8GB 内存，运行 Android 16 系统，<strong>录得单核 924 分</strong>、<strong>多核 2923 分的成绩</strong>。</p><p data-vmark=\"fb86\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/0e9da3d4-73c8-4a4e-adcf-9511dc7f538b.jpg\" w=\"1267\" h=\"1460\" data-weibo=\"0\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d11bc099ff44ad03706db017dee9ced116b2c9924a5be1d60d9435ce5dc1f052e71da7be095f986e2f\" data-vmark=\"9d8a\"></p><p data-vmark=\"fe0f\">结合 X 平台博主 @Sudhanshu1414 此前爆料，这款手机将配备一块 6.83 英寸的 AMOLED 屏幕，分辨率为 1.5K，支持 120Hz 高刷。新机还拥有 9210mAh 大电池，支持 100W 有线快充，搭载 5000 万像素主摄、800 万像素超广角以及 3200 万像素前置镜头。</p><p data-vmark=\"9b67\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/e75295b5-c391-4618-a21c-d9f6f1fe780a.png\" w=\"898\" h=\"1370\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FSudhanshu1414%2Fstatus%2F2083569498968535290%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FSudhanshu1414%2Fstatus%2F2083569498968535290%22%7D\" data-weibo=\"1\" data-mpos=\"2,0\"  data-vmark=\"6109\"></p><p data-vmark=\"d73a\"><a href=\"https://www.ithome.com/0/976/707.htm\" target=\"_blank\">作为参考</a>，中国市场的 REDMI 17 Pro 手机搭载骁龙 6s Gen 4 芯片，采用 6.83 英寸 1.5K 分辨率面板，内置 9000mAh 电池（支持 67W 有线充电 +22.5W 有线反充），定价 1599 元起。</p>",
-      "url": "https://www.ithome.com/0/987/839.htm",
-      "link": "https://www.ithome.com/0/987/839.htm",
-      "pubDate": "Mon, 10 Aug 2026 06:43:27 GMT",
-      "isoDate": "2026-08-10T06:43:27.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 9,
       "crossTags": [
         {
           "type": "stakeholder",
