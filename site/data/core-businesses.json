@@ -1,10 +1,56 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-10T13:10:38.084Z",
+  "generatedAt": "2026-08-10T14:58:40.183Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
   "count": 5,
   "articles": [
+    {
+      "title": "小米全球机型 REDMI Note 17 Pro Max 现身 Geekbench，骁龙 6 Gen 5 芯片",
+      "description": "IT之家 8 月 10 日消息，一款型号为 2609FRA74G 的小米新机近日现身 Geekbench 跑分数据库，外媒 Notebookcheck 认为该机是 REDMI Note 17 Pro Max，面向全球市场\nIT之家从数据库信息了解到，该机搭载骁龙 6 Gen 5 芯片，配备 Adreno 812 GPU，拥有 8GB 内存，运行 Android 16 系统，录得单核 924 分、多核 2923 分的成绩。\n\n结合 X 平台博主 @Sudhanshu1414 此前爆料，这款手机将配备一块 6.83 英寸的 AMOLED 屏幕，分辨率为 1.5K，支持 120Hz 高刷。新机还拥有 9210mAh 大电池，支持 100W 有线快充，搭载 5000 万像素主摄、800 万像素超广角以及 3200 万像素前置镜头。\n\n作为参考，中国市场的 REDMI 17 Pro 手机搭载骁龙 6s Gen 4 芯片，采用 6.83 英寸 1.5K 分辨率面板，内置 9000mAh 电池（支持 67W 有线充电 +22.5W 有线反充），定价 1599 元起。",
+      "content": "<p data-vmark=\"67f4\">IT之家 8 月 10 日消息，一款型号为 2609FRA74G 的小米新机近日现身 Geekbench 跑分数据库，外媒 Notebookcheck 认为该机是 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/07/15/03079e71-1056-42b8-9fd2-be75cfa6f71f.png?x-bce-process=image/format,f_auto\" data-topic-id=\"64933\">REDMI Note 17 Pro</span> Max，面向全球市场</p><p data-vmark=\"3f9b\">IT之家从数据库信息了解到，该机搭载骁龙 6 Gen 5 芯片，配备 Adreno 812 GPU，拥有 8GB 内存，运行 Android 16 系统，<strong>录得单核 924 分</strong>、<strong>多核 2923 分的成绩</strong>。</p><p data-vmark=\"fb86\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/0e9da3d4-73c8-4a4e-adcf-9511dc7f538b.jpg\" w=\"1267\" h=\"1460\" data-weibo=\"0\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d11bc099ff44ad03706db017dee9ced116b2c9924a5be1d60d9435ce5dc1f052e71da7be095f986e2f\" data-vmark=\"9d8a\"></p><p data-vmark=\"fe0f\">结合 X 平台博主 @Sudhanshu1414 此前爆料，这款手机将配备一块 6.83 英寸的 AMOLED 屏幕，分辨率为 1.5K，支持 120Hz 高刷。新机还拥有 9210mAh 大电池，支持 100W 有线快充，搭载 5000 万像素主摄、800 万像素超广角以及 3200 万像素前置镜头。</p><p data-vmark=\"9b67\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/e75295b5-c391-4618-a21c-d9f6f1fe780a.png\" w=\"898\" h=\"1370\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FSudhanshu1414%2Fstatus%2F2083569498968535290%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FSudhanshu1414%2Fstatus%2F2083569498968535290%22%7D\" data-weibo=\"1\" data-mpos=\"2,0\"  data-vmark=\"6109\"></p><p data-vmark=\"d73a\"><a href=\"https://www.ithome.com/0/976/707.htm\" target=\"_blank\">作为参考</a>，中国市场的 REDMI 17 Pro 手机搭载骁龙 6s Gen 4 芯片，采用 6.83 英寸 1.5K 分辨率面板，内置 9000mAh 电池（支持 67W 有线充电 +22.5W 有线反充），定价 1599 元起。</p>",
+      "url": "https://www.ithome.com/0/987/839.htm",
+      "link": "https://www.ithome.com/0/987/839.htm",
+      "pubDate": "Mon, 10 Aug 2026 06:43:27 GMT",
+      "isoDate": "2026-08-10T06:43:27.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 9,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "一加 16 新机疑似入网：支持 N79 5G 频段，骁龙 8 Elite Gen6 Pro 芯片",
+      "description": "IT之家 8 月 10 日消息，一款型号为 PYB110 的 OPPO 新机近日通过无线电核准，支持 N79 5G 频段。博主 @数码闲聊站 预测该机为一加 16，搭载子系唯二骁龙 8 Elite Gen6 Pro 处理器。\n\nIT之家注意到，该博主今日 7 月曾爆料某厂子系骁龙 8E6 Pro 新机最新排期 10 月，当时便被外界认为是一加 16。据其爆料，该机工程机还是 6.78 英寸 LIPO 极窄四等边直屏，镜头 Deco 还是方形小矩阵，ID 设计大方向不变。\n\n一加于 7 月 30 日在高通骁龙游戏技术赏上分享了其在游戏技术和生态上的合作成果。一加中国区总裁李杰确认，一加三大独家游戏技术都将迎来全面大升级，并在年度旗舰一加 16 上首发。从李杰分享的现场照片来看，一加 16 旗舰新机将升级 165Hz 极速高刷、风驰游戏内核和电竞三芯。\n\n作为参考，一加 15 手机已于去年 10 月 28 日 10:00 正式开售，售价 3999 元起。该机搭载第五代骁龙 8 至尊版处理器以及全新“冰河散热系统”，拥有 7300mAh 冰川电池，支持 120W 超级闪充 + 50W 无线闪充，搭载 5000 万像素旗舰三摄。",
+      "content": "<p data-vmark=\"31a6\">IT之家 8 月 10 日消息，一款型号为 PYB110 的 OPPO 新机近日通过无线电核准，支持 N79 5G 频段。博主 @数码闲聊站 预测该机为一加 16，搭载子系唯二骁龙 8 Elite Gen6 Pro 处理器。</p><p data-vmark=\"0379\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/4b95f09c-97dd-491d-b96b-266717152b55.png\" w=\"638\" h=\"881\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRcJMEAw68%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"d2e3\" class=\"no-alt-img\"></p><p data-vmark=\"66c6\">IT之家注意到，该博主今日 7 月曾爆料某厂子系骁龙 8E6 Pro 新机最新排期 10 月，当时便被外界认为是一加 16。据其爆料，该机工程机还是 6.78 英寸 LIPO 极窄四等边直屏，镜头 Deco 还是方形小矩阵，ID 设计大方向不变。</p><p data-vmark=\"b025\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/97388468-1db6-49c7-9672-da4ecc2cc983.png?x-bce-process=image/format,f_auto\" w=\"750\" h=\"230\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5325248170038287%22%7D\" data-mpos=\"2,0\" data-vmark=\"0511\" class=\"lazy no-alt-img\" title=\"消息称某厂子系骁龙 8E6 Pro 新机排期 10 月发布，预计为一加 16\" data-weibo=\"1\"></p><p data-vmark=\"7ad8\">一加于 7 月 30 日在高通骁龙游戏技术赏上分享了其在游戏技术和生态上的合作成果。一加中国区总裁李杰确认，一加三大独家游戏技术都将迎来全面大升级，并在年度旗舰一加 16 上首发。从李杰分享的现场照片来看，一加 16 旗舰新机将升级<strong> 165Hz 极速高刷、风驰游戏内核和电竞三芯</strong>。</p><p data-vmark=\"6909\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/4a4b410e-feda-4f8c-b881-ef662e47c16a.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1440\" h=\"1081\" data-vmark=\"18f4\" class=\"lazy no-alt-img\" title=\"李杰：2026 上半年一加销售增速位列手机品牌第一，年度旗舰一加 16 系列将首发三大独家游戏技术\" data-weibo=\"2\"></p><p data-vmark=\"be97\">作为参考，<a target=\"_blank\" href=\"https://www.ithome.com/0/892/832.htm\">一加 15 手机已于去年 10 月 28 日 10:00 正式开售</a>，售价 3999 元起。该机搭载第五代骁龙 8 至尊版处理器以及全新“冰河散热系统”，拥有 7300mAh 冰川电池，支持 120W 超级闪充 + 50W 无线闪充，搭载 5000 万像素旗舰三摄。</p>",
+      "url": "https://www.ithome.com/0/987/817.htm",
+      "link": "https://www.ithome.com/0/987/817.htm",
+      "pubDate": "Mon, 10 Aug 2026 05:43:11 GMT",
+      "isoDate": "2026-08-10T05:43:11.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 14,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
     {
       "title": "iQOO Neo11 至尊版手机三款配色公布，8 月 18 日发布",
       "description": "IT之家 8 月 10 日消息，iQOO Neo11 至尊版手机三款配色公布，分别为乘风、疾影黑、驰光白，新机 8 月 18 日 19:00 发布即开售。\n\n\n\niQOO Neo11 至尊版今日官宣，官方称其为“行业唯一 2K 屏 & 9100mAh 性能旗舰”。iQOO Neo 产品经理 @iQOO慧慧子 上周预告，这款新机将搭载国产顶级 2K 屏、Neo 史上最大电池，外观上从设计到工艺再到配色都进行了认真打磨，更护眼、更耐用、网络更稳定。\n目前，IT之家已经发布 iQOO Neo11 至尊版图赏。这次我们拿到的是「驰光白」配色，整体依旧延续了悬浮舷窗搭配大 R 角的设计语言，视觉上非常圆润。驰光白配色则采用了全新 3D 流光视效处理，机身在不同角度和光线下会有一定的渐变光泽，比较小清新。\n\n作为参考，iQOO Neo11 手机发布于去年 10 月，新机搭载 6.82 英寸 2K 144Hz 高刷屏以及骁龙 8 至尊版处理器，标价 2599 元起。\n\n相关阅读：\n\n《【IT之家开箱】iQOO Neo11 至尊版图赏：横向 Deco + 驰光白清爽配色》",
@@ -63,47 +109,6 @@
       "subCategory": "wireless",
       "tagScore": 15,
       "crossTags": []
-    },
-    {
-      "title": "iQOO Neo 11 至尊版手机官宣 8 月 18 日发布：行业唯一 2K 屏 & 9100mAh 性能旗舰，Z11S 同步亮相",
-      "description": "IT之家 8 月 10 日消息，iQOO 手机今日官宣，iQOO Neo 11 至尊版将于 8 月 18 日 19:00 发布并开售，这是“行业唯一 2K 屏 & 9100mAh 性能旗舰”。\n\n\n此外，iQOO 首款万级续航手机 iQOO Z11S 也将于 8 月 18 日 19:00 发布并开售，搭载 10000mAh 蓝海电池、144Hz 护眼电竞屏。\n\niQOO Neo 产品经理 @iQOO慧慧子 上周预告，这款新机将搭载国产顶级 2K 屏、Neo 史上最大电池，外观上从设计到工艺再到配色都进行了认真打磨，更护眼、更耐用、网络更稳定。\nIT之家注意到，博主 @数码闲聊站 于 8 月 3 日曝光一款 iQOO Neo 新机部分配置，包括基于天玑 9500 深度定制，调优了联发科最新旗舰芯片；同档唯一的国产新工艺 2K 大屏，超 9000mAh 大电池。目前，尚不清楚爆料是否为 iQOO Neo11 至尊版手机。\n作为参考，iQOO Neo 11 手机发布于去年 10 月，新机搭载 6.82 英寸 2K 144Hz 高刷屏以及骁龙 8 至尊版处理器，标价 2599 元起。",
-      "content": "<p data-vmark=\"9770\">IT之家 8 月 10 日消息，iQOO 手机今日官宣，iQOO Neo 11 至尊版将于 8 月 18 日 19:00 发布并开售，这是“行业唯一 2K 屏 &amp; 9100mAh 性能旗舰”。</p><p data-vmark=\"01c5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/98d1b664-fe07-42f7-88f4-ee94495f0593.png?x-bce-process=image/format,f_auto\" w=\"638\" h=\"518\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F6960161079%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6960161079%2FRcI2GBrF3%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"84f2\"></p><p data-vmark=\"ca88\" style=\"text-align: center;\"><a href=\"https://weibo.com/tv/show/1034:5330130407456914?mid=5330292388924469\" class=\"ithome_super_player\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/29f8d11f-2f36-4225-bc4f-b59ddb28c9ad.jpg\"></a></p><p style=\"text-align: left;\" data-vmark=\"421e\">此外，iQOO 首款万级续航手机 iQOO Z11S 也将于 8 月 18 日 19:00 发布并开售，搭载 10000mAh 蓝海电池、144Hz 护眼电竞屏。</p><p style=\"text-align: center;\" data-vmark=\"f7dc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/f7173ec6-e11f-4178-ba47-1e8be5abf59d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1919\" data-weibo=\"1\" data-vmark=\"85be\"></p><p data-vmark=\"cb4f\">iQOO Neo 产品经理 @iQOO慧慧子 上周预告，这款新机将搭载国产顶级 2K 屏、Neo 史上最大电池，外观上从设计到工艺再到配色都进行了认真打磨，更护眼、更耐用、网络更稳定。</p><p data-vmark=\"5e39\">IT之家注意到，博主 @数码闲聊站 于 8 月 3 日曝光一款 iQOO Neo 新机部分配置，包括基于天玑 9500 深度定制，调优了联发科最新旗舰芯片；同档唯一的国产新工艺 2K 大屏，超 9000mAh 大电池。目前，尚不清楚爆料是否为 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2025/11/04/5adebb9c-d428-4d63-8a1f-76332d5f2880.png?x-bce-process=image/format,f_auto\" data-topic-id=\"57652\">iQOO Neo11</span> 至尊版手机。</p><p data-vmark=\"c97d\">作为参考，iQOO Neo 11 手机发布于去年 10 月，新机搭载 6.82 英寸 2K 144Hz 高刷屏以及骁龙 8 至尊版处理器，标价 2599 元起。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"1352\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4552\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/0/987/680.htm",
-      "link": "https://www.ithome.com/0/987/680.htm",
-      "pubDate": "Mon, 10 Aug 2026 01:21:01 GMT",
-      "isoDate": "2026-08-10T01:21:01.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 16,
-      "crossTags": []
-    },
-    {
-      "title": "小米 REDMI K100 Pro Max 手机新配色「追风蓝」公布，8 月 11 日发布",
-      "description": "IT之家 8 月 10 日消息，小米今日公布 REDMI K100 Pro Max 全新配色「追风蓝」，新机将于 8 月 11 日 19:00 发布。\n\n\n\n\n\n\n在此之前，REDMI K100 Pro Max 已经公布“赤霞珠红”“流金白”配色。新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，以及全新悬浮灯环设计可随音乐律动。首发 M11  新型 OLED 发光材料，搭配超级像素全 RGB 无损排列。\n\n\n该机搭载小米首款 185Hz 高刷电竞屏，原生适配 30+ 热门游戏；第五代骁龙 8 至尊版 +AI 独显芯片 D2，支持游戏超帧超分并发；旗舰触控芯片，采样率升级至 480Hz；游戏专属天线，时延大幅降低。\n影像方面，该机搭载 2 亿像素主摄、5X 潜望长焦（最高支持 100X 超级变焦）、50MP 超广角（17mm 等效焦距）。\n续航方面，该机搭载 9070mAh 小米金沙江电池、100W 有线快充、50W 无线充电、27W 有线反充、22.5W 无线反充。",
-      "content": "<p data-vmark=\"f4ef\">IT之家 8 月 10 日消息，小米今日公布 REDMI K100 Pro Max 全新配色「追风蓝」，新机将于 8 月 11 日 19:00 发布。</p><p data-vmark=\"665b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/f8e3dc06-4d32-41bc-99de-2cd12ac4f568.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"0\" data-vmark=\"828a\" class=\"no-alt-img\"></p><p data-vmark=\"c333\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/2b0a3a2d-bf59-4cf6-bef3-4d251029ff99.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"1\" data-vmark=\"d068\" class=\"no-alt-img\"></p><p data-vmark=\"a710\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/068e8017-da89-4047-b8c1-76163296d431.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"2\" data-vmark=\"9970\" class=\"no-alt-img\"></p><p data-vmark=\"b1f6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/407b311e-7bf9-497f-b24e-bcf9ac10c455.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"3\" data-vmark=\"0e81\" class=\"no-alt-img\"></p><p data-vmark=\"ccc8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/1e0c3853-476e-4656-9169-717426f5e35a.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"4\" data-vmark=\"f2ba\" class=\"no-alt-img\"></p><p data-vmark=\"ed9d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/6982b4ef-1e5c-4a95-bef2-7c669f15d37a.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"5\" data-vmark=\"5107\" class=\"no-alt-img\"></p><p data-vmark=\"dc47\">在此之前，REDMI K100 Pro Max 已经公布“赤霞珠红”“流金白”配色。新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，以及全新悬浮灯环设计可随音乐律动。首发 M11 &nbsp;新型 OLED 发光材料，搭配超级像素全 RGB 无损排列。</p><p data-vmark=\"3bec\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/c8ca49ec-6b42-49eb-a736-d45b4d8faf3d.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"6\" data-vmark=\"1438\" class=\"no-alt-img\"></p><p data-vmark=\"2419\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/2cc5935b-baa4-4a24-9ecc-b5f4a8bec70a.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"7\" data-vmark=\"7dfa\" class=\"no-alt-img\"></p><p data-vmark=\"665f\">该机搭载小米首款 185Hz 高刷电竞屏，原生适配 30+ 热门游戏；第五代骁龙 8 至尊版 +AI 独显芯片 D2，支持游戏超帧超分并发；旗舰触控芯片，采样率升级至 480Hz；游戏专属天线，时延大幅降低。</p><p data-vmark=\"5d7a\">影像方面，该机搭载 2 亿像素主摄、5X 潜望长焦（最高支持 100X 超级变焦）、50MP 超广角（17mm 等效焦距）。</p><p data-vmark=\"c84d\">续航方面，该机搭载 9070mAh 小米金沙江电池、100W 有线快充、50W 无线充电、27W 有线反充、22.5W 无线反充。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"7033\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4502\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/0/987/676.htm",
-      "link": "https://www.ithome.com/0/987/676.htm",
-      "pubDate": "Mon, 10 Aug 2026 01:06:52 GMT",
-      "isoDate": "2026-08-10T01:06:52.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 7,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
     }
   ]
 }
