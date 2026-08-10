@@ -1,10 +1,35 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-10T17:02:20.246Z",
+  "generatedAt": "2026-08-10T18:48:22.277Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
   "count": 2,
   "articles": [
+    {
+      "title": "小米 REDMI 17 5G/REDMI 17 4G 手机海外发布，高通骁龙 4 Gen 5 / 联发科 Helio G91 Ultra 芯片",
+      "description": "IT之家 8 月 10 日消息，小米现已在海外市场推出 REDMI 17 5G 和 REDMI 17 4G 手机，两款新品主攻入门级市场，采用相同的外观设计语言。\n\n▲ REDMI 17 4G\nIT之家了解到，这两款手机均搭载 6.9 英寸 IPS LCD 屏幕，分辨率为 1600*720，支持 120Hz 高刷。内置 7500mAh 电池，支持 45W 有线快充、22.5W 有线反向充电。\n性能方面，REDMI 17 5G 搭载骁龙 4 Gen 5 芯片，REDMI 17 4G 则配备联发科 Helio G91 Ultra 芯片。两款手机均提供 4GB/6GB LPDDR4X 内存、128GB/256GB 存储空间。其中 4G 版本采用速度较慢的 eMMC 5.1 存储，5G 版则使用 UFS 2.2。\n\n▲ REDMI 17 5G\n同时，这两款手机均具备 5000 万像素后置主摄、800 万像素前摄，背面带有 RGB 呼吸灯，可显示来电、通知消息。具备 IP64 级防尘防水、NFC、侧边指纹识别和 3.5mm 耳机接口。\n此外，REDMI 17 4G 提供黑色、深蓝色、莲花紫、橡木绿四种配色，起售价 669 马来西亚林吉特（IT之家注：现汇率约合 1,109 元人民币）；REDMI 17 5G 提供黑色、深蓝色和活力橙，起售价为 769 马来西亚林吉特（现汇率约合 1,274 元人民币）。",
+      "content": "<p data-vmark=\"7918\">IT之家 8 月 10 日消息，小米现已在海外市场推出 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/08/07/5d6b3b68-b643-42ab-905e-2a5dc900b1c4.png?x-bce-process=image/format,f_auto\" data-topic-id=\"66060\">REDMI 17 5G</span> 和 REDMI 17 4G 手机，两款新品主攻入门级市场，采用相同的外观设计语言。</p><p style=\"text-align: center;\" data-vmark=\"8eef\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/6e4bbe21-99be-41eb-8833-d382e7ba61b5.jpg?x-bce-process=image/format,f_auto\" w=\"660\" h=\"415\" data-weibo=\"0\" data-vmark=\"b4e0\"></p><figcaption>▲ REDMI 17 4G</figcaption><p data-vmark=\"d134\">IT之家了解到，这两款手机均搭载 6.9 英寸 IPS LCD 屏幕，分辨率为 1600*720，支持 120Hz 高刷。内置 7500mAh 电池，支持 45W 有线快充、22.5W 有线反向充电。</p><p data-vmark=\"13a4\">性能方面，<strong>REDMI 17 5G 搭载骁龙 4 Gen 5 芯片</strong>，<strong>REDMI 17 4G 则配备联发科 Helio G91 Ultra 芯片</strong>。两款手机均提供 4GB/6GB LPDDR4X 内存、128GB/256GB 存储空间。其中 4G 版本采用速度较慢的 eMMC 5.1 存储，5G 版则使用 UFS 2.2。</p><p style=\"text-align: center;\" data-vmark=\"8c52\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/c53f783b-1339-46cb-84d2-0a2d45232c7d.jpg?x-bce-process=image/format,f_auto\" w=\"660\" h=\"496\" data-weibo=\"1\" data-vmark=\"5501\"></p><figcaption>▲ REDMI 17 5G</figcaption><p data-vmark=\"bbbb\">同时，这两款手机均具备 5000 万像素后置主摄、800 万像素前摄，背面带有 RGB 呼吸灯，可显示来电、通知消息。具备 IP64 级防尘防水、NFC、侧边指纹识别和 3.5mm 耳机接口。</p><p data-vmark=\"d9dc\">此外，REDMI 17 4G 提供黑色、深蓝色、莲花紫、橡木绿四种配色，起售价 669 马来西亚林吉特<span class=\"exch-money-value\">（IT之家注：现汇率约合 1,109 元人民币）</span>；REDMI 17 5G 提供黑色、深蓝色和活力橙，起售价为 769 马来西亚林吉特<span class=\"exch-money-value\">（现汇率约合 1,274 元人民币）</span>。</p>",
+      "url": "https://www.ithome.com/0/987/999.htm",
+      "link": "https://www.ithome.com/0/987/999.htm",
+      "pubDate": "Mon, 10 Aug 2026 10:32:31 GMT",
+      "isoDate": "2026-08-10T10:32:31.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "tagScore": 25,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "oem"
+    },
     {
       "title": "小米全球机型 REDMI Note 17 Pro Max 现身 Geekbench，骁龙 6 Gen 5 芯片",
       "description": "IT之家 8 月 10 日消息，一款型号为 2609FRA74G 的小米新机近日现身 Geekbench 跑分数据库，外媒 Notebookcheck 认为该机是 REDMI Note 17 Pro Max，面向全球市场\nIT之家从数据库信息了解到，该机搭载骁龙 6 Gen 5 芯片，配备 Adreno 812 GPU，拥有 8GB 内存，运行 Android 16 系统，录得单核 924 分、多核 2923 分的成绩。\n\n结合 X 平台博主 @Sudhanshu1414 此前爆料，这款手机将配备一块 6.83 英寸的 AMOLED 屏幕，分辨率为 1.5K，支持 120Hz 高刷。新机还拥有 9210mAh 大电池，支持 100W 有线快充，搭载 5000 万像素主摄、800 万像素超广角以及 3200 万像素前置镜头。\n\n作为参考，中国市场的 REDMI 17 Pro 手机搭载骁龙 6s Gen 4 芯片，采用 6.83 英寸 1.5K 分辨率面板，内置 9000mAh 电池（支持 67W 有线充电 +22.5W 有线反充），定价 1599 元起。",
@@ -21,31 +46,6 @@
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "tagScore": 9,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    },
-    {
-      "title": "一加 16 新机疑似入网：支持 N79 5G 频段，骁龙 8 Elite Gen6 Pro 芯片",
-      "description": "IT之家 8 月 10 日消息，一款型号为 PYB110 的 OPPO 新机近日通过无线电核准，支持 N79 5G 频段。博主 @数码闲聊站 预测该机为一加 16，搭载子系唯二骁龙 8 Elite Gen6 Pro 处理器。\n\nIT之家注意到，该博主今日 7 月曾爆料某厂子系骁龙 8E6 Pro 新机最新排期 10 月，当时便被外界认为是一加 16。据其爆料，该机工程机还是 6.78 英寸 LIPO 极窄四等边直屏，镜头 Deco 还是方形小矩阵，ID 设计大方向不变。\n\n一加于 7 月 30 日在高通骁龙游戏技术赏上分享了其在游戏技术和生态上的合作成果。一加中国区总裁李杰确认，一加三大独家游戏技术都将迎来全面大升级，并在年度旗舰一加 16 上首发。从李杰分享的现场照片来看，一加 16 旗舰新机将升级 165Hz 极速高刷、风驰游戏内核和电竞三芯。\n\n作为参考，一加 15 手机已于去年 10 月 28 日 10:00 正式开售，售价 3999 元起。该机搭载第五代骁龙 8 至尊版处理器以及全新“冰河散热系统”，拥有 7300mAh 冰川电池，支持 120W 超级闪充 + 50W 无线闪充，搭载 5000 万像素旗舰三摄。",
-      "content": "<p data-vmark=\"31a6\">IT之家 8 月 10 日消息，一款型号为 PYB110 的 OPPO 新机近日通过无线电核准，支持 N79 5G 频段。博主 @数码闲聊站 预测该机为一加 16，搭载子系唯二骁龙 8 Elite Gen6 Pro 处理器。</p><p data-vmark=\"0379\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/4b95f09c-97dd-491d-b96b-266717152b55.png\" w=\"638\" h=\"881\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRcJMEAw68%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"d2e3\" class=\"no-alt-img\"></p><p data-vmark=\"66c6\">IT之家注意到，该博主今日 7 月曾爆料某厂子系骁龙 8E6 Pro 新机最新排期 10 月，当时便被外界认为是一加 16。据其爆料，该机工程机还是 6.78 英寸 LIPO 极窄四等边直屏，镜头 Deco 还是方形小矩阵，ID 设计大方向不变。</p><p data-vmark=\"b025\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/97388468-1db6-49c7-9672-da4ecc2cc983.png?x-bce-process=image/format,f_auto\" w=\"750\" h=\"230\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5325248170038287%22%7D\" data-mpos=\"2,0\" data-vmark=\"0511\" class=\"lazy no-alt-img\" title=\"消息称某厂子系骁龙 8E6 Pro 新机排期 10 月发布，预计为一加 16\" data-weibo=\"1\"></p><p data-vmark=\"7ad8\">一加于 7 月 30 日在高通骁龙游戏技术赏上分享了其在游戏技术和生态上的合作成果。一加中国区总裁李杰确认，一加三大独家游戏技术都将迎来全面大升级，并在年度旗舰一加 16 上首发。从李杰分享的现场照片来看，一加 16 旗舰新机将升级<strong> 165Hz 极速高刷、风驰游戏内核和电竞三芯</strong>。</p><p data-vmark=\"6909\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/4a4b410e-feda-4f8c-b881-ef662e47c16a.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1440\" h=\"1081\" data-vmark=\"18f4\" class=\"lazy no-alt-img\" title=\"李杰：2026 上半年一加销售增速位列手机品牌第一，年度旗舰一加 16 系列将首发三大独家游戏技术\" data-weibo=\"2\"></p><p data-vmark=\"be97\">作为参考，<a target=\"_blank\" href=\"https://www.ithome.com/0/892/832.htm\">一加 15 手机已于去年 10 月 28 日 10:00 正式开售</a>，售价 3999 元起。该机搭载第五代骁龙 8 至尊版处理器以及全新“冰河散热系统”，拥有 7300mAh 冰川电池，支持 120W 超级闪充 + 50W 无线闪充，搭载 5000 万像素旗舰三摄。</p>",
-      "url": "https://www.ithome.com/0/987/817.htm",
-      "link": "https://www.ithome.com/0/987/817.htm",
-      "pubDate": "Mon, 10 Aug 2026 05:43:11 GMT",
-      "isoDate": "2026-08-10T05:43:11.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 14,
       "crossTags": [
         {
           "type": "stakeholder",
