@@ -1,8 +1,109 @@
 {
   "date": "2026-08-10",
-  "generatedAt": "2026-08-10T08:36:38.352Z",
+  "generatedAt": "2026-08-10T11:01:11.776Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 0,
-  "articles": []
+  "count": 5,
+  "articles": [
+    {
+      "title": "OPPO Watch X3 Mini 智能手表推出全新配色「粉黛海」，8 月 14 日开售",
+      "description": "IT之家 8 月 10 日消息，今日，OPPO Watch X3 Mini 智能手表推出全新配色「粉黛海」，将于 8 月 14 日正式开售。\n\nOPPO Watch X3 Mini 于今年 4 月发布，首发推出高光金、星光银、摩卡棕三种配色，具备 18K 金精钢表壳，支持多种运动模式，售价 1799 元起。\n据介绍，这款手表搭载全新高精度腕温传感器，精度 ±0.1°C，可根据手腕温度变化捕捉女性生理期，帮助用户更早、更准地掌握生理周期。首发生理周期运动指导功能，综合睡眠、HRV 及心率等多维体征数据，智能评估每日运动准备度，并针对不同周期阶段提供科学训练建议。\n\n功能方面，这款手表具备独立 eSIM 版本，支持微信手表版，具备点一点快速找手机、预览手机拍照、碰一碰更换表盘等功能，还可当作电子车钥匙使用，可安装支付宝、QQ、百度地图、QQ 音乐、喜马拉雅 FM 等第三方应用。\n参数方面，这款手表搭载高通骁龙 W5 芯片，配备 1.32 英寸 AMOLED 圆形屏幕，分辨率 466*466 像素，最高亮度可达 1000 尼特。eSIM 版本具备蓝牙 / eSIM / Wi-Fi 连接，蓝牙版则是支持蓝牙 / Wi-Fi 连接。配备 345mAh（额定值）电池，采用磁吸触点方式充电，功率约 7.5W。",
+      "content": "<p data-vmark=\"7d63\">IT之家 8 月 10 日消息，今日，OPPO Watch X3 Mini 智能手表推出全新配色「粉黛海」，将于 8 月 14 日正式开售。</p><p style=\"text-align: center;\" data-vmark=\"6c2f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/a1d5f24f-08c6-492e-a325-c902bc323001.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1920\" data-weibo=\"0\" data-vmark=\"0bec\" class=\"no-alt-img\"></p><p data-vmark=\"b3d5\">OPPO Watch X3 Mini 于今年 4 月发布，首发推出高光金、星光银、摩卡棕三种配色，具备 18K 金精钢表壳，支持多种运动模式，<strong>售价 1799 元起</strong>。</p><p data-vmark=\"1294\">据介绍，这款手表搭载全新高精度腕温传感器，精度 ±0.1°C，可根据手腕温度变化捕捉女性生理期，帮助用户更早、更准地掌握生理周期。首发生理周期运动指导功能，综合睡眠、HRV 及心率等多维体征数据，智能评估每日运动准备度，并针对不同周期阶段提供科学训练建议。</p><p style=\"text-align: center;\" data-vmark=\"ee30\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/4/0fa0553d-f746-45aa-91f9-d8972f97dac0.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"1460\" data-mpos=\"2,0\" data-vmark=\"d0f2\" class=\"lazy no-alt-img\" title=\"1799 元起：OPPO Watch X3 Mini 发布，骁龙 W5 芯片、首发生理周期运动指导功能\" data-weibo=\"1\"></p><p data-vmark=\"9994\">功能方面，这款手表具备<strong>独立 eSIM </strong>版本，支持微信手表版，具备点一点快速找手机、预览手机拍照、碰一碰更换表盘等功能，还可当作电子车钥匙使用，可安装支付宝、QQ、百度地图、QQ 音乐、喜马拉雅 FM 等第三方应用。</p><p data-vmark=\"93cf\">参数方面，这款手表搭载高通<strong>骁龙 W5 芯片</strong>，配备 1.32 英寸 AMOLED 圆形屏幕，分辨率 466*466 像素，最高亮度可达 1000 尼特。eSIM 版本具备蓝牙 / eSIM / Wi-Fi 连接，蓝牙版则是支持蓝牙 / Wi-Fi 连接。配备 345mAh（额定值）电池，采用磁吸触点方式充电，功率约 7.5W。</p>",
+      "url": "https://www.ithome.com/0/987/757.htm",
+      "link": "https://www.ithome.com/0/987/757.htm",
+      "pubDate": "Mon, 10 Aug 2026 03:00:05 GMT",
+      "isoDate": "2026-08-10T03:00:05.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "tagScore": 14,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "中兴 TOPFLOW“直播神器”便携聚合网络设备发售：高通 X75 芯片、支持自插卡使用，2999 元起",
+      "description": "IT之家 8 月 10 日消息，中兴 TOPFLOW“直播神器”便携聚合网络设备现已在京东发售，标准版定价为 2999 元，液冷版定价 3399 元。\n\n\n该产品主要面向移动直播、视频创作、户外办公等场景打造，用户在操作时，可以通过机身正面的 3.5 英寸大触控屏，直观地监控网络、网速、流量和电量等状态，并能一手完成 SIM 卡管理、温控调整及快速开机等设置。\n\n\n该产品核心优势在于“四网聚合”技术与 AI 智能择网能力。面对信号覆盖弱、人多拥挤或高速移动等容易导致直播卡顿的场景，该设备能够同时聚合一路 5G-A、两路 4G 以及一路千兆有线网络，有效增强网络连接能力。\n\n在运作时，其内置的 AI 聚合算法会实时感知并预判全网状态，进行智能切片与重组。当单路信号变弱时，AI 能在毫秒内调整策略将数据导向优质链路；若某路完全中断，数据则自动分流至剩余链路。\n在硬件方面，这款设备搭载了高通 X75 旗舰芯片，支持 5G-A 与 Wi-Fi 7 标准，理论上最高可连接 64 台设备。机身内部通过柔性工艺高集成度堆叠了 11 根全频段全向天线，配合 AI 智能天线择优算法，让设备能够快速选择最优信道组合。\n同时，机身配备的千兆以太网口支持 WAN 与 LAN 自适应双向复用。它既能接入宽带作为第四路聚合信号源大幅提升上行速率，也能通过网线或 USB-C 接口直连电脑、专业相机及导播台。机身还配备了 3 个 SIM 卡槽，支持用户自插卡使用。\n\n该设备内置 10000mAh 的双芯巨能量电池，并支持 40W 快充。还提供了旁路供电技术，在边充边播时电源可直接为主板供电，从而大幅减少电池损耗与额外发热。其中高配版本“液冷版”引入了服务器级别的脉动液冷引擎，依靠超薄压电陶瓷微泵驱动冷却液持续循环，结合涡轮智能变频大风扇，可进一步提升散热效果。\n\n\n在流量服务层面，中兴提供了一站式的官方流量方案，用户通过官方后台即可一键为所有网络统一充值，内置卡流量实现共享且无隐形费用，IT之家附流量及产品规格如下：\n\n\n京东中兴（ZTE）TOPFLOW 直播神器 2999 元起直达链接",
+      "content": "<p data-vmark=\"cbf3\">IT之家 8 月 10 日消息，中兴 TOPFLOW“直播神器”便携聚合网络设备现已在京东发售，<strong>标准版定价为 2999 元，液冷版定价 3399 元</strong>。</p><p data-vmark=\"b387\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/4393a0c4-8d57-44e0-a329-8e35d1ed663c.png\" w=\"826\" h=\"1072\" data-weibo=\"0\" data-vmark=\"55f0\"></p><p data-vmark=\"604a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/da7d1624-554d-436a-a387-85cb9467fb7e.png\" w=\"814\" h=\"1178\" data-weibo=\"1\" data-vmark=\"8884\"></p><p data-vmark=\"932b\">该产品主要面向移动直播、视频创作、户外办公等场景打造，用户在操作时，可以通过机身正面的 3.5 英寸大触控屏，直观地监控网络、网速、流量和电量等状态，并能一手完成 SIM 卡管理、温控调整及快速开机等设置。</p><p data-vmark=\"895b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/6bc19acc-7003-41cd-8e62-72c96450e8c7.png\" w=\"726\" h=\"936\" data-weibo=\"2\" data-vmark=\"5364\"></p><p data-vmark=\"f594\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/b10f6ff5-8374-4873-8f26-c6c10874197f.png\" w=\"730\" h=\"1164\" data-weibo=\"3\" data-vmark=\"0471\"></p><p data-vmark=\"968f\">该产品核心优势在于“四网聚合”技术与 AI 智能择网能力。面对信号覆盖弱、人多拥挤或高速移动等容易导致直播卡顿的场景，该设备能够同时聚合一路 5G-A、两路 4G 以及一路千兆有线网络，有效增强网络连接能力。</p><p data-vmark=\"8954\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/48f654bc-e265-4d8e-9adb-f873f6f3f01b.png\" w=\"734\" h=\"624\" data-weibo=\"4\" data-vmark=\"abdb\"></p><p data-vmark=\"ce94\">在运作时，其内置的 AI 聚合算法会实时感知并预判全网状态，进行智能切片与重组。当单路信号变弱时，AI 能在毫秒内调整策略将数据导向优质链路；若某路完全中断，数据则自动分流至剩余链路。</p><p data-vmark=\"c686\">在硬件方面，这款设备搭载了高通 X75 旗舰芯片，支持 5G-A 与 Wi-Fi 7 标准，理论上最高可连接 64 台设备。机身内部通过柔性工艺高集成度堆叠了 11 根全频段全向天线，配合 AI 智能天线择优算法，让设备能够快速选择最优信道组合。</p><p data-vmark=\"4adb\">同时，机身配备的千兆以太网口支持 WAN 与 LAN 自适应双向复用。它既能接入宽带作为第四路聚合信号源大幅提升上行速率，也能通过网线或 USB-C 接口直连电脑、专业相机及导播台。机身还配备了 3 个 SIM 卡槽，支持用户自插卡使用。</p><p data-vmark=\"bd09\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/c40acb3c-84d1-497e-b2bd-14ba69de273b.png\" w=\"728\" h=\"474\" data-weibo=\"5\" data-vmark=\"efb3\"></p><p data-vmark=\"0a11\">该设备内置 10000mAh 的双芯巨能量电池，并支持 40W 快充。还提供了旁路供电技术，在边充边播时电源可直接为主板供电，从而大幅减少电池损耗与额外发热。<strong>其中高配版本“液冷版”引入了服务器级别的脉动液冷引擎</strong>，依靠超薄压电陶瓷微泵驱动冷却液持续循环，结合涡轮智能变频大风扇，可进一步提升散热效果。</p><p data-vmark=\"1d8e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/34568e8d-6ea4-4824-b37a-643e73ed235c.png\" w=\"728\" h=\"764\" data-weibo=\"6\" data-vmark=\"f2fe\"></p><p data-vmark=\"96bf\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/61887576-93af-439a-bdc2-21d3b819dda3.png\" w=\"722\" h=\"776\" data-weibo=\"7\" data-vmark=\"3fa8\"></p><p data-vmark=\"5ba9\">在流量服务层面，中兴提供了一站式的官方流量方案，用户通过官方后台即可一键为所有网络统一充值，内置卡流量实现共享且无隐形费用，IT之家附流量及产品规格如下：</p><p data-vmark=\"e77e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/f569235d-2c03-44f8-b912-550250e28bc3.png\" w=\"820\" h=\"1088\" data-weibo=\"8\" data-vmark=\"8a6a\"></p><p data-vmark=\"cb4b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/daec2f0c-3e35-4b79-a564-a25f20fbfb80.png\" w=\"854\" h=\"1392\" data-vmark=\"a171\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/U1cHr0t\" target=\"_blank\" data-wapurl=\"https://u.jd.com/UOc4TQz\" data-iosurl=\"https://u.jd.com/UDc9DBc\" data-androidurl=\"https://u.jd.com/U1cHr0t\" data-hosnexturl=\"https://u.jd.com/UOcmsIg\" data-hosurl=\"https://u.jd.com/UacUnHr\" data-uwpurl=\"https://u.jd.com/U6cRPg9\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fUgcjd2z%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/U6cRnoO\" data-lpwxurl=\"https://u.jd.com/UrcE52g\"  data-ncid=\"215188\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/491189/33/4468/38167/6a6b08eaFd7fbe601/0083320320136f53.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">中兴（ZTE）TOPFLOW 直播神器</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 2999 元起</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "url": "https://www.ithome.com/0/987/734.htm",
+      "link": "https://www.ithome.com/0/987/734.htm",
+      "pubDate": "Mon, 10 Aug 2026 02:27:57 GMT",
+      "isoDate": "2026-08-10T02:27:57.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "tagScore": 15,
+      "crossTags": []
+    },
+    {
+      "title": "iQOO Neo 11 至尊版手机官宣 8 月 18 日发布：行业唯一 2K 屏 & 9100mAh 性能旗舰，Z11S 同步亮相",
+      "description": "IT之家 8 月 10 日消息，iQOO 手机今日官宣，iQOO Neo 11 至尊版将于 8 月 18 日 19:00 发布并开售，这是“行业唯一 2K 屏 & 9100mAh 性能旗舰”。\n\n\n此外，iQOO 首款万级续航手机 iQOO Z11S 也将于 8 月 18 日 19:00 发布并开售，搭载 10000mAh 蓝海电池、144Hz 护眼电竞屏。\n\niQOO Neo 产品经理 @iQOO慧慧子 上周预告，这款新机将搭载国产顶级 2K 屏、Neo 史上最大电池，外观上从设计到工艺再到配色都进行了认真打磨，更护眼、更耐用、网络更稳定。\nIT之家注意到，博主 @数码闲聊站 于 8 月 3 日曝光一款 iQOO Neo 新机部分配置，包括基于天玑 9500 深度定制，调优了联发科最新旗舰芯片；同档唯一的国产新工艺 2K 大屏，超 9000mAh 大电池。目前，尚不清楚爆料是否为 iQOO Neo11 至尊版手机。\n作为参考，iQOO Neo 11 手机发布于去年 10 月，新机搭载 6.82 英寸 2K 144Hz 高刷屏以及骁龙 8 至尊版处理器，标价 2599 元起。",
+      "content": "<p data-vmark=\"9770\">IT之家 8 月 10 日消息，iQOO 手机今日官宣，iQOO Neo 11 至尊版将于 8 月 18 日 19:00 发布并开售，这是“行业唯一 2K 屏 &amp; 9100mAh 性能旗舰”。</p><p data-vmark=\"01c5\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/98d1b664-fe07-42f7-88f4-ee94495f0593.png?x-bce-process=image/format,f_auto\" w=\"638\" h=\"518\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F6960161079%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6960161079%2FRcI2GBrF3%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"84f2\"></p><p data-vmark=\"ca88\" style=\"text-align: center;\"><a href=\"https://weibo.com/tv/show/1034:5330130407456914?mid=5330292388924469\" class=\"ithome_super_player\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/29f8d11f-2f36-4225-bc4f-b59ddb28c9ad.jpg\"></a></p><p style=\"text-align: left;\" data-vmark=\"421e\">此外，iQOO 首款万级续航手机 iQOO Z11S 也将于 8 月 18 日 19:00 发布并开售，搭载 10000mAh 蓝海电池、144Hz 护眼电竞屏。</p><p style=\"text-align: center;\" data-vmark=\"f7dc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/f7173ec6-e11f-4178-ba47-1e8be5abf59d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1919\" data-weibo=\"1\" data-vmark=\"85be\"></p><p data-vmark=\"cb4f\">iQOO Neo 产品经理 @iQOO慧慧子 上周预告，这款新机将搭载国产顶级 2K 屏、Neo 史上最大电池，外观上从设计到工艺再到配色都进行了认真打磨，更护眼、更耐用、网络更稳定。</p><p data-vmark=\"5e39\">IT之家注意到，博主 @数码闲聊站 于 8 月 3 日曝光一款 iQOO Neo 新机部分配置，包括基于天玑 9500 深度定制，调优了联发科最新旗舰芯片；同档唯一的国产新工艺 2K 大屏，超 9000mAh 大电池。目前，尚不清楚爆料是否为 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2025/11/04/5adebb9c-d428-4d63-8a1f-76332d5f2880.png?x-bce-process=image/format,f_auto\" data-topic-id=\"57652\">iQOO Neo11</span> 至尊版手机。</p><p data-vmark=\"c97d\">作为参考，iQOO Neo 11 手机发布于去年 10 月，新机搭载 6.82 英寸 2K 144Hz 高刷屏以及骁龙 8 至尊版处理器，标价 2599 元起。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"1352\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4552\" frameborder=\"no\"></iframe></p>",
+      "url": "https://www.ithome.com/0/987/680.htm",
+      "link": "https://www.ithome.com/0/987/680.htm",
+      "pubDate": "Mon, 10 Aug 2026 01:21:01 GMT",
+      "isoDate": "2026-08-10T01:21:01.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 16,
+      "crossTags": []
+    },
+    {
+      "title": "小米 REDMI K100 Pro Max 手机新配色「追风蓝」公布，8 月 11 日发布",
+      "description": "IT之家 8 月 10 日消息，小米今日公布 REDMI K100 Pro Max 全新配色「追风蓝」，新机将于 8 月 11 日 19:00 发布。\n\n\n\n\n\n\n在此之前，REDMI K100 Pro Max 已经公布“赤霞珠红”“流金白”配色。新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，以及全新悬浮灯环设计可随音乐律动。首发 M11  新型 OLED 发光材料，搭配超级像素全 RGB 无损排列。\n\n\n该机搭载小米首款 185Hz 高刷电竞屏，原生适配 30+ 热门游戏；第五代骁龙 8 至尊版 +AI 独显芯片 D2，支持游戏超帧超分并发；旗舰触控芯片，采样率升级至 480Hz；游戏专属天线，时延大幅降低。\n影像方面，该机搭载 2 亿像素主摄、5X 潜望长焦（最高支持 100X 超级变焦）、50MP 超广角（17mm 等效焦距）。\n续航方面，该机搭载 9070mAh 小米金沙江电池、100W 有线快充、50W 无线充电、27W 有线反充、22.5W 无线反充。",
+      "content": "<p data-vmark=\"f4ef\">IT之家 8 月 10 日消息，小米今日公布 REDMI K100 Pro Max 全新配色「追风蓝」，新机将于 8 月 11 日 19:00 发布。</p><p data-vmark=\"665b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/f8e3dc06-4d32-41bc-99de-2cd12ac4f568.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"0\" data-vmark=\"828a\" class=\"no-alt-img\"></p><p data-vmark=\"c333\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/2b0a3a2d-bf59-4cf6-bef3-4d251029ff99.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"1\" data-vmark=\"d068\" class=\"no-alt-img\"></p><p data-vmark=\"a710\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/068e8017-da89-4047-b8c1-76163296d431.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"2\" data-vmark=\"9970\" class=\"no-alt-img\"></p><p data-vmark=\"b1f6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/407b311e-7bf9-497f-b24e-bcf9ac10c455.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"3\" data-vmark=\"0e81\" class=\"no-alt-img\"></p><p data-vmark=\"ccc8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/1e0c3853-476e-4656-9169-717426f5e35a.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"4\" data-vmark=\"f2ba\" class=\"no-alt-img\"></p><p data-vmark=\"ed9d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/6982b4ef-1e5c-4a95-bef2-7c669f15d37a.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"5\" data-vmark=\"5107\" class=\"no-alt-img\"></p><p data-vmark=\"dc47\">在此之前，REDMI K100 Pro Max 已经公布“赤霞珠红”“流金白”配色。新机采用 6.9 英寸超窄边直屏，四曲包裹式金属中框，还有一体化金属 DECO，以及全新悬浮灯环设计可随音乐律动。首发 M11 &nbsp;新型 OLED 发光材料，搭配超级像素全 RGB 无损排列。</p><p data-vmark=\"3bec\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/c8ca49ec-6b42-49eb-a736-d45b4d8faf3d.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"6\" data-vmark=\"1438\" class=\"no-alt-img\"></p><p data-vmark=\"2419\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/2cc5935b-baa4-4a24-9ecc-b5f4a8bec70a.jpg\" w=\"1080\" h=\"1080\" data-weibo=\"7\" data-vmark=\"7dfa\" class=\"no-alt-img\"></p><p data-vmark=\"665f\">该机搭载小米首款 185Hz 高刷电竞屏，原生适配 30+ 热门游戏；第五代骁龙 8 至尊版 +AI 独显芯片 D2，支持游戏超帧超分并发；旗舰触控芯片，采样率升级至 480Hz；游戏专属天线，时延大幅降低。</p><p data-vmark=\"5d7a\">影像方面，该机搭载 2 亿像素主摄、5X 潜望长焦（最高支持 100X 超级变焦）、50MP 超广角（17mm 等效焦距）。</p><p data-vmark=\"c84d\">续航方面，该机搭载 9070mAh 小米金沙江电池、100W 有线快充、50W 无线充电、27W 有线反充、22.5W 无线反充。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"7033\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4502\" frameborder=\"no\"></iframe></p>",
+      "url": "https://www.ithome.com/0/987/676.htm",
+      "link": "https://www.ithome.com/0/987/676.htm",
+      "pubDate": "Mon, 10 Aug 2026 01:06:52 GMT",
+      "isoDate": "2026-08-10T01:06:52.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 7,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "因台风天气影响，零跑 A05 上市发布会延期至明日举行",
+      "description": "IT之家 8 月 10 日消息，零跑科技高级副总裁曹力今日宣布，原定于 8 月 10 日的零跑 A05 上市发布会，将顺延一日，定为 8 月 11 日 18:30 举行。\n\nIT之家注意到，零跑 A05 已于 7 月 27 日开启盲订，99 元下订享 5000 专属能量积分权益。\n零跑 A05 提供七种车色，包括摩根粉、雾凇米、海苔绿、苔原灰、松岚灰、莓莓蓝以及零跑 A05s 金属黑。零跑 A05 整体风格较为圆润，匹配悬浮式车顶，可选激光雷达。车身使用半隐藏式门把手；车尾两侧尾灯组内部采用了笑脸造型，点亮后辨识度较高。\n\n\n该车长宽高分别为 4200x1800x1560mm，轴距为 2605mm。工信部信息显示，该车搭载 39.8kWh 和 53kWh 两种容量的电池组，续航里程分别为 405km 和 510km。\n该车搭载高通 8295 旗舰芯片，配备 8.88 英寸液晶仪表，14.6 英寸中控大屏；支持无麦 K 歌，搭载同级唯一 12 扬声器。",
+      "content": "<p data-vmark=\"20b2\">IT之家 8 月 10 日消息，零跑科技高级副总裁曹力今日宣布，原定于 8 月 10 日的零跑 A05 上市发布会，将顺延一日，定为 8 月 11 日 18:30 举行。</p><p style=\"text-align: center;\" data-vmark=\"d20c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/1a5c9ed4-4ffe-4f9b-bd24-46af39eb34d3.jpg?x-bce-process=image/format,f_auto\" w=\"690\" h=\"1262\" data-weibo=\"0\" data-vmark=\"bbab\" class=\"no-alt-img\"></p><p data-vmark=\"b8ba\">IT之家注意到，零跑 A05 已于 7 月 27 日开启盲订，99 元下订享 5000 专属能量积分权益。</p><p data-vmark=\"c5dc\" style=\"text-align: left;\">零跑 A05 提供七种车色，包括摩根粉、雾凇米、海苔绿、苔原灰、松岚灰、莓莓蓝以及零跑 A05s 金属黑。零跑 A05 整体风格较为圆润，匹配悬浮式车顶，可选激光雷达。车身使用半隐藏式门把手；车尾两侧尾灯组内部采用了笑脸造型，点亮后辨识度较高。</p><p style=\"text-align: center;\" data-vmark=\"98db\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/3f4ce4d2-9780-4259-ab92-fb277e042977.png?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"960\" data-weibo=\"1\" data-vmark=\"8bdf\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"ae53\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/b05ce1e9-0f61-44ea-8af2-a2a364e56d1f.png?x-bce-process=image/auto-orient,o_1\" w=\"1280\" h=\"720\" data-weibo=\"2\" data-vmark=\"964b\" class=\"no-alt-img\"></p><p data-vmark=\"09fc\">该车长宽高分别为 4200x1800x1560mm，轴距为 2605mm。工信部信息显示，该车搭载 39.8kWh 和 53kWh 两种容量的电池组，续航里程分别为 405km 和 510km。</p><p data-vmark=\"ca7e\">该车搭载高通 8295 旗舰芯片，配备 8.88 英寸液晶仪表，14.6 英寸中控大屏；支持无麦 K 歌，搭载同级唯一 12 扬声器。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"c347\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4550\" frameborder=\"no\"></iframe></p>",
+      "url": "https://www.ithome.com/0/987/672.htm",
+      "link": "https://www.ithome.com/0/987/672.htm",
+      "pubDate": "Mon, 10 Aug 2026 00:42:48 GMT",
+      "isoDate": "2026-08-10T00:42:48.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 4,
+      "crossTags": []
+    }
+  ]
 }
