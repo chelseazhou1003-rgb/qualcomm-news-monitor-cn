@@ -1,9 +1,9 @@
 {
   "date": "2026-08-12",
-  "generatedAt": "2026-08-12T16:52:43.590Z",
+  "generatedAt": "2026-08-12T18:44:14.801Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 7,
+  "count": 4,
   "articles": [
     {
       "title": "荣耀罗巍：就在今晚，又一次重新定义移动影像",
@@ -86,75 +86,6 @@
       "subCategory": "mobile-chips",
       "tagScore": 4,
       "crossTags": []
-    },
-    {
-      "title": "小米雷军：第四代 pTSF 是中国首创的底层显示技术方案",
-      "description": "IT之家 8 月 12 日消息，小米创办人、董事长兼 CEO 雷军今日发文，谈及了 REDMI K100 Pro 系列的屏幕技术。雷军表示：\n\n小米是国内首家能从发光材料层做研发的手机厂商，我们在屏幕技术上的投入是长期的、坚定的。去年我们打造了红色主材，今年又突破了绿色主材。这里面最核心，第四代 pTSF 是中国首创的底层显示技术方案，由我们与清华团队一道，历经两年多的时间，将实验室理论转为最终工程量产。\n\n\n据IT之家昨晚报道，小米 REDMI K100 Pro 系列手机已正式发布，首批带来了 Pro Max 和 Pro 两款新机，后续还将发布标准版和游戏旗舰机。其中，K100 Pro 搭载第五代骁龙 8 至尊版 V Series 芯片，配备 6.59 英寸 2510×1156 分辨率 AMOLED 直屏；K100 Pro Max 搭载同款第五代骁龙 8 至尊版处理器，配备 6.9 英寸 2608×1200 分辨率 AMOLED 直屏。\n\n相关阅读：\n\n《小米 REDMI K100 Pro / Max 手机发布：国补价 3199 元起，最高 9070mAh 电池 + Bose 联合调音》",
-      "content": "<p data-vmark=\"417a\">IT之家 8 月 12 日消息，小米创办人、董事长兼 CEO 雷军今日发文，谈及了 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/08/12/4a0608c1-a2c8-43ac-9a89-e19f9bdc56ab.png?x-bce-process=image/format,f_auto\" data-topic-id=\"66229\">REDMI K100 Pro</span> 系列的屏幕技术。雷军表示：</p><blockquote><p data-vmark=\"1d8a\"><strong>小米是国内首家能从发光材料层做研发的手机厂商</strong>，我们在屏幕技术上的投入是长期的、坚定的。去年我们打造了红色主材，今年又突破了绿色主材。这里面最核心，<strong>第四代 pTSF 是中国首创的底层显示技术方案</strong>，由我们与清华团队一道，历经两年多的时间，将实验室理论转为最终工程量产。</p></blockquote><p style=\"text-align: center;\" data-vmark=\"72fb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/3730c657-83e3-403f-bdbe-c018c4520c19.png?x-bce-process=image/format,f_auto\" w=\"702\" h=\"622\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F1749127163%2FRd00DF6zU%22%7D\" data-vmark=\"5a6b\" class=\"no-alt-img\"></p><p data-vmark=\"9351\">据IT之家昨晚报道，<a href=\"https://www.ithome.com/0/988/472.htm\" target=\"_blank\">小米 REDMI K100 Pro 系列手机已正式发布</a>，首批带来了 Pro Max 和 Pro 两款新机，后续还将发布标准版和游戏旗舰机。其中，K100 Pro 搭载第五代骁龙 8 至尊版 V Series 芯片，配备 6.59 英寸 2510×1156 分辨率 AMOLED 直屏；K100 Pro Max 搭载同款第五代骁龙 8 至尊版处理器，配备 6.9 英寸 2608×1200 分辨率 AMOLED 直屏。</p><p style=\"text-align: center;\" data-vmark=\"634d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/9b0bb7d4-4d6c-47ed-9164-9eab370a4f1e.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"789\" data-vmark=\"9c3e\" class=\"no-alt-img\"></p><p data-vmark=\"9847\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"bf68\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/988/472.htm\">小米 REDMI K100 Pro / Max 手机发布：国补价 3199 元起，最高 9070mAh 电池 + Bose 联合调音</a>》</p></li></ul>",
-      "url": "https://www.ithome.com/0/988/780.htm",
-      "link": "https://www.ithome.com/0/988/780.htm",
-      "pubDate": "Wed, 12 Aug 2026 07:07:05 GMT",
-      "isoDate": "2026-08-12T07:07:05.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 10,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "高通骁龙芯片版谷歌 Googlebook 笔记本曝光：X Plus/X Elite 芯片",
-      "description": "IT之家 8 月 12 日消息，科技媒体 gbookhub 今天（8 月 12 日）发布博文，报道称在代号为“Bluey”的谷歌 Googlebook 系列笔记本上，发现了“Annite”、“Pic”和“Meru”三个新型号。\nIT之家援引博文介绍，Bluey 是搭载高通骁龙芯片的谷歌 Googlebook 笔记本参考机型，分为“Bluey”与“BlueyH” 2 个分支。\n\n其中 Bluey 指向高通骁龙 X Plus X1P-42-100 芯片，该分支包含 Annite 与 Pic 两款机型；而 BlueyH 指向 Hamoa（骁龙 X Elite 开发代号），该分支包含 Quartz 与 Mica 两款机型。\n\n\n\n\n现有信息显示，谷歌 Googlebook 所使用的 Aluminium OS 产品线可能分为 3 个档位：AL Premium、AL Mass Premium 和 AL Entry（AL 入门）。",
-      "content": "<p data-vmark=\"8ab3\">IT之家 8 月 12 日消息，科技媒体 gbookhub 今天（8 月 12 日）发布博文，报道称在代号为“Bluey”的谷歌 Googlebook 系列笔记本上，<strong>发现了“Annite”、“Pic”和“Meru”三个新型号。</strong></p><p data-vmark=\"918c\">IT之家援引博文介绍，Bluey 是搭载高通骁龙芯片的谷歌 Googlebook 笔记本参考机型，分为“Bluey”与“BlueyH” 2 个分支。</p><p data-vmark=\"1fe3\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/eaadc289-6dd3-4fa1-b64a-12d1c7feef6c.png\" w=\"1200\" h=\"675\" data-weibo=\"0\" data-vmark=\"7b55\" class=\"no-alt-img\"></p><p data-vmark=\"78b1\">其中 Bluey 指向高通骁龙 X Plus X1P-42-100 芯片，该分支包含 Annite 与 Pic 两款机型；而 BlueyH 指向 Hamoa（骁龙 X Elite 开发代号），该分支包含 Quartz 与 Mica 两款机型。</p><p data-vmark=\"aa0d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/1d68706b-1bda-4b45-ac3d-fd1edf9190db.png\" w=\"382\" h=\"117\" data-weibo=\"1\" data-vmark=\"2788\" class=\"no-alt-img\"></p><p data-vmark=\"961b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/d3be192f-1b24-4458-895e-a3e7cc5637fe.png\" w=\"402\" h=\"117\" data-weibo=\"2\" data-vmark=\"b6b0\" class=\"no-alt-img\"></p><p data-vmark=\"5336\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/b926d98a-44d5-47ec-8bfb-90157ccddbed.png\" w=\"402\" h=\"156\" data-weibo=\"3\" data-vmark=\"5bc0\" class=\"no-alt-img\"></p><p data-vmark=\"a094\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/b93dc8b7-4679-4437-a130-bc259fc773ca.png\" w=\"360\" h=\"238\" data-weibo=\"4\" data-vmark=\"38db\" class=\"no-alt-img\"></p><p data-vmark=\"33da\">现有信息显示，谷歌 Googlebook 所使用的 Aluminium OS 产品线可能分为 3 个档位：AL Premium、AL Mass Premium 和 AL Entry（AL 入门）。</p><p data-vmark=\"8f6c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/21ce3523-be8b-4abf-a310-e4bffa3115d2.png\" w=\"417\" h=\"202\" data-weibo=\"5\" data-vmark=\"ec2a\" class=\"no-alt-img\"></p><p data-vmark=\"f2c9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/44e0e54b-77f9-4e94-a0d7-43937ff3f591.png\" w=\"417\" h=\"192\" data-weibo=\"6\" data-vmark=\"2caa\" class=\"no-alt-img\"></p><p data-vmark=\"7a81\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/c5be275c-f8af-44d4-af56-04c59fb9d5d3.png\" w=\"417\" h=\"223\" data-weibo=\"7\" data-vmark=\"9738\" class=\"no-alt-img\"></p>",
-      "url": "https://www.ithome.com/0/988/777.htm",
-      "link": "https://www.ithome.com/0/988/777.htm",
-      "pubDate": "Wed, 12 Aug 2026 07:03:15 GMT",
-      "isoDate": "2026-08-12T07:03:15.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "pc-chips-computing",
-      "tagScore": 9,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "platform-partner"
-        }
-      ]
-    },
-    {
-      "title": "荣耀 Robot Phone 手机规格曝光：6.3 英寸 LTPO 直屏、248 克重量、9.59mm 厚度...",
-      "description": "IT之家 8 月 12 日消息，荣耀将于今天 19:00 正式发布旗下 Robot Phone 手机，目前博主 @数码闲聊站 曝光了这款产品的完整规格，IT之家整理如下：\n该机可选星轨银 / 月影灰两种配色，整体厚度 9.59mm，重量 248g，正面配备一块 6.3 英寸 2640x1216 分辨率 LTPO 直屏（峰值亮度 6800 尼特，配备 AR 反射膜），手机背面搭载 200Mp 1/1.28\" F1.6 23mm 超大底云台主摄、50Mp 122° 超广角、200Mp 1/1.4\" 2.7X F2.6 大底潜望长焦。\n规格方面，该机搭载高通骁龙 8 Elite Gen5 处理器，同时配备了荣耀自研芯片 C1、E2、H1，手机内置 7060mAh 电池（提供了 120W 快充头、支持 50W 无线充电）。\n\n参考IT之家此前报道，该机也是荣耀与阿莱达成战略合作后的首款落地产品，首次将阿莱 Log-C 编码和 LUT 调色文件引入移动端。据官方介绍，专业影视的 C-Log、LUTs 全部可用，摄影师和导演常用的锁焦、锁白平衡、锁 AE 和运镜数据均可下放至手机。",
-      "content": "<p data-vmark=\"59a7\">IT之家 8 月 12 日消息，荣耀将于今天 19:00 正式发布旗下 Robot Phone 手机，目前博主 @数码闲聊站 曝光了这款产品的完整规格，IT之家整理如下：</p><p data-vmark=\"c05e\">该机可选星轨银 / 月影灰两种配色，整体厚度 9.59mm，重量 248g，正面配备一块 6.3 英寸 2640x1216 分辨率 LTPO 直屏（峰值亮度 6800 尼特，配备 AR 反射膜），手机背面搭载 200Mp 1/1.28\" F1.6 23mm 超大底云台主摄、50Mp 122° 超广角、200Mp 1/1.4\" 2.7X F2.6 大底潜望长焦。</p><p data-vmark=\"e817\">规格方面，该机搭载高通骁龙 8 Elite Gen5 处理器，同时配备了荣耀自研芯片 C1、E2、H1，手机内置 7060mAh 电池（提供了 120W 快充头、支持 50W 无线充电）。</p><p style=\"text-align: center;\" data-vmark=\"11f0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/8f795082-8472-4bb7-aaa6-afb24c7f6fb3.jpg?x-bce-process=image/format,f_auto\" w=\"1296\" h=\"562\" data-weibo=\"0\" data-mpos=\"0,2\"  data-vmark=\"d71f\"></p><p data-vmark=\"1a43\">参考IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/982/445.htm\">该机也是荣耀与阿莱达成战略合作后的首款落地产品</a>，首次将阿莱 Log-C 编码和 LUT 调色文件引入移动端。据官方介绍，专业影视的 C-Log、LUTs 全部可用，摄影师和导演常用的锁焦、锁白平衡、锁 AE 和运镜数据均可下放至手机。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"7816\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4482\" frameborder=\"no\"></iframe></p><p style=\"text-align: center;\" data-vmark=\"b584\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/92f10426-63bb-4dc8-9d70-dd11c4ac46af.jpg\" w=\"820\" h=\"2127\" data-vmark=\"47ac\" class=\"lazy\" title=\"荣耀 Robot Phone「星轨银」&amp;「月影灰」双色官图公开，新机 8 月 12 日发布\" data-weibo=\"1\"></p>",
-      "url": "https://www.ithome.com/0/988/764.htm",
-      "link": "https://www.ithome.com/0/988/764.htm",
-      "pubDate": "Wed, 12 Aug 2026 06:39:55 GMT",
-      "isoDate": "2026-08-12T06:39:55.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 13,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
     }
   ]
 }
