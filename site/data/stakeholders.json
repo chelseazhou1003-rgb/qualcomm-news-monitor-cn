@@ -1,9 +1,9 @@
 {
   "date": "2026-08-12",
-  "generatedAt": "2026-08-12T18:44:14.801Z",
+  "generatedAt": "2026-08-12T19:34:49.141Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 2,
+  "count": 1,
   "articles": [
     {
       "title": "荣耀罗巍：就在今晚，又一次重新定义移动影像",
@@ -21,31 +21,6 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 9,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    },
-    {
-      "title": "vivo 新机通过 3C 认证，预计为 X500 系列或 iQOO 16",
-      "description": "IT之家 8 月 12 日消息，型号为 V2609A、V2606A 的两款 vivo 手机已于昨日通过国家质量认证，分别配备 90W 和 100W 功率的快充头，预计对应 vivo X500 系列和 iQOO 16。\n\nIT之家查询发现，V2606A 已于上个月通过 SRRC 认证，V2609A 上个月也已通过工信部入网认证及 SRRC 认证，支持 N79 5G 频段；搭载的大模型备案编号为：\n\nGuangdong-VivoBlueLM-20231024\n\nBeijing-ChatGLM-20230821\n\nBeijing-WenXinYiYan-20230821\n\nBeijing-YunQue-20230821\n\nBeijing-DeepseekChat-202404280016\n\nZheJiang-TongYiQianWen-20230901。\n\n\n结合此前爆料，vivo X500 系列提供北斗卫星通信版本，搭载天玑 9600 系列并分为 Lite（3nm）和 Pro 版（2nm）；iQOO 16 是今年子系旗舰中唯二搭载骁龙 8 Elite Gen6 Pro 的机型。",
-      "content": "<p data-vmark=\"b93d\">IT之家 8 月 12 日消息，型号为 V2609A、V2606A 的两款 vivo 手机已于昨日通过国家质量认证，分别配备 90W 和 100W 功率的快充头，预计对应 vivo X500 系列和 iQOO 16。</p><p style=\"text-align: center;\" data-vmark=\"4ec4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/f6697158-3062-45e0-83c5-b6cbea8cc21c.jpg?x-bce-process=image/format,f_auto\" w=\"1112\" h=\"901\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d14200d9c7428e5a203dc8a6cda4c96409bb9b852886321274c80badfcec256f70a170a5b643e4cefd\" data-vmark=\"215c\" class=\"no-alt-img\"></p><p data-vmark=\"62bc\">IT之家查询发现，V2606A 已于上个月通过 SRRC 认证，V2609A 上个月也已通过工信部入网认证及 SRRC 认证，支持 N79 5G 频段；搭载的大模型备案编号为：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c808\"><span class=\"link-text-start-with-http\">Guangdong-VivoBlueLM-20231024</span></p></li><li><p data-vmark=\"9fbb\">Beijing-ChatGLM-20230821</p></li><li><p data-vmark=\"8627\"><span class=\"link-text-start-with-http\">Beijing-WenXinYiYan-20230821</span></p></li><li><p data-vmark=\"23f9\">Beijing-YunQue-20230821</p></li><li><p data-vmark=\"a0fd\"><span class=\"link-text-start-with-http\">Beijing-DeepseekChat-202404280016</span></p></li><li><p data-vmark=\"04c1\"><span class=\"link-text-start-with-http\">ZheJiang-TongYiQianWen-20230901</span>。</p></li></ul><p style=\"text-align: center;\" data-vmark=\"6a03\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/c67afd19-0d55-4550-bb81-59c705e2935e.jpg?x-bce-process=image/format,f_auto\" w=\"1121\" h=\"1457\" data-weibo=\"1\" data-mpos=\"2,0\"  data-vmark=\"9793\" class=\"no-alt-img\"></p><p data-vmark=\"2fa8\">结合此前爆料，vivo X500 系列提供北斗卫星通信版本，搭载天玑 9600 系列并分为 Lite（3nm）和 Pro 版（2nm）；iQOO 16 是今年子系旗舰中唯二搭载骁龙 8 Elite Gen6 Pro 的机型。</p>",
-      "url": "https://www.ithome.com/0/988/802.htm",
-      "link": "https://www.ithome.com/0/988/802.htm",
-      "pubDate": "Wed, 12 Aug 2026 07:57:48 GMT",
-      "isoDate": "2026-08-12T07:57:48.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 6,
       "crossTags": [
         {
           "type": "stakeholder",
