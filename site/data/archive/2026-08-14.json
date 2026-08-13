@@ -1,9 +1,7 @@
 {
   "date": "2026-08-14",
   "generatedAt": "2026-08-14T00:37:54.543Z",
-  "section": "core-businesses",
-  "sectionTitle": "核心业务",
-  "count": 3,
+  "count": 4,
   "articles": [
     {
       "title": "vivo 推出 S50t 元气版手机：内存规格降级为 LPDDR5，2999 元起",
@@ -62,6 +60,25 @@
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "tagScore": 6,
+      "crossTags": []
+    },
+    {
+      "title": "从大国基建到AI底座：中美电力比较",
+      "description": "电力之争的终极问题不是“能不能供上”，而是“以什么代价、什么方式”满足AI需求；谁先破解这一命题，谁就握住了AI产业长跑中的制胜砝码\n\n\n     AI数据中心相当于电网上的一个巨大“点负荷”，节点承载能力不足可能导致变压器过载、输电线路过热跳闸等事故。图：视觉中国\n    \n   \n　　“AI的尽头是算力，算力的尽头是电力。”随着AI产业的快速发展，电力正从“幕后资源”走向“大国竞争前台”，谁能更经济、更快速、更稳定地获得电力，谁就更有可能在AI产业竞争中占据优势。作为全球AI引领者，中美电力发展现状有何差异？面向AI时代，中国电力体系相对美国具备哪些优势？如何把电力优势转化为AI产业优势？\n电力正成为AI时代的重要战略资源\n　　AI时代对电力系统提出了4个更高的要求：\n　　一是电力供给要更充裕。AI算力设备的功率极高，一颗英伟达Blackwell GPU功率可达1200瓦，是传统服务器芯片的数倍。\n 　　推荐进入财新数据库，可随时查阅宏观经济、股票债券、公司人物，财经数据尽在掌握。",
+      "content": "<blockquote><p>电力之争的终极问题不是“能不能供上”，而是“以什么代价、什么方式”满足AI需求；谁先破解这一命题，谁就握住了AI产业长跑中的制胜砝码</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-08-13/178660857161434_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-08-13/178660857161434_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>AI数据中心相当于电网上的一个巨大“点负荷”，节点承载能力不足可能导致变压器过载、输电线路过热跳闸等事故。图：视觉中国</dd>\n    </dl>\n   <br>\n       <p>　　“AI的尽头是算力，算力的尽头是电力。”随着AI产业的快速发展，电力正从“幕后资源”走向“大国竞争前台”，谁能更经济、更快速、更稳定地获得电力，谁就更有可能在AI产业竞争中占据优势。作为全球AI引领者，中美电力发展现状有何差异？面向AI时代，中国电力体系相对美国具备哪些优势？如何把电力优势转化为AI产业优势？</p>\n<h2 class=\"cx-app-content-subheads\">电力正成为AI时代的重要战略资源</h2>\n<p>　　AI时代对电力系统提出了4个更高的要求：</p>\n<p>　　一是电力供给要更充裕。AI算力设备的功率极高，一颗英伟达Blackwell GPU功率可达1200瓦，是传统服务器芯片的数倍。</p>\n<style>\n.lanmu_textend{\npadding-bottom: 28px;\ncolor: #4a4a4a;\nfont-size: 16px;\n}\n.lanmu_textend a {\n    color: #369;\n}\n</style>\n<div class=\"lanmu_textend\">\n<p> 　　推荐进入<a href=\"https://cxdata.caixin.com/index\" target=\"_blank\">财新数据库</a>，可随时查阅宏观经济、股票债券、公司人物，财经数据尽在掌握。</p>\n</div>\n      ",
+      "url": "https://opinion.caixin.com/2026-08-13/102473740.html",
+      "link": "https://opinion.caixin.com/2026-08-13/102473740.html",
+      "pubDate": "Thu, 13 Aug 2026 08:01:22 GMT",
+      "isoDate": "2026-08-13T08:01:22.000Z",
+      "author": "",
+      "sourceId": "caixin",
+      "sourceName": "财新网",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "tagScore": 5,
       "crossTags": []
     }
   ]
