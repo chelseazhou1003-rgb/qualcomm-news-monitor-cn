@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "generatedAt": "2026-08-14T19:30:31.353Z",
-  "count": 2,
+  "generatedAt": "2026-08-14T20:29:55.206Z",
+  "count": 1,
   "articles": [
     {
       "title": "荣耀方飞：Robot Phone 只是第一代探索，未来手机会从“应用的容器”走向“智能体的舞台”",
@@ -25,25 +25,6 @@
           "id": "oem"
         }
       ]
-    },
-    {
-      "title": "应变之法：中国将主权写入法律",
-      "description": "一个新的制度时代正在形成：供应链主权、数据主权、资本主权、技术主权，正在成为主权表达的新语言。以制度回应外部压力，以规则参与国际秩序，以法律主张主权利益，中国将主权写入法律正是在这一全球语境中慢慢浮现的\n\n\n     2018年后的出口管制与制裁升级，是美国战略界对中国崛起路径重新评估后的制度性应对。图：视觉中国\n    \n   \n引言\n　　天热无事，整理书架，一本束之高阁的书猛然掉了下来。托马斯·弗里德曼（Thomas Friedman）的《世界是平的》（The World Is Flat），2005年版，书脊已有裂痕，十几张登机牌散落一地。\n　　那是一个令人陶醉的时代叙事：全球化抹平了地理的褶皱，互联网消除了信息的不对称，供应链将每一片大陆缝合成一个共同的市场，资本、技术、供应链像水一样流动，国界作为经济障碍的意义正在消失。中国，在这场大平坦运动中，是最大的受益者之一。而我也受益于那个大时代，作为跨国企业的律师，频繁地穿梭国际城市之间，登机牌，既是书签，也是时代的注脚。\n 　　推荐进入财新数据库，可随时查阅宏观经济、股票债券、公司人物，财经数据尽在掌握。",
-      "content": "<blockquote><p>一个新的制度时代正在形成：供应链主权、数据主权、资本主权、技术主权，正在成为主权表达的新语言。以制度回应外部压力，以规则参与国际秩序，以法律主张主权利益，中国将主权写入法律正是在这一全球语境中慢慢浮现的</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-08-14/178668863906643_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-08-14/178668863906643_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>2018年后的出口管制与制裁升级，是美国战略界对中国崛起路径重新评估后的制度性应对。图：视觉中国</dd>\n    </dl>\n   <br>\n       <h2 class=\"cx-app-content-subheads\">引言</h2>\n<p>　　天热无事，整理书架，一本束之高阁的书猛然掉了下来。托马斯·弗里德曼（Thomas Friedman）的《世界是平的》（The World Is Flat），2005年版，书脊已有裂痕，十几张登机牌散落一地。</p>\n<p>　　那是一个令人陶醉的时代叙事：全球化抹平了地理的褶皱，互联网消除了信息的不对称，供应链将每一片大陆缝合成一个共同的市场，资本、技术、供应链像水一样流动，国界作为经济障碍的意义正在消失。中国，在这场大平坦运动中，是最大的受益者之一。而我也受益于那个大时代，作为跨国企业的律师，频繁地穿梭国际城市之间，登机牌，既是书签，也是时代的注脚。</p>\n<style>\n.lanmu_textend{\npadding-bottom: 28px;\ncolor: #4a4a4a;\nfont-size: 16px;\n}\n.lanmu_textend a {\n    color: #369;\n}\n</style>\n<div class=\"lanmu_textend\">\n<p> 　　推荐进入<a href=\"https://cxdata.caixin.com/index\" target=\"_blank\">财新数据库</a>，可随时查阅宏观经济、股票债券、公司人物，财经数据尽在掌握。</p>\n</div>\n      ",
-      "url": "https://opinion.caixin.com/2026-08-14/102474076.html",
-      "link": "https://opinion.caixin.com/2026-08-14/102474076.html",
-      "pubDate": "Fri, 14 Aug 2026 06:15:19 GMT",
-      "isoDate": "2026-08-14T06:15:19.000Z",
-      "author": "",
-      "sourceId": "caixin",
-      "sourceName": "财新网",
-      "sourceGroup": "finance",
-      "fetchStrategy": "rsshub",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "supply-chain",
-      "tagScore": 12,
-      "crossTags": []
     }
   ]
 }
