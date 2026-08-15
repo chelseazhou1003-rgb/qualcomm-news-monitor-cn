@@ -1,8 +1,31 @@
 {
   "date": "2026-08-15",
-  "generatedAt": "2026-08-15T19:58:08.063Z",
+  "generatedAt": "2026-08-15T21:18:38.091Z",
   "count": 4,
   "articles": [
+    {
+      "title": "英特尔副总裁称 PC 市场已两极分化，未来高低端平台或采用不同插槽",
+      "description": "IT之家 8 月 15 日消息，英特尔发烧友渠道业务副总裁罗伯特 · 哈洛克近日接受 Tom's Hardware 采访时表示，目前 PC 市场已经呈现出两极分化的趋势：低端和主流市场被 DRAM 短缺潮打得面目全非；而高端市场则没有那么糟糕，部分类别产品甚至还在正向增长。\n\n众所周知，由 AI 狂热带动的 DRAM 短缺潮已经影响整个消费电子行业，但我们最近还是能看到许多售价不菲的高端 PC 产品。\n例如技嘉今年 6 月推出了 5,300 美元（IT之家注：现汇率约合 35,805 元人民币）的 RTX 5090 Infinity OC 显卡，华硕也展示了 ROG 20 周年纪念产品，囊括 3,300 美元（现汇率约合 22,294 元人民币）的主板与 CPU 散热器组合。\n虽然考虑到如今的行情，说发烧级 PC 市场正在增长或许有些夸张。但从现实角度看，如果一个人有财力组装 5,000 美元（现汇率约合 33,778 元人民币）的电脑，那内存涨价 300 美元-400 美元（现汇率约合 2,027 元- 2,702 元人民币）对他来说影响并不大。\n当然，这种高端产品并不是主流需求，少数有钱的客户也无法养活英特尔这样的巨型企业。面对内存涨价，许多厂商已经选择妥协配置，苹果近期推出的 MacBook Neo 已经证明这条道路可行，而英特尔、高通也拿出了 Wildcat Lake、骁龙 C 等对标产品。\n哈洛克认为，如果内存价格始终压不下来，那么 PC 市场可能会为低端平台 / 高端平台演化出不同插槽。他对此说道：“我这里说的是整个行业情况，不只是英特尔的问题。你可能会看到 PC 市场出现分化，每一家厂商都会拥有高端插槽和低端插槽。”\n他继续解释称：“如果你从事桌面 PC 业务，那你可能会得出和我一样的结论。因为供应链、上游成本上涨短期内都没有缓解的迹象。”\n对于英特尔而言，这种分而治之的策略可能意味着 LGA 1700 面向主流市场、LGA 1954 面向发烧级市场。当然这句话只是推测，哈洛克并没有这么说。",
+      "content": "<p data-vmark=\"c005\">IT之家 8 月 15 日消息，英特尔发烧友渠道业务副总裁罗伯特 · 哈洛克近日接受 Tom's Hardware 采访时表示，目前 PC 市场已经呈现出两极分化的趋势：低端和主流市场被 DRAM 短缺潮打得面目全非；而高端市场则没有那么糟糕，部分类别产品甚至还在正向增长。</p><p style=\"text-align: center;\" data-vmark=\"cb09\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/ac7b56b7-036f-462d-964f-4cef70acec0f.jpg?x-bce-process=image/format,f_auto\" w=\"1000\" h=\"835\" data-weibo=\"0\" data-mpos=\"2,2\"  data-vmark=\"db7d\" class=\"no-alt-img\"></p><p data-vmark=\"af3a\">众所周知，由 AI 狂热带动的 DRAM 短缺潮已经影响整个消费电子行业，但我们最近还是能看到许多售价不菲的高端 PC 产品。</p><p data-vmark=\"dc78\">例如技嘉今年 6 月推出了 5,300 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 35,805 元人民币）</span>的 RTX 5090 Infinity OC 显卡，华硕也展示了 ROG 20 周年纪念产品，囊括 3,300 美元<span class=\"exch-money-value\">（现汇率约合 22,294 元人民币）</span>的主板与 CPU 散热器组合。</p><p data-vmark=\"1baa\">虽然考虑到如今的行情，说发烧级 PC 市场正在增长或许有些夸张。但从现实角度看，<strong>如果一个人有财力组装 5,000 美元<span class=\"exch-money-value\">（现汇率约合 33,778 元人民币）</span>的电脑</strong>，<strong>那内存涨价 300 美元-400 美元<span class=\"exch-money-value\">（现汇率约合 2,027 元- 2,702 元人民币）</span>对他来说影响并不大</strong>。</p><p data-vmark=\"cc9b\">当然，这种高端产品并不是主流需求，少数有钱的客户也无法养活英特尔这样的巨型企业。面对内存涨价，许多厂商已经选择妥协配置，苹果近期推出的 MacBook Neo 已经证明这条道路可行，而英特尔、高通也拿出了 Wildcat Lake、骁龙 C 等对标产品。</p><p data-vmark=\"1be6\">哈洛克认为，<strong>如果内存价格始终压不下来</strong>，<strong>那么 PC 市场可能会为低端平台 / 高端平台演化出不同插槽</strong>。他对此说道：“我这里说的是整个行业情况，不只是英特尔的问题。你可能会看到 PC 市场出现分化，每一家厂商都会拥有高端插槽和低端插槽。”</p><p data-vmark=\"ddd4\">他继续解释称：“如果你从事桌面 PC 业务，那你可能会得出和我一样的结论。因为供应链、上游成本上涨短期内都没有缓解的迹象。”</p><p data-vmark=\"fd35\">对于英特尔而言，这种分而治之的策略可能意味着 LGA 1700 面向主流市场、LGA 1954 面向发烧级市场。当然这句话只是推测，哈洛克并没有这么说。</p>",
+      "url": "https://www.ithome.com/0/990/167.htm",
+      "link": "https://www.ithome.com/0/990/167.htm",
+      "pubDate": "Sat, 15 Aug 2026 12:22:06 GMT",
+      "isoDate": "2026-08-15T12:22:06.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "pc-chips-computing",
+      "tagScore": 13,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
     {
       "title": "小米 Poco M8x 5G 手机预热，后置双摄、金色 + 绿色外观",
       "description": "IT之家 8 月 15 日消息，小米现已在海外电商平台 Flipkart 预热 Poco M8x 5G 手机，新品预计定位中低端，将于后续在印度上市。\n\n据介绍，这款手机预计将配备后置双摄和 LED 闪光灯，机身后盖为绿色设计，边框和摄像头模组则是以金色点缀，后盖底部中央还印有 Poco 品牌标识。\n目前，Poco 官方暂未公布这款手机的具体上市日期、核心配置和售价等，预计将在未来几天内揭晓。\n作为对比，Poco M8 系列最新的机型是 M8 Power，该机配备 6.83 英寸的 FHD+ AMOLED 屏幕，支持 120Hz 高刷。搭载骁龙 4 Gen 4 芯片，最高可选 8GB LPDDR4X 内存和 128GB UFS 2.2 存储，起售价为 24,999 卢比（IT之家注：现汇率约合 1,767 元人民币）。",
@@ -42,29 +65,6 @@
       "section": "core-businesses",
       "subCategory": "wireless",
       "tagScore": 2,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "小米 18 系列手机爆料：标准版延至 2027 年初发布，“妙享背屏”为 Pro 机型专属",
-      "description": "IT之家 8 月 15 日消息，科技媒体 ximitime 昨日（8 月 14 日）发布博文，报道称基于设备型号等诸多线索，推测小米公司会分成 2 个阶段发布小米 18 系列。\nIT之家援引博文介绍，基于 Mi Code 挖掘的代码信息，并综合其它消息，小米 18 系列预估会推出以下 4 款机型：\n\n机型代号预估发布时间型号后缀数字\n小米 18 Pro Maxmadrid2026 年 9 月2611\n 小米 18 Prohongkong2026 年 9 月2609\n 小米 18venice延后发布，可能为 2027 年初2612\n小米 18 Fold  折叠版lhasa2026 年 9 月\n\n\n消息源指出代号 madrid（小米 18 Pro Max）最早于 2025 年 12 月出现在 Mi Code 代码中，而 venice（小米 18 标准版）直到 2026 年 3 月才出现，此外该型号的后缀数字为“2612”，表明至少要在 2026 年 12 月左右发布，种种线索表明小米公司会延后发布小米 18 标准版。\n屏幕方面，消息称“妙享背屏”预估是 Pro 机型专属配置。小米 18 Pro（代号 hongkong）和小米 18 Pro Max（代号 madrid）两款机型会配备“妙享背屏”，且现有信息指向标准版小米 18（代号 venice）不会配备“妙享背屏”。\n\n规格方面，消息源表示小米 18 系列 4 款机型均运行澎湃 OS 4 系统，并扩展 AI 功能，预估规格信息（尚未得到证实）如下：\n\n小米 18 Fold：7.6 英寸可折叠显示屏，XRING O3 芯片，200MP 主摄像头，约 6000mAh 电池，67W 有线充电和 50W 无线充电。\n\n小米 18：搭载骁龙 8 Elite Gen 6 处理器、200MP 传感器，据称配备 7200mAh 电池。\n\n小米 18 Pro：骁龙 8 Elite Gen 6 系列芯片组，200MP 主摄像头，50MP 超广角摄像头，200MP 长焦摄像头，以及约 7000mAh 电池。\n\n小米 18 Pro Max：骁龙 8 Elite Gen 6 Pro，200MP LOFIC HDR 主摄像头，200MP 长焦摄像头，50MP 超广角摄像头，超窄边框，以及据称 8,500mAh 电池。",
-      "content": "<p data-vmark=\"4981\">IT之家 8 月 15 日消息，科技媒体 ximitime 昨日（8 月 14 日）发布博文，报道称基于设备型号等诸多线索，<strong>推测小米公司会分成 2 个阶段发布小米 18 系列。</strong></p><p data-vmark=\"2b03\">IT之家援引博文介绍，基于 Mi Code 挖掘的代码信息，并综合其它消息，小米 18 系列预估会推出以下 4 款机型：</p><table><tbody><tr class=\"firstRow\"><th>机型</th><th>代号</th><th>预估发布时间</th><th>型号后缀数字</th></tr><tr><td><span class=\"notranslate read-frog-translated-content-wrapper\"><span class=\"notranslate read-frog-translated-inline-content\">小米 18 Pro Max</span></span></td><td>madrid</td><td>2026 年 9 月</td><td>2611</td></tr><tr><td><span class=\"notranslate read-frog-translated-content-wrapper\"><span class=\"notranslate read-frog-translated-inline-content\"> 小米 18 Pro</span></span></td><td>hongkong</td><td>2026 年 9 月</td><td>2609</td></tr><tr><td><span class=\"notranslate read-frog-translated-content-wrapper\"><span class=\"notranslate read-frog-translated-inline-content\"> 小米 18</span></span></td><td>venice</td><td>延后发布，可能为 2027 年初</td><td>2612</td></tr><tr><td>小米 18 Fold<span class=\"notranslate read-frog-translated-content-wrapper\"> &nbsp;<span class=\"notranslate read-frog-translated-inline-content\">折叠版</span></span></td><td>lhasa</td><td>2026 年 9 月</td><td><br></td></tr></tbody></table><p data-vmark=\"8217\">消息源指出代号 madrid（小米 18 Pro Max）最早于 2025 年 12 月出现在 Mi Code 代码中，而 venice（小米 18 标准版）直到 2026 年 3 月才出现，此外该型号的后缀数字为“2612”，表明至少要在 2026 年 12 月左右发布，种种线索表明小米公司会延后发布小米 18 标准版。</p><p data-vmark=\"04aa\">屏幕方面，消息称“妙享背屏”预估是 Pro 机型专属配置。小米 18 Pro（代号 hongkong）和小米 18 Pro Max（代号 madrid）两款机型会配备“妙享背屏”，且现有信息指向标准版小米 18（代号 venice）不会配备“妙享背屏”。</p><p data-vmark=\"2fe7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/d7c54ff7-3af1-4cbc-87c2-40e352f4f0df.jpg\" w=\"1280\" h=\"827\" data-weibo=\"0\" data-vmark=\"1686\" class=\"no-alt-img\"></p><p data-vmark=\"0501\">规格方面，消息源表示小米 18 系列 4 款机型均运行澎湃 OS 4 系统，并扩展 AI 功能，预估规格信息（尚未得到证实）如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"4653\">小米 18 Fold：7.6 英寸可折叠显示屏，XRING O3 芯片，200MP 主摄像头，约 6000mAh 电池，67W 有线充电和 50W 无线充电。</p></li><li><p data-vmark=\"cac0\">小米 18：搭载骁龙 8 Elite Gen 6 处理器、200MP 传感器，据称配备 7200mAh 电池。</p></li><li><p data-vmark=\"93c7\">小米 18 Pro：骁龙 8 Elite Gen 6 系列芯片组，200MP 主摄像头，50MP 超广角摄像头，200MP 长焦摄像头，以及约 7000mAh 电池。</p></li><li><p data-vmark=\"a876\">小米 18 Pro Max：骁龙 8 Elite Gen 6 Pro，200MP LOFIC HDR 主摄像头，200MP 长焦摄像头，50MP 超广角摄像头，超窄边框，以及据称 8,500mAh 电池。</p></li></ul>",
-      "url": "https://www.ithome.com/0/990/027.htm",
-      "link": "https://www.ithome.com/0/990/027.htm",
-      "pubDate": "Sat, 15 Aug 2026 04:10:12 GMT",
-      "isoDate": "2026-08-15T04:10:12.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 5,
       "crossTags": [
         {
           "type": "stakeholder",
