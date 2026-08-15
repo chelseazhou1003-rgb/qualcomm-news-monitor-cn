@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generatedAt": "2026-08-15T14:01:42.725Z",
+  "generatedAt": "2026-08-15T15:17:28.886Z",
   "totalArticles": 6,
   "sections": [
     {
@@ -26,12 +26,12 @@
     {
       "id": "competitors",
       "title": "竞争对手",
-      "count": 2
+      "count": 0
     },
     {
       "id": "stakeholders",
       "title": "关键利益相关方",
-      "count": 6
+      "count": 5
     }
   ]
 }
