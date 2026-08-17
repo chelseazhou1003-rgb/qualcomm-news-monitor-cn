@@ -1,9 +1,9 @@
 {
   "date": "2026-08-17",
-  "generatedAt": "2026-08-17T16:25:28.438Z",
+  "generatedAt": "2026-08-17T17:24:49.371Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 3,
+  "count": 2,
   "articles": [
     {
       "title": "荣耀 Play11T 手机开售：6.61 寸 720P LCD 屏 + 第四代骁龙 4 芯片，国补后到手价 968.15 元起",
@@ -44,29 +44,6 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 13,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "某厂骁龙 8E6 Pro 新旗舰工程机影像曝光，预计为 iQOO 16",
-      "description": "IT之家 8 月 17 日消息，博主 @数码闲聊站 今日爆料，某厂子系骁龙 8E6 Pro 新旗舰，工程机 50Mp 1/1.3\" F1.68 超大底主摄 +50Mp F2.0 小底超广角 +50Mp 1/1.95\" F2.65 中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定。\n\n今年 7 月，该博主爆料某厂子系骁龙 8 Elite Gen 6 Pro 工程机正在测试 1115 系高规格对称双扬声器。X 轴线性马达是 0916 系列，拥有独显芯片、3D 超声波指纹、IP68/IP69 防尘防水、USB 3.2 和 AR 膜等配置，主摄测试 OV50Q 传感器。\n今年 8 月，博主继续爆料某厂子系骁龙 8 Elite Gen 6 Pro  搭载 6.85 英寸 2K+165Hz 新一代三星直屏，工程机的 R 角形态和边框变化不大，镜头 DECO 是左上角小方块，采用全新 ID 设计。\n\n结合该博主此前的爆料习惯，预计以上爆料均指向 iQOO 16 手机。关于这款新机的具体发布时间，感兴趣的朋友可以关注IT之家后续报道。",
-      "content": "<p data-vmark=\"2055\">IT之家 8 月 17 日消息，博主 @数码闲聊站 今日爆料，某厂子系骁龙 8E6 Pro 新旗舰，工程机 50Mp 1/1.3\" F1.68 超大底主摄 +50Mp F2.0 小底超广角 +50Mp 1/1.95\" F2.65 中底潜望镜，镜组看起来有点像倒置方案，长焦微距待定。</p><p data-vmark=\"f9df\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/f35397ab-faeb-4ec3-bf8f-b3cbb0229697.png?x-bce-process=image/format,f_auto\" w=\"638\" h=\"429\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F6048569942%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRdMQTFKuM%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"8231\" class=\"no-alt-img\"></p><p data-vmark=\"6814\">今年 7 月，该博主爆料某厂子系骁龙 8 Elite Gen 6 Pro 工程机正在测试 1115 系高规格对称双扬声器。X 轴线性马达是 0916 系列，拥有独显芯片、3D 超声波指纹、IP68/IP69 防尘防水、USB 3.2 和 AR 膜等配置，<strong>主摄测试 OV50Q 传感器</strong>。</p><p data-vmark=\"a236\">今年 8 月，博主继续爆料某厂子系骁龙 8 Elite Gen 6 Pro &nbsp;搭载 <strong>6.85 英寸 2K+165Hz 新一代三星直屏</strong>，工程机的 R 角形态和边框变化不大，镜头 DECO 是左上角小方块，采用全新 ID 设计。</p><p style=\"text-align: center;\" data-vmark=\"96bd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/15098004-77c3-4c32-ac7e-53defa3bb8f7.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"484\" data-mpos=\"2,0\" data-vmark=\"aa46\" class=\"lazy no-alt-img\" title=\"消息称某厂骁龙 8E6 Pro 新机搭载 2K 三星直屏、全新 ID 设计，预计为 iQOO 16\" data-weibo=\"1\"></p><p data-vmark=\"595f\">结合该博主此前的爆料习惯，预计以上爆料均指向 iQOO 16 手机。关于这款新机的具体发布时间，感兴趣的朋友可以关注IT之家后续报道。</p>",
-      "url": "https://www.ithome.com/0/990/569.htm",
-      "link": "https://www.ithome.com/0/990/569.htm",
-      "pubDate": "Mon, 17 Aug 2026 03:37:03 GMT",
-      "isoDate": "2026-08-17T03:37:03.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 7,
       "crossTags": [
         {
           "type": "stakeholder",
