@@ -1,10 +1,33 @@
 {
   "date": "2026-08-17",
-  "generatedAt": "2026-08-17T21:27:31.458Z",
+  "generatedAt": "2026-08-17T22:09:17.530Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 1,
+  "count": 2,
   "articles": [
+    {
+      "title": "小米 REDMI K100 / 90 Pro Max 手机隐藏升级点曝光，机身顶部加入 NFC 刷卡区",
+      "description": "IT之家 8 月 17 日消息，博主 @缪特mt 今日分享了 REDMI K100 Pro Max 的一个“史诗级”升级：\n\n在机身顶部加入了 NFC 刷卡区，无论是背部还是顶部都能正常触发刷卡\n\n小米 REDMI 产品经理 @笋寸 随后补充，称 REDMI K90 Pro Max 也支持该功能。\n\nIT之家注意到，有网友询问 REDMI K100 Pro Max 能否和 REDMI K90 Pro Max 通用手机壳，REDMI 产品经理 @笋寸 表示：“不能，会翘出来，不贴合。”\n\n▲ IT之家开箱：REDMI K100 Pro 系列图赏\n据IT之家此前报道，REDMI K100 Pro Max 已于 8 月 11 日晚正式发布，搭载第五代骁龙 8 至尊版处理器和 AI 独显芯片 D2；电池容量 9070mAh，支持 100W 有线快充 + 50W 无线充电、27W 有线反充 + 22.5W 无线反充，首销价 4199 元起。",
+      "content": "<p data-vmark=\"2abc\">IT之家 8 月 17 日消息，博主 @缪特mt 今日分享了 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/08/12/572f41b0-1a32-412c-8bab-ad9b133193e7.png?x-bce-process=image/format,f_auto\" data-topic-id=\"66232\">REDMI K100 Pro Max</span> 的一个“史诗级”升级：</p><blockquote><p data-vmark=\"6438\"><strong>在机身顶部加入了 NFC 刷卡区，无论是背部还是顶部都能正常触发刷卡</strong></p></blockquote><p data-vmark=\"3b61\">小米 REDMI 产品经理 @笋寸 随后补充，<strong>称 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2025/10/24/55520b24-2651-4a14-b950-929d68222c8c.png?x-bce-process=image/format,f_auto\" data-topic-id=\"57873\">REDMI K90 Pro Max</span> 也支持该功能</strong>。</p><p style=\"text-align: center;\" data-vmark=\"ad6a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/fae799c9-8c41-4b19-8503-f68e8762fc36.png?x-bce-process=image/format,f_auto\" w=\"800\" h=\"1759\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d149dfe959645f2fb0cf8024a6c93b66b798b558352fac1277fdee325ebbac798c664e99813c9e6c23\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F1322381342%2FRdNPy7UFY%22%7D\" data-vmark=\"a7a0\" class=\"no-alt-img\"></p><p data-vmark=\"3cc9\">IT之家注意到，有网友询问 REDMI K100 Pro Max 能否和 REDMI K90 Pro Max 通用手机壳，REDMI 产品经理 @笋寸 表示：“<strong>不能，会翘出来，不贴合。</strong>”</p><p style=\"text-align: center;\" data-vmark=\"10e8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/b5ab665a-70c5-4561-b1bc-673f411ebec5.jpg?x-bce-process=image/resize,w_1200,h_801/format,f_auto\" w=\"1200\" h=\"801\" alt=\"图片 2\" data-weibo=\"1\" data-vmark=\"9c0c\"></p><figcaption>▲ IT之家开箱：<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/08/12/4a0608c1-a2c8-43ac-9a89-e19f9bdc56ab.png?x-bce-process=image/format,f_auto\" data-topic-id=\"66229\">REDMI K100 Pro</span> 系列图赏</figcaption><p data-vmark=\"4f6b\">据IT之家此前报道，REDMI K100 Pro Max 已于 8 月 11 日晚正式发布，搭载第五代骁龙 8 至尊版处理器和 AI 独显芯片 D2；电池容量 9070mAh，支持 100W 有线快充 + 50W 无线充电、27W 有线反充 + 22.5W 无线反充，首销价 4199 元起。</p><p style=\"text-align: center;\" data-vmark=\"c124\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/eb4f60b7-4536-4b3a-8432-603700e4906d.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"2802\" data-mpos=\"0,0\"  data-vmark=\"7f5d\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/0/990/833.htm",
+      "link": "https://www.ithome.com/0/990/833.htm",
+      "pubDate": "Mon, 17 Aug 2026 13:53:03 GMT",
+      "isoDate": "2026-08-17T13:53:03.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 5,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
     {
       "title": "小米首款万级电池手机！REDMI Note 17 Pro Max 5G 海外官宣",
       "description": "IT之家 8 月 17 日消息，小米日本官方账号在社交媒体上宣布，REDMI Note 17 Pro Max 5G 将于 8 月 27 日正式发布，届时会公布价格、配置等详细信息。\n\n据介绍，REDMI Note 17 Pro Max 5G 将成为小米首款拥有万级电池容量的手机，并定于 8 月 28 日正式发售。\n参考IT之家此前报道，一款型号为 2609FRA74G 的小米新机已现身 Geekbench 跑分数据库，外媒 Notebookcheck 认为该机是 REDMI Note 17 Pro Max，面向全球市场\n该机搭载骁龙 6 Gen5 处理器，配备 Adreno 812 GPU，拥有 8GB 内存，运行 Android 16 系统，录得单核 924 分、多核 2923 分的成绩。\n\n据爆料，这款手机将配备一块 6.83 英寸的 AMOLED 屏幕，分辨率为 1.5K，支持 120Hz 高刷。新机还拥有 9210mAh 大电池，支持 100W 有线快充，搭载 5000 万像素主摄、800 万像素超广角以及 3200 万像素前置镜头。\n作为参考，国内市场的 REDMI 17 Pro 手机搭载骁龙 6s Gen 4 芯片，采用 6.83 英寸 1.5K 分辨率面板，内置 9000mAh 电池（支持 67W 有线充电 +22.5W 有线反充），定价 1599 元起。",
