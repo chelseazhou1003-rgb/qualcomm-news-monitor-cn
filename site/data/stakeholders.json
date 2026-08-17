@@ -1,9 +1,9 @@
 {
   "date": "2026-08-17",
-  "generatedAt": "2026-08-17T14:20:58.173Z",
+  "generatedAt": "2026-08-17T15:40:04.005Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 3,
+  "count": 2,
   "articles": [
     {
       "title": "消息称小米 18 标准版手机暂定 12 月登场",
@@ -46,31 +46,6 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 7,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    },
-    {
-      "title": "消息称一加和京东方联合定制 X4 发光材料落地一加 16，几乎全部指标“干翻”三星 M 系",
-      "description": "IT之家 8 月 17 日消息，博主 @数码闲聊站 今日爆料称，一加和京东方联合定制了 X4 发光材料，目前内部测试看，几乎全部指标干翻三星 M 系发光材料。\n据其爆料，除已知功耗超低、寿命翻倍、极窄四等边外，由于发光材料和电路设计足够顶级，这代也会支持很多流畅新特性，以及一些天花板级的性能技术也将落地一加 16。\n\nIT之家注意到，该博主今年 7 月曾爆料某厂子系骁龙 8E6 Pro 新机最新排期 10 月，当时便被外界认为是一加 16。据其爆料，该机工程机还是 6.78 英寸 LIPO 极窄四等边直屏，镜头 Deco 还是方形小矩阵，ID 设计大方向不变。\n\n一加于 7 月 30 日在高通骁龙游戏技术赏上分享了其在游戏技术和生态上的合作成果。一加中国区总裁李杰确认，一加三大独家游戏技术都将迎来全面大升级，并在年度旗舰一加 16 上首发。从李杰分享的现场照片来看，一加 16 旗舰新机将升级 165Hz 极速高刷、风驰游戏内核和电竞三芯。",
-      "content": "<p data-vmark=\"f4df\">IT之家 8 月 17 日消息，博主 @数码闲聊站 今日爆料称，一加和京东方联合定制了 X4 发光材料，目前内部测试看，<strong>几乎全部指标干翻三星 M 系发光材料</strong>。</p><p data-vmark=\"b807\">据其爆料，除已知功耗超低、寿命翻倍、极窄四等边外，由于发光材料和电路设计足够顶级，这代也会支持很多流畅新特性，以及一些天花板级的性能技术也将落地一加 16。</p><p style=\"text-align: center;\" data-vmark=\"3bd4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/ed4a00d9-4f64-4682-b515-c5b108fe4a1f.png?x-bce-process=image/format,f_auto\" w=\"750\" h=\"343\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5332834135835125%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"94ce\" class=\"no-alt-img\"></p><p data-vmark=\"66c6\">IT之家注意到，该博主今年 7 月曾爆料某厂子系骁龙 8E6 Pro 新机<strong>最新排期 10 月</strong>，当时便被外界认为是一加 16。据其爆料，该机工程机还是 6.78 英寸 LIPO 极窄四等边直屏，镜头 Deco 还是方形小矩阵，ID 设计大方向不变。</p><p data-vmark=\"b025\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/97388468-1db6-49c7-9672-da4ecc2cc983.png?x-bce-process=image/auto-orient,o_1\" w=\"750\" h=\"230\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5325248170038287%22%7D\" data-mpos=\"2,0\" data-vmark=\"0511\" class=\"lazy no-alt-img\" title=\"一加 16 新机疑似入网：支持 N79 5G 频段，骁龙 8 Elite Gen6 Pro 芯片\" data-weibo=\"1\"></p><p data-vmark=\"7ad8\">一加于 7 月 30 日在高通骁龙游戏技术赏上分享了其在游戏技术和生态上的合作成果。一加中国区总裁李杰确认，一加三大独家游戏技术都将迎来全面大升级，并在年度旗舰一加 16 上首发。从李杰分享的现场照片来看，一加 16 旗舰新机将升级 165Hz 极速高刷、风驰游戏内核和电竞三芯。</p><p data-vmark=\"6909\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/4a4b410e-feda-4f8c-b881-ef662e47c16a.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"1081\" data-vmark=\"18f4\" class=\"lazy no-alt-img\" title=\"一加 16 新机疑似入网：支持 N79 5G 频段，骁龙 8 Elite Gen6 Pro 芯片\" data-weibo=\"2\"></p>",
-      "url": "https://www.ithome.com/0/990/493.htm",
-      "link": "https://www.ithome.com/0/990/493.htm",
-      "pubDate": "Mon, 17 Aug 2026 02:01:51 GMT",
-      "isoDate": "2026-08-17T02:01:51.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 8,
       "crossTags": [
         {
           "type": "stakeholder",
