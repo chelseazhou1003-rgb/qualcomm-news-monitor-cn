@@ -1,8 +1,6 @@
 {
   "date": "2026-08-18",
   "generatedAt": "2026-08-18T00:00:58.619Z",
-  "section": "stakeholders",
-  "sectionTitle": "关键利益相关方",
   "count": 2,
   "articles": [
     {
@@ -26,9 +24,7 @@
           "type": "stakeholder",
           "id": "oem"
         }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
+      ]
     },
     {
       "title": "小米首款万级电池手机！REDMI Note 17 Pro Max 5G 海外官宣",
@@ -51,9 +47,7 @@
           "type": "stakeholder",
           "id": "oem"
         }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
+      ]
     }
   ]
 }
