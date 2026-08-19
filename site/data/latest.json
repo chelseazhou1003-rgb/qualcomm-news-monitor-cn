@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generatedAt": "2026-08-19T16:17:00.043Z",
+  "generatedAt": "2026-08-19T17:18:33.899Z",
   "totalArticles": 4,
   "sections": [
     {
@@ -16,12 +16,12 @@
     {
       "id": "growth-areas",
       "title": "增长领域",
-      "count": 1
+      "count": 0
     },
     {
       "id": "macro-environment",
       "title": "宏观环境",
-      "count": 0
+      "count": 1
     },
     {
       "id": "competitors",
@@ -31,7 +31,7 @@
     {
       "id": "stakeholders",
       "title": "关键利益相关方",
-      "count": 3
+      "count": 2
     }
   ]
 }
