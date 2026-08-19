@@ -1,8 +1,59 @@
 {
   "date": "2026-08-19",
-  "generatedAt": "2026-08-19T11:31:18.808Z",
+  "generatedAt": "2026-08-19T12:22:31.494Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 0,
-  "articles": []
+  "count": 2,
+  "articles": [
+    {
+      "title": "消息称一加 16 首发新一代东方屏，行业首个支持全局 165Hz 超高刷",
+      "description": "IT之家 8 月 19 日消息，博主 @数码闲聊站 今日爆料，一加 16 首发新一代东方屏，行业首个支持全局 165Hz 超高刷的屏幕。新机出厂预装 ColorOS 17，支持全新系统级动效。\n\n该博主此前曾爆料，一加和京东方联合定制了 X4 发光材料，目前内部测试看，几乎全部指标干翻三星 M 系发光材料。除已知功耗超低、寿命翻倍、极窄四等边外，由于发光材料和电路设计足够顶级，这代也会支持很多流畅新特性，以及一些天花板级的性能技术也将落地一加 16。\n\nIT之家注意到，一加于 7 月 30 日在高通骁龙游戏技术赏上分享了其在游戏技术和生态上的合作成果。一加中国区总裁李杰确认，一加三大独家游戏技术都将迎来全面大升级，并在年度旗舰一加 16 上首发。从李杰分享的现场照片来看，一加 16 旗舰新机将升级 165Hz 极速高刷、风驰游戏内核和电竞三芯。",
+      "content": "<p data-vmark=\"a0c7\">IT之家 8 月 19 日消息，博主 @数码闲聊站 今日爆料，一加 16 首发新一代东方屏，行业首个支持全局 165Hz 超高刷的屏幕。新机出厂预装 ColorOS 17，支持全新系统级动效。</p><p style=\"text-align: center;\" data-vmark=\"2109\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/4a5a369c-da1f-4014-b790-c8d2c218185d.png?x-bce-process=image/format,f_auto\" w=\"750\" h=\"316\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5333568475365613%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"e4a5\" class=\"no-alt-img\"></p><p data-vmark=\"2a44\">该博主此前曾爆料，一加和京东方联合定制了 X4 发光材料，目前内部测试看，<strong>几乎全部指标干翻三星 M 系发光材料</strong>。除已知功耗超低、寿命翻倍、极窄四等边外，由于发光材料和电路设计足够顶级，这代也会支持很多流畅新特性，以及一些天花板级的性能技术也将落地一加 16。</p><p style=\"text-align: center;\" data-vmark=\"7157\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/ed4a00d9-4f64-4682-b515-c5b108fe4a1f.png?x-bce-process=image/auto-orient,o_1\" w=\"750\" h=\"343\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5332834135835125%22%7D\" data-mpos=\"2,0\" data-vmark=\"94ce\" class=\"lazy no-alt-img\" title=\"消息称一加和京东方联合定制 X4 发光材料落地一加 16，几乎全部指标“干翻”三星 M 系\" data-weibo=\"1\"></p><p data-vmark=\"7ad8\">IT之家注意到，一加于 7 月 30 日在高通骁龙游戏技术赏上分享了其在游戏技术和生态上的合作成果。一加中国区总裁李杰确认，一加三大独家游戏技术都将迎来全面大升级，并在年度旗舰一加 16 上首发。从李杰分享的现场照片来看，<strong>一加 16 旗舰新机将升级 165Hz 极速高刷、风驰游戏内核和电竞三芯</strong>。</p><p data-vmark=\"6909\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/4a4b410e-feda-4f8c-b881-ef662e47c16a.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1440\" h=\"1081\" data-vmark=\"18f4\" class=\"lazy no-alt-img\" title=\"消息称一加和京东方联合定制 X4 发光材料落地一加 16，几乎全部指标“干翻”三星 M 系\" data-weibo=\"2\"></p>",
+      "url": "https://www.ithome.com/0/991/449.htm",
+      "link": "https://www.ithome.com/0/991/449.htm",
+      "pubDate": "Wed, 19 Aug 2026 02:21:15 GMT",
+      "isoDate": "2026-08-19T02:21:15.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 4,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "oem"
+    },
+    {
+      "title": "小米 18 Pro 系列新机疑通过 3C 认证，支持 100W 快充、UWB 超宽带技术",
+      "description": "IT之家 8 月 19 日消息，一款型号为 M154FF 的小米新机昨日通过了 3C 认证，支持 100W 快充，博主 @数码闲聊站 推测为小米 18 Pro 系列。\n\n据其爆料，该机各种备案已齐全，大概率首发骁龙 2nm 旗舰芯，支持 100W 快充，N79 5G 频段，UWB 超宽带技术，屏幕 / 影像 / 性能 / 外围等硬件全方位升级。\nIT之家注意到，该博主上个月曾曝光某厂 2nm 大杯工程机的主要规格，预计为小米 18 Pro。据其爆料，该机搭载一块超清定制小直屏，采用大 R 角极窄四等边设计，配备 2nm 旗舰芯，后置 200Mp 超大底主摄 +200Mp 大底长焦微距，内置 7000mAh 级大电池，支持百瓦闪充 + 无线充，可能会升级双扬 + 相对大尺寸马达。\n\n目前关于小米 18 系列新机的发布时间还未知。作为参考，去年 9 月发布的小米 17 Pro 搭载 6.3 英寸小屏，售价 4999 元起。\n小米 17 Pro 全球首发高通第五代骁龙 8 至尊版处理器，配备 6300mAh 小米金沙江电池、100W 小米澎湃有线秒充、50W 小米澎湃无线秒充，后置妙享背屏、5000 万徕卡超高动态主摄（光影猎人 950L 影像传感器）5000 万徕卡浮动潜望长焦、5000 万徕卡超广角。",
+      "content": "<p data-vmark=\"f606\">IT之家 8 月 19 日消息，一款型号为 M154FF 的小米新机昨日通过了 3C 认证，<strong>支持 100W 快充</strong>，博主 @数码闲聊站 推测为小米 18 Pro 系列。</p><p data-vmark=\"f1f1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/ea3a6be6-9497-45c7-b0a8-4b5f09c46378.png?x-bce-process=image/format,f_auto\" w=\"638\" h=\"379\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F6048569942%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRe4Ke99F0%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"5456\" class=\"no-alt-img\"></p><p data-vmark=\"0ba7\">据其爆料，该机各种备案已齐全，大概率首发骁龙 2nm 旗舰芯，支持 100W 快充，N79 5G 频段，UWB 超宽带技术，屏幕 / 影像 / 性能 / 外围等硬件全方位升级。</p><p data-vmark=\"5f77\">IT之家注意到，该博主上个月曾曝光某厂 2nm 大杯工程机的主要规格，预计为小米 18 Pro。据其爆料，该机搭载一块超清定制小直屏，采用大 R 角极窄四等边设计，配备 2nm 旗舰芯，<strong>后置 200Mp 超大底主摄 +200Mp 大底长焦微距</strong>，内置 7000mAh 级大电池，支持百瓦闪充 + 无线充，可能会升级双扬 + 相对大尺寸马达。</p><p data-vmark=\"cc14\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/36fc134e-b4c4-4668-920b-aa27119e70d7.png?x-bce-process=image/format,f_auto\" w=\"750\" h=\"255\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5318761407054699%22%7D\" data-mpos=\"0,0\" data-vmark=\"7d8d\" class=\"lazy no-alt-img\" title=\"小米 18 系列新机疑入网，支持 UWB 超宽带技术\" data-weibo=\"1\"></p><p data-vmark=\"2af9\">目前关于小米 18 系列新机的发布时间还未知。作为参考，去年 9 月发布的小米 17 Pro 搭载 6.3 英寸小屏，售价 4999 元起。</p><p data-vmark=\"d96c\">小米 17 Pro 全球首发高通第五代骁龙 8 至尊版处理器，配备 6300mAh 小米金沙江电池、100W 小米澎湃有线秒充、50W 小米澎湃无线秒充，后置妙享背屏、5000 万徕卡超高动态主摄（光影猎人 950L 影像传感器）5000 万徕卡浮动潜望长焦、5000 万徕卡超广角。</p>",
+      "url": "https://www.ithome.com/0/991/415.htm",
+      "link": "https://www.ithome.com/0/991/415.htm",
+      "pubDate": "Wed, 19 Aug 2026 01:04:04 GMT",
+      "isoDate": "2026-08-19T01:04:04.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 6,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "oem"
+    }
+  ]
 }
