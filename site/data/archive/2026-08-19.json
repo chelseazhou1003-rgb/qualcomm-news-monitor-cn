@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
-  "generatedAt": "2026-08-19T14:04:35.634Z",
-  "count": 3,
+  "generatedAt": "2026-08-19T15:25:59.623Z",
+  "count": 2,
   "articles": [
     {
       "title": "PICO Space Pro 头显定档 9 月 2 日发布，主打“轻启全新空间体验”",
@@ -47,29 +47,6 @@
       "subCategory": "in-vehicle-infotainment-adas",
       "tagScore": 5,
       "crossTags": []
-    },
-    {
-      "title": "消息称一加 16 首发新一代东方屏，行业首个支持全局 165Hz 超高刷",
-      "description": "IT之家 8 月 19 日消息，博主 @数码闲聊站 今日爆料，一加 16 首发新一代东方屏，行业首个支持全局 165Hz 超高刷的屏幕。新机出厂预装 ColorOS 17，支持全新系统级动效。\n\n该博主此前曾爆料，一加和京东方联合定制了 X4 发光材料，目前内部测试看，几乎全部指标干翻三星 M 系发光材料。除已知功耗超低、寿命翻倍、极窄四等边外，由于发光材料和电路设计足够顶级，这代也会支持很多流畅新特性，以及一些天花板级的性能技术也将落地一加 16。\n\nIT之家注意到，一加于 7 月 30 日在高通骁龙游戏技术赏上分享了其在游戏技术和生态上的合作成果。一加中国区总裁李杰确认，一加三大独家游戏技术都将迎来全面大升级，并在年度旗舰一加 16 上首发。从李杰分享的现场照片来看，一加 16 旗舰新机将升级 165Hz 极速高刷、风驰游戏内核和电竞三芯。",
-      "content": "<p data-vmark=\"a0c7\">IT之家 8 月 19 日消息，博主 @数码闲聊站 今日爆料，一加 16 首发新一代东方屏，行业首个支持全局 165Hz 超高刷的屏幕。新机出厂预装 ColorOS 17，支持全新系统级动效。</p><p style=\"text-align: center;\" data-vmark=\"2109\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/4a5a369c-da1f-4014-b790-c8d2c218185d.png?x-bce-process=image/format,f_auto\" w=\"750\" h=\"316\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5333568475365613%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"e4a5\" class=\"no-alt-img\"></p><p data-vmark=\"2a44\">该博主此前曾爆料，一加和京东方联合定制了 X4 发光材料，目前内部测试看，<strong>几乎全部指标干翻三星 M 系发光材料</strong>。除已知功耗超低、寿命翻倍、极窄四等边外，由于发光材料和电路设计足够顶级，这代也会支持很多流畅新特性，以及一些天花板级的性能技术也将落地一加 16。</p><p style=\"text-align: center;\" data-vmark=\"7157\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/ed4a00d9-4f64-4682-b515-c5b108fe4a1f.png?x-bce-process=image/auto-orient,o_1\" w=\"750\" h=\"343\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5332834135835125%22%7D\" data-mpos=\"2,0\" data-vmark=\"94ce\" class=\"lazy no-alt-img\" title=\"消息称一加和京东方联合定制 X4 发光材料落地一加 16，几乎全部指标“干翻”三星 M 系\" data-weibo=\"1\"></p><p data-vmark=\"7ad8\">IT之家注意到，一加于 7 月 30 日在高通骁龙游戏技术赏上分享了其在游戏技术和生态上的合作成果。一加中国区总裁李杰确认，一加三大独家游戏技术都将迎来全面大升级，并在年度旗舰一加 16 上首发。从李杰分享的现场照片来看，<strong>一加 16 旗舰新机将升级 165Hz 极速高刷、风驰游戏内核和电竞三芯</strong>。</p><p data-vmark=\"6909\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/4a4b410e-feda-4f8c-b881-ef662e47c16a.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1440\" h=\"1081\" data-vmark=\"18f4\" class=\"lazy no-alt-img\" title=\"消息称一加和京东方联合定制 X4 发光材料落地一加 16，几乎全部指标“干翻”三星 M 系\" data-weibo=\"2\"></p>",
-      "url": "https://www.ithome.com/0/991/449.htm",
-      "link": "https://www.ithome.com/0/991/449.htm",
-      "pubDate": "Wed, 19 Aug 2026 02:21:15 GMT",
-      "isoDate": "2026-08-19T02:21:15.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 4,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
     }
   ]
 }
