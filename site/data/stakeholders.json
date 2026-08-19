@@ -1,10 +1,68 @@
 {
   "date": "2026-08-19",
-  "generatedAt": "2026-08-19T17:18:33.899Z",
+  "generatedAt": "2026-08-19T18:05:16.980Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 2,
+  "count": 4,
   "articles": [
+    {
+      "title": "AI 芯片需求激增，消息称三星部分先进制程代工最高涨价 15%",
+      "description": "IT之家 8 月 19 日消息，据路透社今天（19 日）援引两名知情人士消息称，AI 芯片需求持续挤占先进制程产能，三星电子提高了部分先进制程晶圆代工新订单价格，最高涨幅达到 15%。\n其中，中国客户的需求尤其旺盛。消息称三星目前无法满足全部订单，因为公司既要为美国客户保留产能，也需要预留一部分产能生产自有芯片。\n据行业估算，涨价也意味着三星自 2022 年以来一直亏损的晶圆代工业务开始出现转机。AI 系统所用存储芯片价格大涨已经帮助三星创下利润纪录，但晶圆代工业务始终未能明显缩小与台积电的差距。\n知情人士透露，三星 7 月上调了 4nm SF4 制程芯片的代工价格。SF4 价格较前一个月根据不同地区涨幅为 5%-10% 或 10%-15% 不等。\n此外，5nm SF5 制程晶圆价格上涨 10%-15%，较成熟的 8nm 制程价格也上涨近 10%。\n台积电产能趋紧，也给了三星更大的提价空间。一名熟悉三星运营情况的人士透露，韩国平泽工厂的 SF4 生产线从去年底开始就一直满负荷运行。\n据IT之家了解，该生产线既为高通等客户生产逻辑芯片，也负责制造三星自有多层高带宽内存（HBM）所需的基础裸片。\n三星电子 7 月曾预计，随着工厂利用率上升、良率改善和价格走强，晶圆代工业务将在不久后恢复盈利。美国和中国主要客户的销售增长，再加上 HBM 基础裸片需求，将推动今年下半年晶圆代工收入同比实现超过两位数的增长。同时，良率提升也帮助三星拿下了更多客户。",
+      "content": "<p data-vmark=\"571a\" style=\"text-align: left;\">IT之家 8 月 19 日消息，据路透社今天（19 日）援引两名知情人士消息称，AI 芯片需求持续挤占先进制程产能，三星电子提高了部分先进制程晶圆代工新订单价格，最高涨幅达到 15%。</p><p data-vmark=\"8107\" style=\"text-align: left;\">其中，中国客户的需求尤其旺盛。消息称三星<strong>目前无法满足全部订单</strong>，因为公司既要为美国客户保留产能，也需要预留一部分产能生产自有芯片。</p><p data-vmark=\"77b7\" style=\"text-align: left;\">据行业估算，涨价也意味着三星自 2022 年以来一直亏损的晶圆代工业务<strong>开始出现转机</strong>。AI 系统所用存储芯片价格大涨已经帮助三星创下利润纪录，但晶圆代工业务<strong>始终未能明显缩小与台积电的差距</strong>。</p><p data-vmark=\"b58e\" style=\"text-align: left;\">知情人士透露，三星 7 月上调了 4nm SF4 制程芯片的代工价格。SF4 价格较前一个月根据不同地区涨幅为 5%-10% 或 10%-15% 不等。</p><p data-vmark=\"8004\" style=\"text-align: left;\">此外，5nm SF5 制程晶圆价格上涨 10%-15%，较成熟的 8nm 制程价格也上涨近 10%。</p><p data-vmark=\"f970\" style=\"text-align: left;\">台积电产能趋紧，也给了三星更大的提价空间。一名熟悉三星运营情况的人士透露，韩国平泽工厂的 SF4 生产线从去年底开始就一直<strong>满负荷运行</strong>。</p><p data-vmark=\"f387\" style=\"text-align: left;\">据IT之家了解，该生产线既为高通等客户生产逻辑芯片，也负责制造三星自有多层高带宽内存（HBM）所需的基础裸片。</p><p data-vmark=\"c44e\" style=\"text-align: left;\">三星电子 7 月曾预计，随着工厂利用率上升、良率改善和价格走强，晶圆代工业务将在不久后恢复盈利。美国和中国主要客户的销售增长，再加上 HBM 基础裸片需求，将推动今年下半年晶圆代工收入同比实现超过两位数的增长。同时，良率提升也帮助三星拿下了更多客户。</p><p data-vmark=\"dcfd\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/5988e17e-b3b8-4ca5-ab95-94f38f0cc3c3.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1200\" h=\"630\" data-weibo=\"0\" data-vmark=\"3951\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/0/991/736.htm",
+      "link": "https://www.ithome.com/0/991/736.htm",
+      "pubDate": "Wed, 19 Aug 2026 09:18:34 GMT",
+      "isoDate": "2026-08-19T09:18:34.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 44,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        },
+        {
+          "type": "stakeholder",
+          "id": "foundry"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "oem"
+    },
+    {
+      "title": "AI 芯片需求激增，消息称三星部分先进制程代工最高涨价 15%",
+      "description": "IT之家 8 月 19 日消息，据路透社今天（19 日）援引两名知情人士消息称，AI 芯片需求持续挤占先进制程产能，三星电子提高了部分先进制程晶圆代工新订单价格，最高涨幅达到 15%。\n其中，中国客户的需求尤其旺盛。消息称三星目前无法满足全部订单，因为公司既要为美国客户保留产能，也需要预留一部分产能生产自有芯片。\n据行业估算，涨价也意味着三星自 2022 年以来一直亏损的晶圆代工业务开始出现转机。AI 系统所用存储芯片价格大涨已经帮助三星创下利润纪录，但晶圆代工业务始终未能明显缩小与台积电的差距。\n知情人士透露，三星 7 月上调了 4nm SF4 制程芯片的代工价格。SF4 价格较前一个月根据不同地区涨幅为 5%-10% 或 10%-15% 不等。\n此外，5nm SF5 制程晶圆价格上涨 10%-15%，较成熟的 8nm 制程价格也上涨近 10%。\n台积电产能趋紧，也给了三星更大的提价空间。一名熟悉三星运营情况的人士透露，韩国平泽工厂的 SF4 生产线从去年底开始就一直满负荷运行。\n据IT之家了解，该生产线既为高通等客户生产逻辑芯片，也负责制造三星自有多层高带宽内存（HBM）所需的基础裸片。\n三星电子 7 月曾预计，随着工厂利用率上升、良率改善和价格走强，晶圆代工业务将在不久后恢复盈利。美国和中国主要客户的销售增长，再加上 HBM 基础裸片需求，将推动今年下半年晶圆代工收入同比实现超过两位数的增长。同时，良率提升也帮助三星拿下了更多客户。",
+      "content": "<p data-vmark=\"571a\" style=\"text-align: left;\">IT之家 8 月 19 日消息，据路透社今天（19 日）援引两名知情人士消息称，AI 芯片需求持续挤占先进制程产能，三星电子提高了部分先进制程晶圆代工新订单价格，最高涨幅达到 15%。</p><p data-vmark=\"8107\" style=\"text-align: left;\">其中，中国客户的需求尤其旺盛。消息称三星<strong>目前无法满足全部订单</strong>，因为公司既要为美国客户保留产能，也需要预留一部分产能生产自有芯片。</p><p data-vmark=\"77b7\" style=\"text-align: left;\">据行业估算，涨价也意味着三星自 2022 年以来一直亏损的晶圆代工业务<strong>开始出现转机</strong>。AI 系统所用存储芯片价格大涨已经帮助三星创下利润纪录，但晶圆代工业务<strong>始终未能明显缩小与台积电的差距</strong>。</p><p data-vmark=\"b58e\" style=\"text-align: left;\">知情人士透露，三星 7 月上调了 4nm SF4 制程芯片的代工价格。SF4 价格较前一个月根据不同地区涨幅为 5%-10% 或 10%-15% 不等。</p><p data-vmark=\"8004\" style=\"text-align: left;\">此外，5nm SF5 制程晶圆价格上涨 10%-15%，较成熟的 8nm 制程价格也上涨近 10%。</p><p data-vmark=\"f970\" style=\"text-align: left;\">台积电产能趋紧，也给了三星更大的提价空间。一名熟悉三星运营情况的人士透露，韩国平泽工厂的 SF4 生产线从去年底开始就一直<strong>满负荷运行</strong>。</p><p data-vmark=\"f387\" style=\"text-align: left;\">据IT之家了解，该生产线既为高通等客户生产逻辑芯片，也负责制造三星自有多层高带宽内存（HBM）所需的基础裸片。</p><p data-vmark=\"c44e\" style=\"text-align: left;\">三星电子 7 月曾预计，随着工厂利用率上升、良率改善和价格走强，晶圆代工业务将在不久后恢复盈利。美国和中国主要客户的销售增长，再加上 HBM 基础裸片需求，将推动今年下半年晶圆代工收入同比实现超过两位数的增长。同时，良率提升也帮助三星拿下了更多客户。</p><p data-vmark=\"dcfd\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/5988e17e-b3b8-4ca5-ab95-94f38f0cc3c3.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1200\" h=\"630\" data-weibo=\"0\" data-vmark=\"3951\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/0/991/736.htm",
+      "link": "https://www.ithome.com/0/991/736.htm",
+      "pubDate": "Wed, 19 Aug 2026 09:18:34 GMT",
+      "isoDate": "2026-08-19T09:18:34.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 44,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        },
+        {
+          "type": "stakeholder",
+          "id": "foundry"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "foundry"
+    },
     {
       "title": "联想 AI 平板拯救者 Y700 无极专属配件公开，含专属手柄、街机底座、多功能保护壳等",
       "description": "IT之家 8 月 19 日消息，联想拯救者官方今日公开了旗下 AI 平板 —— 拯救者 Y700 无极的专属配件。据介绍，该平板搭配此类专属配件可变身掌机、街机、随身笔记本等，主打“百变神机”玩法。\n\n\n\n\n\n\n\n\n\n延伸阅读\n根据此前报道，拯救者 Y700 无极平板本身采用 8.4 英寸 WQXGA（2560×1600）分辨率 165Hz 高刷 OLED 面板，像素密度达 359 PPI，局部峰值亮度 4000nits，支持杜比视界，色差 ΔE＜1。核心配置搭载高通第五代骁龙 8 至尊领先版处理器，CPU 最高主频可达 4.74GHz，配备 LPDDR5T 内存和 UFS 4.1 Pro 存储。\n具体配件方面，此次公开的专属生态包括：拯救者游戏手柄 G9 无极（配备霍尔摇杆与双切扳机，即插即用可变身掌机）、拯救者 Y700 无极平板街机底座（即插即用，配备街机摇杆）、拯救者超神散热器 CR7 套装（35W 超高散热功率，号称 16 秒零度冰点制冷）、拯救者 Y700 无极保护夹（可拆设计，预留孔位可 DIY）、拯救者 Y700 无极皮革保护套（磁吸拆分，内置笔槽）、拯救者 Y700 无极腕带支架保护壳（弹力腕带，无极支架随心调节）以及拯救者 Y700 无极钢化膜。",
