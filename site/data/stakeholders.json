@@ -1,67 +1,8 @@
 {
   "date": "2026-08-20",
-  "generatedAt": "2026-08-20T19:05:16.152Z",
+  "generatedAt": "2026-08-20T20:03:25.932Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 2,
-  "articles": [
-    {
-      "title": "旗舰机型先行：首批 GrapheneOS 摩托罗拉设备预计 2027 年上市",
-      "description": "IT之家 8 月 20 日消息，GrapheneOS 官方本月早些时候确认，运行其同名 Android 操作系统发行版的 Motorola（摩托罗拉）设备预计将于 2027 年开始上市。\n首批运行 GrapheneOS 的摩托罗拉智能手机将是旗舰机型，硬件配置和定价均高于 Google（谷歌）Pixel 系列。\n另一方面，由于高通的处理方式和摩托罗拉此前的产品策略，支持 GrapheneOS 的低端设备要到晚些时候才能面世，以留出更多时间用于夯实系统更新、安全功能等底层安全基础。",
-      "content": "<p data-vmark=\"3fc8\">IT之家 8 月 20 日消息，GrapheneOS 官方本月早些时候确认，运行其同名 Android 操作系统发行版的 Motorola（摩托罗拉）设备预计将于 2027 年开始上市。</p><p data-vmark=\"7ce2\">首批运行 GrapheneOS 的摩托罗拉智能手机将是旗舰机型，<strong>硬件配置和定价均高于 Google（谷歌）Pixel 系列</strong>。</p><p data-vmark=\"985f\">另一方面，由于高通的处理方式和摩托罗拉此前的产品策略，<strong>支持 GrapheneOS 的低端设备要到晚些时候才能面世</strong>，以留出更多时间用于夯实系统更新、安全功能等底层安全基础。</p><p data-vmark=\"bc13\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/848b9ce8-5af9-4075-be21-12471b2cebcc.png\" w=\"600\" h=\"1050\" data-weibo=\"0\" data-vmark=\"bffc\"></p>",
-      "url": "https://www.ithome.com/0/992/193.htm",
-      "link": "https://www.ithome.com/0/992/193.htm",
-      "pubDate": "Thu, 20 Aug 2026 08:11:59 GMT",
-      "isoDate": "2026-08-20T08:11:59.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 5,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        },
-        {
-          "type": "stakeholder",
-          "id": "platform-partner"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    },
-    {
-      "title": "旗舰机型先行：首批 GrapheneOS 摩托罗拉设备预计 2027 年上市",
-      "description": "IT之家 8 月 20 日消息，GrapheneOS 官方本月早些时候确认，运行其同名 Android 操作系统发行版的 Motorola（摩托罗拉）设备预计将于 2027 年开始上市。\n首批运行 GrapheneOS 的摩托罗拉智能手机将是旗舰机型，硬件配置和定价均高于 Google（谷歌）Pixel 系列。\n另一方面，由于高通的处理方式和摩托罗拉此前的产品策略，支持 GrapheneOS 的低端设备要到晚些时候才能面世，以留出更多时间用于夯实系统更新、安全功能等底层安全基础。",
-      "content": "<p data-vmark=\"3fc8\">IT之家 8 月 20 日消息，GrapheneOS 官方本月早些时候确认，运行其同名 Android 操作系统发行版的 Motorola（摩托罗拉）设备预计将于 2027 年开始上市。</p><p data-vmark=\"7ce2\">首批运行 GrapheneOS 的摩托罗拉智能手机将是旗舰机型，<strong>硬件配置和定价均高于 Google（谷歌）Pixel 系列</strong>。</p><p data-vmark=\"985f\">另一方面，由于高通的处理方式和摩托罗拉此前的产品策略，<strong>支持 GrapheneOS 的低端设备要到晚些时候才能面世</strong>，以留出更多时间用于夯实系统更新、安全功能等底层安全基础。</p><p data-vmark=\"bc13\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/848b9ce8-5af9-4075-be21-12471b2cebcc.png\" w=\"600\" h=\"1050\" data-weibo=\"0\" data-vmark=\"bffc\"></p>",
-      "url": "https://www.ithome.com/0/992/193.htm",
-      "link": "https://www.ithome.com/0/992/193.htm",
-      "pubDate": "Thu, 20 Aug 2026 08:11:59 GMT",
-      "isoDate": "2026-08-20T08:11:59.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 5,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        },
-        {
-          "type": "stakeholder",
-          "id": "platform-partner"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "platform-partner"
-    }
-  ]
+  "count": 0,
+  "articles": []
 }
