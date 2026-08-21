@@ -1,8 +1,6 @@
 {
   "date": "2026-08-22",
   "generatedAt": "2026-08-22T00:05:28.610Z",
-  "section": "stakeholders",
-  "sectionTitle": "关键利益相关方",
   "count": 2,
   "articles": [
     {
@@ -26,9 +24,7 @@
           "type": "stakeholder",
           "id": "oem"
         }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
+      ]
     },
     {
       "title": "上汽奥迪 E7X 先锋 quattro 热爱版上市，限时臻享价 30.98 万元",
@@ -51,9 +47,7 @@
           "type": "stakeholder",
           "id": "oem"
         }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
+      ]
     }
   ]
 }
