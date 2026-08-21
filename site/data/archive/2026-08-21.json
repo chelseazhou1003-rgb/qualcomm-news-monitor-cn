@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
-  "generatedAt": "2026-08-21T13:17:32.602Z",
-  "count": 8,
+  "generatedAt": "2026-08-21T14:17:56.315Z",
+  "count": 7,
   "articles": [
     {
       "title": "北京现代艾尼氪 V 发布：为中国用户量身定制，预售价 11.99 万元起",
@@ -101,24 +101,6 @@
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "tagScore": 4,
-      "crossTags": []
-    },
-    {
-      "title": "高通骁龙 2nm 芯片命名曝光：第六代骁龙 8 至尊版 / 超级至尊版",
-      "description": "IT之家 8 月 21 日消息，高通今年将带来两款旗舰芯片已经不是什么秘密，博主 @数码闲聊站 今日曝光骁龙 2nm 芯片正式命名：\n\nSM8950—Snapdragon 8 Elite Gen6—— 第六代骁龙 8 至尊版\n\nSM8975——Snapdragon 8 Elite Extreme Gen6—— 第六代骁龙 8 超级至尊版\n\n\nIT之家注意到，今年的骁龙峰会将于 9 月 22 日至 24 日在夏威夷举行。骁龙 8 Elite Gen 6 系列发布后，高通预计将首次把旗舰手机芯片推进到 2 纳米工艺，两款芯片预计将搭载在明年多款主流安卓旗舰手机上。\n骁龙峰会要到 9 月下旬才举行，未来一个月仍会出现更多爆料。",
-      "content": "<p data-vmark=\"1bfc\">IT之家 8 月 21 日消息，高通今年将带来两款旗舰芯片已经不是什么秘密，博主 @数码闲聊站 今日曝光<strong>骁龙 2nm 芯片</strong>正式命名：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"49c2\">SM8950—Snapdragon 8 Elite Gen6—— 第六代骁龙 8 至尊版</p></li><li><p data-vmark=\"0190\">SM8975——Snapdragon 8 Elite Extreme Gen6—— 第六代骁龙 8 超级至尊版</p></li></ul><p data-vmark=\"812f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/75f2a68c-6155-4d65-91ec-5ca261350050.png\" w=\"750\" h=\"317\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5334284191400124%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"02aa\" class=\"no-alt-img\"></p><p data-vmark=\"37c5\">IT之家注意到，今年的骁龙峰会将于<strong> 9 月 22 日至 24 日</strong>在夏威夷举行。骁龙 8 Elite Gen 6 系列发布后，高通预计将首次把旗舰手机芯片推进到 2 纳米工艺，两款芯片预计将搭载在明年多款主流安卓旗舰手机上。</p><p data-vmark=\"95d9\">骁龙峰会要到 9 月下旬才举行，未来一个月仍会出现更多爆料。</p><p data-vmark=\"0bf1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/8688e6bb-1cd2-4afd-9e53-00ca8bc2634d.png\" w=\"1439\" h=\"1799\" data-weibo=\"1\" data-vmark=\"07a9\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"34e5\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4396\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/0/992/452.htm",
-      "link": "https://www.ithome.com/0/992/452.htm",
-      "pubDate": "Fri, 21 Aug 2026 01:41:50 GMT",
-      "isoDate": "2026-08-21T01:41:50.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 23,
       "crossTags": []
     },
     {
