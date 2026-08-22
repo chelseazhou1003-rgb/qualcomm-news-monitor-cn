@@ -1,9 +1,9 @@
 {
   "date": "2026-08-22",
-  "generatedAt": "2026-08-22T19:59:43.116Z",
+  "generatedAt": "2026-08-22T21:20:24.131Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 3,
+  "count": 2,
   "articles": [
     {
       "title": "英伟达否认年底前推出中国特供 AI 芯片：路线图中无此产品",
@@ -22,31 +22,6 @@
       "section": "macro-environment",
       "subCategory": "customers-partners",
       "tagScore": 8,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    },
-    {
-      "title": "惠普 OmniBook 3 笔记本海外发售：骁龙 X 处理器、8GB 内存，499 美元",
-      "description": "IT之家 8 月 22 日消息，惠普 OmniBook 3（14-hz0488nr）笔记本现已在海外市场发售，该产品的硬件规格与苹果 MacBook Neo 类似，采用 ARM 架构并配备 8GB 内存和 256GB 硬盘。\n\n据介绍，这款笔记本搭载骁龙 X X1-26-100 处理器，拥有 8 个 Oryon CPU 核心，最高频率为 2.98GHz，配备 45 TOPS 的 NPU 和 30MB 缓存。\n\n规格方面，这款笔记本配备 14 英寸 OLED 屏幕，分辨率为 1920*1200，覆盖 100% DCI-P3 色域，但最高亮度仅有 300nits，拥有 60Wh 电池，官方宣称续航最长可达 41 小时 45 分钟。\n同时，这款笔记本的机身尺寸大约是 31.45×22.61×1.47 厘米，重量 1.42 千克。拥有两个 USB-A 接口、两个全功能 10Gbps USB-C 接口，以及一个 HDMI 2.1 接口和一个 3.5mm 耳机接口，带有 1080P 摄像头、Wi-Fi 6E 无线局域网。\n\n此外，这款笔记本的基础配置是 8GB 内存和 256GB 存储空间，目前在百思买平台售价 499.99 美元（IT之家注：现汇率约合 3,369 元人民币）。",
-      "content": "<p data-vmark=\"07a9\">IT之家 8 月 22 日消息，惠普 OmniBook 3（14-hz0488nr）笔记本现已在海外市场发售，该产品的硬件规格与苹果 MacBook Neo 类似，采用 ARM 架构并配备 8GB 内存和 256GB 硬盘。</p><p data-vmark=\"b7b7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/2e31cfba-3b7f-4fa6-97bf-f12a5b10a847.jpg\" w=\"1440\" h=\"1080\" data-weibo=\"0\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d14d84b99910b7d40cdc15e0cb7b02527dbac21269150b844539484059bc5d5002b818f0d61a7fe1aa\" data-vmark=\"ea92\"></p><p data-vmark=\"f43e\">据介绍，这款笔记本搭载骁龙 X X1-26-100 处理器，拥有 8 个 Oryon CPU 核心，最高频率为 2.98GHz，配备 45 TOPS 的 NPU 和 30MB 缓存。</p><p data-vmark=\"310f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/d34a0925-3476-48bd-a349-dcc17ea1f251.jpg\" w=\"1440\" h=\"1080\" data-weibo=\"1\" data-mpos=\"0,2\"  data-vmark=\"8a82\"></p><p data-vmark=\"386a\">规格方面，<strong>这款笔记本配备 14 英寸 OLED 屏幕</strong>，分辨率为 1920*1200，覆盖 100% DCI-P3 色域，但最高亮度仅有 300nits，拥有 60Wh 电池，官方宣称续航最长可达 41 小时 45 分钟。</p><p data-vmark=\"bd43\">同时，这款笔记本的机身尺寸大约是 31.45×22.61×1.47 厘米，重量 1.42 千克。拥有两个 USB-A 接口、两个全功能 10Gbps USB-C 接口，以及一个 HDMI 2.1 接口和一个 3.5mm 耳机接口，带有 1080P 摄像头、Wi-Fi 6E 无线局域网。</p><p data-vmark=\"f99e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/a12c6302-3089-4d47-91ac-c47fde75ac7a.jpg\" w=\"1200\" h=\"900\" data-weibo=\"2\" data-vmark=\"3042\"></p><p data-vmark=\"73fd\">此外，<strong>这款笔记本的基础配置是 8GB 内存和 256GB 存储空间</strong>，目前在百思买平台售价 499.99 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 3,369 元人民币）</span>。</p>",
-      "url": "https://www.ithome.com/0/992/999.htm",
-      "link": "https://www.ithome.com/0/992/999.htm",
-      "pubDate": "Sat, 22 Aug 2026 06:45:11 GMT",
-      "isoDate": "2026-08-22T06:45:11.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "tagScore": 2,
       "crossTags": [
         {
           "type": "stakeholder",
