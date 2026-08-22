@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
-  "generatedAt": "2026-08-22T22:00:11.333Z",
-  "count": 4,
+  "generatedAt": "2026-08-22T23:00:17.424Z",
+  "count": 3,
   "articles": [
     {
       "title": "英伟达否认年底前推出中国特供 AI 芯片：路线图中无此产品",
@@ -42,25 +42,6 @@
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
-      "tagScore": 2,
-      "crossTags": []
-    },
-    {
-      "title": "GPD 解释 Win Max 3 掌机为何卖 1750 美元：我们没有大品牌的议价能力，这个价已经是最大诚意",
-      "description": "IT之家 8 月 22 日消息，GPD Win Max 3 掌机最初亮相于今年 6 月，搭载 AMD Strix Halo 平台，拥有 165Hz AMOLED 屏幕和可更换电池。如今该公司已公布 Win Max 3 的众筹上线日期，同时也揭晓了该机的定价。\n\n据悉，Win Max 3 上市时将提供三个配置。入门版搭载锐龙 AI Max+ 388 处理器、32GB 内存和 1TB 硬盘，定价 1,750 美元（IT之家注：现汇率约合 11,791 元人民币）；升级至 64GB 内存、2TB 硬盘后则是 2,246 美元（现汇率约合 15,133 元人民币）。\n\n顶配版则搭载完整规格的 AMD Ryzen AI Max+ 395 APU，拥有 128GB 内存和 2TB 存储空间，官方建议零售价高达 3,499 美元（现汇率约合 23,576 元人民币）。\nGPD 显然预料到消费者可能会质疑售价，因此提前在 X 平台就定价情况进行解释：\n\nGPD 最大的努力和诚意\n众所周知，我们目前正面临内存危机。但即使在如此艰难的时期，GPD 仍在竭尽所能创新，为我们这个小众市场注入新活力。我们也一直在努力，确保 UMPC 市场不会被高昂价格和产品同质化所侵蚀。\n我们没有大品牌那样的议价能力，能做的事情也有限。但在这些限制之下，我们会投入无限的热情和努力，尽可能为大家带来最好的产品。\n我们相信这个价格已经代表了我们的最大诚意，你不可能在其他地方找到同样价格的同类 Strix Halo 产品，1750 美元就是我们能够提供的最佳价格。\n此外，我们决定向所有 Indiegogo 支持者免费提供风扇模块。\n您花这个价格可以获得一款配备 165Hz OLED 屏幕、LPDDR5 8000MT/s 内存的 Strix Halo 掌机、97Wh 可更换电池、DC 充电器、免费风扇模块、免费配送，美国消费者可享受包关税配送服务。",
-      "content": "<p data-vmark=\"7b73\">IT之家 8 月 22 日消息，GPD Win Max 3 掌机最初亮相于今年 6 月，搭载 AMD Strix Halo 平台，拥有 165Hz AMOLED 屏幕和可更换电池。如今该公司已公布 Win Max 3 的众筹上线日期，同时也揭晓了该机的定价。</p><p data-vmark=\"ffc0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/60e2e5bc-c763-4a4f-beb8-7b2e4d476355.jpg\" w=\"1440\" h=\"809\" data-weibo=\"0\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d14303d1910bdbee9f2cbb137658ca072be8151dc710ca8697622e79682b89e1a85a0d90a9225d92ec\" data-vmark=\"c3b4\"></p><p data-vmark=\"dca9\">据悉，Win Max 3 上市时将提供三个配置。入门版搭载锐龙 AI Max+ 388 处理器、32GB 内存和 1TB 硬盘，定价 1,750 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 11,791 元人民币）</span>；升级至 64GB 内存、2TB 硬盘后则是 2,246 美元<span class=\"exch-money-value\">（现汇率约合 15,133 元人民币）</span>。</p><p data-vmark=\"7da9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/2bd33cd9-aac7-4595-84f5-9a67acce3a32.jpg\" w=\"1440\" h=\"809\" data-weibo=\"1\" data-vmark=\"d0e0\"></p><p data-vmark=\"3d33\">顶配版则搭载完整规格的 AMD Ryzen AI Max+ 395 APU，拥有 128GB 内存和 2TB 存储空间，官方建议零售价高达 3,499 美元<span class=\"exch-money-value\">（现汇率约合 23,576 元人民币）</span>。</p><p data-vmark=\"4d9a\">GPD 显然预料到消费者可能会质疑售价，因此提前在 X 平台就定价情况进行解释：</p><blockquote><p data-vmark=\"ab8e\">GPD 最大的努力和诚意</p><p data-vmark=\"068d\">众所周知，我们目前正面临内存危机。但即使在如此艰难的时期，GPD 仍在竭尽所能创新，为我们这个小众市场注入新活力。我们也一直在努力，确保 UMPC 市场不会被高昂价格和产品同质化所侵蚀。</p><p data-vmark=\"41e8\"><strong>我们没有大品牌那样的议价能力</strong>，能做的事情也有限。但在这些限制之下，我们会投入无限的热情和努力，尽可能为大家带来最好的产品。</p><p data-vmark=\"b7a5\"><strong>我们相信这个价格已经代表了我们的最大诚意</strong>，你不可能在其他地方找到同样价格的同类 Strix Halo 产品，1750 美元就是我们能够提供的最佳价格。</p><p data-vmark=\"6b3b\">此外，我们决定向所有 Indiegogo 支持者免费提供风扇模块。</p><p data-vmark=\"6682\">您花这个价格可以获得一款配备 165Hz OLED 屏幕、LPDDR5 8000MT/s 内存的 Strix Halo 掌机、97Wh 可更换电池、DC 充电器、免费风扇模块、免费配送，美国消费者可享受包关税配送服务。</p></blockquote><p data-vmark=\"2917\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/07c57023-47ab-43d9-98b7-464b04d9b5bc.png\" w=\"898\" h=\"2007\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2Fsoftwincn%2Fstatus%2F2090359532924895487%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2Fsoftwincn%2Fstatus%2F2090359532924895487%22%7D\" data-weibo=\"2\" data-mpos=\"2,0\"  data-vmark=\"e47d\"></p>",
-      "url": "https://www.ithome.com/0/993/013.htm",
-      "link": "https://www.ithome.com/0/993/013.htm",
-      "pubDate": "Sat, 22 Aug 2026 07:24:26 GMT",
-      "isoDate": "2026-08-22T07:24:26.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
       "tagScore": 2,
       "crossTags": []
     },
