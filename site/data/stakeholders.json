@@ -1,34 +1,8 @@
 {
   "date": "2026-08-23",
-  "generatedAt": "2026-08-23T18:01:35.114Z",
+  "generatedAt": "2026-08-23T19:01:06.792Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 1,
-  "articles": [
-    {
-      "title": "消息称某厂新机透明版设计回归，预计归属小米 18 系列",
-      "description": "IT之家 8 月 23 日消息，博主 @数码闲聊站 昨日发文透露，某厂新机透明版设计将回归。根据评论区网友讨论来看，预计归属小米 18 系列。\n\n有网友询问什么时候回归小 R 角设计，博主回复称：“不流行小 R 角了。”还有网友希望升降摄像头设计回归，博主表示：“机械结构很难回归啊。”\n据IT之家此前报道，型号为 M154FF 的小米新机已通过 3C 认证，支持 100W 快充，博主 @数码闲聊站 推测为小米 18 Pro 系列。据其爆料，该机各种备案已齐全，大概率首发骁龙 2nm 旗舰芯，支持 100W 快充，N79 5G 频段，UWB 超宽带技术，屏幕 / 影像 / 性能 / 外围等硬件全方位升级。",
-      "content": "<p data-vmark=\"68a6\">IT之家 8 月 23 日消息，博主 @数码闲聊站 昨日发文透露，某厂新机透明版设计将回归。根据评论区网友讨论来看，<strong>预计归属小米 18 系列</strong>。</p><p style=\"text-align: center;\" data-vmark=\"9d2f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/66602d2a-7e5c-41ef-a0fa-80005d08f6a1.png?x-bce-process=image/format,f_auto\" w=\"800\" h=\"1083\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d137b70c11dd3a3cf751ff5f0c8994d4a320bedbf2b3e81fdb7cfc61a944ccd661b7e4d9ce8321089c\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRey3QxKAW%22%7D\" data-vmark=\"4c8f\" class=\"no-alt-img\"></p><p data-vmark=\"67a1\">有网友询问什么时候回归小 R 角设计，博主回复称：“<strong>不流行小 R 角了。</strong>”还有网友希望升降摄像头设计回归，博主表示：“<strong>机械结构很难回归啊。</strong>”</p><p data-vmark=\"25bd\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/991/415.htm\">型号为 M154FF 的小米新机已通过 3C 认证，支持 100W 快充</a>，博主 @数码闲聊站 推测为小米 18 Pro 系列。据其爆料，该机各种备案已齐全，大概率首发骁龙 2nm 旗舰芯，支持 100W 快充，N79 5G 频段，UWB 超宽带技术，屏幕 / 影像 / 性能 / 外围等硬件全方位升级。</p><p style=\"text-align: center;\" data-vmark=\"6535\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/3e060f72-b50c-42ad-975f-e8fc1cce8f2e.png?x-bce-process=image/format,f_auto\" w=\"798\" h=\"473\" data-weibo=\"1\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRe4Ke99F0%22%7D\" data-vmark=\"ae47\" class=\"no-alt-img\"></p>",
-      "url": "https://www.ithome.com/0/993/157.htm",
-      "link": "https://www.ithome.com/0/993/157.htm",
-      "pubDate": "Sun, 23 Aug 2026 02:59:57 GMT",
-      "isoDate": "2026-08-23T02:59:57.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "tagScore": 4,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    }
-  ]
+  "count": 0,
+  "articles": []
 }
