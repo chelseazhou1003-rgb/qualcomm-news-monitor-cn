@@ -1,10 +1,33 @@
 {
   "date": "2026-08-24",
-  "generatedAt": "2026-08-24T16:31:06.394Z",
+  "generatedAt": "2026-08-24T17:30:42.727Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
   "count": 2,
   "articles": [
+    {
+      "title": "消息称一加 16 依然是子系旗舰机最窄四等边，定制新屏幕观感“很通透”",
+      "description": "IT之家 8 月 24 日消息，微博博主 @数码闲聊站 今日在微博发文称：\n\n新一轮骁龙 8 Elite 超级至尊版新机，一加 16 依然是子系旗舰中的最窄四等边，“大概这么窄🤏”，而且定制新屏观感也很通透，预定一个正面颜值 Top\n\n\n结合IT之家此前援引博主消息，一加 16 将首发新一代东方屏，行业首个支持全局 165Hz 超高刷的屏幕。新机出厂预装 ColorOS 17，支持全新系统级动效。\nIT之家注意到，一加于 7 月 30 日在高通骁龙游戏技术赏上分享了其在游戏技术和生态上的合作成果。一加中国区总裁李杰确认，一加三大独家游戏技术都将迎来全面大升级，并在年度旗舰一加 16 上首发。从李杰分享的现场照片来看，一加 16 旗舰新机将升级 165Hz 极速高刷、风驰游戏内核和电竞三芯。",
+      "content": "<p data-vmark=\"f3d7\">IT之家 8 月 24 日消息，微博博主 @数码闲聊站 今日在微博发文称：</p><blockquote><p data-vmark=\"b32a\">新一轮骁龙 8 Elite 超级至尊版新机，一加 16 依然是子系旗舰中的最窄四等边，“大概这么窄🤏”，而且定制新屏观感也很通透，预定一个正面颜值 Top</p></blockquote><p style=\"text-align: center;\" data-vmark=\"8f76\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/449016f0-bea7-4e3e-a552-89871d104207.png?x-bce-process=image/format,f_auto\" w=\"958\" h=\"199\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FReQn9pLnq%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"c7b4\" class=\"no-alt-img\"></p><p data-vmark=\"0b15\"><a href=\"https://www.ithome.com/0/991/449.htm\" target=\"_blank\">结合IT之家此前援引博主消息</a>，一加 16 将首发新一代东方屏，行业首个支持全局 165Hz 超高刷的屏幕。新机出厂预装 ColorOS 17，支持全新系统级动效。</p><p data-vmark=\"7ad8\">IT之家注意到，一加于 7 月 30 日在高通骁龙游戏技术赏上分享了其在游戏技术和生态上的合作成果。一加中国区总裁李杰确认，一加三大独家游戏技术都将迎来全面大升级，并在年度旗舰一加 16 上首发。从李杰分享的现场照片来看，一加 16 旗舰新机将升级 165Hz 极速高刷、风驰游戏内核和电竞三芯。</p><p style=\"text-align: center;\" data-vmark=\"7b56\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/7/4a4b410e-feda-4f8c-b881-ef662e47c16a.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"1081\" data-vmark=\"18f4\" class=\"lazy no-alt-img\" title=\"消息称一加和京东方联合定制 X4 发光材料落地一加 16，几乎全部指标“干翻”三星 M 系\" data-weibo=\"1\"></p>",
+      "url": "https://www.ithome.com/0/993/655.htm",
+      "link": "https://www.ithome.com/0/993/655.htm",
+      "pubDate": "Mon, 24 Aug 2026 09:21:07 GMT",
+      "isoDate": "2026-08-24T09:21:07.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 7,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
     {
       "title": "Fostex 发布首款平板振膜无线耳机 T50RP-BT，支持系列高通音频技术",
       "description": "IT之家 8 月 24 日消息，日本音频设备制造商 Fostex 当地时间 20 日发布了其 RP 系列全频平板振膜发声单元耳机家族 50 余年来首款支持无线连接的产品 —— T50RP-BT。\n\n这一产品支持高通骁龙畅听、aptX Lossless、aptX Adaptive 技术，无线保真度 24bit / 96kHz，搭配 USB-C 接收器时可在 PC 平台实现 20ms 低延迟。\nT50RP-BT 基于 T50RPmk4 同款第四代 RP 驱动单元，采用半开放式声学结构和舒适且低回弹的包耳式耳罩，拥有 20~20000Hz 的频率响应范围，内置 48+hr 续航电池，本体质量约 342g，支持可插拔式麦克风。",
@@ -22,29 +45,6 @@
       "subCategory": "pc-chips-computing",
       "tagScore": 2,
       "crossTags": []
-    },
-    {
-      "title": "曝小米 17 系列手机销量突破 600 万台，Ultra 约 24.3 万台",
-      "description": "IT之家 8 月 24 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 昨晚爆料，截至 2026 年第 33 周（8 月 10 日-8 月 16 日），小米 17 系列旗舰的销量突破 600 万台。\n\n小米 17 系列约 602.63 万\n小米 17 Ultra 约 24.3 万\n\n\n博主此前发文注解，称小米 17 系列的销量数据已加入小米 17 Ultra，小米 17 Ultra 默认包含徕卡版。\n\n另外，小米面向中端推出的 17T 系列手机销量也来到了 42.1 万台左右。\n\n据IT之家此前报道，小米 17 系列（标准版 / Pro / Pro Max）于 2025 年 9 月 26 日，首发搭载第五代骁龙 8 至尊版移动平台，售价 4499 元起，系列手机开售仅 5 天销量破 100 万台。后续小米还陆续发布了小米 17 Ultra、小米 17 Ultra 徕卡版、小米 17 Max 以及小米 17T 系列（小米 17T / 17T Pro）手机。\n\n▲ IT之家开箱：小米 17 Pro / Pro Max 手机图赏",
-      "content": "<p data-vmark=\"0cb2\">IT之家 8 月 24 日消息，据长期关注国内手机市场份额的数码博主 @RD观测 昨晚爆料，截至 2026 年第 33 周（8 月 10 日-8 月 16 日），小米 17 系列旗舰的销量突破 600 万台。</p><blockquote><p data-vmark=\"878d\"><strong>小米 17 系列约 602.63 万</strong></p><p data-vmark=\"dbed\"><strong>小米 17 Ultra 约 24.3 万</strong></p></blockquote><p style=\"text-align: center;\" data-vmark=\"43ce\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/6c700191-a5a5-4557-966b-79a21ee38d25.png?x-bce-process=image/format,f_auto\" w=\"825\" h=\"344\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5335429566169453%22%7D\" data-marks=\"1931fd9d012eb6d114b2e6274360c98e960db39a6aa7e13540e4f68486401520bc9505b79a5c2b812730eaa1d70fe7ad\" data-vmark=\"cece\" class=\"no-alt-img\"></p><p data-vmark=\"6703\">博主此前发文注解，<strong>称小米 17 系列的销量数据已加入小米 17 Ultra，小米 17 Ultra 默认包含徕卡版</strong>。</p><p style=\"text-align: center;\" data-vmark=\"d89f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/842bb060-f222-4486-8cbd-d2f61ac64e8e.png?x-bce-process=image/format,f_auto\" w=\"825\" h=\"398\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5270125309858421%22%7D\" data-marks=\"1931fd9d012eb6d10b5ac2d54df8a5a9b0792018ac141b79e510b0236f30297f3e51661812ee5360024320eae7a769d4\" data-vmark=\"b77c\" class=\"no-alt-img\"></p><p data-vmark=\"95f7\">另外，小米面向中端推出的 17T 系列手机销量也来到了 42.1 万台左右。</p><p style=\"text-align: center;\" data-vmark=\"0c26\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/fd292ac0-16e4-4bfc-aa1c-2de2085fa7f5.png?x-bce-process=image/format,f_auto\" w=\"825\" h=\"274\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5333913758075766%22%7D\" data-vmark=\"f6e5\" class=\"no-alt-img\"></p><p data-vmark=\"ee4d\">据IT之家此前报道，小米 17 系列（标准版 / Pro / Pro Max）于 2025 年 9 月 26 日，首发搭载第五代骁龙 8 至尊版移动平台，售价 4499 元起，<a target=\"_blank\" href=\"https://www.ithome.com/0/887/682.htm\">系列手机开售仅 5 天销量破 100 万台</a>。后续小米还陆续发布了小米 17 Ultra、小米 17 Ultra 徕卡版、小米 17 Max 以及小米 17T 系列（小米 17T / 17T Pro）手机。</p><p style=\"text-align: center;\" data-vmark=\"d60e\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/9/690854c3-523f-445c-9f45-8e0b0b3885da.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1269\" h=\"846\" data-vmark=\"96b2\" data-weibo=\"2\" alt=\"05\"></p><figcaption>▲ IT之家开箱：小米 17 Pro / Pro Max 手机图赏</figcaption>",
-      "url": "https://www.ithome.com/0/993/492.htm",
-      "link": "https://www.ithome.com/0/993/492.htm",
-      "pubDate": "Mon, 24 Aug 2026 05:37:05 GMT",
-      "isoDate": "2026-08-24T05:37:05.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 17,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
     }
   ]
 }
