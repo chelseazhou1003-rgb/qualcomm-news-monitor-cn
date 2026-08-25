@@ -1,9 +1,9 @@
 {
   "date": "2026-08-25",
-  "generatedAt": "2026-08-25T18:14:06.659Z",
+  "generatedAt": "2026-08-25T19:07:21.462Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 5,
+  "count": 2,
   "articles": [
     {
       "title": "小米官宣澎程 N90 全尺寸 SUV 转弯半径  5.95m，官方一镜到底实测视频公布",
@@ -21,31 +21,6 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 4,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    },
-    {
-      "title": "曝 9 月或是机圈史上最激烈新品月，“华米 OV 耀”旗舰新机将轮番登场",
-      "description": "IT之家 8 月 25 日消息，博主 @数码闲聊站 今日发文称，9 月或许是机圈史上最激烈的新品月：\n\n\n高端折叠线 —— 华为三折叠、小米阔折叠、苹果阔折叠\n\n芯片线 —— 小米玄戒 O3、苹果 A20 系列、天玑 9600 系列、骁龙 8E6 系列、华为麒麟 2026τ 芯片\n\n旗舰线 —— iPhone 18 系列、vivo X500 系列、OPPO Find X10 系列、华为 Mate90 系列、小米 18 系列、荣耀 Magic9 系列、iQOO16……\n\n\n\n从博主此次爆料来看，下个月除了苹果 iPhone 18 Pro 系列、华为 Mate 90 系列、小米 18 系列、荣耀 Magic9 系列和 vivo X500 系列外，OPPO 以及 iQOO 也将发布最新一代旗舰机，包括 Find X10 系列和 iQOO 16 等。\n而这些旗舰手机无一例外都将搭载最新的旗舰处理器，包括小米玄戒 O3、苹果 A20 系列、天玑 9600 系列、骁龙 8E6 系列、华为麒麟 2026τ 芯片。如此来看，今年 9 月确实将上演一场精彩的旗舰秀。\n目前，小米玄戒 O3 芯片已率先登场，定位 AI 旗舰 SoC，安兔兔首破 500 万。据IT之家昨日报道，小米创办人、董事长兼 CEO 雷军发文宣布，9 月将是小米的“科技大月”。月初，小米澎程系列将正式上市，Xiaomi 18 Fold 同场发布；月底，Xiaomi 18 Pro 系列发布。\n\nvivo 通信科技有限公司产品经理韩伯啸昨日宣布，全新的 X500 系列将在 9 月正式和大家见面，全系 3 杯，包括 X500、X500 Pro、X500 Pro Max。韩伯啸更是直言：“即将到来的 9 月，将是手机行业近几年最热闹的时候，新机密集程度…… 大家可以好好期待。”\n\n另外，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日宣布，全新三折叠即将登场。华为鸿蒙 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会定档 9 月 7 日 14:30。",
-      "content": "<p data-vmark=\"6fa7\">IT之家 8 月 25 日消息，博主 @数码闲聊站 今日发文称，9 月或许是机圈史上最激烈的新品月：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"35d8\"><strong>高端折叠线</strong> —— 华为三折叠、小米阔折叠、苹果阔折叠</p></li><li><p data-vmark=\"eb41\"><strong>芯片线</strong> —— 小米玄戒 O3、苹果 A20 系列、天玑 9600 系列、骁龙 8E6 系列、华为麒麟 2026τ 芯片</p></li><li><p data-vmark=\"9033\"><strong>旗舰线</strong> —— iPhone 18 系列、vivo X500 系列、OPPO Find X10 系列、华为 Mate90 系列、小米 18 系列、荣耀 Magic9 系列、iQOO16……</p></li></ul></blockquote><p data-vmark=\"8f4b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/4679ba03-e5d7-4970-ba6b-d5cd23bfc955.png\" w=\"825\" h=\"474\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d16d800c51e087e4040fdb0f4952911da792cc2eceaa90567caa54e80e831ef1ae30d487a46a4b6312\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5335818300031966%22%7D\" data-vmark=\"edf3\" class=\"no-alt-img\"></p><p data-vmark=\"7951\">从博主此次爆料来看，下个月除了苹果 iPhone 18 Pro 系列、华为 Mate 90 系列、小米 18 系列、荣耀 Magic9 系列和 vivo X500 系列外，OPPO 以及 iQOO 也将发布最新一代旗舰机，包括 Find X10 系列和 iQOO 16 等。</p><p data-vmark=\"b96b\">而这些旗舰手机无一例外都将搭载最新的旗舰处理器，包括小米玄戒 O3、苹果 A20 系列、天玑 9600 系列、骁龙 8E6 系列、华为麒麟 2026τ 芯片。如此来看，今年 9 月确实将上演一场精彩的旗舰秀。</p><p data-vmark=\"7753\">目前，小米玄戒 O3 芯片已率先登场，定位 AI 旗舰 SoC，安兔兔首破 500 万。据IT之家昨日报道，小米创办人、董事长兼 CEO 雷军发文宣布，9 月将是小米的“科技大月”。<a target=\"_blank\" href=\"https://www.ithome.com/0/993/729.htm\">月初，小米澎程系列将正式上市，Xiaomi 18 Fold 同场发布；月底，Xiaomi 18 Pro 系列发布</a>。</p><p data-vmark=\"38e9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/0ef97521-c081-49ef-a150-ce738d01592e.png\" w=\"798\" h=\"1345\" data-vmark=\"1d97\" data-marks=\"1931fd9d012eb6d11200461163f9fd26618077d54be37c8b5cc7b8845f52c5a2c78cc2b4df347fac33520a0693b464c1\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F1749127163%2FReUC0zrbI%22%7D\" data-weibo=\"1\" class=\"no-alt-img\"></p><p data-vmark=\"1c41\">vivo 通信科技有限公司产品经理韩伯啸昨日宣布，全新的 X500 系列将在 9 月正式和大家见面，全系 3 杯，包括 X500、X500 Pro、X500 Pro Max。韩伯啸更是直言：“<strong>即将到来的 9 月，将是手机行业近几年最热闹的时候</strong>，新机密集程度…… 大家可以好好期待。”</p><p data-vmark=\"08f8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/d0068db3-c69f-491a-a68b-f895426865ea.png\" w=\"798\" h=\"1831\" data-marks=\"1931fd9d012eb6d1b054e001a187bbc5cc6a1b28a3e0d8a696e1f611948b66f667f8dafbe8676cfe5caf86d41e411756\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F3657968361%2FReQlW4Tun%22%7D\" data-vmark=\"8594\" data-weibo=\"2\" class=\"no-alt-img\"></p><p data-vmark=\"b109\">另外，<a target=\"_blank\" href=\"https://www.ithome.com/0/993/809.htm\">华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日宣布，全新三折叠即将登场</a>。华为鸿蒙 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会定档 9 月 7 日 14:30。</p><p data-vmark=\"4892\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/8307b2d9-4b2a-4ed2-9162-88e7626e75fb.png\" w=\"798\" h=\"590\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F1100856704%2FReZok5xpg%22%7D\" data-vmark=\"c167\" data-weibo=\"3\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"6b02\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4630\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/0/994/020.htm",
-      "link": "https://www.ithome.com/0/994/020.htm",
-      "pubDate": "Tue, 25 Aug 2026 07:37:06 GMT",
-      "isoDate": "2026-08-25T07:37:06.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 25,
       "crossTags": [
         {
           "type": "stakeholder",
@@ -80,64 +55,6 @@
       ],
       "isCrossTag": true,
       "crossTagId": "platform-partner"
-    },
-    {
-      "title": "主频峰值冲上 5.0GHz：高通第六代骁龙 8 超级至尊版芯片跑分再曝",
-      "description": "IT之家 8 月 25 日消息，科技媒体 NotebookCheck 今天（8 月 25 日）发布博文，报道称型号为 V2606A 的 vivo 手机现身 GeekBench 跑分库，显示 SM8975 主频峰值超过 5.0GHz。\n名称方面，IT之家此前报道，SM8975 正式上市后可能名为高通第六代骁龙 8 超级至尊版（Snapdragon 8 Elite Extreme Gen 6），此前爆料称 Snapdragon 8 Elite Gen 6 Pro 版本。\n测试机型为 vivo V2606A，该媒体推测为 vivo X500 系列或 iQOO 16 手机。跑分数据方面，该手机在 GeekBench 6.7.1 单核成绩为 3,434 分，多核成绩为 9,334 分。\n根据跑分页面信息，高通第六代骁龙 8 超级至尊版采用 2+3+3 集群 CPU 设计，其中超大核的主频达到 5.01GHz。\n\n不过该媒体分析后端处理器数据，发现该处理器无法长期维持 5.01 GHz 的峰值频率，测试过程中运行频率为 4.59-4.60 GHz。此外后端数据还显示该旗舰处理器搭载 Adreno 850 GPU。\n\n相关阅读：\n\n《高通骁龙 2nm 芯片命名曝光：第六代骁龙 8 至尊版 / 超级至尊版》\n\n《骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片》\n\n《高通骁龙 8 Elite Gen6 Pro（SM8975）跑分曝光，消息称今年 2nm 旗舰芯门槛 500 万分》\n\n《高通第六代骁龙 8 至尊版 Pro 芯片曝光：台积电 N2P 工艺，Die 面积约 134 mm²》",
-      "content": "<p data-vmark=\"b55c\">IT之家 8 月 25 日消息，科技媒体 NotebookCheck 今天（8 月 25 日）发布博文，报道称型号为 V2606A 的 vivo 手机现身 GeekBench 跑分库，<strong>显示 SM8975 主频峰值超过 5.0GHz。</strong></p><p data-vmark=\"b690\">名称方面，IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/992/452.htm\">SM8975 正式上市后可能名为高通第六代骁龙 8 超级至尊版（Snapdragon 8 Elite Extreme Gen 6）</a>，此前爆料称 Snapdragon 8 Elite Gen 6 Pro 版本。</p><p data-vmark=\"21ec\">测试机型为 vivo V2606A，该媒体推测为 vivo X500 系列或 iQOO 16 手机。跑分数据方面，该手机在 GeekBench 6.7.1 单核成绩为 3,434 分，多核成绩为 9,334 分。</p><p data-vmark=\"c6a4\">根据跑分页面信息，高通第六代骁龙 8 超级至尊版采用 2+3+3 集群 CPU 设计，其中超大核的主频达到 5.01GHz。</p><p data-vmark=\"b727\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/127ed3ac-a2b5-4f27-ae23-833931c334ed.jpg\" w=\"1192\" h=\"1600\" data-mpos=\"1,0\" data-weibo=\"0\"  data-vmark=\"2ab1\"></p><p data-vmark=\"8272\">不过该媒体分析后端处理器数据，发现该处理器无法长期维持 5.01 GHz 的峰值频率，测试过程中运行频率为 4.59-4.60 GHz。此外后端数据还显示该旗舰处理器搭载 Adreno 850 GPU。</p><p data-vmark=\"98f1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/15d0d05f-7404-4381-9262-65fb97793d87.png\" w=\"528\" h=\"1396\" data-weibo=\"1\" alt=\"Snapdragon 8 Elite Extreme Gen 6 Geekbench frequency chart\" data-vmark=\"e129\"></p><p data-vmark=\"590e\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"c948\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/992/452.htm\">高通骁龙 2nm 芯片命名曝光：第六代骁龙 8 至尊版 / 超级至尊版</a>》</p></li><li><p data-vmark=\"cda7\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/991/876.htm\">骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片</a>》</p></li><li><p data-vmark=\"726a\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/989/678.htm\">高通骁龙 8 Elite Gen6 Pro（SM8975）跑分曝光，消息称今年 2nm 旗舰芯门槛 500 万分</a>》</p></li><li><p data-vmark=\"4011\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/982/554.htm\">高通第六代骁龙 8 至尊版 Pro 芯片曝光：台积电 N2P 工艺，Die 面积约 134 mm²</a>》</p></li></ul>",
-      "url": "https://www.ithome.com/0/994/013.htm",
-      "link": "https://www.ithome.com/0/994/013.htm",
-      "pubDate": "Tue, 25 Aug 2026 07:20:17 GMT",
-      "isoDate": "2026-08-25T07:20:17.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 17,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        },
-        {
-          "type": "stakeholder",
-          "id": "foundry"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    },
-    {
-      "title": "主频峰值冲上 5.0GHz：高通第六代骁龙 8 超级至尊版芯片跑分再曝",
-      "description": "IT之家 8 月 25 日消息，科技媒体 NotebookCheck 今天（8 月 25 日）发布博文，报道称型号为 V2606A 的 vivo 手机现身 GeekBench 跑分库，显示 SM8975 主频峰值超过 5.0GHz。\n名称方面，IT之家此前报道，SM8975 正式上市后可能名为高通第六代骁龙 8 超级至尊版（Snapdragon 8 Elite Extreme Gen 6），此前爆料称 Snapdragon 8 Elite Gen 6 Pro 版本。\n测试机型为 vivo V2606A，该媒体推测为 vivo X500 系列或 iQOO 16 手机。跑分数据方面，该手机在 GeekBench 6.7.1 单核成绩为 3,434 分，多核成绩为 9,334 分。\n根据跑分页面信息，高通第六代骁龙 8 超级至尊版采用 2+3+3 集群 CPU 设计，其中超大核的主频达到 5.01GHz。\n\n不过该媒体分析后端处理器数据，发现该处理器无法长期维持 5.01 GHz 的峰值频率，测试过程中运行频率为 4.59-4.60 GHz。此外后端数据还显示该旗舰处理器搭载 Adreno 850 GPU。\n\n相关阅读：\n\n《高通骁龙 2nm 芯片命名曝光：第六代骁龙 8 至尊版 / 超级至尊版》\n\n《骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片》\n\n《高通骁龙 8 Elite Gen6 Pro（SM8975）跑分曝光，消息称今年 2nm 旗舰芯门槛 500 万分》\n\n《高通第六代骁龙 8 至尊版 Pro 芯片曝光：台积电 N2P 工艺，Die 面积约 134 mm²》",
-      "content": "<p data-vmark=\"b55c\">IT之家 8 月 25 日消息，科技媒体 NotebookCheck 今天（8 月 25 日）发布博文，报道称型号为 V2606A 的 vivo 手机现身 GeekBench 跑分库，<strong>显示 SM8975 主频峰值超过 5.0GHz。</strong></p><p data-vmark=\"b690\">名称方面，IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/992/452.htm\">SM8975 正式上市后可能名为高通第六代骁龙 8 超级至尊版（Snapdragon 8 Elite Extreme Gen 6）</a>，此前爆料称 Snapdragon 8 Elite Gen 6 Pro 版本。</p><p data-vmark=\"21ec\">测试机型为 vivo V2606A，该媒体推测为 vivo X500 系列或 iQOO 16 手机。跑分数据方面，该手机在 GeekBench 6.7.1 单核成绩为 3,434 分，多核成绩为 9,334 分。</p><p data-vmark=\"c6a4\">根据跑分页面信息，高通第六代骁龙 8 超级至尊版采用 2+3+3 集群 CPU 设计，其中超大核的主频达到 5.01GHz。</p><p data-vmark=\"b727\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/127ed3ac-a2b5-4f27-ae23-833931c334ed.jpg\" w=\"1192\" h=\"1600\" data-mpos=\"1,0\" data-weibo=\"0\"  data-vmark=\"2ab1\"></p><p data-vmark=\"8272\">不过该媒体分析后端处理器数据，发现该处理器无法长期维持 5.01 GHz 的峰值频率，测试过程中运行频率为 4.59-4.60 GHz。此外后端数据还显示该旗舰处理器搭载 Adreno 850 GPU。</p><p data-vmark=\"98f1\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/15d0d05f-7404-4381-9262-65fb97793d87.png\" w=\"528\" h=\"1396\" data-weibo=\"1\" alt=\"Snapdragon 8 Elite Extreme Gen 6 Geekbench frequency chart\" data-vmark=\"e129\"></p><p data-vmark=\"590e\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"c948\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/992/452.htm\">高通骁龙 2nm 芯片命名曝光：第六代骁龙 8 至尊版 / 超级至尊版</a>》</p></li><li><p data-vmark=\"cda7\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/991/876.htm\">骁龙 8 Elite Gen 6/Pro？高通称将在骁龙峰会推出两款芯片</a>》</p></li><li><p data-vmark=\"726a\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/989/678.htm\">高通骁龙 8 Elite Gen6 Pro（SM8975）跑分曝光，消息称今年 2nm 旗舰芯门槛 500 万分</a>》</p></li><li><p data-vmark=\"4011\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/982/554.htm\">高通第六代骁龙 8 至尊版 Pro 芯片曝光：台积电 N2P 工艺，Die 面积约 134 mm²</a>》</p></li></ul>",
-      "url": "https://www.ithome.com/0/994/013.htm",
-      "link": "https://www.ithome.com/0/994/013.htm",
-      "pubDate": "Tue, 25 Aug 2026 07:20:17 GMT",
-      "isoDate": "2026-08-25T07:20:17.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 17,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        },
-        {
-          "type": "stakeholder",
-          "id": "foundry"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "foundry"
     }
   ]
 }
