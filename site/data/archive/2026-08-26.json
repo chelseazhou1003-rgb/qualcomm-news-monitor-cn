@@ -1,8 +1,49 @@
 {
   "date": "2026-08-26",
-  "generatedAt": "2026-08-26T13:17:56.920Z",
-  "count": 5,
+  "generatedAt": "2026-08-26T14:19:27.763Z",
+  "count": 7,
   "articles": [
+    {
+      "title": "299 美元：高通 Arduino VENTUNO Q 边缘 AI 平台开放预购",
+      "description": "IT之家 8 月 26 日消息，Qualcomm（高通）子公司 Arduino 意大利当地时间昨日宣布，其边缘 AI 平台 VENTUNO Q 现已开放预购，定价 299 美元（IT之家注：现汇率约合 2,014 元人民币）。\n\nArduino VENTUNO Q 核心是高通 Dragonwing（跃龙）IQ-8275 处理器，同时配备意法半导体 STM32H5 实时 MCU 作为“第二大脑”。\n其三维 160×100×25.8 (mm)，搭载 16GB LPDDR5 内存、64GB eMMC 存储，提供 PCIe Gen4 NVMe SSD 的 M.2 插槽，集成 Wi-Fi 6 & 蓝牙 5.3 无线模块，具备 2.5GbE RJ45，还支持 MIPI CSI / DSI、CAN-FD 等一系列各种 I/O。\n这款单板计算机预装 Linux 操作系统 Ubuntu 发行版，拥有 Arduino App Lab，用户也可自行导入经典和 AI 工作流。\n一旦基于 VENTUNO Q 的设计准备好进行商业化部署，同样搭载跃龙 IQ8 处理器的单板计算机将很快将以生产级 SoM 外形规格由合作伙伴提供。",
+      "content": "<p data-vmark=\"dc68\">IT之家 8 月 26 日消息，Qualcomm（高通）子公司 Arduino 意大利当地时间昨日宣布，其边缘 AI 平台 VENTUNO Q 现已开放预购，定价 299 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 2,014 元人民币）</span>。</p><p data-vmark=\"377b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/f1ae4bf4-7cb4-4c3d-85f1-55bc9664b427.jpg\" w=\"1000\" h=\"750\" data-weibo=\"0\" data-vmark=\"e937\" class=\"no-alt-img\"></p><p data-vmark=\"a4b4\">Arduino VENTUNO Q <strong>核心是高通 Dragonwing（跃龙）IQ-8275 处理器</strong>，<strong>同时配备意法半导体 STM32H5 实时 MCU 作为“第二大脑”</strong>。</p><p data-vmark=\"5939\">其三维 160×100×25.8 (mm)，<strong>搭载 16GB LPDDR5 内存、64GB eMMC 存储</strong>，提供 PCIe Gen4 NVMe SSD 的 M.2 插槽，集成 Wi-Fi 6 &amp; 蓝牙 5.3 无线模块，具备 2.5GbE RJ45，还支持 MIPI CSI / DSI、CAN-FD 等一系列各种 I/O。</p><p data-vmark=\"ea0c\">这款单板计算机预装 Linux 操作系统 Ubuntu 发行版，拥有 Arduino App Lab，用户也可自行导入经典和 AI 工作流。</p><p data-vmark=\"028c\">一旦基于 VENTUNO Q 的设计准备好进行商业化部署，同样搭载跃龙 IQ8 处理器的单板计算机将很快将以生产级 SoM 外形规格由合作伙伴提供。</p>",
+      "url": "https://www.ithome.com/0/994/519.htm",
+      "link": "https://www.ithome.com/0/994/519.htm",
+      "pubDate": "Wed, 26 Aug 2026 06:09:10 GMT",
+      "isoDate": "2026-08-26T06:09:10.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 6,
+      "crossTags": []
+    },
+    {
+      "title": "华硕上架灵耀 14 骁龙版笔记本：骁龙 X 处理器 + 16G + 512G 售 7999 元",
+      "description": "IT之家 8 月 26 日消息，华硕现已在京东上架灵耀 14 骁龙版笔记本，该机搭载骁龙 X 处理器，匹配 16GB RAM 和 512GB SSD，定价为 7999 元，部分地区国补后低至 6999 元。\n京东华硕灵耀 14 骁龙版 7999 元直达链接\n\n\n该机整体厚度 13.9mm，重量 1.1Kg，B 面配备一块 14 英寸 2880x1800 分辨率 120Hz OLED 面板（亮度 1100 尼特，覆盖 100% DCI-P3 色域），C 面配备 1.7mm 长键程键盘。\n\n\n该机搭载 8 核心 8 线程高通骁龙 X（X1-26-100）处理器，匹配 16GB LPDDR5X RAM 和 512GB PCIe 4.0 SSD，内置 50Whrs 电池，I/O 方面提供 USB-A 3.2 Gen 1、双 USB-C 3.2 Gen 2、HDMI 2.1、3.5mm 音频接口。",
+      "content": "<p data-vmark=\"24fd\">IT之家 8 月 26 日消息，华硕现已在京东上架灵耀 14 骁龙版笔记本，该机搭载骁龙 X 处理器，匹配 16GB RAM 和 512GB SSD，<strong>定价为 7999 元</strong>，部分地区国补后低至 6999 元。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/kGJzLfb\" target=\"_blank\" data-wapurl=\"https://u.jd.com/kDJGGWn\" data-iosurl=\"https://u.jd.com/kgJ3Ujx\" data-androidurl=\"https://u.jd.com/k1Jybno\" data-hosnexturl=\"https://u.jd.com/k6JPISP\" data-hosurl=\"https://u.jd.com/kaJglK6\" data-uwpurl=\"https://u.jd.com/kaJ3hvW\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fkOJSTvP%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/kgJqeKQ\" data-lpwxurl=\"https://u.jd.com/kaJ3Ddk\"   data-ncid=\"224957\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/494139/34/16948/162142/6a87f91dFa33eb0d2/0083320320bc05a7.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">华硕灵耀 14 骁龙版</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 7999 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p style=\"text-align: center;\" data-vmark=\"579d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/bf21921d-26a8-4720-90fb-dd9d0681af03.png?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1346\" data-weibo=\"0\" data-vmark=\"651b\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"c239\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/2033a223-3a5e-4b69-ac0f-1a1d1f7d1d3f.png?x-bce-process=image/format,f_auto\" w=\"708\" h=\"1488\" data-weibo=\"1\" data-vmark=\"fedc\" class=\"no-alt-img\"></p><p data-vmark=\"e1eb\">该机整体厚度 13.9mm，重量 1.1Kg，B 面配备一块 14 英寸 2880x1800 分辨率 120Hz OLED 面板（亮度 1100 尼特，覆盖 100% DCI-P3 色域），C 面配备 1.7mm 长键程键盘。</p><p style=\"text-align: center;\" data-vmark=\"7871\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/20994713-af09-49af-99e8-c3fc92d507dc.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1070\" data-weibo=\"2\" data-vmark=\"ee27\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"a725\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/31bcf19d-479c-49ba-84d4-80373f913dca.png?x-bce-process=image/format,f_auto\" w=\"1076\" h=\"816\" data-weibo=\"3\" data-vmark=\"de91\" class=\"no-alt-img\"></p><p data-vmark=\"9388\">该机搭载 8 核心 8 线程高通骁龙 X（X1-26-100）处理器，匹配 16GB LPDDR5X RAM 和 512GB PCIe 4.0 SSD，内置 50Whrs 电池，I/O 方面提供 USB-A 3.2 Gen 1、双 USB-C 3.2 Gen 2、HDMI 2.1、3.5mm 音频接口。</p><p style=\"text-align: center;\" data-vmark=\"aaa3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/7f1a05dd-0f79-4831-828a-8b2d985e7a34.png?x-bce-process=image/format,f_auto\" w=\"970\" h=\"630\" data-weibo=\"4\" data-vmark=\"d195\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/0/994/494.htm",
+      "link": "https://www.ithome.com/0/994/494.htm",
+      "pubDate": "Wed, 26 Aug 2026 05:26:48 GMT",
+      "isoDate": "2026-08-26T05:26:48.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "",
+      "tagScore": 0,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
     {
       "title": "米哈游《星布谷地》“连接测试”9 月 20 日开启，PC / iOS / 安卓端配置要求公布",
       "description": "IT之家 8 月 26 日消息，米哈游生活模拟游戏《星布谷地》将于 2026 冬季开放公测，终测即将开启。\n官方今日宣布，《星布谷地》“连接测试”将于 9 月 20 日开启，现已启动招募。\n\n\nIT之家注意到，本次测试为限量删档计费测试，测试期间游戏将开放充值功能。玩家在测试期间的累计充值内容，将在公测后，按照“充值返还规则”返还。\n\n设备要求显示，《星布谷地》“连接测试”覆盖 PC 端和移动端：\n\nPC 端要求配备 RTX 2060 及以上显卡、16GB 及以上内存，系统支持 Windows 10 及以上\n\niOS 端要求 iPhone XS 及后续机型（不含 iPhone XR），系统要求 iOS 14.0 及以上版本\n\n安卓端要求骁龙 855、天玑 1000、麒麟 990 及以上处理器，内存要求 6GB 及以上，系统要求安卓 9.0 及以上",
