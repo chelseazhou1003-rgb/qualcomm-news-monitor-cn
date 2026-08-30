@@ -1,8 +1,31 @@
 {
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T07:38:01.107Z",
-  "count": 5,
+  "generatedAt": "2026-08-30T09:43:06.127Z",
+  "count": 6,
   "articles": [
+    {
+      "title": "荣耀 Magic9 系列手机“三杯”入网，消息称主要在坪山自有工厂生产",
+      "description": "IT之家 8 月 30 日消息，型号为“MLY-AN00”、“MLM-AN00”、“WKL-AN80 / 20”的三款荣耀手机已入网。博主 @旺仔百事通 透露，其分别是 Magic9 系列手机的“三杯”，主要还是在荣耀坪山自有工厂生产。\n\n有网友询问荣耀 Magic9 Pro Max 与 Magic9 Pro 的区别，博主表示：“有 Pro 就没 Pro Max。”\n据IT之家此前报道，消息称荣耀 Magic9 系列手机发布会定档 9 月 28 日举行，首批搭载骁龙 2nm 旗舰芯、支持阿莱影像。爆料还显示，新机配备 6.8X 英寸 1.5K LTPO 2.5D 大直屏，工程机电池是 8 开头，还有 3D 人脸识别 + 3D 超声波指纹、满血无线充、满级防水、大师级对称双扬。",
+      "content": "<p data-vmark=\"0881\">IT之家 8 月 30 日消息，型号为“MLY-AN00”、“MLM-AN00”、“WKL-AN80 / 20”的三款荣耀手机已入网。博主 @旺仔百事通 透露，其分别是 Magic9 系列手机的“三杯”，<strong>主要还是在荣耀坪山自有工厂生产</strong>。</p><p data-vmark=\"e28b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/1dc22920-9f7d-43ef-a062-b2eb0d514a5a.png\" w=\"800\" h=\"1075\" data-weibo=\"0\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6288169783%2FRfC1j6QpJ%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\"  data-vmark=\"3ac6\" class=\"no-alt-img\"></p><p data-vmark=\"eac7\">有网友询问荣耀 Magic9 Pro Max 与 Magic9 Pro 的区别，博主表示：“<strong>有 Pro 就没 Pro Max。</strong>”</p><p data-vmark=\"70d6\" style=\"text-align: left;\">据IT之家此前报道，<a href=\"https://www.ithome.com/0/989/046.htm\" target=\"_blank\">消息称荣耀 Magic9 系列手机发布会定档 9 月 28 日举行</a>，首批搭载骁龙 2nm 旗舰芯、支持阿莱影像。爆料还显示，新机配备 6.8X 英寸 1.5K LTPO 2.5D 大直屏，工程机电池是 8 开头，还有 3D 人脸识别 + 3D 超声波指纹、满血无线充、满级防水、大师级对称双扬。</p><p data-vmark=\"9280\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/419947e4-461b-488d-84f9-8ef9b63700b3.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"1332\" data-vmark=\"76e1\" data-weibo=\"1\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"eca1\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4569\" frameborder=\"no\"></iframe></p>",
+      "url": "https://www.ithome.com/0/996/080.htm",
+      "link": "https://www.ithome.com/0/996/080.htm",
+      "pubDate": "Sun, 30 Aug 2026 01:27:20 GMT",
+      "isoDate": "2026-08-30T01:27:20.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 9,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
     {
       "title": "荣耀 Magic8 系列手机首发的 AI 追色功能迎升级，新增支持类“调色盘”新玩法",
       "description": "IT之家 8 月 30 日消息，据荣耀研发工程师 @荣耀曹工 分享，荣耀 Magic8 系列手机上首发的 AI 追色功能，云端算法一直在持续升级。\n\n他透露，AI 追色的调节功能最近还上线了一个类似“调色盘”的新玩法，可以分“影调”和“颜色”来调整等级。另外，随着 OS 大版本和新产品推进，相机和图库在功能和设计上也一直在持续迭代上线。\nIT之家了解到，去年 9 月，荣耀官宣与高通联合研发的高效能端侧 AI 模型方案，带来了新一代向量化检索技术，以及更准确高效的端侧多模态感知能力。用户只需一句话驱动智能体，就可以实现“检索目标图片、关键色提取、对目标图片精准追色”的一系列动作。",
