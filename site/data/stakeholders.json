@@ -1,44 +1,18 @@
 {
   "date": "2026-09-02",
-  "generatedAt": "2026-09-02T13:07:40.204Z",
+  "generatedAt": "2026-09-02T17:56:24.503Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 3,
+  "count": 1,
   "articles": [
     {
-      "title": "台积电回应欧洲加建先进制程晶圆厂呼声：当地需有长期需求",
-      "description": "IT之家 9 月 2 日消息，台积电资深副总经理、副联席首席运营官侯永清昨日表示，该企业会否选择在欧洲建设先进制程工艺晶圆厂，取决于当地市场是否存在长期的先进制程需求这一基本面。\n\n▲ 侯永清\n侯永清表示，先进制程晶圆厂项目需要长期运作才能真正创造效益，政府补贴仅能降低前期成本，没有稳定的需求必然失败。此外，先进晶圆厂需要法规、土地、水力、电力、人才、供应链的全方位支持。\n欧洲在半导体商业制造上的存在主要体现在在模拟器件领域，先进逻辑制程工艺属于其传统弱势领域。台积电乐见欧洲半导体初创企业投入先进芯片设计，正通过特殊专案合作提升欧洲芯片需求。\n他还表示，欧洲《芯片法案 2.0》应扩大半导体供应链激励广度，台积电正通过训练计划在全球范围内培养学生对半导体的兴趣。\n\n▲ 台积电在欧合资成熟制程晶圆厂 ESMC 概念图\n相关阅读：\n\n《ESMC 股东英飞凌：台积电需再（在欧洲）建设一座晶圆厂》",
-      "content": "<p data-vmark=\"8f7a\">IT之家 9 月 2 日消息，台积电资深副总经理、副联席首席运营官侯永清昨日表示，该企业会否选择在欧洲建设先进制程工艺晶圆厂，<strong>取决于当地市场是否存在长期的先进制程需求这一基本面</strong>。</p><p data-vmark=\"9393\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/585b34b6-5f85-4644-800b-7dc912041222.jpg\" w=\"363\" h=\"230\" data-weibo=\"0\" data-vmark=\"9cab\" class=\"no-alt-img\"></p><figcaption>▲ 侯永清</figcaption><p data-vmark=\"1288\">侯永清表示，先进制程晶圆厂项目需要长期运作才能真正创造效益，政府补贴仅能降低前期成本，没有稳定的需求必然失败。此外，先进晶圆厂需要法规、土地、水力、电力、人才、供应链的全方位支持。</p><p data-vmark=\"6cf3\">欧洲在半导体商业制造上的存在主要体现在在模拟器件领域，<strong>先进逻辑制程工艺属于其传统弱势领域</strong>。台积电乐见欧洲半导体初创企业投入先进芯片设计，正通过特殊专案合作提升欧洲芯片需求。</p><p data-vmark=\"4ee2\">他还表示，欧洲《芯片法案 2.0》应扩大半导体供应链激励广度，台积电正通过训练计划在全球范围内培养学生对半导体的兴趣。</p><p data-vmark=\"bf7b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/faaf2235-0b0b-48a7-9567-0047e0fe4d6d.jpg\" w=\"1440\" h=\"810\" data-weibo=\"1\" data-vmark=\"7c82\" class=\"no-alt-img\"></p><figcaption>▲ 台积电在欧合资成熟制程晶圆厂 ESMC 概念图</figcaption><p data-vmark=\"3e5e\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"12ce\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/975/279.htm\">ESMC 股东英飞凌：台积电需再（在欧洲）建设一座晶圆厂</a>》</p></li></ul>",
-      "url": "https://www.ithome.com/0/997/319.htm",
-      "link": "https://www.ithome.com/0/997/319.htm",
-      "pubDate": "Wed, 02 Sep 2026 03:53:05 GMT",
-      "isoDate": "2026-09-02T03:53:05.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "supply-chain",
-      "tagScore": 19,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "foundry"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "foundry"
-    },
-    {
-      "title": "小米秋季旗舰新品发布会定档 9 月 7 日：澎程系列新车 + 18 Fold 折叠屏手机等同台登场",
-      "description": "IT之家 9 月 2 日闪讯速报，小米官方今日宣布，小米秋季旗舰新品发布会定档 9 月 7 日（下周一）晚 7 点，小米澎程 N70 Pro、N70 Max、N90 Max 正式上市。\n同场发布的，还有两款旗舰新品：小米 18 Fold 全新折叠屏旗舰手机、小米平板 9 Pro Max，首发玄戒 O3 AI 旗舰处理器。\n\n8 月 24 日下午，小米新一代玄戒芯片“三芯齐发”，包括：\n\n\n玄戒 O3，AI 旗舰 SoC，安兔兔首破 500 万\n\n玄戒 O100，1.22TB/s 高带宽 AI 加速芯片\n\n玄戒 D100，国内首款 3nm 智驾高算力 AI 芯片\n\n\n\n小米创办人、董事长兼 CEO 雷军宣布，9 月将是小米的“科技大月”。月初，小米澎程系列将正式上市，Xiaomi 18 Fold 同场发布；月底，Xiaomi 18 Pro 系列发布。\n根据规划，小米 18 系列顶级旗舰小米 18 Fold 将首发搭载玄戒 O3 AI 旗舰处理器。同时，小米平板 9 Pro Max 也将搭载玄戒 O3 同步上市。\n\n玄戒 O3 是小米为最高端产品打造的「AI 旗舰 SoC」，安兔兔跑分高达 522 万分，是首个突破 500 万分的旗舰 SoC。CPU 采用十核全大核设计，多核跑分首次突破 15000 分，性能提升 60%。GPU 首发 G2-Ultra NX 图形处理器，前所未有的跨代式升级，性能大幅提升 85%，功耗降低 64%。\n玄戒 O3 还是全球首个支持 LPDDR6 的移动处理器，带宽高达 113.8GB/s，相比玄戒 O1 提升 48%。\n官方称，玄戒 O3 NPU 架构全面重构，专为 Xiaomi MiMo 端侧大模型而生，拥有夸张的 200TOPS 张量算力、3.13TFLOPS 向量算力，端侧 AI 性能大幅提升 45%。\n不仅拥有强大的 NPU，玄戒 O3 更将全模块 All in AI。CPU 增加双 SME2 加速单元、GPU 新增 8 颗 NX 神经网络加速器、ISP 内置 AINR 单元、DPU 内置硬件 AI 超分辨率单元、ADSP 内置 AI 引擎，不论端侧 AI 性能、硬件级超分插帧、还是夜景视频降噪，玄戒 O3 都将全面进化。\n\n另外，今年 7 月 30 日，小米举行了澎程技术发布会，澎程 N90 Max 预售价为 29.99 万元；澎程 N70 Max 预售价为 25.99 万元。\n澎程 N90 Max\n小米澎程 N90 Max 定位 2+2+3 大七座旗舰增程 SUV，搭载行业领先的超级增程系统，实现 CLTC 纯电续航 464km，CLTC 综合续航 1705km，WLTC 亏电油耗 6.26L/100km，支持 92 号、95 号、98 号汽油。15 分钟最长补能 285km，从 20% 充电至 80% 最快只需 18 分钟。该车配备双电机四驱动力，支持 310kW 峰值功率、0-100km/h 加速 5.9s、最高时速 190km/h。\nN90 Max 提供远山青、蝴蝶谷蓝、火山灰等配色，尺寸为 5285mm x 1998mm x 1825mm、轴距 3080mm。车内配备 3K 分辨率 21.4 英寸后排娱乐屏，中岛内置两个手机位、四个杯托、6.6L 容量、9L 独立压缩机冰箱，可滑动到第二排座位作为“多功能茶几”使用。\n智能化方面，该车标配小米 HAD，搭载小米 XLA 认知大模型，满配辅助驾驶。同时小米澎程 N90 Max 新增后向固态激光雷达，测距精度可达 2cm。该车搭载第三代骁龙 8 移动平台和英伟达 Thor 车载计算平台，车内支持超级小爱。\n\n澎程 N70 Max\n小米澎程 N70 Max 搭载双电机四驱，峰值功率 310kW，最高时速 190km/h，CLTC 纯电续航 505km，CLTC 综合续航 1461km，亏电油耗 6.1L/100km。\n该车同样定位“智能可变大空间 SUV”，采用五座布局，拥有超大的乘坐空间，性能、舒适、安全、智能全面拉满。该车尺寸为 4960×1998×1765mm、轴距 2950mm，二排支持极致后移，最大乘坐空间 1410mm、最大拓展空间 2425L。\n小米澎程 N70 Max 还标配前双叉臂 + 后多连杆独立悬架，标配空气弹簧 + 连续阻尼可变减振器，标配 9 个安全气囊、内嵌式防滚架、一体式热成型门环，铠甲笼式车身 14 处 2200MPa，标配门把手三重冗余设计，标配 4nm 旗舰 SoC、4nm 辅助驾驶芯片 700TOPS，标配前向激光雷达、4D 毫米波雷达，标配 Xiaomi HAD 辅助驾驶。可选前排零重力座椅、前排旋转座椅、滑动中岛、压缩机冰箱、后排娱乐屏、电动迎宾踏板。\nIT之家附小米澎程系列新车亮点一图知：",
-      "content": "<p data-vmark=\"8e19\">IT之家 9 月 2 日闪讯速报，小米官方今日宣布，小米秋季旗舰新品发布会定档 9 月 7 日（下周一）晚 7 点，<strong>小米澎程 N70 Pro、N70 Max、N90 Max 正式上市</strong>。</p><p data-vmark=\"da35\">同场发布的，还有两款旗舰新品：<strong>小米 18 Fold 全新折叠屏旗舰手机、小米平板 9 Pro Max，首发玄戒 O3 AI 旗舰处理器</strong>。</p><p data-vmark=\"6216\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d557e174-08b6-4fcc-a9b1-017ce3d9fcc1.jpg\" w=\"1440\" h=\"1920\" data-vmark=\"63fb\" data-mpos=\"0,2\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1ab43367dc0fb1e3781929c734618c05378396a1e973aadf1210694d8156dee1c9f4ab70c73686fa7\" class=\"no-alt-img\"></p><p data-vmark=\"5279\">8 月 24 日下午，小米新一代玄戒芯片“三芯齐发”，包括：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"4db5\">玄戒 O3，AI 旗舰 SoC，安兔兔首破 500 万</p></li><li><p data-vmark=\"aae3\">玄戒 O100，1.22TB/s 高带宽 AI 加速芯片</p></li><li><p data-vmark=\"8012\">玄戒 D100，国内首款 3nm 智驾高算力 AI 芯片</p></li></ul></blockquote><p data-vmark=\"1370\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/26882a03-59f0-4cce-bb80-b6e11ca50acc.jpg?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"960\" data-vmark=\"e951\" data-mpos=\"2,0\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1be140301f4d917ed93a31fa2f5de3c70a2a05e9268074ac60b34ee833c311021c104983ab8df722e\" class=\"no-alt-img\"></p><p data-vmark=\"e8dc\">小米创办人、董事长兼 CEO 雷军宣布，<strong>9 月将是小米的“科技大月”</strong>。月初，小米澎程系列将正式上市，Xiaomi 18 Fold 同场发布；月底，Xiaomi 18 Pro 系列发布。</p><p data-vmark=\"753f\">根据规划，小米 18 系列顶级旗舰小米 18 Fold 将首发搭载玄戒 O3 AI 旗舰处理器。同时，小米平板 9 Pro Max 也将搭载玄戒 O3 同步上市。</p><p data-vmark=\"5d0d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/d6b7f7fa-73cb-462c-971a-ec2abd99297a.png?x-bce-process=image/format,f_auto\" w=\"798\" h=\"1396\" data-vmark=\"1d97\" data-weibo=\"2\" data-marks=\"1931fd9d012eb6d11200461163f9fd26618077d54be37c8b5cc7b8845f52c5a2c78cc2b4df347fac33520a0693b464c1\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F1749127163%2FReUC0zrbI%22%7D\" class=\"no-alt-img\"></p><p data-vmark=\"f29d\">玄戒 O3 是小米为最高端产品打造的「AI 旗舰 SoC」，<strong>安兔兔跑分高达 522 万分，是首个突破 500 万分的旗舰 SoC</strong>。CPU 采用十核全大核设计，多核跑分首次突破 15000 分，性能提升 60%。GPU 首发 G2-Ultra NX 图形处理器，前所未有的跨代式升级，性能大幅提升 85%，功耗降低 64%。</p><p data-vmark=\"16cc\"><strong>玄戒 O3 还是全球首个支持 LPDDR6 的移动处理器</strong>，带宽高达 113.8GB/s，相比玄戒 O1 提升 48%。</p><p data-vmark=\"0dd8\">官方称，玄戒 O3 NPU 架构全面重构，专为 Xiaomi MiMo 端侧大模型而生，拥有夸张的 200TOPS 张量算力、3.13TFLOPS 向量算力，端侧 AI 性能大幅提升 45%。</p><p data-vmark=\"709c\">不仅拥有强大的 NPU，玄戒 O3 更将全模块 All in AI。CPU 增加双 SME2 加速单元、GPU 新增 8 颗 NX 神经网络加速器、ISP 内置 AINR 单元、DPU 内置硬件 AI 超分辨率单元、ADSP 内置 AI 引擎，不论端侧 AI 性能、硬件级超分插帧、还是夜景视频降噪，玄戒 O3 都将全面进化。</p><p data-vmark=\"ce94\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/ff455d06-79be-4e32-94fe-1fcb60dfdceb.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1440\" h=\"1920\" data-vmark=\"1d22\" data-mpos=\"0,2\" data-weibo=\"3\" class=\"no-alt-img\"></p><p data-vmark=\"d46f\">另外，今年 7 月 30 日，小米举行了澎程技术发布会，澎程 N90 Max 预售价为 29.99 万元；澎程 N70 Max 预售价为 25.99 万元。</p><h3 data-vmark=\"7083\">澎程 N90 Max</h3><p data-vmark=\"3ef4\">小米澎程 N90 Max 定位 2+2+3 大七座旗舰增程 SUV，搭载行业领先的超级增程系统，实现 CLTC 纯电续航 464km，CLTC 综合续航 1705km，WLTC 亏电油耗 6.26L/100km，支持 92 号、95 号、98 号汽油。15 分钟最长补能 285km，从 20% 充电至 80% 最快只需 18 分钟。该车配备双电机四驱动力，支持 310kW 峰值功率、0-100km/h 加速 5.9s、最高时速 190km/h。</p><p data-vmark=\"6767\">N90 Max 提供远山青、蝴蝶谷蓝、火山灰等配色，尺寸为 5285mm x 1998mm x 1825mm、轴距 3080mm。车内配备 3K 分辨率 21.4 英寸后排娱乐屏，中岛内置两个手机位、四个杯托、6.6L 容量、9L 独立压缩机冰箱，可滑动到第二排座位作为“多功能茶几”使用。</p><p data-vmark=\"b683\">智能化方面，该车标配小米 HAD，搭载小米 XLA 认知大模型，满配辅助驾驶。同时小米澎程 N90 Max 新增后向固态激光雷达，测距精度可达 2cm。该车搭载第三代骁龙 8 移动平台和英伟达 Thor 车载计算平台，车内支持超级小爱。</p><p data-vmark=\"e780\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6a89aa3b-7030-4c0e-98e7-0143a7cb67c8.jpg\" w=\"1200\" h=\"900\" data-weibo=\"4\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d16226349f3987f10a57017222a9877752f905fc6912aecf7172018de81caafe03dc689ed623d478a3\" data-vmark=\"3dd9\" class=\"no-alt-img\"></p><h3 data-vmark=\"f7d1\">澎程 N70 Max</h3><p data-vmark=\"aa83\">小米澎程 N70 Max 搭载双电机四驱，峰值功率 310kW，最高时速 190km/h，CLTC 纯电续航 505km，CLTC 综合续航 1461km，亏电油耗 6.1L/100km。</p><p data-vmark=\"6bde\">该车同样定位“智能可变大空间 SUV”，采用五座布局，拥有超大的乘坐空间，性能、舒适、安全、智能全面拉满。该车尺寸为 4960×1998×1765mm、轴距 2950mm，二排支持极致后移，最大乘坐空间 1410mm、最大拓展空间 2425L。</p><p data-vmark=\"f677\">小米澎程 N70 Max 还标配前双叉臂 + 后多连杆独立悬架，标配空气弹簧 + 连续阻尼可变减振器，标配 9 个安全气囊、内嵌式防滚架、一体式热成型门环，铠甲笼式车身 14 处 2200MPa，标配门把手三重冗余设计，标配 4nm 旗舰 SoC、4nm 辅助驾驶芯片 700TOPS，标配前向激光雷达、4D 毫米波雷达，标配 Xiaomi HAD 辅助驾驶。可选前排零重力座椅、前排旋转座椅、滑动中岛、压缩机冰箱、后排娱乐屏、电动迎宾踏板。</p><p data-vmark=\"8c80\">IT之家附小米澎程系列新车亮点一图知：</p><p data-vmark=\"ac7f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/75385b5f-0303-4cad-8877-da5440329c01.jpg\" w=\"1440\" h=\"15249\" data-vmark=\"4478\" data-weibo=\"5\" class=\"nowebp no-alt-img\" data-mpos=\"0,0\" ></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"0157\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4677\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/0/997/228.htm",
-      "link": "https://www.ithome.com/0/997/228.htm",
-      "pubDate": "Wed, 02 Sep 2026 01:04:39 GMT",
-      "isoDate": "2026-09-02T01:04:39.000Z",
+      "title": "荣耀首款阔折叠手机曝光：2nm 骁龙新芯片，排期 2027Q1",
+      "description": "IT之家 9 月 2 日消息，今年各大手机厂商陆续入局阔折叠手机品类，博主 @数码闲聊站 今日爆料，荣耀也有阔折叠，2nm 骁龙新芯片，排期 2027Q1，希望能赶到春节前。\n\n根据该博主此前爆料，荣耀阔折叠搭载骁龙 8 Elite Gen6 系列处理器，主屏测试 7.6 英寸 ±、副屏 5.5 英寸 ±。\n综合IT之家此前报道，华为今年 4 月发布了行业首款横向阔折叠手机 Pura X Max，内外屏均采用了≈√2:1 的类纸比例设计，外屏尺寸为 5.4 英寸，内屏尺寸 7.7 英寸，售价 10,999 元起。\n\n小米 18 Fold“中折叠”手机搭载 5.38 英寸外屏 + 7.58 英寸内屏，集结了玄戒 O3 AI 旗舰 SoC、新一代小米澎湃 OS 4、Xiaomi MiMo 端侧大模型，将于 9 月 7 日正式发布。",
+      "content": "<p data-vmark=\"e719\">IT之家 9 月 2 日消息，今年各大手机厂商陆续入局阔折叠手机品类，博主 @数码闲聊站 今日爆料，<strong>荣耀也有阔折叠，2nm 骁龙新芯片</strong>，排期 2027Q1，希望能赶到春节前。</p><p data-vmark=\"9a17\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c0a1209e-9a3a-4cb6-a173-458daef182d2.png?x-bce-process=image/format,f_auto\" w=\"798\" h=\"692\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F6048569942%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRgfMJuiYV%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d19a258c3882523bfea034b22659f51835035448971e7dd8c9ee5a245e60d16e21101ff03d9f00b0c8\" data-vmark=\"70e8\" class=\"no-alt-img\"></p><p data-vmark=\"3164\">根据该博主此前爆料，荣耀阔折叠搭载骁龙 8 Elite Gen6 系列处理器，<strong>主屏测试 7.6 英寸 ±、副屏 5.5 英寸 ±</strong>。</p><p data-vmark=\"eeec\">综合IT之家此前报道，<a href=\"https://www.ithome.com/0/943/394.htm\" target=\"_blank\">华为今年 4 月发布了行业首款横向阔折叠手机 Pura X Max</a>，内外屏均采用了≈√2:1 的类纸比例设计，外屏尺寸为 5.4 英寸，内屏尺寸 7.7 英寸，售价 10,999 元起。</p><p data-vmark=\"51e9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/4/cc4618fa-4281-4e53-9391-33e4fc817b5d.jpg?x-bce-process=image/auto-orient,o_1\" w=\"1440\" h=\"642\" data-vmark=\"3603\" data-mpos=\"0,0\" class=\"lazy no-alt-img\" title=\"华为 Pura X Max 行业首款横阔折手机发布：√2:1 类纸比例屏、全系麒麟 9030 Pro，售价 10999 元起\" data-weibo=\"1\"></p><p data-vmark=\"572a\"><a href=\"https://www.ithome.com/0/997/446.htm\" target=\"_blank\">小米 18 Fold“中折叠”手机</a>搭载 5.38 英寸外屏 + 7.58 英寸内屏，集结了玄戒 O3 AI 旗舰 SoC、新一代小米澎湃 OS 4、Xiaomi MiMo 端侧大模型，将于 9 月 7 日正式发布。</p><p data-vmark=\"9b41\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/61237145-0ba2-4bf4-88e4-2b0dd4923715.jpg\" w=\"1440\" h=\"900\" data-weibo=\"2\" data-vmark=\"93e5\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p><p data-vmark=\"3d15\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/aec7f04c-83b0-4d80-8762-e9676e049620.png?x-bce-process=image/format,f_auto\" w=\"742\" h=\"640\" data-vmark=\"d078\" data-weibo=\"3\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/0/997/526.htm",
+      "link": "https://www.ithome.com/0/997/526.htm",
+      "pubDate": "Wed, 02 Sep 2026 08:50:16 GMT",
+      "isoDate": "2026-09-02T08:50:16.000Z",
       "author": "",
       "sourceId": "ithome",
       "sourceName": "IT之家",
@@ -46,7 +20,7 @@
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
-      "tagScore": 42,
+      "tagScore": 13,
       "crossTags": [
         {
           "type": "stakeholder",
@@ -55,24 +29,6 @@
       ],
       "isCrossTag": true,
       "crossTagId": "oem"
-    },
-    {
-      "title": "HUMAIN 发布 WoA 笔电 Horizon (Ultra)，明年新品搭载自有操作系统",
-      "description": "IT之家 9 月 2 日消息，沙特阿拉伯主权财富基金 PIF 旗下人工智能企业 HUMAIN 当地时间昨日携手高通在 LEAP 2026 大会上发布了 Horizon 与 Horizon Ultra 轻薄笔记本电脑。\n\nHorizon 与 Horizon Ultra 是 2025 年推出的 Horizon Pro 的迭代型号，升级到高通骁龙 X2 Elite 处理器，拥有 80 TOPS 的 NPU 算力，配备 32GB LPDDR5X 内存。\n两款产品均采用 14\" 16:10 OLED 触控屏，内置 70Whr 电池，厚度 16.6mm，质量 1.288kg；拥有白色背光双语键盘与压感触控板，搭载 Wi-Fi 7 & 蓝牙 5.4 无线网卡，集成 9.2MP IP 摄像头，提供 3 个 USB4 接口。\nHorizon 采用 12 核的 X2E-80-100，配备 512GB SSD 存储，屏幕分辨率 1920×1200；Horizon Ultra 采用 18 核的 X2E-88-100，配备 1TB SSD 存储，屏幕分辨率 2880×1800。\n\n这两款产品均配备 Windows 11 Pro 操作系统；而 2027 年的 HUMAIN Horizon 笔电将运行 HUMAIN OS 操作系统，“在设备、AI 功能与 HUMAIN 更广泛的技术平台之间实现更深层次的集成”。",
-      "content": "<p data-vmark=\"d1a8\">IT之家 9 月 2 日消息，沙特阿拉伯主权财富基金 PIF 旗下人工智能企业 HUMAIN 当地时间昨日携手高通在 LEAP 2026 大会上发布了 Horizon 与 Horizon Ultra 轻薄笔记本电脑。</p><p style=\"text-align: center;\" data-vmark=\"942d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b9645b6e-d0f3-42e3-9470-7601dd083845.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"652\" data-weibo=\"0\" data-vmark=\"a273\" class=\"no-alt-img\"></p><p data-vmark=\"d88e\">Horizon 与 Horizon Ultra 是 2025 年推出的 <a href=\"https://www.ithome.com/0/886/017.htm\" target=\"_blank\">Horizon Pro</a> 的迭代型号，<strong>升级到高通骁龙 X2 Elite 处理器</strong>，拥有 80 TOPS 的 NPU 算力，配备 32GB LPDDR5X 内存。</p><p data-vmark=\"858f\">两款产品均采用 14\" 16:10 OLED 触控屏，内置 70Whr 电池，厚度 16.6mm，质量 1.288kg；拥有白色背光双语键盘与压感触控板，搭载 Wi-Fi 7 &amp; 蓝牙 5.4 无线网卡，集成 9.2MP IP 摄像头，提供 3 个 USB4 接口。</p><p data-vmark=\"21a8\">Horizon 采用 12 核的 X2E-80-100，配备 512GB SSD 存储，屏幕分辨率 1920×1200；Horizon Ultra 采用 18 核的 X2E-88-100，配备 1TB SSD 存储，屏幕分辨率 2880×1800。</p><p style=\"text-align: center;\" data-vmark=\"9b3d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/834fecb8-34a7-473d-9d10-9550ca210002.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-weibo=\"1\" data-vmark=\"2560\" class=\"no-alt-img\"></p><p data-vmark=\"95b0\">这两款产品均配备 Windows 11 Pro 操作系统；而 <strong>2</strong><strong>027 年的 HUMAIN Horizon 笔电将运行 HUMAIN OS 操作系统</strong>，“在设备、AI 功能与 HUMAIN 更广泛的技术平台之间实现更深层次的集成”。</p>",
-      "url": "https://www.ithome.com/0/997/225.htm",
-      "link": "https://www.ithome.com/0/997/225.htm",
-      "pubDate": "Wed, 02 Sep 2026 00:52:09 GMT",
-      "isoDate": "2026-09-02T00:52:09.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "stakeholders",
-      "subCategory": "wi-fi-alliance",
-      "tagScore": 4,
-      "crossTags": []
     }
   ]
 }
