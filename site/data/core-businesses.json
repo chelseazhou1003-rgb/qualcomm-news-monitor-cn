@@ -1,10 +1,33 @@
 {
   "date": "2026-09-02",
-  "generatedAt": "2026-09-02T08:34:32.900Z",
+  "generatedAt": "2026-09-02T13:07:40.204Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 4,
+  "count": 2,
   "articles": [
+    {
+      "title": "小米秋季旗舰新品发布会定档 9 月 7 日：澎程系列新车 + 18 Fold 折叠屏手机等同台登场",
+      "description": "IT之家 9 月 2 日闪讯速报，小米官方今日宣布，小米秋季旗舰新品发布会定档 9 月 7 日（下周一）晚 7 点，小米澎程 N70 Pro、N70 Max、N90 Max 正式上市。\n同场发布的，还有两款旗舰新品：小米 18 Fold 全新折叠屏旗舰手机、小米平板 9 Pro Max，首发玄戒 O3 AI 旗舰处理器。\n\n8 月 24 日下午，小米新一代玄戒芯片“三芯齐发”，包括：\n\n\n玄戒 O3，AI 旗舰 SoC，安兔兔首破 500 万\n\n玄戒 O100，1.22TB/s 高带宽 AI 加速芯片\n\n玄戒 D100，国内首款 3nm 智驾高算力 AI 芯片\n\n\n\n小米创办人、董事长兼 CEO 雷军宣布，9 月将是小米的“科技大月”。月初，小米澎程系列将正式上市，Xiaomi 18 Fold 同场发布；月底，Xiaomi 18 Pro 系列发布。\n根据规划，小米 18 系列顶级旗舰小米 18 Fold 将首发搭载玄戒 O3 AI 旗舰处理器。同时，小米平板 9 Pro Max 也将搭载玄戒 O3 同步上市。\n\n玄戒 O3 是小米为最高端产品打造的「AI 旗舰 SoC」，安兔兔跑分高达 522 万分，是首个突破 500 万分的旗舰 SoC。CPU 采用十核全大核设计，多核跑分首次突破 15000 分，性能提升 60%。GPU 首发 G2-Ultra NX 图形处理器，前所未有的跨代式升级，性能大幅提升 85%，功耗降低 64%。\n玄戒 O3 还是全球首个支持 LPDDR6 的移动处理器，带宽高达 113.8GB/s，相比玄戒 O1 提升 48%。\n官方称，玄戒 O3 NPU 架构全面重构，专为 Xiaomi MiMo 端侧大模型而生，拥有夸张的 200TOPS 张量算力、3.13TFLOPS 向量算力，端侧 AI 性能大幅提升 45%。\n不仅拥有强大的 NPU，玄戒 O3 更将全模块 All in AI。CPU 增加双 SME2 加速单元、GPU 新增 8 颗 NX 神经网络加速器、ISP 内置 AINR 单元、DPU 内置硬件 AI 超分辨率单元、ADSP 内置 AI 引擎，不论端侧 AI 性能、硬件级超分插帧、还是夜景视频降噪，玄戒 O3 都将全面进化。\n\n另外，今年 7 月 30 日，小米举行了澎程技术发布会，澎程 N90 Max 预售价为 29.99 万元；澎程 N70 Max 预售价为 25.99 万元。\n澎程 N90 Max\n小米澎程 N90 Max 定位 2+2+3 大七座旗舰增程 SUV，搭载行业领先的超级增程系统，实现 CLTC 纯电续航 464km，CLTC 综合续航 1705km，WLTC 亏电油耗 6.26L/100km，支持 92 号、95 号、98 号汽油。15 分钟最长补能 285km，从 20% 充电至 80% 最快只需 18 分钟。该车配备双电机四驱动力，支持 310kW 峰值功率、0-100km/h 加速 5.9s、最高时速 190km/h。\nN90 Max 提供远山青、蝴蝶谷蓝、火山灰等配色，尺寸为 5285mm x 1998mm x 1825mm、轴距 3080mm。车内配备 3K 分辨率 21.4 英寸后排娱乐屏，中岛内置两个手机位、四个杯托、6.6L 容量、9L 独立压缩机冰箱，可滑动到第二排座位作为“多功能茶几”使用。\n智能化方面，该车标配小米 HAD，搭载小米 XLA 认知大模型，满配辅助驾驶。同时小米澎程 N90 Max 新增后向固态激光雷达，测距精度可达 2cm。该车搭载第三代骁龙 8 移动平台和英伟达 Thor 车载计算平台，车内支持超级小爱。\n\n澎程 N70 Max\n小米澎程 N70 Max 搭载双电机四驱，峰值功率 310kW，最高时速 190km/h，CLTC 纯电续航 505km，CLTC 综合续航 1461km，亏电油耗 6.1L/100km。\n该车同样定位“智能可变大空间 SUV”，采用五座布局，拥有超大的乘坐空间，性能、舒适、安全、智能全面拉满。该车尺寸为 4960×1998×1765mm、轴距 2950mm，二排支持极致后移，最大乘坐空间 1410mm、最大拓展空间 2425L。\n小米澎程 N70 Max 还标配前双叉臂 + 后多连杆独立悬架，标配空气弹簧 + 连续阻尼可变减振器，标配 9 个安全气囊、内嵌式防滚架、一体式热成型门环，铠甲笼式车身 14 处 2200MPa，标配门把手三重冗余设计，标配 4nm 旗舰 SoC、4nm 辅助驾驶芯片 700TOPS，标配前向激光雷达、4D 毫米波雷达，标配 Xiaomi HAD 辅助驾驶。可选前排零重力座椅、前排旋转座椅、滑动中岛、压缩机冰箱、后排娱乐屏、电动迎宾踏板。\nIT之家附小米澎程系列新车亮点一图知：",
+      "content": "<p data-vmark=\"8e19\">IT之家 9 月 2 日闪讯速报，小米官方今日宣布，小米秋季旗舰新品发布会定档 9 月 7 日（下周一）晚 7 点，<strong>小米澎程 N70 Pro、N70 Max、N90 Max 正式上市</strong>。</p><p data-vmark=\"da35\">同场发布的，还有两款旗舰新品：<strong>小米 18 Fold 全新折叠屏旗舰手机、小米平板 9 Pro Max，首发玄戒 O3 AI 旗舰处理器</strong>。</p><p data-vmark=\"6216\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d557e174-08b6-4fcc-a9b1-017ce3d9fcc1.jpg\" w=\"1440\" h=\"1920\" data-vmark=\"63fb\" data-mpos=\"0,2\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1ab43367dc0fb1e3781929c734618c05378396a1e973aadf1210694d8156dee1c9f4ab70c73686fa7\" class=\"no-alt-img\"></p><p data-vmark=\"5279\">8 月 24 日下午，小米新一代玄戒芯片“三芯齐发”，包括：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"4db5\">玄戒 O3，AI 旗舰 SoC，安兔兔首破 500 万</p></li><li><p data-vmark=\"aae3\">玄戒 O100，1.22TB/s 高带宽 AI 加速芯片</p></li><li><p data-vmark=\"8012\">玄戒 D100，国内首款 3nm 智驾高算力 AI 芯片</p></li></ul></blockquote><p data-vmark=\"1370\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/26882a03-59f0-4cce-bb80-b6e11ca50acc.jpg?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"960\" data-vmark=\"e951\" data-mpos=\"2,0\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1be140301f4d917ed93a31fa2f5de3c70a2a05e9268074ac60b34ee833c311021c104983ab8df722e\" class=\"no-alt-img\"></p><p data-vmark=\"e8dc\">小米创办人、董事长兼 CEO 雷军宣布，<strong>9 月将是小米的“科技大月”</strong>。月初，小米澎程系列将正式上市，Xiaomi 18 Fold 同场发布；月底，Xiaomi 18 Pro 系列发布。</p><p data-vmark=\"753f\">根据规划，小米 18 系列顶级旗舰小米 18 Fold 将首发搭载玄戒 O3 AI 旗舰处理器。同时，小米平板 9 Pro Max 也将搭载玄戒 O3 同步上市。</p><p data-vmark=\"5d0d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/d6b7f7fa-73cb-462c-971a-ec2abd99297a.png?x-bce-process=image/format,f_auto\" w=\"798\" h=\"1396\" data-vmark=\"1d97\" data-weibo=\"2\" data-marks=\"1931fd9d012eb6d11200461163f9fd26618077d54be37c8b5cc7b8845f52c5a2c78cc2b4df347fac33520a0693b464c1\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F1749127163%2FReUC0zrbI%22%7D\" class=\"no-alt-img\"></p><p data-vmark=\"f29d\">玄戒 O3 是小米为最高端产品打造的「AI 旗舰 SoC」，<strong>安兔兔跑分高达 522 万分，是首个突破 500 万分的旗舰 SoC</strong>。CPU 采用十核全大核设计，多核跑分首次突破 15000 分，性能提升 60%。GPU 首发 G2-Ultra NX 图形处理器，前所未有的跨代式升级，性能大幅提升 85%，功耗降低 64%。</p><p data-vmark=\"16cc\"><strong>玄戒 O3 还是全球首个支持 LPDDR6 的移动处理器</strong>，带宽高达 113.8GB/s，相比玄戒 O1 提升 48%。</p><p data-vmark=\"0dd8\">官方称，玄戒 O3 NPU 架构全面重构，专为 Xiaomi MiMo 端侧大模型而生，拥有夸张的 200TOPS 张量算力、3.13TFLOPS 向量算力，端侧 AI 性能大幅提升 45%。</p><p data-vmark=\"709c\">不仅拥有强大的 NPU，玄戒 O3 更将全模块 All in AI。CPU 增加双 SME2 加速单元、GPU 新增 8 颗 NX 神经网络加速器、ISP 内置 AINR 单元、DPU 内置硬件 AI 超分辨率单元、ADSP 内置 AI 引擎，不论端侧 AI 性能、硬件级超分插帧、还是夜景视频降噪，玄戒 O3 都将全面进化。</p><p data-vmark=\"ce94\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/8/ff455d06-79be-4e32-94fe-1fcb60dfdceb.jpg?x-bce-process=image/format,f_auto/auto-orient,o_1\" w=\"1440\" h=\"1920\" data-vmark=\"1d22\" data-mpos=\"0,2\" data-weibo=\"3\" class=\"no-alt-img\"></p><p data-vmark=\"d46f\">另外，今年 7 月 30 日，小米举行了澎程技术发布会，澎程 N90 Max 预售价为 29.99 万元；澎程 N70 Max 预售价为 25.99 万元。</p><h3 data-vmark=\"7083\">澎程 N90 Max</h3><p data-vmark=\"3ef4\">小米澎程 N90 Max 定位 2+2+3 大七座旗舰增程 SUV，搭载行业领先的超级增程系统，实现 CLTC 纯电续航 464km，CLTC 综合续航 1705km，WLTC 亏电油耗 6.26L/100km，支持 92 号、95 号、98 号汽油。15 分钟最长补能 285km，从 20% 充电至 80% 最快只需 18 分钟。该车配备双电机四驱动力，支持 310kW 峰值功率、0-100km/h 加速 5.9s、最高时速 190km/h。</p><p data-vmark=\"6767\">N90 Max 提供远山青、蝴蝶谷蓝、火山灰等配色，尺寸为 5285mm x 1998mm x 1825mm、轴距 3080mm。车内配备 3K 分辨率 21.4 英寸后排娱乐屏，中岛内置两个手机位、四个杯托、6.6L 容量、9L 独立压缩机冰箱，可滑动到第二排座位作为“多功能茶几”使用。</p><p data-vmark=\"b683\">智能化方面，该车标配小米 HAD，搭载小米 XLA 认知大模型，满配辅助驾驶。同时小米澎程 N90 Max 新增后向固态激光雷达，测距精度可达 2cm。该车搭载第三代骁龙 8 移动平台和英伟达 Thor 车载计算平台，车内支持超级小爱。</p><p data-vmark=\"e780\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6a89aa3b-7030-4c0e-98e7-0143a7cb67c8.jpg\" w=\"1200\" h=\"900\" data-weibo=\"4\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d16226349f3987f10a57017222a9877752f905fc6912aecf7172018de81caafe03dc689ed623d478a3\" data-vmark=\"3dd9\" class=\"no-alt-img\"></p><h3 data-vmark=\"f7d1\">澎程 N70 Max</h3><p data-vmark=\"aa83\">小米澎程 N70 Max 搭载双电机四驱，峰值功率 310kW，最高时速 190km/h，CLTC 纯电续航 505km，CLTC 综合续航 1461km，亏电油耗 6.1L/100km。</p><p data-vmark=\"6bde\">该车同样定位“智能可变大空间 SUV”，采用五座布局，拥有超大的乘坐空间，性能、舒适、安全、智能全面拉满。该车尺寸为 4960×1998×1765mm、轴距 2950mm，二排支持极致后移，最大乘坐空间 1410mm、最大拓展空间 2425L。</p><p data-vmark=\"f677\">小米澎程 N70 Max 还标配前双叉臂 + 后多连杆独立悬架，标配空气弹簧 + 连续阻尼可变减振器，标配 9 个安全气囊、内嵌式防滚架、一体式热成型门环，铠甲笼式车身 14 处 2200MPa，标配门把手三重冗余设计，标配 4nm 旗舰 SoC、4nm 辅助驾驶芯片 700TOPS，标配前向激光雷达、4D 毫米波雷达，标配 Xiaomi HAD 辅助驾驶。可选前排零重力座椅、前排旋转座椅、滑动中岛、压缩机冰箱、后排娱乐屏、电动迎宾踏板。</p><p data-vmark=\"8c80\">IT之家附小米澎程系列新车亮点一图知：</p><p data-vmark=\"ac7f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/75385b5f-0303-4cad-8877-da5440329c01.jpg\" w=\"1440\" h=\"15249\" data-vmark=\"4478\" data-weibo=\"5\" class=\"nowebp no-alt-img\" data-mpos=\"0,0\" ></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"0157\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4677\" frameborder=\"no\"></iframe></p>",
+      "url": "https://www.ithome.com/0/997/228.htm",
+      "link": "https://www.ithome.com/0/997/228.htm",
+      "pubDate": "Wed, 02 Sep 2026 01:04:39 GMT",
+      "isoDate": "2026-09-02T01:04:39.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 42,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
     {
       "title": "开盘由跌转涨！苹果告别库克时代，给接任者留下了哪些课题？",
       "description": "外界担忧的，恰恰是苹果市值庞大至4万亿美元以上后，锐气从哪里来？大象如何转身？\n当地时间9月1日，蒂姆·库克（Tim Cook）卸任苹果（AAPL.O）CEO一职，转任董事会执行主席，CEO由约翰·特努斯（John Ternus）接任。持续15年的苹果“库克时代”结束，迎来了“特努斯时代”。9月1日苹果开盘，股价微跌，随后盘中涨超1%。\n15年前，当苹果联合创始人史蒂夫·乔布斯（Steve Jobs）因病辞去CEO职务时，外界曾疑虑，个人特质与乔布斯截然不同的库克，可能无法为苹果注入浓烈的创新特质。但在接下来的15年里，库克一手将市值3000多亿美元的苹果，推向超4万亿美元的市值高峰，用成绩回应了质疑。\n然而，库克时代仍有一些遗留问题未解决。最重要的问题包括，进入AI时代后苹果如何重置自己的身位？从今日起，新的问题将由新一任掌舵者来回答。\n\n库克时代的遗产\n“我对Apple社区的热爱永远不会改变。”库克卸任前在微博上表示。有消息称，他还在卸任前发送了一封内部信，称“这家公司证明企业文化可以战胜一切”，并表示自己会怀念这份工作。\n回望过去15年，相比乔布斯时代的新生锐气，库克麾下的苹果某种程度上像一台日趋成熟的“利润机器”。\n据库克执掌苹果不到一个月时披露的财报，2011财年苹果营收1080亿美元。而到2025财年，苹果的营收达到4161.6亿美元，是14年前的3.8倍。\n外界普遍认为，库克时代苹果的成长离不开掌舵者极致的运营和供应链能力。库克在苹果的贡献包括将库存周期从月为单位缩短至短短几天，并重整了苹果的供应商体系。\n苹果的产品线也发生了变化。\n库克接手苹果时，为苹果贡献主要收入的产品还是iPhone、Mac和iPod。进入库克时代后，iPhone依然是拳头产品，除此之外，2015年面世的Apple Watch、2016年面世的无线耳机AirPods也为苹果拓宽了产品阵列。另一项在库克时代壮大的是服务业务，涵盖了App Store、影音、支付等软件业务。\n这两类业务在苹果收入中已占据一定分量。2025财年，苹果包括手表和无线耳机在内的可穿戴设备、家居及配件产品线收入超350亿美元，在总收入中占比8.6%，苹果服务业务年收入则首次突破1000亿美元，占该财年总收入的26%。\n库克还在苹果芯片自研史上留下浓重的一笔。2010年，病中的乔布斯发布了苹果首款自研芯片A4，这款芯片采用45纳米制程工艺，可搭载于iPad上。但苹果真正有实力摆脱对英特尔的依赖是在库克时代。\n2020年，苹果在开发者大会上宣布了一项芯片迁移计划：用两年时间过渡，让Mac用上自研芯片。随着当年M1芯片推出，苹果从英特尔的X86架构转向了ARM架构阵营。\n站在苹果掌舵人交接班的当口，苹果自研芯片的脚步已经走到2nm工艺阶段。8月底，作为库克交棒前发布的最后两款产品之一，Mac mini首发搭载苹果M6芯片，M6是苹果第一款采用2nm制程的自研芯片。在当地时间9月9日的苹果秋季发布会上，苹果2nm制程芯片有望应用于更多新品。\n除了SoC（系统级芯片），苹果也翻越过自研基带芯片这座“大山”。去年2月，苹果首次在手机中搭载自研5G基带芯片C1，有消息称苹果为此研发七年、耗费数十亿美元。在摆脱对英特尔依赖之后，苹果终于也减轻了对高通的依赖。\n现在交到特努斯手上的，是一个硬件更加一体化、软件业务收入也已然庞大的苹果。这是一家更成熟的商业公司，但外界担忧的，恰恰是公司市值庞大至4万亿美元以上后，锐气从哪里来？大象如何转身？\n库克留下的问题\n库克时代留下的，也有不少遗憾。其中之一是2024年上市的Vision Pro，这款承载了苹果空间计算野心的混合现实头显在技术上向前探了一步，但不论是硬件成本还是软件生态，似乎还走不到关键突破口，卡在了向大众普及的路上。\n手机业态则与15年前截然不同，形态大致固定、硬件难于创新，连苹果也不易再现“iPhone时刻”。几乎整个手机产业链都将期望寄托在折叠屏形态上。苹果在这个领域不是最早的创新者，但苹果产业链人士告诉记者，苹果入局预计成为折叠屏领域今年最大的催化剂。业界期望由苹果肩负起将折叠屏产业链推向成熟的责任。\n苹果有望于即将到来的秋季发布会上发布旗下首款折叠屏。这款可能名为iPhone Ultra的折叠屏手机主要研发于库克时代，将这条产品线壮大的任务则落在特努斯肩上。\n库克在AI领域未交出亮眼的成绩，则几乎成为近两年苹果被外界诟病最多的点。\n今年6月，苹果在WWDC开发者大会上推出AI版Siri，这是苹果两年前预告后迟交的作业。自研模型无法满足所有需求，苹果还引入外部的模型技术。未来苹果是否有能力完全自研模型、需要将多少利益分给外部模型合作者，仍然是悬念。\n当下，AI不仅冲击软件生态，还引发了新的硬件卡位赛。OpenAI已放话，今年下半年将推出旗下首款硬件设备。据网上爆料信息，这款硬件设备可能定位为取代AirPods的特殊音频产品。\n在手机领域已是霸主的苹果，接下来面临的竞争将不只是在手机领域。这是一场全新的战役，应对者是产品线出身、此前作为硬件工程高级副总裁的特努斯。\n有一些AI硬件产品线可以留意。去年科技爆料人马克·古尔曼称苹果在筹备多款机器人以及带屏幕的智能音箱、家庭安全摄像头等，其中一款计划2027年上市的桌面机器人是苹果AI战略中的核心。苹果是否会在即将到来的发布会上透露AI硬件的信息也有待揭晓。\n还有一些棘手的“麻烦”从库克时代遗留下来，已经在冲击苹果的业务。\n一是作为苹果服务业务的重要部分，苹果App Store的抽佣体系已在全球多地遭遇来自监管和企业的挑战。此前苹果要求iPhone应用必须通过App Store安装并使用苹果支付系统，对应用内购买的数字商品及服务抽佣30%。但本月早些时候，苹果宣布调整欧盟地区佣金政策，允许用户从第三方应用商城下载应用，苹果对此抽取5%技术佣金。今年早些时候苹果也已调低中国的App Store标准佣金率。\n影响一定程度反映在2026财年第三季度，该季度苹果服务业务收入同比增长12%，但增长不及市场预期。\n挑战还来自供应链。存储价格上涨等导致的消费电子成本上涨已抑制了部分需求。苹果6月以来已陆续提高多款iPad、Mac的定价。即便是“供应链管理大师”，库克也形容，来自存储价格的影响像“遭遇百年一遇的洪水”。如何消化这些不利影响，成为特努斯一上任就面临的课题。\n库克在7月底的业绩会上评价，没有比特努斯更好的人来掌舵公司，并表示苹果有一个光明的未来，又在卸任前的内部信中形容特努斯聪慧、优秀、能力出众。但新一任掌舵者做得如何，接下来最有发言权的将是苹果的消费者和股东。",
@@ -22,70 +45,6 @@
       "subCategory": "semiconductors",
       "tagScore": 44,
       "crossTags": []
-    },
-    {
-      "title": "高通跃龙 Q-2390、IQ-2390 处理器发布：面向消费级物联网等领域，预计 2027 年初面市",
-      "description": "IT之家 9 月 1 日消息，高通公司今日宣布推出跃龙（Dragonwing）Q-2390 和 IQ-2390 处理器，面向消费级物联网、工业边缘计算等领域。\n\n据介绍，这两款处理器均配备四核 Kryo CPU、Adreno704 GPU 以及实时 RISC-V MCU。支持 Linux、Android 和 Zephyr OS 操作系统，开发者可为其打造更多差异化产品。\nIT之家附两款处理器简介如下：\nDragonwing Q-2390：为商业和消费级 IoT 带来智能体验\n这款处理器面向边缘商业、消费类设备。将端侧 AI、摄像头和显示器支持、LTE Cat 4、GPS、有线 / 无线联网等功能集成在一个处理器之中。应用场景包括 POS 终端、门禁、智能家电、家用机器人、健身设备等。\n\nDragonwing IQ-2390：将智能计算深入工业边缘末端\nIQ-2390 是 IQ2 系列工业边缘 AI 处理器家族的首款产品，重点面向工业自动化、油气、公用事业和能源领域。支持机器视觉、AI 加速、双千兆以太网等特性，可构建更加智能的人机界面（HMI）、可编程逻辑控制器（PLC）和工业网关等。工作温度覆盖-30℃ 至 +115℃，针对振动、冲击环境进行专门优化。\n\n此外，这两款产品将在 IFA 2026 展会现场展示，高通已通过早期访问计划与客户展开合作，评估套件预计 2027 年初面市。",
-      "content": "<p data-vmark=\"812e\">IT之家 9 月 1 日消息，高通公司今日宣布推出跃龙（Dragonwing）Q-2390 和 IQ-2390 处理器，面向消费级物联网、工业边缘计算等领域。</p><p style=\"text-align: center;\" data-vmark=\"9ecd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a9696522-caf3-44a0-bcdd-6045a5efa869.png?x-bce-process=image/format,f_auto\" w=\"975\" h=\"547\" alt=\"\" data-weibo=\"0\" data-vmark=\"d159\"></p><p data-vmark=\"26e4\">据介绍，这两款处理器均配备四核 Kryo CPU、Adreno704 GPU 以及实时 RISC-V MCU。支持 Linux、Android 和 Zephyr OS 操作系统，开发者可为其打造更多差异化产品。</p><p data-vmark=\"3b46\">IT之家附两款处理器简介如下：</p><h3 data-vmark=\"15f5\">Dragonwing Q-2390：为商业和消费级 IoT 带来智能体验</h3><p data-vmark=\"0217\">这款处理器面向边缘商业、消费类设备。将端侧 AI、摄像头和显示器支持、LTE Cat 4、GPS、有线 / 无线联网等功能集成在一个处理器之中。应用场景包括 POS 终端、门禁、智能家电、家用机器人、健身设备等。</p><p style=\"text-align: center;\" data-vmark=\"f2eb\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/8b15d57d-84d1-4df6-bda5-4b6177acb1d7.jpg?x-bce-process=image/format,f_auto\" w=\"1181\" h=\"874\" data-weibo=\"1\" data-vmark=\"fbd7\" class=\"no-alt-img\"></p><h3 data-vmark=\"da1f\">Dragonwing IQ-2390：将智能计算<strong>深入工业边缘末端</strong></h3><p data-vmark=\"9e2d\">IQ-2390 是 IQ2 系列工业边缘 AI 处理器家族的首款产品，重点面向工业自动化、油气、公用事业和能源领域。支持机器视觉、AI 加速、双千兆以太网等特性，可构建更加智能的人机界面（HMI）、可编程逻辑控制器（PLC）和工业网关等。工作温度覆盖-30℃ 至 +115℃，针对振动、冲击环境进行专门优化。</p><p style=\"text-align: center;\" data-vmark=\"2edd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/48fd047d-eeda-481d-be85-5be8c7f9bbb9.jpg?x-bce-process=image/format,f_auto\" w=\"1183\" h=\"813\" data-weibo=\"2\" data-vmark=\"ee07\" class=\"no-alt-img\"></p><p data-vmark=\"bb9b\">此外，这两款产品将在 IFA 2026 展会现场展示，高通已通过早期访问计划与客户展开合作，评估套件预计 2027 年初面市。</p>",
-      "url": "https://www.ithome.com/0/997/185.htm",
-      "link": "https://www.ithome.com/0/997/185.htm",
-      "pubDate": "Tue, 01 Sep 2026 15:25:59 GMT",
-      "isoDate": "2026-09-01T15:25:59.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "iot-xr",
-      "tagScore": 8,
-      "crossTags": []
-    },
-    {
-      "title": "小米海外推出 POCO F9 Ultra 手机：为 REDMI K100 Pro Max“套娃机”、换用 8050mAh 电池",
-      "description": "IT之家 9 月 1 日消息，小米现已在海外市场推出 POCO F9 Ultra 手机，该机本质上就是 REDMI K100 Pro Max 的“套娃机”，其中 12GB RAM +256GB 存储空间版本 149,800 日元（IT之家注：现汇率约合 6,311 元人民币），16GB RAM+512GB 存储空间版本 169,800 日元（现汇率约合 7,154 元人民币）。\n\n该机提供深樱桃红和黑色两种配色，匹配一块 6.9 英寸 1200x2608 分辨率 OLED 面板，提供 32Mp 自拍摄像头；手机背面采用 200Mp+50Mp+50Mp 组合，配备 2.1 声道 Bose 扬声器，匹配立体悬浮灯环。\n该机搭载高通骁龙 8 Elite Gen 5 芯片，相对于 REDMI K100 Pro Max 最大的不同是电池容量调整为 8050mAh，号称“中度使用可以提供 2 天续航”、“经过 1600 次充放电循环，电池容量仍能保持在 80%”。\nIT之家随附小米 REDMI K100 Pro Max 规格供参考：",
-      "content": "<p data-vmark=\"6e74\">IT之家 9 月 1 日消息，小米现已在海外市场推出 POCO F9 Ultra 手机，该机本质上就是 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/08/12/572f41b0-1a32-412c-8bab-ad9b133193e7.png?x-bce-process=image/format,f_auto\" data-topic-id=\"66232\">REDMI K100 Pro Max</span> 的“套娃机”，其中 12GB RAM +256GB 存储空间版本 149,800 日元<span class=\"exch-money-value\">（IT之家注：现汇率约合 6,311 元人民币）</span>，16GB RAM+512GB 存储空间版本 169,800 日元<span class=\"exch-money-value\">（现汇率约合 7,154 元人民币）</span>。</p><p style=\"text-align: center;\" data-vmark=\"9a2b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1fbd0575-f8b1-454e-ae1d-6a88c18259db.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"1f33\" class=\"no-alt-img\"></p><p data-vmark=\"d259\">该机提供深樱桃红和黑色两种配色，匹配一块 6.9 英寸 1200x2608 分辨率 OLED 面板，提供 32Mp 自拍摄像头；手机背面采用 200Mp+50Mp+50Mp 组合，配备 2.1 声道 Bose 扬声器，匹配立体悬浮灯环。</p><p data-vmark=\"db2d\">该机搭载高通骁龙 8 Elite Gen 5 芯片，<strong>相对于 REDMI K100 Pro Max 最大的不同是电池容量调整为 8050mAh</strong>，号称“中度使用可以提供 2 天续航”、“经过 1600 次充放电循环，电池容量仍能保持在 80%”。</p><p data-vmark=\"2ae5\">IT之家随附小米 REDMI K100 Pro Max 规格供参考：</p><p style=\"text-align: center;\" data-vmark=\"60c4\"><img src=\"https://img.ithome.com/img/share/cde616aa-df7e-4d04-bf70-1146a417ba8c.png\" w=\"750\" h=\"1694\" data-for-products=\"JTdCJTIycHJvZHVjdElkcyUyMiUzQSU1QjQ3OTk4JTVEJTJDJTIycHJvZHVjdHMlMjIlM0ElNUIlN0IlMjJwcm9kdWN0TmFtZSUyMiUzQSUyMlJFRE1JJTIwSzEwMCUyMFBybyUyME1heCUyMiUyQyUyMnByb2R1Y3RJZCUyMiUzQTQ3OTk4JTdEJTVEJTJDJTIydGl0bGUlMjIlM0ElMjIlRTQlQkElQTclRTUlOTMlODElRTUlOEYlODIlRTYlOTUlQjAlRTglQUYlQTYlRTYlODMlODUlMjIlMkMlMjJiZ0NvbG9yJTIyJTNBJTIyJTIzMDAwMDAwJTIyJTJDJTIybGluZUNvbG9yJTIyJTNBJTIyJTIzQTJBMkEyJTIyJTJDJTIydGV4dENvbG9yJTIyJTNBJTIyJTIzRkZGRkZGJTIyJTJDJTIyZmlyc3RDb2xvciUyMiUzQSUyMiUyM2QyMjIyMiUyMiUyQyUyMnFyQ29kZSUyMiUzQXRydWUlMkMlMjJ3YXRlck1hcmslMjIlM0F0cnVlJTJDJTIyc2hvd0ltYWdlJTIyJTNBdHJ1ZSUyQyUyMnNob3dTYXRlbGxpdGUlMjIlM0FmYWxzZSU3RA==\" data-vmark=\"b729\" class=\"no-alt-img\"></p>",
-      "url": "https://www.ithome.com/0/997/165.htm",
-      "link": "https://www.ithome.com/0/997/165.htm",
-      "pubDate": "Tue, 01 Sep 2026 14:03:37 GMT",
-      "isoDate": "2026-09-01T14:03:37.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 7,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "小米 POCO X8 手机海外发布：8340mAh 大电池，骁龙 6s Gen 4 芯片",
-      "description": "IT之家 9 月 1 日消息，小米今天在海外市场推出 POCO X8 手机。新机定位中低端市场，采用高通骁龙 6s Gen 4 移动平台，配备 8340mAh 大电池。\n\n据介绍，POCO X8 的机身厚度是 8.6mm，重量 223g，提供银色、橙色、黑色等配色，正面配备一块 6.83 英寸 AMOLED 屏幕，分辨率为 2772*1280，支持 120Hz 高刷，HDR 峰值亮度可达 3500nits，表面覆盖康宁大猩猩 Victus 2 玻璃。\n\n规格方面，这款手机搭载高通骁龙 6s Gen 4 芯片，采用 6GB/8GB/12GB LPDDR4X 内存 +UFS 3.1（256GB）/UFS 2.2（128GB）存储。该机拥有 8340mAh 大电池，支持 67W 有线快充。\n\n同时，这款手机带有 5000 万像素后置主摄，支持光学防抖，并配备 200 万像素辅助镜头，前摄则是 1600 万像素。该机还带有 Wi-Fi 6、蓝牙 5.1、双 SIM、NFC 和屏下指纹等配置，支持 IP68 和 IP69K 防尘防水，运行澎湃 HyperOS 3 系统，带有水下模式，方便用户在水下拍摄照片或视频。\n\n此外，这款手机将在欧洲等市场上市，8GB+256GB 版本首发售价为 319 欧元（IT之家注：现汇率约合 2,492 元人民币），12GB+256GB 版本首发价为 359 欧元（现汇率约合 2,805 元人民币）。",
-      "content": "<p data-vmark=\"e1d5\">IT之家 9 月 1 日消息，小米今天在海外市场推出 POCO X8 手机。新机定位中低端市场，采用高通骁龙 6s Gen 4 移动平台，<strong>配备 8340mAh 大电池</strong>。</p><p style=\"text-align: center;\" data-vmark=\"fc7c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ea3007d4-53a8-4c1b-a118-7027995b0afc.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"982\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1b327276f18672e3dd04a918ae42df58ae0ffaa721bc74ea389e91f905ad749af588b93b1bebd00f8\" data-vmark=\"b3c0\" class=\"no-alt-img\"></p><p data-vmark=\"9e8b\">据介绍，POCO X8 的机身厚度是 8.6mm，重量 223g，提供银色、橙色、黑色等配色，<strong>正面配备一块 6.83 英寸 AMOLED 屏幕</strong>，分辨率为 2772*1280，支持 120Hz 高刷，HDR 峰值亮度可达 3500nits，表面覆盖康宁大猩猩 Victus 2 玻璃。</p><p style=\"text-align: center;\" data-vmark=\"036e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6ac4878e-3a1b-431f-a16f-32e5ad5828a8.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"739\" data-weibo=\"1\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1aecc8cbb04183c74242b0d63235f19510ed7ff0f041d0d7966d99e61b613acdf4d64484377eb8ef0\" data-vmark=\"3c3e\" class=\"no-alt-img\"></p><p data-vmark=\"0baa\">规格方面，<strong>这款手机搭载高通骁龙 6s Gen 4 芯片</strong>，采用 6GB/8GB/12GB LPDDR4X 内存 +UFS 3.1（256GB）/UFS 2.2（128GB）存储。该机拥有 8340mAh 大电池，支持 67W 有线快充。</p><p style=\"text-align: center;\" data-vmark=\"1d92\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/142ea21e-6757-46f1-b6d2-9d6e344f646d.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"619\" data-weibo=\"2\" data-vmark=\"2ca0\" class=\"no-alt-img\"></p><p data-vmark=\"882a\">同时，这款手机带有 5000 万像素后置主摄，支持光学防抖，并配备 200 万像素辅助镜头，前摄则是 1600 万像素。该机还带有 Wi-Fi 6、蓝牙 5.1、双 SIM、NFC 和屏下指纹等配置，支持 IP68 和 IP69K 防尘防水，运行澎湃 HyperOS 3 系统，带有水下模式，方便用户在水下拍摄照片或视频。</p><p style=\"text-align: center;\" data-vmark=\"804c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d4d84154-2562-4fdd-9d99-528a967a3c92.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"768\" data-weibo=\"3\" data-mpos=\"2,2\"  data-vmark=\"072d\" class=\"no-alt-img\"></p><p data-vmark=\"252f\">此外，这款手机将在欧洲等市场上市，<strong>8GB+256GB 版本首发售价为 319 欧元</strong><span class=\"exch-money-value\">（IT之家注：现汇率约合 2,492 元人民币）</span>，12GB+256GB 版本首发价为 359 欧元<span class=\"exch-money-value\">（现汇率约合 2,805 元人民币）</span>。</p>",
-      "url": "https://www.ithome.com/0/997/163.htm",
-      "link": "https://www.ithome.com/0/997/163.htm",
-      "pubDate": "Tue, 01 Sep 2026 13:45:47 GMT",
-      "isoDate": "2026-09-01T13:45:47.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 18,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
     }
   ]
 }
