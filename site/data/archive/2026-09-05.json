@@ -1,9 +1,7 @@
 {
   "date": "2026-09-05",
   "generatedAt": "2026-09-05T01:50:52.487Z",
-  "section": "core-businesses",
-  "sectionTitle": "核心业务",
-  "count": 2,
+  "count": 3,
   "articles": [
     {
       "title": "消息称 iQOO 16 确认搭载三星新一代 M16 发光材料，苹果折叠屏同款方案",
@@ -44,6 +42,25 @@
       "section": "core-businesses",
       "subCategory": "automotive",
       "tagScore": 6,
+      "crossTags": []
+    },
+    {
+      "title": "英伟达斥资129亿美元收购开源AI社区Hugging Face",
+      "description": "黄仁勋称，Hugging Face将保持开放。马斯克表示祝贺\n\n\n     英伟达宣布收购开源AI社区Hugging Face。图：视觉中国\n    \n   \n　　【财新网】发起公开信支持开源模型后，英伟达宣布收购开源AI社区Hugging Face。当地时间9月3日，AI芯片厂、全球市值最高的英伟达（NASDAQ:NVDA）的创始人黄仁勋（Jensen Huang）宣布，英伟达将以129.303亿美元收购AI开源社区Hugging Face。黄仁勋称，双方将扩大Hugging Face平台规模，加强基础设施，并让全球更多开发者和机构能够使用AI。\n　　Hugging Face是AI领域的著名开源社区，开发者可以在这里分享模型、模型应用展示（Spaces）、数据集、测评和软件库，邀请社区的人共同开发。中美许多著名的开源模型会上线Hugging Face，供用户免费下载使用。",
+      "content": "<blockquote><p>黄仁勋称，Hugging Face将保持开放。马斯克表示祝贺</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-09-04/178851419358193_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-09-04/178851419358193_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>英伟达宣布收购开源AI社区Hugging Face。图：视觉中国</dd>\n    </dl>\n   <br>\n       <p>　　<b>【财新网】</b>发起公开信支持开源模型后，英伟达宣布收购开源AI社区Hugging Face。当地时间9月3日，AI芯片厂、全球市值最高的英伟达（NASDAQ:NVDA）的创始人黄仁勋（Jensen Huang）宣布，英伟达将以129.303亿美元收购AI开源社区Hugging Face。黄仁勋称，双方将扩大Hugging Face平台规模，加强基础设施，并让全球更多开发者和机构能够使用AI。</p>\n<p>　　Hugging Face是AI领域的著名开源社区，开发者可以在这里分享模型、模型应用展示（Spaces）、数据集、测评和软件库，邀请社区的人共同开发。中美许多著名的开源模型会上线Hugging Face，供用户免费下载使用。</p>\n      ",
+      "url": "https://www.caixin.com/2026-09-04/102481955.html",
+      "link": "https://www.caixin.com/2026-09-04/102481955.html",
+      "pubDate": "Fri, 04 Sep 2026 09:19:49 GMT",
+      "isoDate": "2026-09-04T09:19:49.000Z",
+      "author": "",
+      "sourceId": "caixin",
+      "sourceName": "财新网",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "tagScore": 4,
       "crossTags": []
     }
   ]
