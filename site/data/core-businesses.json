@@ -1,10 +1,69 @@
 {
   "date": "2026-09-05",
-  "generatedAt": "2026-09-05T18:56:45.170Z",
+  "generatedAt": "2026-09-05T22:01:22.783Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 3,
+  "count": 6,
   "articles": [
+    {
+      "title": "消息称某厂骁龙旗舰机电池确定 8400mAh，预计为 iQOO 16",
+      "description": "IT之家 9 月 5 日消息，博主 @数码闲聊站 今日爆料，骁龙 8EE6 旗舰机电池确定 8400mAh。结合该博主此前的爆料习惯，预计该机为 iQOO 16。\n\nIT之家注意到，目前，高通两款骁龙 2nm 旗舰芯片正式命名已经曝光，该博主所说的骁龙 8EE6 预计为第六代骁龙 8 超级至尊版：\n\nSM8950—Snapdragon 8 Elite Gen6—— 第六代骁龙 8 至尊版\n\nSM8975——Snapdragon 8 Elite Extreme Gen6—— 第六代骁龙 8 超级至尊版\n\n本月早些时候，该博主爆料某厂子系新机部分配置，被外界推测为 iQOO 16。该机预计搭载 6.85 英寸 2K+165Hz 新一代三星直屏，镜头 DECO 是左上角小方块，采用全新 ID 设计。影像方面，该机工程机搭载 50Mp 1/1.3\" F1.68 超大底主摄 +50Mp F2.0 小底超广角 +50Mp 1/1.95\" F2.65 中底潜望镜。\niQOO 16 和 iQOO 小平板将于本月发布，两款产品分别为首批第六代骁龙 8 超级至尊版新机、首个第六代骁龙 8 超级至尊版平板。关于以上新品的更多消息，感兴趣的朋友可以关注IT之家后续报道。",
+      "content": "<p data-vmark=\"81c8\">IT之家 9 月 5 日消息，博主 @数码闲聊站 今日爆料，骁龙 8EE6 旗舰机电池确定 8400mAh。结合该博主此前的爆料习惯，预计该机为 iQOO 16。</p><p data-vmark=\"4422\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6fc24d7a-8ee0-464e-963d-bb3730385fac.png\" w=\"638\" h=\"396\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRgFb7qGqW%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"5a7a\" class=\"no-alt-img\"></p><p data-vmark=\"c9bc\">IT之家注意到，目前，高通两款骁龙 2nm 旗舰芯片正式命名已经曝光，该博主所说的骁龙 8EE6 预计为第六代骁龙 8 超级至尊版：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"49c2\">SM8950—Snapdragon 8 Elite Gen6—— 第六代骁龙 8 至尊版</p></li><li><p data-vmark=\"0190\">SM8975——Snapdragon 8 Elite Extreme Gen6——<strong> 第六代骁龙 8 超级至尊版</strong></p></li></ul><p data-vmark=\"02c4\">本月早些时候，该博主爆料某厂子系新机部分配置，被外界推测为 iQOO 16。该机预计搭载 6.85 英寸 <strong>2K+165Hz 新一代三星直屏</strong>，镜头 DECO 是左上角小方块，采用全新 ID 设计。影像方面，该机工程机搭载 50Mp 1/1.3\" F1.68 超大底主摄 +50Mp F2.0 小底超广角 +50Mp 1/1.95\" F2.65 中底潜望镜。</p><p data-vmark=\"8b54\"><strong>iQOO 16 和 iQOO 小平板将于本月发布</strong>，两款产品分别为首批第六代骁龙 8 超级至尊版新机、首个第六代骁龙 8 超级至尊版平板。关于以上新品的更多消息，感兴趣的朋友可以关注IT之家后续报道。</p>",
+      "url": "https://www.ithome.com/0/998/830.htm",
+      "link": "https://www.ithome.com/0/998/830.htm",
+      "pubDate": "Sat, 05 Sep 2026 14:00:42 GMT",
+      "isoDate": "2026-09-05T14:00:42.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 7,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "吉利星越 L PLUS 首发亮相：定位中大型旗舰智混 SUV，近期上市",
+      "description": "IT之家 9 月 5 日消息，吉利全新车型 —— 星越 L PLUS 今天（5 日）晚间正式亮相，新车尺寸比现款星越 L 更大，并运用双拼色、大饼轮毂来强调豪华、精致的气息，将于近期正式上市。\n\n新车延续星越 L 的家族设计，通过大面积镀铬来营造豪华风格，长宽高分别为 4955/1960/1769mm，轴距达到 2900mm，车顶配备了激光雷达，支持千里浩瀚 H5 等高阶辅助驾驶功能。\n\n\n\n\n新车座舱采用中控 + 副驾双联屏方案，形成 30 英寸一体式天际屏，并配有 17.3 英寸二排娱乐屏；车机搭载高通骁龙 8295 芯片、Flyme Auto 智能座舱，内置超级 Eva 智能体。\n\n根据介绍，星越 L PLUS 将与星瑞 L PLUS 一同组成全新的旗舰智混产品系列。新车将提供燃油、油电混动（IT之家注：与插电混动不同，油电混动须上蓝牌）两种动力，搭载型号为 BHE20-EFZ 的发动机，排量为 1999 ml（从输出来看为 2.0T），发动机功率为 160 kW，最大扭矩 360N·m，驱动电机功率 230kW。\n燃油版本车型搭载纯汽油动力系统，发动机型号为 BHE20-PFZ，排量同样为 1999 ml，发动机功率为 213 kW，最大净功率为 205 kW，最高车速可达 210 km/h。",
+      "content": "<p data-vmark=\"e099\">IT之家 9 月 5 日消息，吉利全新车型 —— 星越 L PLUS 今天（5 日）晚间正式亮相，新车尺寸比现款星越 L 更大，并运用双拼色、大饼轮毂来强调豪华、精致的气息，将于<strong>近期正式上市</strong>。</p><p style=\"text-align: center;\" data-vmark=\"82e6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ab44d8a4-30b9-4b1e-940f-19a2bfebe294.jpg?x-bce-process=image/format,f_auto\" w=\"1200\" h=\"612\" data-weibo=\"0\"  data-vmark=\"91b0\" class=\"no-alt-img\"></p><p data-vmark=\"9dd5\">新车延续星越 L 的家族设计，通过大面积镀铬来营造豪华风格，长宽高分别为 4955/1960/1769mm，轴距达到 2900mm，车顶配备了激光雷达，支持千里浩瀚 H5 等高阶辅助驾驶功能。</p><p style=\"text-align: center;\" data-vmark=\"58ab\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0c269c45-ce65-4298-a78e-3a2d7e5054c5.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-weibo=\"1\" data-vmark=\"b6fd\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"f13b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/46b67a86-c700-4777-be1c-b4683661db77.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-weibo=\"2\" data-vmark=\"d415\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"1a4d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0fa73b44-9a15-4021-9a59-90fe54dbc4eb.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-weibo=\"3\" data-vmark=\"13f4\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"894b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0200a552-f8cd-442e-9703-9e672c241635.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-weibo=\"4\" data-vmark=\"bf7c\" class=\"no-alt-img\"></p><p data-vmark=\"855c\">新车座舱采用中控 + 副驾双联屏方案，形成 30 英寸一体式天际屏，并配有 17.3 英寸二排娱乐屏；车机搭载高通骁龙 8295 芯片、Flyme Auto 智能座舱，内置超级 Eva 智能体。</p><p style=\"text-align: center;\" data-vmark=\"4255\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/845a4e04-7154-4046-bf4e-c269b83b5a14.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-weibo=\"5\" data-vmark=\"d418\" class=\"no-alt-img\"></p><p data-vmark=\"d006\">根据介绍，星越 L PLUS 将与星瑞 L PLUS 一同组成全新的旗舰智混产品系列。新车将提供燃油、油电混动（IT之家注：与插电混动不同，油电混动须上蓝牌）两种动力，搭载型号为 BHE20-EFZ 的发动机，排量为 1999 ml（从输出来看为 2.0T），发动机功率为 160 kW，最大扭矩 360N·m，驱动电机功率 230kW。</p><p data-vmark=\"cf07\">燃油版本车型搭载纯汽油动力系统，发动机型号为 BHE20-PFZ，排量同样为 1999 ml，发动机功率为 213 kW，最大净功率为 205 kW，最高车速可达 210 km/h。</p><p style=\"text-align: center;\" data-vmark=\"6e96\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4d0ef144-9456-40c9-adb1-3242d4ee56f7.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"608\" data-weibo=\"6\" data-vmark=\"000c\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/0/998/829.htm",
+      "link": "https://www.ithome.com/0/998/829.htm",
+      "pubDate": "Sat, 05 Sep 2026 13:57:38 GMT",
+      "isoDate": "2026-09-05T13:57:38.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "automotive",
+      "tagScore": 9,
+      "crossTags": []
+    },
+    {
+      "title": "2399 元，森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机首销",
+      "description": "IT之家 9 月 5 日消息，森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机今日首销，预估到手价为 2399 元。\n\nIT之家从商品页面获悉，这款耳机采用 7mm 动圈驱动单元，支持无线无损传输，搭载骁龙畅听™技术，支持 aptX™ Lossless 编解码器，可以通过蓝牙实现 CD 品质（ 16 bit/44.1 kHz ）的无损音频传输，摆脱线材束缚同时保留高清音乐细节，还原人声器乐层次。\n\n音效方面，它支持杜比全景声空间音频，支持头部追踪技术，精准还原声音定位细节，打造专属 3D 空间声场，观影自带环绕音效，游戏也可听声辨位。\n\n降噪方面，这款耳机采用高性能混合自适应主动降噪，可以持续感知环境噪音并自动调节降噪表现，比如在嘈杂列车上会自动优化过滤纷扰，搭配全新柔软硅胶耳垫可实现更好密封；同时升级自适应抗风噪，可以有效阻挡自然风声，也支持自然通透模式，清晰传递环境声音。\n\n通话方面，它采用 AI 降噪 + 骨传导传感器实现高清通话，每侧耳机内置 4 个麦克风，包含 1 个骨传导语音传感器，可以捕捉身体振动信号，配合优化的 AI 智能算法从嘈杂环境中分离人声，带来清晰自然的通话效果。\n佩戴设计方面，它基于大量耳道扫描研究成果，采用验证过的人体工学设计，优化加长耳机外形，贴合耳部低位结构，单只耳机重量仅约 7g，佩戴舒适度相比上一代产品明显提升，运动时也能稳固贴合。\n续航方面，这款耳机单次续航可达 12 小时，搭配充电盒总续航长达 40 小时，满足全天候使用需求，聆听不中断。\n\n连接方面，它升级蓝牙 6.0，提供无缝稳定的连接，支持多点连接，可以在多个设备之间轻松切换；同时支持蓝牙 AURACAST™ 广播音频技术，可便捷分享音频，还能直接接收机场、车站的公共广播；搭载蓝牙 LE Audio 编解码器，拥有高效音频传输能力，降低传输功耗延长续航，同时支持低延迟游戏模式，游戏声音反馈更及时。\n\n这款耳机还支持声音个性化功能，森海塞尔与弗劳恩霍夫研究所合作开发该功能，可通过交互式聆听测试分析，为用户定制专属音频配置文件，也可根据用户偏好打造专属听觉体验，同时支持通过 App 内的 8 段图形均衡器手动调节，满足不同用户的听感需求。\n\n此外，它支持智能暂停、自定义触控操作，充电盒支持 Qi 无线充电，使用便捷；整机具备 IP54 防尘防泼溅性能，可以应对不同天气场景和多场景使用需求，共有奶油白、焦糖棕、薰衣草、冷萃蓝、石墨黑 5 款配色可选。\n\n京东森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机 2399 元直达链接",
+      "content": "<p data-vmark=\"0000\">IT之家 9 月 5 日消息，森海塞尔 <strong>MOMENTUM 真无线 5 代</strong>蓝牙耳机今日首销，预估到手价为 2399 元。</p><p data-vmark=\"0002\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/91c2fd49-67c9-4215-a1f5-99e0fccffe28.jpg\" w=\"800\" h=\"800\" alt=\"森海塞尔标志性声音介绍\" data-weibo=\"0\" data-vmark=\"2cdc\"></p><p data-vmark=\"0003\">IT之家从商品页面获悉，这款耳机采用 7mm 动圈驱动单元，支持无线无损传输，搭载骁龙畅听™技术，支持 aptX™ Lossless 编解码器，可以通过蓝牙实现 CD 品质（ 16 bit/44.1 kHz ）的无损音频传输，摆脱线材束缚同时保留高清音乐细节，还原人声器乐层次。</p><p data-vmark=\"0004\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/af0ed25b-4180-43ea-834d-9f32ce65a409.jpg\" w=\"800\" h=\"800\" alt=\"无损传输介绍\" data-weibo=\"1\" data-vmark=\"1e2a\"></p><p data-vmark=\"0005\">音效方面，它支持<strong>杜比全景声空间音频</strong>，支持头部追踪技术，精准还原声音定位细节，打造专属 3D 空间声场，观影自带环绕音效，游戏也可听声辨位。</p><p data-vmark=\"0006\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/baf05004-5974-495b-a14e-fa91475fade4.jpg\" w=\"750\" h=\"1395\" alt=\"杜比全景声介绍\" data-weibo=\"2\" data-vmark=\"30ee\"></p><p data-vmark=\"0007\">降噪方面，这款耳机采用<strong>高性能混合自适应主动降噪</strong>，可以持续感知环境噪音并自动调节降噪表现，比如在嘈杂列车上会自动优化过滤纷扰，搭配全新柔软硅胶耳垫可实现更好密封；同时升级自适应抗风噪，可以有效阻挡自然风声，也支持自然通透模式，清晰传递环境声音。</p><p data-vmark=\"0008\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9a4dafd9-bb78-4a31-8bda-6f859e39c963.jpg\" w=\"750\" h=\"1103\" alt=\"自适应主动降噪介绍\" data-weibo=\"3\" data-vmark=\"c4a4\"></p><p data-vmark=\"0009\">通话方面，它采用 <strong>AI 降噪 + 骨传导传感器</strong>实现高清通话，每侧耳机内置 4 个麦克风，包含 1 个骨传导语音传感器，可以捕捉身体振动信号，配合优化的 AI 智能算法从嘈杂环境中分离人声，带来清晰自然的通话效果。</p><p data-vmark=\"000b\">佩戴设计方面，它基于大量耳道扫描研究成果，采用验证过的人体工学设计，优化加长耳机外形，贴合耳部低位结构，单只耳机重量仅约 7g，佩戴舒适度相比上一代产品明显提升，运动时也能稳固贴合。</p><p data-vmark=\"000d\">续航方面，这款耳机单次续航可达 12 小时，搭配充电盒总续航长达 40 小时，满足全天候使用需求，聆听不中断。</p><p data-vmark=\"000e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6bd27b14-5a94-4180-9e85-b9b519bd3b20.jpg\" w=\"750\" h=\"968\" alt=\"续航介绍\" data-weibo=\"4\" data-vmark=\"6ca6\"></p><p data-vmark=\"000f\">连接方面，它升级<strong>蓝牙 6.0</strong>，提供无缝稳定的连接，支持多点连接，可以在多个设备之间轻松切换；同时支持蓝牙 AURACAST™ 广播音频技术，可便捷分享音频，还能直接接收机场、车站的公共广播；搭载蓝牙 LE Audio 编解码器，拥有高效音频传输能力，降低传输功耗延长续航，同时支持低延迟游戏模式，游戏声音反馈更及时。</p><p data-vmark=\"0010\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/07c42626-43ce-4005-b5f8-369d34332706.jpg\" w=\"750\" h=\"1538\" alt=\"蓝牙6.0介绍\" data-weibo=\"5\" data-vmark=\"0738\"></p><p data-vmark=\"0011\">这款耳机还支持声音个性化功能，森海塞尔与弗劳恩霍夫研究所合作开发该功能，可通过交互式聆听测试分析，为用户定制专属音频配置文件，也可根据用户偏好打造专属听觉体验，同时支持通过 App 内的 8 段图形均衡器手动调节，满足不同用户的听感需求。</p><p data-vmark=\"0012\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/08551b7f-23e7-4b56-b370-8349ff05b175.jpg\" w=\"750\" h=\"607\" alt=\"声音个性化功能介绍\" data-weibo=\"6\" data-vmark=\"d71d\"></p><p data-vmark=\"0013\">此外，它支持智能暂停、自定义触控操作，充电盒支持 Qi 无线充电，使用便捷；整机具备 IP54 防尘防泼溅性能，可以应对不同天气场景和多场景使用需求，共有奶油白、焦糖棕、薰衣草、冷萃蓝、石墨黑 5 款配色可选。</p><p data-vmark=\"0014\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/80ddf3c9-cb68-4a33-a27c-3c7ae412a0af.jpg\" w=\"750\" h=\"1658\" alt=\"功能体验介绍\" data-vmark=\"af54\" data-weibo=\"7\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xG8mozK\" target=\"_blank\" data-wapurl=\"https://u.jd.com/xDG8w5k\" data-iosurl=\"https://u.jd.com/xrGIetB\" data-androidurl=\"https://u.jd.com/xO8oX0P\" data-hosnexturl=\"https://u.jd.com/xGGinyh\" data-hosurl=\"https://u.jd.com/xaG82R1\" data-uwpurl=\"https://u.jd.com/x6GsLcb\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fxGGCr7Q%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/xaGCqwv\" data-lpwxurl=\"https://u.jd.com/xGGwUC2\"   data-ncid=\"231399\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/505257/5/5419/65208/6a857c02F1db6cb48/0083320320b6420e.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">森海塞尔 MOMENTUM 真无线 5 代蓝牙耳机</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\"> 2399 元</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir>",
+      "url": "https://www.ithome.com/0/998/818.htm",
+      "link": "https://www.ithome.com/0/998/818.htm",
+      "pubDate": "Sat, 05 Sep 2026 12:28:24 GMT",
+      "isoDate": "2026-09-05T12:28:24.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 2,
+      "crossTags": []
+    },
     {
       "title": "全新理想 L9 阿联酋上市：进军全球最具声望豪车市场之一，软硬件深度适配",
       "description": "IT之家 9 月 5 日消息，理想汽车 4 日宣布，全新理想 L9 正式于阿联酋上市。根据官方介绍，此次阿联酋发布是理想汽车全球化战略的重要里程碑，开启了在全球最具声望的豪华汽车市场之一，中东地区的新篇章。\n当地销售的理想 L9 提供 Ultra 和 Livis 两个版本。全新理想 L9 Ultra 起售价 319,900 阿联酋迪拉姆（IT之家注：现汇率约合 58.5 万元人民币），全新理想 L9 Livis 起售价 359,900 阿联酋迪拉姆（现汇率约合 65.8 万元人民币）。\n\n全新理想 L9 搭载第三代增程式电动动力系统，CLTC 纯电续航里程达 420 公里、综合续航里程达 1650 公里；标配线控转向以及后轮转向，29 英寸 6K 全景屏和高通骁龙 8797 平台驱动的智能座舱，Livis 版本还额外配备了 800V 主动悬架。\n理想汽车针对阿联酋的路况、极端夏季高温及当地充电标准进行了专项标定与适配，优化了高温及沙尘环境下的充电性能和座舱热管理，确保车辆性能和驾乘体验。\n\n全新理想 L9 配备了针对阿联酋市场的区域专属功能。车辆将采用阿拉伯语本地化用户界面，目前语音交互支持英语，阿拉伯语语音支持计划于今年年底前上线。此外，全新理想 L9 还支持当地充电协议适配和本地化的地图数据。\n\n根据介绍，2025 年理想汽车进入中亚、高加索和北非市场，2026 年全新理想 L9 在中亚地区哈萨克斯坦和乌兹别克斯坦上市，此次阿联酋上市完善了理想汽车在海湾地区的市场布局。",
