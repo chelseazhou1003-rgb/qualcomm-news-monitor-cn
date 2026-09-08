@@ -1,27 +1,33 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-08T08:42:15.396Z",
+  "generatedAt": "2026-09-08T13:20:14.169Z",
   "section": "macro-environment",
   "sectionTitle": "宏观环境",
   "count": 3,
   "articles": [
     {
-      "title": "英特尔 CPU 被曝 10 月再涨价 10%，Small Core 低毛利产品线恐停产",
-      "description": "IT之家 9 月 8 日消息，Digitimes 今日援引供应链消息称，英特尔计划于 10 月上旬再次上调电脑 CPU 价格，涨幅预计达 10%。\n同时，毛利率偏低的 Small Core 产品线（如凌动系列）恐将走向 EOL（End of Life），这是英特尔 CEO 陈立武上任后策略调整的一部分。还有传言称，英特尔将再裁减 5% 至 10% 的员工。\n\n自 2025 年底以来，英特尔 CPU 已多次涨价。2026 年第一季度调涨约 10%，7 月再度调涨部分消费级及服务器级 CPU，涨幅从数十美元至逾千美元不等。供应链人士称，涨价主因为整体供应链成本攀升及部分产品需求强劲。\n陈立武目前将策略与产品调整重心放在 CPU 业务，从价格、毛利、产品组合到制造成本进行全面检视。对于 Small Core 产品线，若毛利率过低可能面临 EOL。\nIT之家此前报道，英特尔 12 代酷睿 Alder Lake-S 产品已于 2026 年 1 月 6 日起进入 EOL 阶段，覆盖酷睿 i9 到赛扬型号，最后下单日期为 2026 年 7 月 25 日，最后交付日期为 2027 年 1 月 22 日。\n陈立武此前已经大刀阔斧地对英特尔管理层下手，将管理层级从 12 层大幅缩减至 6 层。7 月再度针对数据中心与 AI 部门进行新一轮裁员，目前全球员工估计约 7.5 万人。自 2022 年以来，英特尔全球员工总数已从约 13.2 万人降至约 8.1 万人，降幅接近 40%。\n业界分析认为，若英特尔缩减低毛利 Small Core 产品，受影响的主要是工业电脑、物联网及嵌入式等长生命周期市场。这些市场客户更重视成本、功耗及供货周期，部分产品毛利率本就较低。一旦需求释出，Arm 阵营的高通、联发科有望切入 IPC 及 IoT 芯片领域。",
-      "content": "<p data-vmark=\"b42a\">IT之家 9 月 8 日消息，Digitimes 今日援引供应链消息称，英特尔计划于 10 月上旬再次上调电脑 CPU 价格，涨幅预计达 10%。</p><p data-vmark=\"263e\">同时，毛利率偏低的 Small Core 产品线（如凌动系列）恐将走向 EOL（End of Life），这是英特尔 CEO 陈立武上任后策略调整的一部分。还有传言称，英特尔将再裁减 5% 至 10% 的员工。</p><p style=\"text-align: center;\" data-vmark=\"1d10\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/7498bebc-d18f-4fa7-b0ac-238d97dba298.jpg?x-bce-process=image/format,f_auto\" w=\"854\" h=\"809\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"05de\" class=\"no-alt-img\"></p><p data-vmark=\"21be\">自 2025 年底以来，英特尔 CPU 已多次涨价。2026 年第一季度调涨约 10%，7 月再度调涨部分消费级及服务器级 CPU，涨幅从数十美元至逾千美元不等。供应链人士称，涨价主因为整体供应链成本攀升及部分产品需求强劲。</p><p data-vmark=\"d9cb\">陈立武目前将策略与产品调整重心放在 CPU 业务，从价格、毛利、产品组合到制造成本进行全面检视。对于 Small Core 产品线，若毛利率过低可能面临 EOL。</p><p data-vmark=\"c6e3\">IT之家此前报道，英特尔 12 代酷睿 Alder Lake-S 产品已于 2026 年 1 月 6 日起进入 EOL 阶段，覆盖酷睿 i9 到赛扬型号，最后下单日期为 2026 年 7 月 25 日，最后交付日期为 2027 年 1 月 22 日。</p><p data-vmark=\"9663\">陈立武此前已经大刀阔斧地对英特尔管理层下手，将管理层级从 12 层大幅缩减至 6 层。7 月再度针对数据中心与 AI 部门进行新一轮裁员，目前全球员工估计约 7.5 万人。自 2022 年以来，英特尔全球员工总数已从约 13.2 万人降至约 8.1 万人，降幅接近 40%。</p><p data-vmark=\"9793\">业界分析认为，若英特尔缩减低毛利 Small Core 产品，受影响的主要是工业电脑、物联网及嵌入式等长生命周期市场。这些市场客户更重视成本、功耗及供货周期，部分产品毛利率本就较低。一旦需求释出，Arm 阵营的高通、联发科有望切入 IPC 及 IoT 芯片领域。</p>",
-      "url": "https://www.ithome.com/0/999/510.htm",
-      "link": "https://www.ithome.com/0/999/510.htm",
-      "pubDate": "Mon, 07 Sep 2026 23:57:20 GMT",
-      "isoDate": "2026-09-07T23:57:20.000Z",
+      "title": "今日开盘：小幅高开 沪指涨幅0.07%",
+      "description": "沪指开盘报3935.55点，涨幅0.07%；深成指报13782.86点，涨幅0.06%\n\n财新网09月08日电：沪指开盘报3935.55点，涨幅0.07%。\n深成指报13782.86点，涨幅0.06%；创业板指报3394.35点，跌幅0.13%；中小板指报8498.52点，涨幅0.21%。\n盘面上，有色金属领涨，综合、农林牧渔、基础化工、商贸零售、纺织服饰等板块涨幅居前，银行领跌，家用电器、美容护理、电力设备、建筑材料、石油石化等走弱。\n消息面上，中美未来几周将举行人工智能对话？外交部表示，双方就AI问题保持沟通；央行连续22个月增持黄金，外汇储备升至3.43万亿美元；华为时隔六年再次发布高性能芯片；六部门发文支持丝绸、茶叶、瓷器、酿造等传统产业 2028年培育50家百亿企业；主管部门进一步规范车企账期，加大执法惩处力度；字节跳动获得296亿美元贷款；小米发布首款“中折叠”手机小米18 Fold。",
+      "content": "<blockquote><p>沪指开盘报3935.55点，涨幅0.07%；深成指报13782.86点，涨幅0.06%</p></blockquote><br>\n       <p>财新网09月08日电：沪指开盘报3935.55点，涨幅0.07%。</p>\n<p>深成指报13782.86点，涨幅0.06%；创业板指报3394.35点，跌幅0.13%；中小板指报8498.52点，涨幅0.21%。</p>\n<p>盘面上，有色金属领涨，综合、农林牧渔、基础化工、商贸零售、纺织服饰等板块涨幅居前，银行领跌，家用电器、美容护理、电力设备、建筑材料、石油石化等走弱。</p>\n<p>消息面上，中美未来几周将举行人工智能对话？外交部表示，双方就AI问题保持沟通；央行连续22个月增持黄金，外汇储备升至3.43万亿美元；<a href=\"https://s.ccxe.com.cn/entities/companies/200081369?originReferrer=pcarticle\" target=\"_blank\">华为</a>时隔六年再次发布高性能芯片；六部门发文支持丝绸、茶叶、瓷器、酿造等传统产业 2028年培育50家百亿企业；主管部门进一步规范车企账期，加大执法惩处力度；<a href=\"https://s.ccxe.com.cn/entities/companies/202030453?originReferrer=pcarticle\" target=\"_blank\">字节跳动</a>获得296亿美元贷款；<a href=\"https://s.ccxe.com.cn/entities/companies/200121078?originReferrer=pcarticle\" target=\"_blank\">小米</a>发布首款“中折叠”手机小米18 Fold。</p>\n      ",
+      "url": "https://finance.caixin.com/2026-09-08/102482697.html",
+      "link": "https://finance.caixin.com/2026-09-08/102482697.html",
+      "pubDate": "Tue, 08 Sep 2026 01:29:53 GMT",
+      "isoDate": "2026-09-08T01:29:53.000Z",
       "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
+      "sourceId": "caixin",
+      "sourceName": "财新网",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "geopoliticalBypass": true,
       "section": "macro-environment",
-      "subCategory": "supply-chain",
-      "tagScore": 8,
-      "crossTags": []
+      "subCategory": "geopolitics-export-controls",
+      "tagScore": 2,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
     },
     {
       "title": "连续五个月站稳3.4万亿美元关口，估值效应驱动8月外储抬升",
