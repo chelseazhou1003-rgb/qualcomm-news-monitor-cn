@@ -1,45 +1,8 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-08T18:06:39.437Z",
+  "generatedAt": "2026-09-08T22:47:37.648Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 2,
-  "articles": [
-    {
-      "title": "安卓版 PS3 模拟器 ARMSX3 迎 0.9.7 版更新，修复手机过热等问题",
-      "description": "IT之家 9 月 8 日消息，当地时间 9 月 6 日，安卓版 PS3 模拟器 ARMSX3 迎来了 0.9.7 版更新，修复手机过热、无法正常退出等多项问题。\n0.9.7 版本重点解决了手机过热问题。开发团队在 GitHub 上公布的更新说明中提到，模拟器有三处会白白占用 CPU 资源，却没有做任何有用的工作。修复后，这些无效任务不会再占用 CPU，手机也不会因此无故发热。\n\n此次更新还解决了模拟器无法正常关闭的问题。此前，用户尝试退出 ARMSX3 时就会终止 RSX 线程，导致画面卡死、声音继续播放，游戏也无法关闭。0.9.7 版本改进了 GPU 设备丢失时的处理方式，模拟器会正常停止运行，不再直接终止 RSX 线程。\n据IT之家了解，此次更新的其他主要修复包括：\n\n音频：新增兼容录制功能的音频开关。开启后会略微增加延迟，但声音可以正常录制。\n\n纹理：此前每次传输纹理时，纹理都会在两种状态之间反复切换，却没有任何实际作用。更新取消了这一过程。\n\n核心休眠：在骁龙 8 Elite 级别设备上，图形指令循环和内存系统中本应让 CPU 核心休眠的等待操作反而会全速空转。更新后，CPU 核心可以正常进入休眠。\n\nVBlank：VBlank 事件源不会再因单次 VBlank 事件发送失败而自行终止。\n\n着色器警告：每次编译着色器时，日志不再反复出现着色器警告。\n\n设置：修复游戏帧率不受限制的问题。",
-      "content": "<p data-vmark=\"7af8\" style=\"text-align: left;\">IT之家 9 月 8 日消息，当地时间 9 月 6 日，安卓版 PS3 模拟器 ARMSX3 迎来了 0.9.7 版更新，修复手机过热、无法正常退出等多项问题。</p><p data-vmark=\"2a91\" style=\"text-align: left;\">0.9.7 版本重点解决了手机过热问题。开发团队在 <a href=\"https://github.com/ARMSX2/ARMSX3/releases/tag/0.9.7\" target=\"_blank\">GitHub 上公布的更新说明</a>中提到，模拟器有三处会白白占用 CPU 资源，却没有做任何有用的工作。修复后，这些无效任务不会再占用 CPU，手机也不会因此无故发热。</p><p data-vmark=\"582a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/511580c2-93e7-46b6-b013-a2dd02094cd7.png\" w=\"1200\" h=\"630\" id=\"1788859037562_1\" data-weibo=\"0\" data-vmark=\"921b\" class=\"no-alt-img\"></p><p data-vmark=\"37e7\" style=\"text-align: left;\">此次更新还解决了模拟器无法正常关闭的问题。此前，用户尝试退出 ARMSX3 时就会终止 RSX 线程，导致<strong>画面卡死、声音继续播放，游戏也无法关闭</strong>。0.9.7 版本改进了 GPU 设备丢失时的处理方式，模拟器会正常停止运行，不再直接终止 RSX 线程。</p><p data-vmark=\"5bf7\" style=\"text-align: left;\">据IT之家了解，此次更新的其他主要修复包括：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d967\">音频：新增兼容录制功能的音频开关。开启后会略微增加延迟，但声音可以正常录制。</p></li><li><p data-vmark=\"2818\">纹理：此前每次传输纹理时，纹理都会在两种状态之间反复切换，却没有任何实际作用。更新取消了这一过程。</p></li><li><p data-vmark=\"ce2f\">核心休眠：在骁龙 8 Elite 级别设备上，图形指令循环和内存系统中本应让 CPU 核心休眠的等待操作反而会全速空转。更新后，CPU 核心可以正常进入休眠。</p></li><li><p data-vmark=\"7910\">VBlank：VBlank 事件源不会再因单次 VBlank 事件发送失败而自行终止。</p></li><li><p data-vmark=\"85c8\">着色器警告：每次编译着色器时，日志不再反复出现着色器警告。</p></li><li><p data-vmark=\"58ce\">设置：修复游戏帧率不受限制的问题。</p></li></ul>",
-      "url": "https://www.ithome.com/0/999/831.htm",
-      "link": "https://www.ithome.com/0/999/831.htm",
-      "pubDate": "Tue, 08 Sep 2026 09:18:53 GMT",
-      "isoDate": "2026-09-08T09:18:53.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 7,
-      "crossTags": []
-    },
-    {
-      "title": "HMD Salo 5G 手机发布：面向 B 端市场，搭骁龙 4s Gen 2 处理器",
-      "description": "IT之家 9 月 8 日消息，HMD Global 现已在海外市场推出一款专门面向 B 端市场的 HMD Salo 5G 手机，该机仅向企业开放销售，本质上是 2024 年被砍的 HMD Titan 5G 项目更名版本。\n\n\n该机搭载一块 6.56 英寸 1080x2400 分辨率 90Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面使用 64Mp 主摄和 13Mp 超广角。\n\n该机搭载高通骁龙 4s Gen 2 处理器，匹配至高 8GB RAM 和 128GB 存储空间，内置 5000mAh 电池（支持 33W 有线充电），搭载安卓 16 系统，提供 5 年安全更新。",
-      "content": "<p data-vmark=\"80e5\">IT之家 9 月 8 日消息，HMD Global 现已在海外市场推出一款专门面向 B 端市场的 HMD Salo 5G 手机，该机仅向企业开放销售，本质上是 2024 年被砍的 HMD Titan 5G 项目更名版本。</p><p style=\"text-align: center;\" data-vmark=\"53ea\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/52349398-87e3-4989-8b0a-f1fa8af4a072.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"796\" data-weibo=\"0\" data-vmark=\"f1b7\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"aa91\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/843d598a-cf00-422b-a955-feba7c2d1631.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"815\" data-weibo=\"1\" data-vmark=\"0f2e\" class=\"no-alt-img\"></p><p data-vmark=\"ca58\">该机搭载一块 6.56 英寸 1080x2400 分辨率 90Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面使用 64Mp 主摄和 13Mp 超广角。</p><p style=\"text-align: center;\" data-vmark=\"9c34\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/e31055e0-189a-4b5d-9694-d82992d12380.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"794\" data-weibo=\"2\" data-vmark=\"abda\" class=\"no-alt-img\"></p><p data-vmark=\"b815\">该机搭载高通骁龙 4s Gen 2 处理器，匹配至高 8GB RAM 和 128GB 存储空间，内置 5000mAh 电池（支持 33W 有线充电），搭载安卓 16 系统，提供 5 年安全更新。</p>",
-      "url": "https://www.ithome.com/0/999/792.htm",
-      "link": "https://www.ithome.com/0/999/792.htm",
-      "pubDate": "Tue, 08 Sep 2026 08:02:59 GMT",
-      "isoDate": "2026-09-08T08:02:59.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "tagScore": 10,
-      "crossTags": []
-    }
-  ]
+  "count": 0,
+  "articles": []
 }
