@@ -1,52 +1,67 @@
 {
   "date": "2026-09-09",
-  "generatedAt": "2026-09-09T18:09:00.269Z",
+  "generatedAt": "2026-09-09T22:49:19.214Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
   "count": 2,
   "articles": [
     {
-      "title": "Counterpoint：2026 年 Q2 联发科和高通手机芯片出货量均同比下降超 30%",
-      "description": "IT之家 9 月 9 日消息，Counterpoint 今日公布了 2024 年第一季度至 2026 年第二季度全球智能手机 AP-SoC 市场份额数据，以下是各厂商各季度占比情况：\n\n\n联发科 2026 年第二季度整体出货量同比下降，市场份额 31% 位列第一。主流和入门级细分市场出货量受到持续内存短缺的影响；高端市场出货量也出现下滑，原因是搭载天玑 9000 系列的设备销售放缓。天玑 8000 系列中，天玑 8500 推动了出货量增长，这得益于 Poco X8 Pro 和荣耀 Power 2 系列的强劲表现。\n\n高通 2026 年第二季度出货量同比下降，市场份额 23%。高端市场出货量受到三星在部分地区 Galaxy S26 系列基础款采用 Exynos 2600 的影响。骁龙 600 和骁龙 400 系列出货量也受到持续内存短缺和库存积压的影响。\n\n苹果方面，受 iPhone 17 系列，尤其是 Pro 型号销量提升推动，2026 年第二季度苹果芯片出货量同比小幅增长，市场份额 19%。A19 系列出货量将高于前代产品，iPhone 17 系列整体表现优于 iPhone 16 系列，Pro 机型凭借高性价比在各地区表现出色。\n\n紫光展锐 2026 年第二季度出货量同比下降，原因是内存危机以及入门级市场面临挑战，市场份额 13%。该公司的 LTE 领域得到 T7250 设计订单的支持，同时通过 T8300 与主流智能手机 OEM 的设计合作，继续在入门级 5G 市场获得份额。\n\n三星 Exynos 芯片 2026 年第二季度出货量同比增长，市场份额 9%。高端市场销量由三星 Galaxy S26 系列推动，该系列基础款搭载 Exynos 2600；中端市场出货量则由三星 Galaxy A57 搭载的 Exynos 1680 和三星 Galaxy A37 搭载的 Exynos 1480 推动。\n\n海思（华为）2026 年第二季度出货量同比下降，市场份额 5%。华为 Pura 90 系列发布后，高端市场出货量有所增长，但由于 Nova 16 系列采用麒麟 9010，中端市场出货量下降。\n\n\nIT之家从报告获悉，2026 年第二季度全球智能手机出货量同比下降 21%，主要原因是内存成本上涨以及智能手机 OEM 采取谨慎的库存管理策略。\n本季度联发科和高通出货量同比下降均超过 30%。预计中低端市场将受到最大影响，因为 OEM 可能会减少入门级机型，并优化产品组合以保护利润率。",
-      "content": "<p data-vmark=\"0000\">IT之家 9 月 9 日消息，Counterpoint 今日公布了 2024 年第一季度至 2026 年第二季度全球智能手机 AP-SoC 市场份额数据，以下是各厂商各季度占比情况：</p><p style=\"text-align: center;\" data-vmark=\"e13e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/750e72cc-9c9e-42a4-890b-933013651d22.png?x-bce-process=image/format,f_auto\" w=\"1196\" h=\"626\" data-weibo=\"0\" data-vmark=\"6653\" class=\"no-alt-img\"></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"a626\"><strong>联发科</strong> 2026 年第二季度整体出货量同比下降，市场份额 31% 位列第一。主流和入门级细分市场出货量受到持续内存短缺的影响；高端市场出货量也出现下滑，原因是搭载天玑 9000 系列的设备销售放缓。天玑 8000 系列中，天玑 8500 推动了出货量增长，这得益于 Poco X8 Pro 和<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/01/06/cb6212eb-72e1-4c1e-a59b-83b414956084.png?x-bce-process=image/format,f_auto\" data-topic-id=\"59473\">荣耀 Power 2</span> 系列的强劲表现。</p></li><li><p data-vmark=\"9985\"><strong>高通</strong> 2026 年第二季度出货量同比下降，市场份额 23%。高端市场出货量受到三星在部分地区 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/03/03/145cd156-9595-430b-80ee-f727aef5486d.png?x-bce-process=image/format,f_auto\" data-topic-id=\"60428\">Galaxy S26</span> 系列基础款采用 Exynos 2600 的影响。骁龙 600 和骁龙 400 系列出货量也受到持续内存短缺和库存积压的影响。</p></li><li><p data-vmark=\"cde4\"><strong>苹果</strong>方面，受 iPhone 17 系列，尤其是 Pro 型号销量提升推动，2026 年第二季度苹果芯片出货量同比小幅增长，市场份额 19%。A19 系列出货量将高于前代产品，iPhone 17 系列整体表现优于 iPhone 16 系列，Pro 机型凭借高性价比在各地区表现出色。</p></li><li><p data-vmark=\"3064\"><strong>紫光展锐</strong> 2026 年第二季度出货量同比下降，原因是内存危机以及入门级市场面临挑战，市场份额 13%。该公司的 LTE 领域得到 T7250 设计订单的支持，同时通过 T8300 与主流智能手机 OEM 的设计合作，继续在入门级 5G 市场获得份额。</p></li><li><p data-vmark=\"1146\"><strong>三星</strong> Exynos 芯片 2026 年第二季度出货量同比增长，市场份额 9%。高端市场销量由三星 Galaxy S26 系列推动，该系列基础款搭载 Exynos 2600；中端市场出货量则由三星 Galaxy A57 搭载的 Exynos 1680 和三星 Galaxy A37 搭载的 Exynos 1480 推动。</p></li><li><p data-vmark=\"b8ae\"><strong>海思（华为）</strong>2026 年第二季度出货量同比下降，市场份额 5%。华为 Pura 90 系列发布后，高端市场出货量有所增长，但由于 Nova 16 系列采用麒麟 9010，中端市场出货量下降。</p></li></ul><p style=\"text-align: center;\" data-vmark=\"72e0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/fe08f7ad-1cf8-40fc-a712-2efa0a693617.png?x-bce-process=image/format,f_auto\" w=\"1178\" h=\"528\" data-weibo=\"1\" data-vmark=\"930b\" class=\"no-alt-img\"></p><p data-vmark=\"0002\">IT之家从报告获悉，<strong>2026 年第二季度全球智能手机出货量同比下降 21%</strong>，主要原因是内存成本上涨以及智能手机 OEM 采取谨慎的库存管理策略。</p><p data-vmark=\"43b7\"><strong>本季度联发科和高通出货量同比下降均超过 30%</strong>。预计中低端市场将受到最大影响，因为 OEM 可能会减少入门级机型，并优化产品组合以保护利润率。</p>",
-      "url": "https://www.ithome.com/1/000/254.htm",
-      "link": "https://www.ithome.com/1/000/254.htm",
-      "pubDate": "Wed, 09 Sep 2026 07:53:58 GMT",
-      "isoDate": "2026-09-09T07:53:58.000Z",
+      "title": "开发者将《GTA5》移植到安卓平台，骁龙 865 以上 CPU、8GB 以上内存可玩",
+      "description": "IT之家 9 月 9 日消息，据科技媒体 Android Authority 今天报道，曾开发《GTA5》非官方 Switch 版的开发者 mojso 表示，他正在将这款游戏移植到安卓平台，计划下个月发布正式版。\n\n开发者透露，安卓版《GTA5》的最低配置要求是骁龙 865 芯片、8GB 内存和 65GB 存储空间，系统需要 Android 13 或以上。虽然更低配置的设备也许可以进入游戏，但无法保证流畅度。对于一款开放世界大作来说，这些配置要求已经非常低了。\n\n同时开发者确认，本作将支持三星 Exynos 芯片的 Xclipse GPU，未来支持 Mali GPU。不过，采用 PowerVR GPU 的谷歌 Tensor 芯片将“永远不会获得支持”。\nAndroid Authority 认为，该移植版《侠盗猎车手 V》应该是基于 2023 年泄露代码开发，因此 Rockstar 和 T2（IT之家注：Take-Two）很有可能在游戏发布时挥起版权大棒，届时用户可能难以找到靠谱的下载渠道。",
+      "content": "<p data-vmark=\"4122\">IT之家 9 月 9 日消息，据科技媒体 Android Authority 今天报道，曾开发《GTA5》非官方 Switch 版的开发者 mojso 表示，他正在将这款游戏移植到安卓平台，计划下个月发布正式版。</p><p style=\"text-align: center;\" data-vmark=\"c0ee\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4f504b20-8910-44b4-8ca6-fcb2ab9299be.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"963\" data-weibo=\"0\" data-vmark=\"3c9f\" class=\"no-alt-img\"></p><p data-vmark=\"e334\">开发者透露，<strong>安卓版《GTA5》的最低配置要求是骁龙 865 芯片</strong>、<strong>8GB 内存和 65GB 存储空间</strong>，系统需要 Android 13 或以上。虽然更低配置的设备也许可以进入游戏，但无法保证流畅度。对于一款开放世界大作来说，这些配置要求已经非常低了。</p><p style=\"text-align: center;\" data-vmark=\"0bfe\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ff952656-0dfd-488e-98f7-d1ca5b0d49ac.jpg?x-bce-process=image/format,f_auto\" w=\"995\" h=\"1024\" data-weibo=\"1\" data-vmark=\"5661\" class=\"no-alt-img\"></p><p data-vmark=\"2e7d\">同时开发者确认，本作将支持三星 Exynos 芯片的 Xclipse GPU，未来支持 Mali GPU。不过，采用 PowerVR GPU 的谷歌 Tensor 芯片将“永远不会获得支持”。</p><p data-vmark=\"6ee9\">Android Authority 认为，<strong>该移植版《侠盗猎车手 V》应该是基于 2023 年泄露代码开发</strong>，因此 Rockstar 和 T2（IT之家注：Take-Two）很有可能在游戏发布时挥起版权大棒，届时用户可能难以找到靠谱的下载渠道。</p>",
+      "url": "https://www.ithome.com/1/000/467.htm",
+      "link": "https://www.ithome.com/1/000/467.htm",
+      "pubDate": "Wed, 09 Sep 2026 14:20:27 GMT",
+      "isoDate": "2026-09-09T14:20:27.000Z",
       "author": "",
       "sourceId": "ithome",
       "sourceName": "IT之家",
       "sourceGroup": "tech",
       "fetchStrategy": "rss",
       "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 17,
+      "subCategory": "semiconductors",
+      "tagScore": 6,
       "crossTags": [
         {
           "type": "stakeholder",
           "id": "oem"
+        },
+        {
+          "type": "stakeholder",
+          "id": "platform-partner"
         }
       ],
       "isCrossTag": true,
       "crossTagId": "oem"
     },
     {
-      "title": "云计算战场，x86阵营失守？",
-      "description": "“我们正在见证数据中心历史上架构份额最快的一次转变。”\n火山引擎正在基于Arm平台构建下一代云服务。\n9月8日，Arm Everywhere China年度大会在上海举办。字节跳动旗下的云计算板块火山引擎，在大会上透露已将首批基于Arm AGI CPU的智能体沙箱解决方案推向市场。而全球云计算市场份额前三位的亚马逊、谷歌以及微软，此前也已经重新审视CPU的价值了。\n人工智能浪潮之初，GPU抢尽风头而CPU被冷落；随着智能体的到来，CPU重新回到舞台中央。同样重大的变化在于CPU的底层架构，Counterpoint Research高级分析师Parv Sharma 对第一财经记者表示：“我们正在见证数据中心历史上架构份额最快的一次转变。”\n\n集体行动的逻辑\n智能体令市场重新聚焦CPU。\n“随着智能体的发展，市场对安全、隔离且能够弹性扩展的大规模执行环境需求不断增长。”火山引擎云基础产品经理负责人李越渊表示，火山引擎对Arm AGI CPU进行早期评估后认为，其在主流云工作负载中展现出良好的性能潜力。\n联想也已围绕Arm AGI CPU开发相关解决方案。联想集团副总裁、中国基础设施业务群总经理陈振宽表示，联想和Arm对算力基础设施未来的发展方向有着共同的愿景，通过发挥双方优势，能够使技术创新满足中国市场快速增长的AI算力需求。\n在Arm云AI业务拓展副总裁Eddie Ramirez看来，当前中国许多云服务商正在探索如何服务企业工作负载、云原生工作负载，以及应对智能体AI的需求。这些不同的工作负载需要多种CPU类型。\n不止火山引擎和联想，全球云计算巨头们都在大手笔入局CPU。\n今年8月份，一位英伟达业务副总裁亲赴西雅图，把首批 Vera CPU 服务器交付至亚马逊云科技。这是地表最能赚钱的芯片企业与规模最大的云计算平台的合作，具有很强的指标意义。\n亚马逊云科技上的核心计算单元依然是GPU，但CPU的价值正在被重新定义；GPU使得英伟达成为全球市值最高的芯片企业，而现在它日益重视CPU业务了。\n微软在云计算市场的份额仅次于亚马逊。\n在今年年中的电话会议上，微软方面曾预计，到7月底搭载Cobalt 200的机架就将部署在全球超过25个数据中心。Cobalt 200是微软第二代Arm架构的CPU，相较前代产品性能最高提升50%。\n谷歌在云计算市场的份额排在亚马逊、微软之后。\n今年早些时候，谷歌云发布第八代TPU系统，首次搭载谷歌Axion CPU作为计算头节点。这款CPU面向通用计算和人工智能推理工作负载。\n在人工智能浪潮的早期，GPU是幸运儿，英伟达市值也因此超过5万亿美元。用于通用计算的CPU一度被冷落，相应企业如英特尔的市值此前也被压制。\n现在，云计算巨头为什么重新重视CPU了？\n这种转变最核心的因素，是人工智能从生成式向智能体进化，从单纯的“回答问题”转向“采取行动”。传统推理仅依赖单次模型调用，而智能体系统涉及工具调用、编排系统，以及长上下文检索操作，这都是CPU更擅长的工作。\n亚马逊、微软、谷歌等科技巨头，是这一轮AI浪潮的最慷慨投资者。它们的集体行动，重新把CPU拉回聚光灯下。微软 CEO 萨提亚•纳德拉在中期业绩会上表示：“在运行智能体负载时，CPU与GPU同样重要。”\n这些云计算公司的数据中心里，GPU和CPU的配比，正在发生剧烈变化。智能体出现之前，GPU与CPU的配比最高可达到8:1,也就是八颗GPU只需要搭配一颗CPU。\nArm首席营销官Ami Badani对第一财经记者表示，随着市场当中智能体工作流或者工作负载激增，相信未来GPU和CPU在云计算平台的比例会接近1：1。\n\nArm侵蚀x86\n服务器CPU市场在超预期地增长。\n“CPU需求正在呈指数级增长。自2025年下半年起，服务器CPU市场出现供应紧张。”Parv Sharma预计，到2030年，全球服务器CPU市场规模将增长约6倍，达到约2000亿美元。\n这一趋势对英特尔、AMD和Arm等核心的CPU企业都是好消息。但是，这些企业从这一趋势中获得的利益大不相同。x86架构的CPU需求增量小，而Arm架构CPU增量大。\nx86和Arm都是CPU的指令集架构，就像世界上两套不同的语言体系。前者的代表性企业是英特尔和AMD，后者的代表性企业是总部位于英国的Arm公司。Arm通过授权IP向各大企业输出知识产权，也在今年首度推出了自己的实体CPU。\n亚马逊、微软等企业依然购买x86阵营里英特尔和AMD的CPU，但它们现在更重视Arm阵营了。\n目前，主要的超大规模云服务提供商均已采用Arm架构来自研芯片，亚马逊的Graviton、谷歌的Axion、微软的Cobalt和英伟达的Vera均是如此。\n科技企业基于Arm的IP自研CPU，能够掌握设计周期，针对特定工作负载进行定制。这种令超大规模云厂商获得产品节奏的掌控力，是x86供应商无法满足的。\n能耗同样是云计算企业选择x86或Arm架构的重要考量。\n今年6月，加州的蒙特利公园市通过一项提案，全面禁建数据中心。当地居民的担心之一，是数据中心大量消耗电力，推高当地民用电价。数据中心的高能耗，对互联网巨头们同样意味着厚厚的账单。国际能源署数据显示，面向AI的数据中心用电量在2025年增长五成。\nx86架构最初面向个人电脑，而Arm架构最初面向手机；在数据中心业务里，前者具有生态优势，后者具有能耗优势。Parv Sharma对第一财经记者表示，与x86相比，Arm的每瓦性能约高出30%。\n短期来看，数据中心CPU市场仍由x86阵营的英特尔和AMD主导。但基于Arm架构的数据中心CPU正在新部署中占据较大份额。IDC 数据显示，基于Arm架构的机架级服务器已超越 x86。\n这意味着AI基础设施正在加速向Arm架构迁移。\n“我们正在见证数据中心历史上架构份额最快的一次转变，其背后的主要驱动力是超大规模云厂商开始将Arm作为新一代Agentic AI和云原生工作负载的默认架构。”Parv Sharma说。\n\n四方角逐\n当前的CPU市场，演变为四类企业竞争的格局。\n英伟达成为商业CPU供应商；Arm和高通携自研芯片进入市场；超大规模云厂商则在基于Arm架构扩展其自研芯片系列；而x86阵营的英特尔和AMD则在努力捍卫市场地位。\n线程密度决定了单颗CPU能够同时运行多少个并行智能体。这一点对于以执行操作为导向的智能体尤为重要。\nx86体系树大根深，生态上绑定了海量应用。超大规模云厂商有足够的人员和资金储备，来完成从x86向Arm的迁移。这种迁移需要兼容既有软件，包括数据库、专有分析工具、ERP系统等。每一款软件都需要进行测试、验证，并且通常还需要重新编译。这种迁移所需要的人才和资金，往往超出了中小型云厂商所能承受的范围。\nArm的优势在于能源效率，也就是每瓦电力能榨出更高工作效果。对于云厂商而言，节约每一瓦电力，从每一瓦电力里释放出更多可用算力，变得越来越不可忽视。\nx86阵营的英特尔和AMD试图捍卫各自阵地。\nAMD采取了更具进攻性的策略，推出采用台积电2nm先进制程的产品，与英伟达Vera展开竞争，并宣称性能最高可比英特尔提升3.4倍、比英伟达Vera高20%。此外，AMD也在通过打造机架级系统，从而与英伟达展开竞争。\n据Parv Sharma观察，AMD平均售价高于英特尔，因此在x86市场中获得了更高的收入份额。\n英特尔也在追赶。\n英特尔采用18A制程节点的芯片已经出货，目标是高密度扩展型工作负载。此外，采用英特尔18A-P制程节点的芯片预计于2027年上市，并将在智能体相关工作任务领域与AMD 展开市场争夺。\n“对于x86而言，其优势仍然在于软件生态成熟度以及无须重新编译。此外，x86在高性能计算和企业遗留工作负载方面仍处于领先地位。但x86的每瓦性能低于Arm，同时英特尔在执行、产品节点方面的延迟也导致其出现竞争劣势。”Parv Sharma表示。\nCounterpoint Research预测，到2029年，基于Arm架构的CPU预计将占定制AI ASIC服务器主机CPU部署量的至少90%，高于2025年的约25%。",
-      "content": "<figure><img src=\"https://imgcdn.yicai.com/uppics/slides/2026/09/32df59764062cc99f2b8cab191056ffb.jpg\" alt=\"云计算战场，x86阵营失守？\" referrerpolicy=\"no-referrer\"></figure><p>“我们正在见证数据中心历史上架构份额最快的一次转变。”</p><p>火山引擎正在基于Arm平台构建下一代云服务。</p>\n\n<p>9月8日，Arm Everywhere China年度大会在上海举办。字节跳动旗下的云计算板块火山引擎，在大会上透露已将首批基于Arm AGI CPU的智能体沙箱解决方案推向市场。而全球云计算市场份额前三位的亚马逊、谷歌以及微软，此前也已经重新审视CPU的价值了。</p>\n\n<p>人工智能浪潮之初，GPU抢尽风头而CPU被冷落；随着智能体的到来，CPU重新回到舞台中央。同样重大的变化在于CPU的底层架构，Counterpoint Research高级分析师Parv Sharma 对第一财经记者表示：“我们正在见证数据中心历史上架构份额最快的一次转变。”</p>\n\n<p align=\"center\"><img align=\"\" alt=\"\" border=\"0\" height=\"1203\" src=\"https://imgcdn.yicai.com/uppics/images/2026/09/c549fe98990067bbb30760a85e4effb4.jpg\" width=\"1920\" referrerpolicy=\"no-referrer\"></p>\n\n<p><strong>集体行动的逻辑</strong></p>\n\n<p>智能体令市场重新聚焦CPU。</p>\n\n<p>“随着智能体的发展，市场对安全、隔离且能够弹性扩展的大规模执行环境需求不断增长。”火山引擎云基础产品经理负责人李越渊表示，火山引擎对Arm AGI CPU进行早期评估后认为，其在主流云工作负载中展现出良好的性能潜力。</p>\n\n<p>联想也已围绕Arm AGI CPU开发相关解决方案。联想集团副总裁、中国基础设施业务群总经理陈振宽表示，联想和Arm对算力基础设施未来的发展方向有着共同的愿景，通过发挥双方优势，能够使技术创新满足中国市场快速增长的AI算力需求。</p>\n\n<p>在Arm云AI业务拓展副总裁Eddie Ramirez看来，当前中国许多云服务商正在探索如何服务企业工作负载、云原生工作负载，以及应对智能体AI的需求。这些不同的工作负载需要多种CPU类型。</p>\n\n<p>不止火山引擎和联想，全球云计算巨头们都在大手笔入局CPU。</p>\n\n<p>今年8月份，一位英伟达业务副总裁亲赴西雅图，把首批 Vera CPU 服务器交付至亚马逊云科技。这是地表最能赚钱的芯片企业与规模最大的云计算平台的合作，具有很强的指标意义。</p>\n\n<p>亚马逊云科技上的核心计算单元依然是GPU，但CPU的价值正在被重新定义；GPU使得英伟达成为全球市值最高的芯片企业，而现在它日益重视CPU业务了。</p>\n\n<p>微软在云计算市场的份额仅次于亚马逊。</p>\n\n<p>在今年年中的电话会议上，微软方面曾预计，到7月底搭载Cobalt 200的机架就将部署在全球超过25个数据中心。Cobalt 200是微软第二代Arm架构的CPU，相较前代产品性能最高提升50%。</p>\n\n<p>谷歌在云计算市场的份额排在亚马逊、微软之后。</p>\n\n<p>今年早些时候，谷歌云发布第八代TPU系统，首次搭载谷歌Axion CPU作为计算头节点。这款CPU面向通用计算和人工智能推理工作负载。</p>\n\n<p>在人工智能浪潮的早期，GPU是幸运儿，英伟达市值也因此超过5万亿美元。用于通用计算的CPU一度被冷落，相应企业如英特尔的市值此前也被压制。</p>\n\n<p>现在，云计算巨头为什么重新重视CPU了？</p>\n\n<p>这种转变最核心的因素，是人工智能从生成式向智能体进化，从单纯的“回答问题”转向“采取行动”。传统推理仅依赖单次模型调用，而智能体系统涉及工具调用、编排系统，以及长上下文检索操作，这都是CPU更擅长的工作。</p>\n\n<p>亚马逊、微软、谷歌等科技巨头，是这一轮AI浪潮的最慷慨投资者。它们的集体行动，重新把CPU拉回聚光灯下。微软 CEO 萨提亚•纳德拉在中期业绩会上表示：“在运行智能体负载时，CPU与GPU同样重要。”</p>\n\n<p>这些云计算公司的数据中心里，GPU和CPU的配比，正在发生剧烈变化。智能体出现之前，GPU与CPU的配比最高可达到8:1,也就是八颗GPU只需要搭配一颗CPU。</p>\n\n<p>Arm首席营销官Ami Badani对第一财经记者表示，随着市场当中智能体工作流或者工作负载激增，相信未来GPU和CPU在云计算平台的比例会接近1：1。</p>\n\n<p align=\"center\"><img align=\"\" alt=\"\" border=\"0\" height=\"508\" src=\"https://imgcdn.yicai.com/uppics/images/2026/09/684c9b2817d14db2ecf5a935989db383.jpg\" width=\"800\" referrerpolicy=\"no-referrer\"></p>\n\n<p><strong>Arm</strong><strong>侵蚀x86</strong></p>\n\n<p>服务器CPU市场在超预期地增长。</p>\n\n<p>“CPU需求正在呈指数级增长。自2025年下半年起，服务器CPU市场出现供应紧张。”Parv Sharma预计，到2030年，全球服务器CPU市场规模将增长约6倍，达到约2000亿美元。</p>\n\n<p>这一趋势对英特尔、AMD和Arm等核心的CPU企业都是好消息。但是，这些企业从这一趋势中获得的利益大不相同。x86架构的CPU需求增量小，而Arm架构CPU增量大。</p>\n\n<p>x86和Arm都是CPU的指令集架构，就像世界上两套不同的语言体系。前者的代表性企业是英特尔和AMD，后者的代表性企业是总部位于英国的Arm公司。Arm通过授权IP向各大企业输出知识产权，也在今年首度推出了自己的实体CPU。</p>\n\n<p>亚马逊、微软等企业依然购买x86阵营里英特尔和AMD的CPU，但它们现在更重视Arm阵营了。</p>\n\n<p>目前，主要的超大规模云服务提供商均已采用Arm架构来自研芯片，亚马逊的Graviton、谷歌的Axion、微软的Cobalt和英伟达的Vera均是如此。</p>\n\n<p>科技企业基于Arm的IP自研CPU，能够掌握设计周期，针对特定工作负载进行定制。这种令超大规模云厂商获得产品节奏的掌控力，是x86供应商无法满足的。</p>\n\n<p>能耗同样是云计算企业选择x86或Arm架构的重要考量。</p>\n\n<p>今年6月，加州的蒙特利公园市通过一项提案，全面禁建数据中心。当地居民的担心之一，是数据中心大量消耗电力，推高当地民用电价。数据中心的高能耗，对互联网巨头们同样意味着厚厚的账单。国际能源署数据显示，面向AI的数据中心用电量在2025年增长五成。</p>\n\n<p>x86架构最初面向个人电脑，而Arm架构最初面向手机；在数据中心业务里，前者具有生态优势，后者具有能耗优势。Parv Sharma对第一财经记者表示，与x86相比，Arm的每瓦性能约高出30%。</p>\n\n<p>短期来看，数据中心CPU市场仍由x86阵营的英特尔和AMD主导。但基于Arm架构的数据中心CPU正在新部署中占据较大份额。IDC 数据显示，基于Arm架构的机架级服务器已超越 x86。</p>\n\n<p>这意味着AI基础设施正在加速向Arm架构迁移。</p>\n\n<p>“我们正在见证数据中心历史上架构份额最快的一次转变，其背后的主要驱动力是超大规模云厂商开始将Arm作为新一代Agentic AI和云原生工作负载的默认架构。”Parv Sharma说。</p>\n\n<p align=\"center\"><img align=\"\" alt=\"\" border=\"0\" height=\"720\" src=\"https://imgcdn.yicai.com/uppics/images/2026/09/65a8dcd43016386909cf2b9b8ebbc6ae.jpg\" width=\"1080\" referrerpolicy=\"no-referrer\"></p>\n\n<p><strong>四方角逐</strong></p>\n\n<p>当前的CPU市场，演变为四类企业竞争的格局。</p>\n\n<p>英伟达成为商业CPU供应商；Arm和高通携自研芯片进入市场；超大规模云厂商则在基于Arm架构扩展其自研芯片系列；而x86阵营的英特尔和AMD则在努力捍卫市场地位。</p>\n\n<p>线程密度决定了单颗CPU能够同时运行多少个并行智能体。这一点对于以执行操作为导向的智能体尤为重要。</p>\n\n<p>x86体系树大根深，生态上绑定了海量应用。超大规模云厂商有足够的人员和资金储备，来完成从x86向Arm的迁移。这种迁移需要兼容既有软件，包括数据库、专有分析工具、ERP系统等。每一款软件都需要进行测试、验证，并且通常还需要重新编译。这种迁移所需要的人才和资金，往往超出了中小型云厂商所能承受的范围。</p>\n\n<p>Arm的优势在于能源效率，也就是每瓦电力能榨出更高工作效果。对于云厂商而言，节约每一瓦电力，从每一瓦电力里释放出更多可用算力，变得越来越不可忽视。</p>\n\n<p>x86阵营的英特尔和AMD试图捍卫各自阵地。</p>\n\n<p>AMD采取了更具进攻性的策略，推出采用台积电2nm先进制程的产品，与英伟达Vera展开竞争，并宣称性能最高可比英特尔提升3.4倍、比英伟达Vera高20%。此外，AMD也在通过打造机架级系统，从而与英伟达展开竞争。</p>\n\n<p>据Parv Sharma观察，AMD平均售价高于英特尔，因此在x86市场中获得了更高的收入份额。</p>\n\n<p>英特尔也在追赶。</p>\n\n<p>英特尔采用18A制程节点的芯片已经出货，目标是高密度扩展型工作负载。此外，采用英特尔18A-P制程节点的芯片预计于2027年上市，并将在智能体相关工作任务领域与AMD 展开市场争夺。</p>\n\n<p>“对于x86而言，其优势仍然在于软件生态成熟度以及无须重新编译。此外，x86在高性能计算和企业遗留工作负载方面仍处于领先地位。但x86的每瓦性能低于Arm，同时英特尔在执行、产品节点方面的延迟也导致其出现竞争劣势。”Parv Sharma表示。</p>\n\n<p>Counterpoint Research预测，到2029年，基于Arm架构的CPU预计将占定制AI ASIC服务器主机CPU部署量的至少90%，高于2025年的约25%。</p>\n",
-      "url": "https://www.yicai.com/news/103357490.html",
-      "link": "https://www.yicai.com/news/103357490.html",
-      "pubDate": "Wed, 09 Sep 2026 03:53:16 GMT",
-      "isoDate": "2026-09-09T03:53:16.000Z",
-      "author": "彭海斌",
-      "sourceId": "yicai",
-      "sourceName": "第一财经",
-      "sourceGroup": "finance",
-      "fetchStrategy": "rsshub",
-      "section": "stakeholders",
-      "subCategory": "platform-partner",
-      "tagScore": 48,
-      "crossTags": []
+      "title": "开发者将《GTA5》移植到安卓平台，骁龙 865 以上 CPU、8GB 以上内存可玩",
+      "description": "IT之家 9 月 9 日消息，据科技媒体 Android Authority 今天报道，曾开发《GTA5》非官方 Switch 版的开发者 mojso 表示，他正在将这款游戏移植到安卓平台，计划下个月发布正式版。\n\n开发者透露，安卓版《GTA5》的最低配置要求是骁龙 865 芯片、8GB 内存和 65GB 存储空间，系统需要 Android 13 或以上。虽然更低配置的设备也许可以进入游戏，但无法保证流畅度。对于一款开放世界大作来说，这些配置要求已经非常低了。\n\n同时开发者确认，本作将支持三星 Exynos 芯片的 Xclipse GPU，未来支持 Mali GPU。不过，采用 PowerVR GPU 的谷歌 Tensor 芯片将“永远不会获得支持”。\nAndroid Authority 认为，该移植版《侠盗猎车手 V》应该是基于 2023 年泄露代码开发，因此 Rockstar 和 T2（IT之家注：Take-Two）很有可能在游戏发布时挥起版权大棒，届时用户可能难以找到靠谱的下载渠道。",
+      "content": "<p data-vmark=\"4122\">IT之家 9 月 9 日消息，据科技媒体 Android Authority 今天报道，曾开发《GTA5》非官方 Switch 版的开发者 mojso 表示，他正在将这款游戏移植到安卓平台，计划下个月发布正式版。</p><p style=\"text-align: center;\" data-vmark=\"c0ee\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4f504b20-8910-44b4-8ca6-fcb2ab9299be.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"963\" data-weibo=\"0\" data-vmark=\"3c9f\" class=\"no-alt-img\"></p><p data-vmark=\"e334\">开发者透露，<strong>安卓版《GTA5》的最低配置要求是骁龙 865 芯片</strong>、<strong>8GB 内存和 65GB 存储空间</strong>，系统需要 Android 13 或以上。虽然更低配置的设备也许可以进入游戏，但无法保证流畅度。对于一款开放世界大作来说，这些配置要求已经非常低了。</p><p style=\"text-align: center;\" data-vmark=\"0bfe\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ff952656-0dfd-488e-98f7-d1ca5b0d49ac.jpg?x-bce-process=image/format,f_auto\" w=\"995\" h=\"1024\" data-weibo=\"1\" data-vmark=\"5661\" class=\"no-alt-img\"></p><p data-vmark=\"2e7d\">同时开发者确认，本作将支持三星 Exynos 芯片的 Xclipse GPU，未来支持 Mali GPU。不过，采用 PowerVR GPU 的谷歌 Tensor 芯片将“永远不会获得支持”。</p><p data-vmark=\"6ee9\">Android Authority 认为，<strong>该移植版《侠盗猎车手 V》应该是基于 2023 年泄露代码开发</strong>，因此 Rockstar 和 T2（IT之家注：Take-Two）很有可能在游戏发布时挥起版权大棒，届时用户可能难以找到靠谱的下载渠道。</p>",
+      "url": "https://www.ithome.com/1/000/467.htm",
+      "link": "https://www.ithome.com/1/000/467.htm",
+      "pubDate": "Wed, 09 Sep 2026 14:20:27 GMT",
+      "isoDate": "2026-09-09T14:20:27.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 6,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        },
+        {
+          "type": "stakeholder",
+          "id": "platform-partner"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "platform-partner"
     }
   ]
 }
