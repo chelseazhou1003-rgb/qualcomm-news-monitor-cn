@@ -1,27 +1,145 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T08:38:08.006Z",
+  "generatedAt": "2026-09-10T13:21:57.430Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 1,
+  "count": 6,
   "articles": [
     {
-      "title": "苹果发布自研 C2 5G 调制解调器：上传提速 50%，美版 iPhone 18 Pro 支持 mmWave 毫米波",
-      "description": "IT之家 9 月 10 日消息，科技媒体 MacRumors 今天（9 月 10 日）发布博文，报道称今天发布的 iPhone 18 Pro、iPhone 18 Pro Max、iPhone Duo 三款机型中，均配备苹果自研 C2 5G 调制解调器。\n根据官方介绍，苹果 C2 调制解调器依托于 AI 改进蜂窝网络的质量和可靠性，相比较 C1X 芯片，C2 上传速度提升 50%，能耗降低 15%，并且支持 5G mmWave 毫米波。\n\n美国版产品规格列出 n258、n260 和 n261 毫米波频段，并支持配备 4×4 MIMO 的 sub-6GHz 5G。IT之家查询苹果中国官网，页面显示 C2 支持 5G (sub-6 GHz)，具备 4x4 MIMO 技术。\n\n美版支持频段\n\n国行版支持频段\niPhone 18 Pro 系列和 iPhone Duo 还配备苹果设计的 N1 无线网络芯片。N1 支持 Wi-Fi 7、蓝牙 6 和 Thread，可覆盖高速局域网、短距离无线连接及智能家居设备互联等使用需求。\nIT之家发稿前，彭博社的马克 · 古尔曼（Mark Gurman）今天发布推文，指出基于苹果美国官网信息，预估 iPhone 18 Pro 配备苹果自研 C2 调制解调器，而 iPhone 18 Pro Max 继续使用高通调制解调器。",
-      "content": "<p data-vmark=\"684a\">IT之家 9 月 10 日消息，科技媒体 MacRumors 今天（9 月 10 日）发布博文，报道称今天发布的 iPhone 18 Pro、iPhone 18 Pro Max、iPhone Duo 三款机型中，<strong>均配备苹果自研 C2 5G 调制解调器。</strong></p><p data-vmark=\"ead2\">根据官方介绍，苹果 C2 调制解调器依托于 AI 改进蜂窝网络的质量和可靠性，相比较 C1X 芯片，C2 上传速度提升 50%，能耗降低 15%，并且支持 5G mmWave 毫米波。</p><p data-vmark=\"08d8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ae0d9fbe-c6a9-459b-912b-3b042a76e064.png\" w=\"800\" h=\"450\" data-weibo=\"0\" data-vmark=\"b414\" class=\"no-alt-img\"></p><p data-vmark=\"ee09\">美国版产品规格列出 n258、n260 和 n261 毫米波频段，并支持配备 4×4 MIMO 的 sub-6GHz 5G。IT之家查询苹果中国官网，页面显示 C2 支持 5G (sub-6 GHz)，具备 4x4 MIMO 技术。</p><p data-vmark=\"7b52\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/93c67c28-c866-44c6-a720-920d192d203c.jpg\" w=\"1440\" h=\"1281\" data-mpos=\"0,2\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d11a1149d9774eba301158be302f0ee510856e2578db3fdece8d429fbba60be41b64c54b9ac7ff2e4b\" data-vmark=\"1614\" class=\"no-alt-img\"></p><figcaption>美版支持频段</figcaption><p data-vmark=\"8529\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/76c9cce9-7a54-4def-96af-14d80262916a.jpg\" w=\"1342\" h=\"1041\" data-mpos=\"0,2\" data-weibo=\"2\" data-marks=\"1931fd9d012eb6d105bba9fdeac2fe2fb87979e7c5363dbc60d2738578c753d9221773e8d1b44387998d19aa1287c787\" data-vmark=\"efac\" class=\"no-alt-img\"></p><figcaption>国行版支持频段</figcaption><p data-vmark=\"6729\">iPhone 18 Pro 系列和 iPhone Duo 还配备苹果设计的 N1 无线网络芯片。N1 支持 Wi-Fi 7、蓝牙 6 和 Thread，可覆盖高速局域网、短距离无线连接及智能家居设备互联等使用需求。</p><p data-vmark=\"8554\">IT之家发稿前，彭博社的马克 · 古尔曼（Mark Gurman）今天发布推文，指出基于苹果美国官网信息，预估 iPhone 18 Pro 配备苹果自研 C2 调制解调器，而 iPhone 18 Pro Max 继续使用高通调制解调器。</p><p data-vmark=\"1df4\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3f41ff0e-44bc-4248-981a-b258d9032ca6.png\" w=\"898\" h=\"1108\" data-mpos=\"2,0\" data-weibo=\"3\"  data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2Fmarkgurman%2Fstatus%2F2097774160122417273%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2Fmarkgurman%2Fstatus%2F2097774160122417273%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"e34e\" class=\"no-alt-img\"></p>",
-      "url": "https://www.ithome.com/1/000/540.htm",
-      "link": "https://www.ithome.com/1/000/540.htm",
-      "pubDate": "Wed, 09 Sep 2026 20:26:41 GMT",
-      "isoDate": "2026-09-09T20:26:41.000Z",
+      "title": "努比亚 NaviX Ultra 新机官宣 7.62mm 轻薄机身装下 7100mAh 大电池，9 月 16 日发布",
+      "description": "IT之家 9 月 10 日消息，努比亚手机官方今日宣布，努比亚 NaviX Ultra 新机 7.62mm 轻薄机身装下了 7100mAh 大电池，宣称薄和长续航不再二选一。\n\n据IT之家此前报道，努比亚 NaviX Ultra 由中兴通讯与字节跳动联合研发，搭载豆包手机助手，被称为“豆包手机二代”。新机有望搭载骁龙 8 Elite Gen5 旗舰处理器，内置 7000mAh 硅碳负极电池，支持 90W / 100W 有线快充及无线充电。影像系统方面，预计配备 5000 万像素主摄、超广角及潜望式长焦镜头，前置 5000 万像素高清镜头。\n努比亚官方 9 月 4 日与长鑫存储共同宣布，努比亚 NaviX Ultra 将搭载长鑫存储速率达 10667Mbps 的 LPDDR5X 内存。长鑫存储官方强调，这是国产 10667Mbps 高速率 LPDDR5X 芯片首次量产应用，标志着国产移动 DRAM 正式迈入顶级速率商用阶段。\n努比亚 NaviX Ultra 合作商也已公布，包括高通骁龙、京东方、长鑫存储、三星半导体、汇顶科技等。",
+      "content": "<p data-vmark=\"21a2\">IT之家 9 月 10 日消息，努比亚手机官方今日宣布，<strong>努比亚 NaviX Ultra 新机 7.62mm 轻薄机身装下了 7100mAh 大电池</strong>，宣称薄和长续航不再二选一。</p><p data-vmark=\"4105\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b4c1c0cf-01b2-4a20-8242-441e73add04b.jpg\" w=\"1440\" h=\"2560\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1b6b476180dcb84ef5e9f8b0964c304c9b46b5316e085d79bf874db746c7486df8c99e89463a74975\" data-vmark=\"6ae9\" class=\"no-alt-img\"></p><p data-vmark=\"9816\">据IT之家此前报道，努比亚 NaviX Ultra 由中兴通讯与字节跳动联合研发，搭载豆包手机助手，被称为“豆包手机二代”。<strong>新机有望搭载骁龙 8 Elite Gen5 旗舰处理器</strong>，内置 7000mAh 硅碳负极电池，支持 90W / 100W 有线快充及无线充电。影像系统方面，预计配备 5000 万像素主摄、超广角及潜望式长焦镜头，前置 5000 万像素高清镜头。</p><p data-vmark=\"d627\">努比亚官方 9 月 4 日与长鑫存储共同宣布，<a target=\"_blank\" href=\"https://www.ithome.com/0/998/289.htm\">努比亚 NaviX Ultra 将搭载长鑫存储速率达 10667Mbps 的 LPDDR5X 内存</a>。长鑫存储官方强调，这是国产 10667Mbps 高速率 LPDDR5X 芯片首次量产应用，标志着国产移动 DRAM 正式迈入顶级速率商用阶段。</p><p data-vmark=\"710b\">努比亚 NaviX Ultra 合作商也已公布，<a target=\"_blank\" href=\"https://www.ithome.com/0/998/949.htm\">包括高通骁龙、京东方、长鑫存储、三星半导体、汇顶科技等</a>。</p><p data-vmark=\"75e8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a50c1641-557e-4bbe-b5ec-5d3167ed56d6.jpg\" w=\"1440\" h=\"2560\" data-vmark=\"574c\" data-mpos=\"2,0\"  class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"1099\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4694\" frameborder=\"no\"></iframe></p>",
+      "url": "https://www.ithome.com/1/000/612.htm",
+      "link": "https://www.ithome.com/1/000/612.htm",
+      "pubDate": "Thu, 10 Sep 2026 02:35:32 GMT",
+      "isoDate": "2026-09-10T02:35:32.000Z",
       "author": "",
       "sourceId": "ithome",
       "sourceName": "IT之家",
       "sourceGroup": "tech",
       "fetchStrategy": "rss",
       "section": "core-businesses",
-      "subCategory": "wireless",
+      "subCategory": "mobile-chips",
+      "tagScore": 16,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "Retroid Pocket 预告双屏 Android 掌机 Duo / Duo Lite，基于高通跃龙芯片",
+      "description": "IT之家 9 月 10 日消息，Retroid Pocket 昨日发布双屏 Android 掌机 Duo 与 Duo Lite 的预告片，公布了这两款设备的核心规格。\n\nDuo 基于高通跃龙 Q-7790，运行 Android 16 操作系统；上屏 5.5\" 16:9 120Hz OLED、下屏 4.5\" 4:3 120Hz OLED；扳机凸出。\nDuo Lite 基于高通跃龙 QCS6125，运行 Android 15 操作系统；上屏 5.5\" 16:9 60Hz LCD、下屏 4.2\" 4:3 60Hz LCD；扳机未凸出。\n\nIT之家获悉，其内置 6000mAh 电池，集成主动散热。上屏支持 180° 自由悬停。",
+      "content": "<p data-vmark=\"fb07\">IT之家 9 月 10 日消息，Retroid Pocket 昨日发布双屏 Android 掌机 Duo 与 Duo Lite 的预告片，公布了这两款设备的核心规格。</p><p data-vmark=\"0244\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6995cfab-1f1b-4431-bf6d-595bc4d600cd.jpg\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"0327\" class=\"no-alt-img\"></p><p data-vmark=\"65d8\"><strong>Duo</strong> 基于高通跃龙 Q-7790，运行 Android 16 操作系统；上屏 5.5\" 16:9 120Hz OLED、下屏 4.5\" 4:3 120Hz OLED；扳机凸出。</p><p data-vmark=\"efa6\"><strong>Duo Lite</strong> 基于高通跃龙 QCS6125，运行 Android 15 操作系统；上屏 5.5\" 16:9 60Hz LCD、下屏 4.2\" 4:3 60Hz LCD；扳机未凸出。</p><p data-vmark=\"3451\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ebf63c06-cc60-4ed9-97be-be430e33152e.jpg\" w=\"1280\" h=\"720\" data-weibo=\"1\" data-vmark=\"fd12\" class=\"no-alt-img\"></p><p data-vmark=\"9906\">IT之家获悉，其内置 6000mAh 电池，集成主动散热。上屏支持 180° 自由悬停。</p>",
+      "url": "https://www.ithome.com/1/000/605.htm",
+      "link": "https://www.ithome.com/1/000/605.htm",
+      "pubDate": "Thu, 10 Sep 2026 02:17:06 GMT",
+      "isoDate": "2026-09-10T02:17:06.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 1,
+      "crossTags": []
+    },
+    {
+      "title": "王腾：智能手机更新到现在功能升级越来越不显性，换机需求被压制市场预计还会下降",
+      "description": "IT之家 9 月 10 日消息，今日宜休科技公司创始人王腾今日发文，谈及了手机市场。他认为，一台 iPhone Pro 的价格已经超过 1 万元，估计今年各家旗舰机都要涨价。\n\n王腾表示，智能手机更新到现在，功能升级已经越来越不显性，换机需求被压制手机市场预计还会继续下降。\n王腾还认为，此次 Apple Watch 这次升级挺大，尤其是 AI 健康分析，之前的 Apple Health 只有数据没有分析，这也是今日宜休想做的事情，有很多新的方向可以尝试。\n参考IT之家此前报道，AI 算力爆发虹吸产能 + 三大寡头控产 + 行业库存见底 + DDR4/DDR5 换代断档，四重因素叠加导致了内存涨价。高通也宣布芯片会在今年 9 月涨价，涨幅将达到两位数百分比，此次调价可能影响智能手机、可穿戴设备等多个科技领域。\n昨晚发布的 iPhone Duo 国行定价已来到 15999 元起，iPhone 18 Pro 系列的起售价也上涨了 1000 元。而在 18 Pro 系列发布后，iPhone Air、iPhone 17、iPhone 17e、iPhone 16 四款老机型迎来同步涨价，最高上涨达 2300 元。",
+      "content": "<p data-vmark=\"618d\">IT之家 9 月 10 日消息，今日宜休科技公司创始人王腾今日发文，谈及了手机市场。他认为，一台 iPhone Pro 的价格已经超过 1 万元，<strong>估计今年各家旗舰机都要涨价</strong>。</p><p style=\"text-align: center;\" data-vmark=\"b420\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/7d2fa86c-6c90-4048-857b-3ad200cf0d6c.png?x-bce-process=image/format,f_auto\" w=\"937\" h=\"532\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1bb595e39636393dbb45e64c9ff0d83ab9fdb5d391061d57adf5ea6e7766edb205a8476556aaf3a32\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5341515329310624%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"50f9\" class=\"no-alt-img\"></p><p data-vmark=\"4fda\">王腾表示，智能手机更新到现在，功能升级已经越来越不显性，<strong>换机需求被压制手机市场预计还会继续下降</strong>。</p><p data-vmark=\"e1ca\">王腾还认为，此次 Apple Watch 这次升级挺大，<strong>尤其是 AI 健康分析</strong>，之前的 Apple Health 只有数据没有分析，这也是今日宜休想做的事情，有很多新的方向可以尝试。</p><p data-vmark=\"283e\">参考IT之家此前报道，AI 算力爆发虹吸产能 + 三大寡头控产 + 行业库存见底 + DDR4/DDR5 换代断档，四重因素叠加导致了内存涨价。<a target=\"_blank\" href=\"https://www.ithome.com/0/981/400.htm\">高通也宣布芯片会在今年 9 月涨价</a>，涨幅将达到两位数百分比，此次调价可能影响智能手机、可穿戴设备等多个科技领域。</p><p style=\"text-align: left;\" data-vmark=\"6d03\">昨晚发布的 iPhone Duo 国行定价已来到 15999 元起，<a target=\"_blank\" href=\"https://www.ithome.com/1/000/515.htm\">iPhone 18 Pro 系列的起售价也上涨了 1000 元</a>。而在 18 Pro 系列发布后，iPhone Air、iPhone 17、iPhone 17e、iPhone 16 四款老机型迎来同步涨价，最高上涨达 2300 元。</p><p style=\"text-align: center;\" data-vmark=\"7a7d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a5c439df-f433-4d16-94a8-776ad681150a.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"810\"  data-vmark=\"970d\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/1/000/586.htm",
+      "link": "https://www.ithome.com/1/000/586.htm",
+      "pubDate": "Thu, 10 Sep 2026 01:45:42 GMT",
+      "isoDate": "2026-09-10T01:45:42.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
       "tagScore": 15,
       "crossTags": []
+    },
+    {
+      "title": "小米 18 Pro Max 新机现身 Geekbench，搭载高通第六代骁龙 8 超级至尊版",
+      "description": "IT之家 9 月 10 日消息，一款型号为 M1544F 的小米新机现身 Geekbench 基准测试数据库，数码博主称其为小米 18 Pro 系列，预计为小米 18 Pro Max。\n数据显示，该机搭载了高通第六代骁龙 8 超级至尊版（两颗 5.11GHz 超大核，3 颗 4.03GHz 大核，3 颗 2.74GHz 中核），配备 12GB 内存，运行 Android 17 系统，GB7 单核跑分 3582 分，多核 12247 分。\n\n图形性能方面，这款新机配备 Adreno 850 GPU，在 Geekbench 7 上的 Vulkan 跑分达到了 29934 分，OpenCL 跑分 26210 分。\n\n\n结合此前爆料，小米 18 标准版预计将延至 2027 年初发布，小米 18 Pro 搭载高通第六代骁龙 8 至尊版，而 Pro Max 将搭载高通第六代骁龙 8 超级至尊版，配备 200MP LOFIC HDR 主摄、200MP 长焦摄像头、50MP 超广角摄像头，以及 8,500mAh 大电池。IT之家后续将保持关注。\n相关阅读：\n\n《小米 18 Pro 系列手机有望首发：防窥屏界面曝光，支付 / 转账等 4 类敏感场景自动开启》\n\n《小米 18 Pro 系列新机疑通过 3C 认证，支持 100W 快充、UWB 超宽带技术》\n\n《小米 18 系列手机爆料：标准版延至 2027 年初发布，“妙享背屏”为 Pro 机型专属》\n\n《某厂 2nm 大大杯工程机曝光：200MP 大底长焦微距、8K++ 大电池，预计为小米 18 Pro Max》\n\n《消息称某厂 2nm 大杯工程机搭载超清定制小直屏、2 亿主摄长焦，预计为小米 18 Pro》",
+      "content": "<p data-vmark=\"d8b5\">IT之家 9 月 10 日消息，一款型号为 M1544F 的小米新机现身 Geekbench 基准测试数据库，数码博主称其为小米 18 Pro 系列，预计为小米 18 Pro Max。</p><p data-vmark=\"f0ba\">数据显示，该机搭载了高通第六代骁龙 8 超级至尊版（两颗 5.11GHz 超大核，3 颗 4.03GHz 大核，3 颗 2.74GHz 中核），配备 12GB 内存，运行 Android 17 系统，GB7 单核跑分 3582 分，多核 12247 分。</p><p data-vmark=\"cb0b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/3d495282-4b33-4d8a-8169-a79f09252085.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1861\" data-weibo=\"0\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d19265ba08f2d39a8e908a55428059c2dae2091849d90ed649b48342db3ee604fe0087ed7138b35306\" data-vmark=\"596a\" class=\"no-alt-img\"></p><p data-vmark=\"a3e7\">图形性能方面，这款新机配备 Adreno 850 GPU，在 Geekbench 7 上的 Vulkan 跑分达到了 29934 分，OpenCL 跑分 26210 分。</p><p data-vmark=\"88bc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2e26c8d7-4c8a-43fb-81d2-252491a477f9.jpg?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"1706\" data-weibo=\"1\" data-mpos=\"2,2\" data-marks=\"1931fd9d012eb6d1192d9ce35f46e096bfc7052421d09ab66449b898f46982c0586cf9a1f315e427460b1aee2c63c688\" data-vmark=\"0d9f\" class=\"no-alt-img\"></p><p data-vmark=\"9557\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2a071b78-ef67-4891-8886-ba1f0d49d391.jpg?x-bce-process=image/format,f_auto\" w=\"1266\" h=\"1709\" data-weibo=\"2\" data-mpos=\"2,2\"  data-vmark=\"c072\" class=\"no-alt-img\"></p><p data-vmark=\"9da3\" style=\"text-align: left;\">结合此前爆料，小米 18 标准版预计将延至 2027 年初发布，小米 18 Pro 搭载高通第六代骁龙 8 至尊版，而 Pro Max 将搭载高通第六代骁龙 8 超级至尊版，配备 200MP LOFIC HDR 主摄、200MP 长焦摄像头、50MP 超广角摄像头，以及 8,500mAh 大电池。IT之家后续将保持关注。</p><p data-vmark=\"3d79\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"5aa9\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/996/093.htm\">小米 18 Pro 系列手机有望首发：防窥屏界面曝光，支付 / 转账等 4 类敏感场景自动开启</a>》</p></li><li><p data-vmark=\"b40d\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/991/415.htm\">小米 18 Pro 系列新机疑通过 3C 认证，支持 100W 快充、UWB 超宽带技术</a>》</p></li><li><p data-vmark=\"f153\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/990/027.htm\">小米 18 系列手机爆料：标准版延至 2027 年初发布，“妙享背屏”为 Pro 机型专属</a>》</p></li><li><p data-vmark=\"2ed2\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/972/907.htm\">某厂 2nm 大大杯工程机曝光：200MP 大底长焦微距、8K++ 大电池，预计为小米 18 Pro Max</a>》</p></li><li><p data-vmark=\"3130\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/974/754.htm\">消息称某厂 2nm 大杯工程机搭载超清定制小直屏、2 亿主摄长焦，预计为小米 18 Pro</a>》</p></li></ul>",
+      "url": "https://www.ithome.com/1/000/585.htm",
+      "link": "https://www.ithome.com/1/000/585.htm",
+      "pubDate": "Thu, 10 Sep 2026 01:44:21 GMT",
+      "isoDate": "2026-09-10T01:44:21.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 4,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "腾讯《王者万象棋》正式开服：85 位英雄 18 位棋手首日登场，安卓最低骁龙 625、华为鸿蒙需麒麟 9000S",
+      "description": "IT之家 9 月 10 日消息，由《王者荣耀》项目原班人马研发的英雄策略对战游戏《王者万象棋》于 9 月 10 日正式开服，支持 iOS、安卓、鸿蒙及 PC 端，支持多端游玩与全平台数据互通。\n开服前官方已开放预下载与预注册，玩家可提前创角抢占昵称，该作当时还登上了苹果 App Store 游戏免费榜首位。\n\n游戏上线版本包含源自《王者荣耀》IP 的 85 位英雄与 18 位棋手，制作人 Donny 将其核心玩法概括为“一刷、二养、三炸场”—— 刷新手牌找到目标英雄，通过多种方式提升英雄等级，高等级英雄的技能效果与美术演出将迎来质变。\n与传统的三合一升星机制不同，本作采用英雄等级系统，单局内英雄可升至 999 级，10 级、40 级、100 级为关键成长节点，例如诸葛亮在 40 级时元气弹击败敌人可恢复法力值，100 级后元气弹将产生分裂效果。\n据介绍，传统自走棋中“三合一升星”指集齐三张相同英雄牌合成更高星级，本作则改为通过获取经验值直接升级，升级曲线更为平滑。游戏还移除了利息系统与连胜连败奖励，每回合获得固定能量点数，降低了经济运营的计算门槛，同时通过拍卖环节保留了玩家间的博弈空间。\n\n在游戏中，每局比赛由 6 名玩家各自为战，对局中穿插棋手天赋、效果牌等随机事件。棋手天赋机制允许玩家在棋手升级时选择不同天赋方向，为整局对战提供差异化强化路径。\n\n腾讯官方还宣布将于今晚 19:00 推出“六角笼争霸赛”直播活动。黄子韬、陈泽、AG 一诺等六位王牌主理人将组队展开对局，参赛阵容还包括深圳 DYG 钎城搭档 Fly、Gemini 与 Cat 组队，以及制作人 Donny 与呆阿拿的组合，解说席由灵儿、徐静雨、瓶子、师傅担任。\n\n在设备要求方面，安卓端最低需骁龙 625 及以上处理器与 4GB 内存，鸿蒙端最低要求麒麟 9000S，iOS 端最低支持 A10 处理器（iPhone 7），PC 端最低需英特尔酷睿 i5-6500 处理器与 UHD 620 集成显卡。\n\n移动端安装包体积分别为安卓 1.88GB、iOS 3.18GB、鸿蒙3.67GB，官方建议预留 10GB 以上存储空间，PC 端建议预留 20GB 并安装在固态硬盘中。针对开服初期可能出现的加载缓慢或卡顿，官方建议玩家暂时关闭高帧率模式并适当降低画质。\n\n安卓配置参考\n推荐配置\n\n骁龙 855 及以上机型（其它芯片参考麒麟 990、天玑 1000）；\n\n内存 6G 以上\n\n最低配置\n\n骁龙 625 及以上机型（其它芯片参考麒麟 655、天玑 P35）；\n\n内存 4G 以上\n\n系统要求：安卓 5.1 及以上\n\n鸿蒙配置参考\n推荐配置\n\n麒麟 9020 及以上机型\n\n系统要求：鸿蒙 5.0 及以上\n\n内存 8G 以上\n\n最低配置\n\n麒麟 9000S 及以上机型\n\n系统要求：鸿蒙 5.0 及以上\n\n内存 8G 以上\n\niOS 配置参考\n推荐配置\n\niPhone XS 及以上机型\n\n最低配置\n\niPhone 7\n\n系统要求： iOS 11 及以上\n\nPC 端配置参考\n推荐配置\n\n处理器（CPU）：i7-7700 或 R3 3300X 等处理器\n\n显卡（GPU）：GTX 1060 或 RX 580 等显卡\n\n内存：16G\n\n硬盘空间：固态硬盘（SSD），需预留 20G 空间\n\n操作系统：Win10 及以上系统\n\n显示分辨率：1920×1080 (1080p)\n\n最低配置\n\n处理器（CPU）：i5-6500 或 R3 2200G 等处理器\n\n显卡（GPU）：UHD 620 (集成显卡)\n\n内存：8G\n\n硬盘：机械硬盘（HDD），需预留 20G 空间\n\n操作系统：Win10 及以上系统\n\n显示分辨率：1600×900\n\n\n常见 FAQ\nQ：如何登录游戏？不同端登录的账号是一样的吗，QQ 微信玩家是否能一起玩？\nA：可通过 QQ 账号、微信账号登录；PC、安卓、iOS、鸿蒙，支持多端游玩，全平台数据互通。\nQ：终极测试充值返还的点券什么时候发放，以什么方式发放？\nA：返还的点券在游戏内或官网 H5 页面领取。须在游戏正式上线后 180 个自然日内完成角色注册流程，并进行充值返还领取流程，逾期未注册游戏账号或未领取视为主动放弃充值返还奖励。\n请务必使用与终极测试期间相同的账号登录并体验正式上线版本（即同一 QQ 账号或同一微信账号），账号不一致将直接导致点券与称号无法正确匹配、领取与发放，由此产生的权益损失将无法补发。\n详情请见游戏内活动页或官网。\nQ：出现下载中断、安装报错、进度条卡住怎么办？\nA：建议优先清理设备存储，保证游戏可以流畅运行；确认设备是否符合最低配置要求；确认符合配置要求及存储要求后，可尝试重启游戏、关闭杀毒软件或检查安全软件拦截记录、关闭网络代理工具、重启电脑或手机等操作。\nQ：局内战斗出现卡顿、掉帧怎么办？\nA：开服初期登录人数较多，可能出现加载缓慢、短暂卡顿等情况，请您耐心等待，建议您在设置中关闭高帧率并降低画面质量。如调整后未改善掉帧情况，您可以在游戏大厅左上角【收纳栏-最下方-问题反馈】（图标为问号）选择对应反馈的内容，反馈您遇到的问题。\nQ：游戏内出现闪退、报错、更新失败怎么办？\nA：可以按这几步自查：① 关闭后台程序释放内存 / 显存；② 设置里关闭高帧率、降低画面质量；③ 移动端在登录界面用右上角【修复工具】，PC 端在启动器设置里用【问题自助修复】；④ 更新显卡驱动与运行库，检查网络是否稳定。若仍未解决，欢迎联系客服并附上报错截图。\nQ：如何反馈 BUG 及建议？\nA：遇到 BUG 或者有关于游戏的任何建议，均可在游戏大厅左上角【收纳栏-最下方-问题反馈】（图标为问号）选择对应反馈的内容。反馈 BUG 时，可直接选择您遇到问题的对局，上传 BUG 录像或截图，详细描述问题现象及步骤，便于我们尽快核实定位。\nQ：遇到违规玩家怎么举报及禁言？\nA：对局内点开全局信息面板，点玩家头像进详情页即可举报或拉黑；聊天窗口长按发言也能举报；想屏蔽发言，全局信息面板右侧有一键禁言。",
+      "content": "<p data-vmark=\"fa8c\">IT之家 9 月 10 日消息，由《王者荣耀》项目原班人马研发的英雄策略对战游戏《王者万象棋》于 9 月 10 日正式开服，支持 iOS、安卓、鸿蒙及 PC 端，支持多端游玩与全平台数据互通。</p><p data-vmark=\"78ce\">开服前官方已开放预下载与预注册，玩家可提前创角抢占昵称，该作当时还登上了苹果 App Store 游戏免费榜首位。</p><p data-vmark=\"5e3f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/501f284f-a67a-4a96-afde-d6a3676c26ed.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"fc5d\" class=\"no-alt-img\"></p><p data-vmark=\"a0a0\">游戏上线版本包含源自《王者荣耀》IP 的 85 位英雄与 18 位棋手，制作人 Donny 将其核心玩法概括为“一刷、二养、三炸场”—— 刷新手牌找到目标英雄，通过多种方式提升英雄等级，高等级英雄的技能效果与美术演出将迎来质变。</p><p data-vmark=\"2ad6\">与传统的三合一升星机制不同，本作采用英雄等级系统，单局内英雄可升至 999 级，10 级、40 级、100 级为关键成长节点，例如诸葛亮在 40 级时元气弹击败敌人可恢复法力值，100 级后元气弹将产生分裂效果。</p><p data-vmark=\"08ab\">据介绍，传统自走棋中“三合一升星”指集齐三张相同英雄牌合成更高星级，本作则改为通过获取经验值直接升级，升级曲线更为平滑。游戏还移除了利息系统与连胜连败奖励，每回合获得固定能量点数，降低了经济运营的计算门槛，同时通过拍卖环节保留了玩家间的博弈空间。</p><p data-vmark=\"8154\" style=\"text-align: center;\"><a href=\"https://weibo.com/7774689081/Rhqe29ePB\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/451f0538-ffb9-4681-b3d2-1cdd2ce38583.jpg\"></a></p><p data-vmark=\"cc36\">在游戏中，每局比赛由 6 名玩家各自为战，对局中穿插棋手天赋、效果牌等随机事件。棋手天赋机制允许玩家在棋手升级时选择不同天赋方向，为整局对战提供差异化强化路径。</p><p data-vmark=\"2c9e\" style=\"text-align: center;\"><a href=\"https://weibo.com/7774689081/Rhprk4GUi\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/90302c73-86e3-4620-be65-193a138fad54.jpg\"></a></p><p data-vmark=\"cd37\">腾讯官方还宣布将于今晚 19:00 推出“六角笼争霸赛”直播活动。黄子韬、陈泽、AG 一诺等六位王牌主理人将组队展开对局，参赛阵容还包括深圳 DYG 钎城搭档 Fly、Gemini 与 Cat 组队，以及制作人 Donny 与呆阿拿的组合，解说席由灵儿、徐静雨、瓶子、师傅担任。</p><p data-vmark=\"108c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/689ebfda-10a9-47f4-b3f3-e1b498983e94.jpg?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1920\" data-weibo=\"1\" data-vmark=\"c569\" class=\"no-alt-img\"></p><p data-vmark=\"5763\">在设备要求方面，安卓端最低需骁龙 625 及以上处理器与 4GB 内存，鸿蒙端最低要求麒麟 9000S，iOS 端最低支持 A10 处理器（iPhone 7），PC 端最低需英特尔酷睿 i5-6500 处理器与 UHD 620 集成显卡。</p><p data-vmark=\"5603\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/9beccaeb-ba39-4328-b6a1-5c325622c56a.jpg?x-bce-process=image/format,f_auto\" w=\"1400\" h=\"966\" data-weibo=\"2\" data-vmark=\"ee01\" class=\"no-alt-img\"></p><p data-vmark=\"240d\">移动端安装包体积分别为安卓 1.88GB、iOS 3.18GB、鸿蒙3.67GB，官方建议预留 10GB 以上存储空间，PC 端建议预留 20GB 并安装在固态硬盘中。针对开服初期可能出现的加载缓慢或卡顿，官方建议玩家暂时关闭高帧率模式并适当降低画质。</p><blockquote><h2 data-vmark=\"bca9\">安卓配置参考</h2><h3 data-vmark=\"3c1d\">推荐配置</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"d6ef\" style=\"text-align: left;\">骁龙 855 及以上机型（其它芯片参考麒麟 990、天玑 1000）；</p></li><li><p data-vmark=\"8f53\" style=\"text-align: left;\">内存 6G 以上</p></li></ul><h3 data-vmark=\"ea3b\">最低配置</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"db64\" style=\"text-align: left;\">骁龙 625 及以上机型（其它芯片参考麒麟 655、天玑 P35）；</p></li><li><p data-vmark=\"37a8\" style=\"text-align: left;\">内存 4G 以上</p></li><li><p data-vmark=\"69bb\" style=\"text-align: left;\">系统要求：安卓 5.1 及以上</p></li></ul><h2 data-vmark=\"7182\">鸿蒙配置参考</h2><h3 data-vmark=\"005c\">推荐配置</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"407c\" style=\"text-align: left;\">麒麟 9020 及以上机型</p></li><li><p data-vmark=\"3d0f\" style=\"text-align: left;\">系统要求：鸿蒙 5.0 及以上</p></li><li><p data-vmark=\"e36d\" style=\"text-align: left;\">内存 8G 以上</p></li></ul><h3 data-vmark=\"8891\">最低配置</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f038\" style=\"text-align: left;\">麒麟 9000S 及以上机型</p></li><li><p data-vmark=\"bf0d\" style=\"text-align: left;\">系统要求：鸿蒙 5.0 及以上</p></li><li><p data-vmark=\"5cf0\" style=\"text-align: left;\">内存 8G 以上</p></li></ul><h2 data-vmark=\"fc9b\">iOS 配置参考</h2><h3 data-vmark=\"a4fc\">推荐配置</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"c286\" style=\"text-align: left;\">iPhone XS 及以上机型</p></li></ul><h3 data-vmark=\"1b84\">最低配置</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"0c2b\" style=\"text-align: left;\">iPhone 7</p></li><li><p data-vmark=\"ae5a\" style=\"text-align: left;\">系统要求： iOS 11 及以上</p></li></ul><h2 data-vmark=\"bab6\">PC 端配置参考</h2><h3 data-vmark=\"5be0\">推荐配置</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8fc0\" style=\"text-align: left;\">处理器（CPU）：i7-7700 或 R3 3300X 等处理器</p></li><li><p data-vmark=\"5479\" style=\"text-align: left;\">显卡（GPU）：GTX 1060 或 RX 580 等显卡</p></li><li><p data-vmark=\"3ebf\" style=\"text-align: left;\">内存：16G</p></li><li><p data-vmark=\"0312\" style=\"text-align: left;\">硬盘空间：固态硬盘（SSD），需预留 20G 空间</p></li><li><p data-vmark=\"f3c4\" style=\"text-align: left;\">操作系统：Win10 及以上系统</p></li><li><p data-vmark=\"fae8\" style=\"text-align: left;\">显示分辨率：1920×1080 (1080p)</p></li></ul><h3 data-vmark=\"2933\">最低配置</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2484\" style=\"text-align: left;\">处理器（CPU）：i5-6500 或 R3 2200G 等处理器</p></li><li><p data-vmark=\"1348\" style=\"text-align: left;\">显卡（GPU）：UHD 620 (集成显卡)</p></li><li><p data-vmark=\"872b\" style=\"text-align: left;\">内存：8G</p></li><li><p data-vmark=\"2f94\" style=\"text-align: left;\">硬盘：机械硬盘（HDD），需预留 20G 空间</p></li><li><p data-vmark=\"f366\" style=\"text-align: left;\">操作系统：Win10 及以上系统</p></li><li><p data-vmark=\"740a\" style=\"text-align: left;\">显示分辨率：1600×900</p></li></ul></blockquote><blockquote><h2 data-vmark=\"4f93\">常见 FAQ</h2><p data-vmark=\"8160\" style=\"text-align: left;\">Q：如何登录游戏？不同端登录的账号是一样的吗，QQ 微信玩家是否能一起玩？</p><p data-vmark=\"efe0\" style=\"text-align: left;\">A：可通过 QQ 账号、微信账号登录；PC、安卓、iOS、鸿蒙，支持多端游玩，全平台数据互通。</p><p data-vmark=\"bd51\" style=\"text-align: left;\">Q：终极测试充值返还的点券什么时候发放，以什么方式发放？</p><p data-vmark=\"628d\" style=\"text-align: left;\">A：返还的点券在游戏内或官网 H5 页面领取。须在游戏正式上线后 180 个自然日内完成角色注册流程，并进行充值返还领取流程，逾期未注册游戏账号或未领取视为主动放弃充值返还奖励。</p><p data-vmark=\"aaab\" style=\"text-align: left;\">请务必使用与终极测试期间相同的账号登录并体验正式上线版本（即同一 QQ 账号或同一微信账号），账号不一致将直接导致点券与称号无法正确匹配、领取与发放，由此产生的权益损失将无法补发。</p><p data-vmark=\"3af6\" style=\"text-align: left;\">详情请见游戏内活动页或官网。</p><p data-vmark=\"4cf7\" style=\"text-align: left;\">Q：出现下载中断、安装报错、进度条卡住怎么办？</p><p data-vmark=\"83f1\" style=\"text-align: left;\">A：建议优先清理设备存储，保证游戏可以流畅运行；确认设备是否符合最低配置要求；确认符合配置要求及存储要求后，可尝试重启游戏、关闭杀毒软件或检查安全软件拦截记录、关闭网络代理工具、重启电脑或手机等操作。</p><p data-vmark=\"4438\" style=\"text-align: left;\">Q：局内战斗出现卡顿、掉帧怎么办？</p><p data-vmark=\"6b08\" style=\"text-align: left;\">A：开服初期登录人数较多，可能出现加载缓慢、短暂卡顿等情况，请您耐心等待，建议您在设置中关闭高帧率并降低画面质量。如调整后未改善掉帧情况，您可以在游戏大厅左上角【收纳栏-最下方-问题反馈】（图标为问号）选择对应反馈的内容，反馈您遇到的问题。</p><p data-vmark=\"4f85\" style=\"text-align: left;\">Q：游戏内出现闪退、报错、更新失败怎么办？</p><p data-vmark=\"eb21\" style=\"text-align: left;\">A：可以按这几步自查：① 关闭后台程序释放内存 / 显存；② 设置里关闭高帧率、降低画面质量；③ 移动端在登录界面用右上角【修复工具】，PC 端在启动器设置里用【问题自助修复】；④ 更新显卡驱动与运行库，检查网络是否稳定。若仍未解决，欢迎联系客服并附上报错截图。</p><p data-vmark=\"7134\" style=\"text-align: left;\">Q：如何反馈 BUG 及建议？</p><p data-vmark=\"196b\" style=\"text-align: left;\">A：遇到 BUG 或者有关于游戏的任何建议，均可在游戏大厅左上角【收纳栏-最下方-问题反馈】（图标为问号）选择对应反馈的内容。反馈 BUG 时，可直接选择您遇到问题的对局，上传 BUG 录像或截图，详细描述问题现象及步骤，便于我们尽快核实定位。</p><p data-vmark=\"bb3e\" style=\"text-align: left;\">Q：遇到违规玩家怎么举报及禁言？</p><p data-vmark=\"188f\" style=\"text-align: left;\">A：对局内点开全局信息面板，点玩家头像进详情页即可举报或拉黑；聊天窗口长按发言也能举报；想屏蔽发言，全局信息面板右侧有一键禁言。</p></blockquote>",
+      "url": "https://www.ithome.com/1/000/583.htm",
+      "link": "https://www.ithome.com/1/000/583.htm",
+      "pubDate": "Thu, 10 Sep 2026 01:29:44 GMT",
+      "isoDate": "2026-09-10T01:29:44.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "pc-chips-computing",
+      "tagScore": 24,
+      "crossTags": [
+        {
+          "type": "competitor",
+          "id": "apple"
+        },
+        {
+          "type": "competitor",
+          "id": "huawei"
+        },
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "摩托罗拉预热 signature 27 智能手机，有望引入施华洛世奇水晶装饰",
+      "description": "IT之家 9 月 10 日消息，Motorola（摩托罗拉）近日在其部分地区官网展开 signature 27 智能手机预热。其宣传口号为 \"A new perspective is coming\"（新视角将至）。\nIT之家注意到，相关网页的源代码中可以找到一段 \"Crystals by Swarovski logo\" 的注释，这意味着 signature 27 很可能会引入施华洛世奇水晶装饰。\n\n作为参考，Motorola 的 2026 款 signature 智能手机基于高通第五代骁龙 8 处理器，配备 5200mAh 电池，质量 186g，规格类似国内市场发售的 moto X70 Air Pro。",
+      "content": "<p data-vmark=\"2b49\">IT之家 9 月 10 日消息，Motorola（摩托罗拉）近日在其部分地区官网展开 signature 27 智能手机预热。<strong>其宣传口号为 \"A new perspective is coming\"（新视角将至）</strong>。</p><p data-vmark=\"685d\">IT之家注意到，相关网页的源代码中可以找到一段 \"Crystals by Swarovski logo\" 的注释，这意味着 <strong>signature 27 很可能会引入施华洛世奇水晶装饰</strong>。</p><p style=\"text-align: center;\" data-vmark=\"c2e8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/902582e0-5cd2-4274-8058-b9bc3bb17aa0.png?x-bce-process=image/format,f_auto\" w=\"750\" h=\"830\" data-weibo=\"0\" data-vmark=\"fbc5\" class=\"no-alt-img\"></p><p data-vmark=\"7a7b\">作为参考，Motorola 的 2026 款 signature 智能手机基于高通第五代骁龙 8 处理器，配备 5200mAh 电池，质量 186g，规格类似国内市场发售的 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/01/21/bb675e6c-5651-4f58-b473-04c002a23a4a.jpg?x-bce-process=image/format,f_auto\" data-topic-id=\"59367\">moto X70 Air Pro</span>。</p>",
+      "url": "https://www.ithome.com/1/000/580.htm",
+      "link": "https://www.ithome.com/1/000/580.htm",
+      "pubDate": "Thu, 10 Sep 2026 01:20:48 GMT",
+      "isoDate": "2026-09-10T01:20:48.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 5,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
     }
   ]
 }
