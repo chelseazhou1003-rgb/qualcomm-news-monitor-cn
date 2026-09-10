@@ -1,68 +1,32 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T18:03:52.620Z",
+  "generatedAt": "2026-09-10T22:39:58.166Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 3,
+  "count": 1,
   "articles": [
     {
-      "title": "观势｜AI提高经济效率 需求、就业、收入分配、通胀如何变化？",
-      "description": "AI可能冲击部分就业、对收入分配产生影响，且资本与劳动之间的回报差距可能进一步扩大，对需求形成一定抑制，“供强需弱”或从阶段性问题变成长期问题\n\n\n     9月9日，2026 Inclusion·外滩大会《AI经济增长新范式与社会价值重构》见解论坛现场。图：Inclusion外滩大会\n    \n   \n　　【财新网】AI提高经济效率、让供给越来越强，就业和收入分配将如何被影响，推高通胀、还是压低通胀，需求能否同步增长？9月9日，在2026 Inclusion·外滩大会《AI经济增长新范式与社会价值重构》见解论坛上，多位经济行业专家和学者试图回答以上问题。\n　　2011年诺贝尔经济学奖得主、纽约大学教授托马斯·萨金特（Thomas Sargent）认为，AI正在成为推动经济增长的重要力量，但围绕AI的投资、决策与政策制定，也正面临巨大的不确定性。在他看来，AI正在改变生产率，也正在改变企业研发、金融投资、教育科研和消费服务。但生产率究竟会提高到什么程度，新的价值会在哪里产生，哪些行业会被重构，以及这些新增价值最终如何分配，目前都没有确定答案。",
-      "content": "<blockquote><p>AI可能冲击部分就业、对收入分配产生影响，且资本与劳动之间的回报差距可能进一步扩大，对需求形成一定抑制，“供强需弱”或从阶段性问题变成长期问题</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-09-10/178903072474735_840_560.png\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-09-10/178903072474735_840_560.png\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>9月9日，2026 Inclusion·外滩大会《AI经济增长新范式与社会价值重构》见解论坛现场。图：Inclusion外滩大会</dd>\n    </dl>\n   <br>\n       <p>　　<b>【财新网】</b>AI提高经济效率、让供给越来越强，就业和收入分配将如何被影响，推高通胀、还是压低通胀，需求能否同步增长？9月9日，在2026 Inclusion·外滩大会《AI经济增长新范式与社会价值重构》见解论坛上，多位经济行业专家和学者试图回答以上问题。</p>\n<p>　　2011年诺贝尔经济学奖得主、纽约大学教授托马斯·萨金特（Thomas Sargent）认为，AI正在成为推动经济增长的重要力量，但围绕AI的投资、决策与政策制定，也正面临巨大的不确定性。在他看来，AI正在改变生产率，也正在改变企业研发、金融投资、教育科研和消费服务。但生产率究竟会提高到什么程度，新的价值会在哪里产生，哪些行业会被重构，以及这些新增价值最终如何分配，目前都没有确定答案。</p>\n      ",
-      "url": "https://www.caixin.com/2026-09-10/102483563.html",
-      "link": "https://www.caixin.com/2026-09-10/102483563.html",
-      "pubDate": "Thu, 10 Sep 2026 08:57:35 GMT",
-      "isoDate": "2026-09-10T08:57:35.000Z",
-      "author": "",
-      "sourceId": "caixin",
-      "sourceName": "财新网",
-      "sourceGroup": "finance",
-      "fetchStrategy": "rsshub",
-      "section": "core-businesses",
-      "subCategory": "",
-      "tagScore": 0,
-      "crossTags": []
-    },
-    {
-      "title": "小米平板 9 Pro 现身 Geekbench：骁龙 8 Gen 5 芯片，12.1 英寸 3.2K LCD 屏",
-      "description": "IT之家 9 月 10 日消息，一款型号为 2612CRPFFC 的小米新机近日现身 Geekbench 跑分数据库，X 平台消息人士@ZionsAnvin 认为该机是小米平板 9 Pro。\nIT之家注意到，这款平板将搭载高通骁龙 8 Gen 5 芯片，拥有 12GB 内存，运行 Android 17 系统，在 Geekbench 7.0.0 跑分中录得单核 2075 分、多核 8750 分的成绩。\n同时，这款平板预计还将配备 12.1 英寸 3.2K LCD 屏幕，支持 144Hz 高刷，具备 11000mAh 大电池，支持 67W 充电。\n小米目前尚未确认 Pad 9 Pro 的具体信息以及售价，我们仍需要等待官方消息公布，才能确认上述信息是否全部属实。",
-      "content": "<p data-vmark=\"b437\">IT之家 9 月 10 日消息，一款型号为 2612CRPFFC 的小米新机近日现身 Geekbench 跑分数据库，X 平台消息人士<span class=\"css-1jxf684 r-bcqeeo r-1ttztb7 r-qvutc0 r-poiln3\">@ZionsAnvin 认为该机是小米平板 9 Pro。</span></p><p data-vmark=\"4101\">IT之家注意到，<strong>这款平板将搭载高通骁龙 8 Gen 5 芯片</strong>，拥有 12GB 内存，运行 Android 17 系统，在 Geekbench 7.0.0 跑分中录得单核 2075 分、多核 8750 分的成绩。</p><p data-vmark=\"363c\">同时，<strong>这款平板预计还将配备 12.1 英寸 3.2K LCD 屏幕</strong>，支持 144Hz 高刷，具备 11000mAh 大电池，支持 67W 充电。</p><p data-vmark=\"ea18\">小米目前尚未确认 Pad 9 Pro 的具体信息以及售价，我们仍需要等待官方消息公布，才能确认上述信息是否全部属实。</p><p style=\"text-align: center;\" data-vmark=\"0b6c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/89d70491-eaea-4dcc-ab50-8776e885568d.png?x-bce-process=image/format,f_auto\" w=\"898\" h=\"2577\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FZionsAnvin%2Fstatus%2F2097714047068328443%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FZionsAnvin%2Fstatus%2F2097714047068328443%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"be9a\" class=\"no-alt-img\"></p>",
-      "url": "https://www.ithome.com/1/000/861.htm",
-      "link": "https://www.ithome.com/1/000/861.htm",
-      "pubDate": "Thu, 10 Sep 2026 08:35:30 GMT",
-      "isoDate": "2026-09-10T08:35:30.000Z",
+      "title": "1599 → 1349 元：小米全屋路由 BE3600 Pro 1 主 3 子直降，免费上门安装",
+      "description": "小米旗下全屋路由 BE3600 Pro 网线版今年 5 月上市，1 主 3 子版定价为 1599 元。\n今日京东国补后低至 1349 元，支持首次免费上门安装：\n京东小米全屋路由 BE3600Pro 网线版 1 主 3 子券后 1349 元领 100 元券\n\n这款路由器采用有线分布式组网，集成中枢 + 蓝牙双网关，内置天线 + PoE 供电，子路由免插电源，而且子 / 主路由所有网口均为 2.5GbE 规格。\n\n小米全屋路由 BE3600 Pro 搭载高通跃龙 N7 平台（四核 A53 架构）、512MB 内存（不确定是 RAM 还是 ROM，子路由为 256MB）。\n小米全屋路由 BE3600 Pro 套装支持 Wi-Fi7 无线协议，5G 速率可达 2882Mbps，2.4G 速率可达 688Mbps。IT之家附参数详情如下：\n\n京东小米全屋路由 BE3600Pro 网线版 1 主 3 子券后 1349 元领 100 元券",
+      "content": "<p data-vmark=\"567d\">小米旗下全屋路由 BE3600 Pro 网线版今年 5 月上市，1 主 3 子版定价为 1599 元。</p><p data-vmark=\"85f5\">今日京东国补后低至 1349 元，支持首次免费上门安装：</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xOp7vV4\" target=\"_blank\" data-wapurl=\"https://u.jd.com/xGpUUHH\" data-iosurl=\"https://u.jd.com/xrpXzHs\" data-androidurl=\"https://u.jd.com/xapezWX\" data-hosnexturl=\"https://u.jd.com/x1pHwfw\" data-hosurl=\"https://u.jd.com/xGpeaaH\" data-uwpurl=\"https://u.jd.com/xgpNWol\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fxDpozTv%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/x6pmnog\" data-lpwxurl=\"https://u.jd.com/xapHEcX\"  data-ncid=\"234508\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/309018/31/3337/13914/682ff21dF95894049/40210a040e4b53f3.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">小米全屋路由 BE3600Pro</span></span><span class=\"card-abstract\"> 网线版 1 主 3 子</span><span class=\"card-controls\"><span class=\"price\">券后 1349 元</span><span class=\"card-btn-deep\">领 100 元券</span></span></span></span></a></dir><p data-vmark=\"7030\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/5/6bfa94b8-eea0-4957-8bca-0f36b42a169f.jpg?x-bce-process=image/format,f_auto\" w=\"805\" h=\"2874\" data-weibo=\"0\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1f762f1e4d28ac381e374834ecf6a2aaf380004eaedf65429efa8e23dcc4f99a56759cfb6fb1a80cb\" data-vmark=\"6910\" class=\"no-alt-img\"></p><p data-vmark=\"c163\">这款路由器采用有线分布式组网，集成中枢 + 蓝牙双网关，内置天线 + PoE 供电，子路由免插电源，而且子 / 主路由所有网口均为 2.5GbE 规格。</p><p data-vmark=\"d913\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/5/af7b98d3-ad49-489a-ac12-88f5085150dc.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"676\" data-weibo=\"1\" data-marks=\"1931fd9d012eb6d1aea7adc361d5de4389d8fe1b948bb7cffdb8e4249448b592c4b32e47e60eccbf3f900912c96de665\" data-vmark=\"17f9\" class=\"no-alt-img\"></p><p data-vmark=\"e339\">小米全屋路由 BE3600 Pro 搭载高通跃龙 N7 平台（四核 A53 架构）、512MB 内存（不确定是 RAM 还是 ROM，子路由为 256MB）。</p><p data-vmark=\"8db3\">小米全屋路由 BE3600 Pro 套装支持 Wi-Fi7 无线协议，5G 速率可达 2882Mbps，2.4G 速率可达 688Mbps。IT之家附参数详情如下：</p><p data-vmark=\"7fdb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/5/1db34121-deea-4f18-9f4e-10feef188f6c.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"907\" data-weibo=\"2\"  data-vmark=\"2dc1\" class=\"no-alt-img\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/5/07036aab-4ac1-4ffe-ba8d-2582f6619d39.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1200\" data-weibo=\"3\" data-vmark=\"fda7\" class=\"no-alt-img\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/5/1ce757a5-23da-4c09-94ed-02d0a9018701.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1200\" data-weibo=\"4\" data-vmark=\"7cd6\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/xOp7vV4\" target=\"_blank\" data-wapurl=\"https://u.jd.com/xGpUUHH\" data-iosurl=\"https://u.jd.com/xrpXzHs\" data-androidurl=\"https://u.jd.com/xapezWX\" data-hosnexturl=\"https://u.jd.com/x1pHwfw\" data-hosurl=\"https://u.jd.com/xGpeaaH\" data-uwpurl=\"https://u.jd.com/xgpNWol\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fxDpozTv%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/x6pmnog\" data-lpwxurl=\"https://u.jd.com/xapHEcX\"  data-ncid=\"234508\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/309018/31/3337/13914/682ff21dF95894049/40210a040e4b53f3.png\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">小米全屋路由 BE3600Pro</span></span><span class=\"card-abstract\"> 网线版 1 主 3 子</span><span class=\"card-controls\"><span class=\"price\">券后 1349 元</span><span class=\"card-btn-deep\">领 100 元券</span></span></span></span></a></dir>",
+      "url": "https://www.ithome.com/1/000/966.htm",
+      "link": "https://www.ithome.com/1/000/966.htm",
+      "pubDate": "Thu, 10 Sep 2026 11:10:19 GMT",
+      "isoDate": "2026-09-10T11:10:19.000Z",
       "author": "",
       "sourceId": "ithome",
       "sourceName": "IT之家",
       "sourceGroup": "tech",
       "fetchStrategy": "rss",
       "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 3,
+      "subCategory": "wireless",
+      "tagScore": 2,
       "crossTags": [
         {
           "type": "stakeholder",
           "id": "oem"
         }
       ]
-    },
-    {
-      "title": "iQOO Pad Ultra 小平板配备 8.8 英寸显示屏，9 月底发布",
-      "description": "IT之家 9 月 10 日消息，iQOO Pad Ultra 小平板将于 9 月底发布，今日官方预热显示，该机配备 8.8 英寸显示屏，机身厚 5.74mm、重 298g。\n\n在此之前，官方已经确认 iQOO Pad Ultra 小平板将内置风扇，尺寸为 30×30×3.5mm、散热面积 1661mm²、最大转速 14500rpm、最大风量 0.94 CFM。新机还有两款配件，包括拉伸式游戏手柄和背部握把，前者单独提供一个 C 口并带微动按键和霍尔摇杆，后者可用于改善玩家握持设备姿势。\n据IT之家昨日报道，iQOO 确认小平板命名为 iQOO Pad Ultra，并计划 9 月底与 iQOO 16 一同发布。爆料称这是一款 8.8 英寸 OLED 小平板，采用居中单孔四窄边框设计，拥有方形 Deco + 出风口，并搭载 2nm 骁龙 8 Elite Extreme Gen6 处理器，内置 9000mAh 级电池等，提供末影黑 / 星铠银配色。",
-      "content": "<p data-vmark=\"f3b3\">IT之家 9 月 10 日消息，iQOO Pad Ultra 小平板将于 9 月底发布，今日官方预热显示，该机配备 8.8 英寸显示屏，机身厚 5.74mm、重 298g。</p><p data-vmark=\"806a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6bb7961d-e088-4b9f-9205-82b53d8b2e66.jpg\" w=\"1440\" h=\"1920\" data-weibo=\"0\" data-vmark=\"ecb8\" class=\"no-alt-img\"></p><p data-vmark=\"3494\">在此之前，官方已经确认 iQOO Pad Ultra 小平板将<strong>内置风扇</strong>，尺寸为 30×30×3.5mm、散热面积 1661mm²、最大转速 14500rpm、最大风量 0.94 CFM。新机还有两款配件，包括拉伸式游戏手柄和背部握把，前者单独提供一个 C 口并带微动按键和霍尔摇杆，后者可用于改善玩家握持设备姿势。</p><p data-vmark=\"9b50\">据IT之家昨日报道，<a href=\"https://www.ithome.com/0/999/570.htm\" target=\"_blank\">iQOO 确认小平板命名为 iQOO Pad Ultra</a>，并计划 9 月底与 iQOO 16 一同发布。爆料称这是一款 8.8 英寸 OLED 小平板，采用居中单孔四窄边框设计，拥有方形 Deco + 出风口，并搭载 2nm 骁龙 8 Elite Extreme Gen6 处理器，内置 9000mAh 级电池等，提供末影黑 / 星铠银配色。</p>",
-      "url": "https://www.ithome.com/1/000/737.htm",
-      "link": "https://www.ithome.com/1/000/737.htm",
-      "pubDate": "Thu, 10 Sep 2026 06:57:17 GMT",
-      "isoDate": "2026-09-10T06:57:17.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "",
-      "tagScore": 0,
-      "crossTags": []
     }
   ]
 }
