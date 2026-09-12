@@ -1,9 +1,9 @@
 {
   "date": "2026-09-12",
-  "generatedAt": "2026-09-12T06:48:56.045Z",
+  "generatedAt": "2026-09-12T09:35:55.161Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 4,
+  "count": 3,
   "articles": [
     {
       "title": "消息称高通原计划采用三星 2nm 制程打造新一代移动平台芯片，但因价格未谈拢导致量产推迟至 2027 年",
@@ -79,31 +79,6 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 17,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    },
-    {
-      "title": "努比亚 NaviX Ultra 手机“蓝境”外观公布，官方称其深邃、纯粹",
-      "description": "IT之家 9 月 11 日消息，今天（11 日）下午，努比亚手机官微公布了努比亚 NaviX Ultra 手机“蓝境”外观的更多细节。官方的 Slogan 为“蓝得纯粹，自有锋芒。”与“深邃蓝调，利落线条，光影交错之间，渐入佳境。”\n\n\n\n\n\n\n\n\n\n这款手机拥有蓝色背板，边框和摄像模组则为银色，并配有一枚橙色的实体按键（预计为“AI 键”）。\n努比亚 NaviX Ultra 由中兴通讯与字节跳动联合研发，搭载豆包手机助手，被称为“豆包手机二代”。结合晚点 LatePost 爆料，该机调整了与阿里、腾讯等各家超级应用的合作方式，将不会在用户授权后读取屏幕，模拟点击、像人一样操作应用（所谓 GUI 技术）。\n新机有望搭载骁龙 8 Elite Gen5 旗舰处理器，内置 7000mAh 硅碳负极电池，支持 90W / 100W 有线快充及无线充电。影像系统方面，预计配备 5000 万像素主摄、超广角及潜望式长焦镜头，前置 5000 万像素高清镜头。\n努比亚官方 9 月 4 日与长鑫存储共同宣布，努比亚 NaviX Ultra 将搭载长鑫存储速率达 10667Mbps 的 LPDDR5X 内存。长鑫存储官方强调，这是国产 10667Mbps 高速率 LPDDR5X 芯片首次量产应用，标志着国产移动 DRAM 正式迈入顶级速率商用阶段。\n努比亚 NaviX Ultra 合作商也已公布，包括高通骁龙、京东方、长鑫存储、三星半导体、汇顶科技等。\n据IT之家了解，新机已定档 9 月 16 日 14:00 发布。",
-      "content": "<p data-vmark=\"82fd\">IT之家 9 月 11 日消息，今天（11 日）下午，努比亚手机官微公布了努比亚 NaviX Ultra 手机“蓝境”外观的更多细节。官方的 Slogan 为“蓝得纯粹，自有锋芒。”与“深邃蓝调，利落线条，光影交错之间，渐入佳境。”</p><p style=\"text-align: center;\" data-vmark=\"1a1b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/10f58d14-87f7-456d-97f8-3544a22ed867.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"962\" data-weibo=\"0\" data-vmark=\"9906\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"ec17\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d1a2cdfc-bfc6-40ec-a646-888f55d283e7.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"962\" data-weibo=\"1\" data-vmark=\"1c24\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"c161\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d7542701-69c8-483f-a52c-eb99f6f71ed1.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"962\" data-weibo=\"2\" data-vmark=\"0eb2\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"aa98\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bf48cfb7-335c-4905-9fcd-36523d02db23.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"962\" data-weibo=\"3\" data-vmark=\"8511\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"7da7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/a7e7a7e7-ce95-4303-a71c-677e1dd6698c.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"962\" data-weibo=\"4\" data-vmark=\"129b\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"5eca\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/395c5f6a-dfa6-40c0-80a0-85cdb9bfdb05.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"962\" data-weibo=\"5\" data-vmark=\"6edc\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"7db6\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/65dca129-6052-4455-bfc0-29b9deecd315.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"962\" data-weibo=\"6\" data-vmark=\"38cc\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"25a7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/61c8cb81-8aad-4b0d-a117-03bd215f6a7c.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"962\" data-weibo=\"7\" data-vmark=\"e30b\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"711c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/93e9be67-9c0a-4c0c-9092-d91d338f43d9.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"962\" data-weibo=\"8\" data-vmark=\"6d12\" class=\"no-alt-img\"></p><p data-vmark=\"96fa\">这款手机拥有蓝色背板，边框和摄像模组则为银色，并配有一枚橙色的实体按键（预计为“AI 键”）。</p><p data-vmark=\"fc7b\" style=\"text-align: justify;\">努比亚 NaviX Ultra 由中兴通讯与字节跳动联合研发，搭载豆包手机助手，被称为“豆包手机二代”。<a target=\"_blank\" href=\"https://www.ithome.com/0/978/312.htm\">结合晚点 LatePost 爆料</a>，该机调整了与阿里、腾讯等各家超级应用的合作方式，将不会在用户授权后读取屏幕，模拟点击、像人一样操作应用（所谓 GUI 技术）。</p><p data-vmark=\"0d05\" style=\"text-align: justify;\">新机有望搭载骁龙 8 Elite Gen5 旗舰处理器，内置 7000mAh 硅碳负极电池，支持 90W / 100W 有线快充及无线充电。影像系统方面，预计配备 5000 万像素主摄、超广角及潜望式长焦镜头，前置 5000 万像素高清镜头。</p><p data-vmark=\"d627\" style=\"text-align: justify;\">努比亚官方 9 月 4 日与长鑫存储共同宣布，<a target=\"_blank\" href=\"https://www.ithome.com/0/998/289.htm\">努比亚 NaviX Ultra 将搭载长鑫存储速率达 10667Mbps 的 LPDDR5X 内存</a>。长鑫存储官方强调，这是国产 10667Mbps 高速率 LPDDR5X 芯片首次量产应用，标志着国产移动 DRAM 正式迈入顶级速率商用阶段。</p><p data-vmark=\"710b\" style=\"text-align: justify;\">努比亚 NaviX Ultra 合作商也已公布，<a target=\"_blank\" href=\"https://www.ithome.com/0/998/949.htm\">包括高通骁龙、京东方、长鑫存储、三星半导体、汇顶科技等</a>。</p><p style=\"text-align: justify;\" data-vmark=\"e6c8\">据IT之家了解，新机已定档 9 月 16 日 14:00 发布。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"130d\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4694\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/1/001/402.htm",
-      "link": "https://www.ithome.com/1/001/402.htm",
-      "pubDate": "Fri, 11 Sep 2026 09:53:47 GMT",
-      "isoDate": "2026-09-11T09:53:47.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 21,
       "crossTags": [
         {
           "type": "stakeholder",
