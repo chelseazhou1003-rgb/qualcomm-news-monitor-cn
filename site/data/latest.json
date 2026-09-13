@@ -1,7 +1,7 @@
 {
   "date": "2026-09-13",
-  "generatedAt": "2026-09-13T09:26:37.700Z",
-  "totalArticles": 3,
+  "generatedAt": "2026-09-13T14:47:58.343Z",
+  "totalArticles": 2,
   "sections": [
     {
       "id": "core-businesses",
@@ -21,7 +21,7 @@
     {
       "id": "macro-environment",
       "title": "宏观环境",
-      "count": 1
+      "count": 0
     },
     {
       "id": "competitors",
@@ -31,7 +31,7 @@
     {
       "id": "stakeholders",
       "title": "关键利益相关方",
-      "count": 2
+      "count": 1
     }
   ]
 }
