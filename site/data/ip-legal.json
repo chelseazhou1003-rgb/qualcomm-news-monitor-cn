@@ -1,27 +1,8 @@
 {
   "date": "2026-09-17",
-  "generatedAt": "2026-09-17T14:45:08.500Z",
+  "generatedAt": "2026-09-17T20:13:13.915Z",
   "section": "ip-legal",
   "sectionTitle": "知识产权与法律",
-  "count": 1,
-  "articles": [
-    {
-      "title": "加息落地，指引偏鹰",
-      "description": "美联储9月加息落地，12月可能是下一次加息实质博弈期\n\n\n     当地时间2026年9月16日，美国纽约，一名交易员在纽约证券交易所（NYSE）交易大厅工作，电视屏幕正在播报联邦公开市场委员会（FOMC）会议后美联储的加息决定。图：视觉中国\n    \n   \n　　北京时间9月17日（周四）凌晨美联储公布9月议息会议决定，政策利率如期上调25bp至3.75-4.00%，点阵图和经济预测（SEP）偏鹰派导致市场加息预期升温；沃什延续了Jackson Hole会议以来的鹰派立场，不提供前瞻指引。\n　　联储9月会议如期加息25bp至3.75-4.00%，12个票委均支持本次加息，点阵图与SEP均显示联储内部整体更为鹰派，沃什则称本次加息是从货币政策中撤走“一剂宽松”。决议声明新增“国内支出保持韧性”，删除了“高通胀部分源于供给冲击、特别是能源”的表述，指出加息有助于“更及时”地推动通胀回归2%。点阵图显示16名委员要求2026年至少再加息1次。\n 　　推荐进入财新数据库，可随时查阅宏观经济、股票债券、公司人物，财经数据尽在掌握。",
-      "content": "<blockquote><p>美联储9月加息落地，12月可能是下一次加息实质博弈期</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-09-17/178960428957873_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-09-17/178960428957873_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>当地时间2026年9月16日，美国纽约，一名交易员在纽约证券交易所（NYSE）交易大厅工作，电视屏幕正在播报联邦公开市场委员会（FOMC）会议后美联储的加息决定。图：视觉中国</dd>\n    </dl>\n   <br>\n       <p>　　北京时间9月17日（周四）凌晨美联储公布9月议息会议决定，政策利率如期上调25bp至3.75-4.00%，点阵图和经济预测（SEP）偏鹰派导致市场加息预期升温；沃什延续了Jackson Hole会议以来的鹰派立场，不提供前瞻指引。</p>\n<p>　　联储9月会议如期加息25bp至3.75-4.00%，12个票委均支持本次加息，点阵图与SEP均显示联储内部整体更为鹰派，沃什则称本次加息是从货币政策中撤走“一剂宽松”。决议声明新增“国内支出保持韧性”，删除了“高通胀部分源于供给冲击、特别是能源”的表述，指出加息有助于“更及时”地推动通胀回归2%。点阵图显示16名委员要求2026年至少再加息1次。</p>\n<style>\n.lanmu_textend{\npadding-bottom: 28px;\ncolor: #4a4a4a;\nfont-size: 16px;\n}\n.lanmu_textend a {\n    color: #369;\n}\n</style>\n<div class=\"lanmu_textend\">\n<p> 　　推荐进入<a href=\"https://cxdata.caixin.com/index\" target=\"_blank\">财新数据库</a>，可随时查阅宏观经济、股票债券、公司人物，财经数据尽在掌握。</p>\n</div>\n      ",
-      "url": "https://opinion.caixin.com/2026-09-17/102485647.html",
-      "link": "https://opinion.caixin.com/2026-09-17/102485647.html",
-      "pubDate": "Thu, 17 Sep 2026 00:16:40 GMT",
-      "isoDate": "2026-09-17T00:16:40.000Z",
-      "author": "",
-      "sourceId": "caixin",
-      "sourceName": "财新网",
-      "sourceGroup": "finance",
-      "fetchStrategy": "rsshub",
-      "section": "ip-legal",
-      "subCategory": "sep",
-      "tagScore": 4,
-      "crossTags": []
-    }
-  ]
+  "count": 0,
+  "articles": []
 }
