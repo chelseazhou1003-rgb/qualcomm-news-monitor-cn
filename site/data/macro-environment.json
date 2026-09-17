@@ -1,9 +1,9 @@
 {
   "date": "2026-09-18",
-  "generatedAt": "2026-09-18T06:01:30.570Z",
+  "generatedAt": "2026-09-18T07:07:59.458Z",
   "section": "macro-environment",
   "sectionTitle": "宏观环境",
-  "count": 2,
+  "count": 1,
   "articles": [
     {
       "title": "高规格会议部署先进制造业：加快新兴产业规模应用",
@@ -28,25 +28,6 @@
           "id": "regulators"
         }
       ]
-    },
-    {
-      "title": "记者手记｜台湾富人布局东南亚 中美博弈下的微观镜像",
-      "description": "台资近年在港、星之间灵活游走，AI的爆发再次抬升了新加坡离岸金融中心的地位\n\n\n     资料图：新加坡滨海湾，CBD中央商务区。图：视觉中国\n    \n   \n　　【财新网】过去一两年，一个低调但值得留意的跨境资金现象正在发生：不少台湾本土家族，尤其是依托半导体产业崛起的高净值群体，密集前往新加坡开户、设立家族办公室，将部分资产向外转移。\n　　有意思的是，这一波资金出海的节奏，相比其他区域高净值群体的离岸布局，来得似乎有些滞后。这背后的第一层驱动力，来自AI半导体周期带来的财富重构。AI算力需求爆发，带动台湾芯片设计、制造、封测产业链持续繁荣，一大批本土企业家、家族账面财富快速膨胀。当资产体量达到一定规模，单纯存放于台湾本地的金融机构，在资产隔离、家族传承、税务规划层面的短板就会凸显，天然产生搭建离岸资产架构的需求。",
-      "content": "<blockquote><p>台资近年在港、星之间灵活游走，AI的爆发再次抬升了新加坡离岸金融中心的地位</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-09-17/178962962663990_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-09-17/178962962663990_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>资料图：新加坡滨海湾，CBD中央商务区。图：视觉中国</dd>\n    </dl>\n   <br>\n       <p>　　<b>【财新网】</b>过去一两年，一个低调但值得留意的跨境资金现象正在发生：不少台湾本土家族，尤其是依托半导体产业崛起的高净值群体，密集前往新加坡开户、设立家族办公室，将部分资产向外转移。</p>\n<p>　　有意思的是，这一波资金出海的节奏，相比其他区域高净值群体的离岸布局，来得似乎有些滞后。这背后的第一层驱动力，来自AI半导体周期带来的财富重构。AI算力需求爆发，带动台湾芯片设计、制造、封测产业链持续繁荣，一大批本土企业家、家族账面财富快速膨胀。当资产体量达到一定规模，单纯存放于台湾本地的金融机构，在资产隔离、家族传承、税务规划层面的短板就会凸显，天然产生搭建离岸资产架构的需求。</p>\n      ",
-      "url": "https://finance.caixin.com/2026-09-17/102485876.html",
-      "link": "https://finance.caixin.com/2026-09-17/102485876.html",
-      "pubDate": "Thu, 17 Sep 2026 07:09:39 GMT",
-      "isoDate": "2026-09-17T07:09:39.000Z",
-      "author": "",
-      "sourceId": "caixin",
-      "sourceName": "财新网",
-      "sourceGroup": "finance",
-      "fetchStrategy": "rsshub",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "tagScore": 1,
-      "crossTags": []
     }
   ]
 }
