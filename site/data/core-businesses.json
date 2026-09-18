@@ -1,50 +1,8 @@
 {
   "date": "2026-09-18",
-  "generatedAt": "2026-09-18T14:42:08.999Z",
+  "generatedAt": "2026-09-18T19:53:13.999Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 2,
-  "articles": [
-    {
-      "title": "M610BB 手机曝光：高通第六代骁龙 8 至尊版芯片，预估为小米 18 Pro",
-      "description": "IT之家 9 月 18 日消息，继型号 M154FF 和 M1544F 两款小米手机跑分曝光后，型号 M610BB 手机也现身 GeekBench 跑分平台，7.0.0 版本单核成绩为 2,831 分、多核成绩 8,843 分。\n型号方面，科技媒体 GSMArena 认为该机上市后关联小米 18 Pro，由于是工程样机，内存容量、软件调校、温控状态和测试版本都会显著影响跑分成绩，因此相关跑分目前仅供参考。\n\n芯片方面，页面信息显示该机配备高通第六代骁龙 8 至尊版（SM8950，英文名称 Snapdragon 8 Elite Gen6），采用 2+3+3 集群方案，相关时钟频率为高通第六代骁龙 8 超级至尊版（SM8975，英文名称 Snapdragon 8 Elite Extreme Gen6）相同。\nIT之家简要附上三款机型配置和跑分如下：\n\n型号代码预估对应机型内存芯片单核成绩多核成绩\nM154FF小米 18 Pro16GBSM89753,61911,842\nM1544F小米 18 Pro Max12GBSM89753,58212,247\nM610BB小米 18 Pro16GBSM89502,8318,843",
-      "content": "<p data-vmark=\"32b0\">IT之家 9 月 18 日消息，继型号 M154FF 和 M1544F 两款小米手机跑分曝光后，<strong>型号 M610BB 手机也现身 GeekBench 跑分平台</strong>，7.0.0 版本单核成绩为 2,831 分、多核成绩 8,843 分。</p><p data-vmark=\"2f9c\">型号方面，科技媒体 GSMArena 认为该机上市后关联小米 18 Pro，由于是工程样机，内存容量、软件调校、温控状态和测试版本都会显著影响跑分成绩，因此相关跑分目前仅供参考。</p><p data-vmark=\"8a68\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/6de1dd88-d318-4363-845f-acf011b93995.png?x-bce-process=image/format,f_auto\" w=\"539\" h=\"738\" data-weibo=\"0\" data-vmark=\"c429\" class=\"no-alt-img\"></p><p data-vmark=\"275e\">芯片方面，<a href=\"https://www.ithome.com/0/992/452.htm\" target=\"_blank\">页面信息显示该机配备高通第六代骁龙 8 至尊版（SM8950，英文名称 Snapdragon 8 Elite Gen6）</a>，采用 2+3+3 集群方案，相关时钟频率为高通第六代骁龙 8 超级至尊版（SM8975，英文名称 Snapdragon 8 Elite Extreme Gen6）相同。</p><p data-vmark=\"9696\">IT之家简要附上三款机型配置和跑分如下：</p><table><tbody><tr class=\"firstRow\"><th scope=\"col\">型号代码</th><th scope=\"col\">预估对应机型</th><th scope=\"col\">内存</th><th>芯片</th><th>单核成绩</th><th>多核成绩</th></tr><tr><td>M154FF</td><td>小米 18 Pro</td><td>16GB</td><td>SM8975</td><td>3,619</td><td>11,842</td></tr><tr><td>M1544F</td><td>小米 18 Pro Max</td><td>12GB</td><td>SM8975</td><td>3,582</td><td>12,247</td></tr><tr><td colspan=\"1\" rowspan=\"1\">M610BB</td><td colspan=\"1\" rowspan=\"1\">小米 18 Pro</td><td colspan=\"1\" rowspan=\"1\">16GB</td><td>SM8950</td><td colspan=\"1\" rowspan=\"1\">2,831</td><td colspan=\"1\" rowspan=\"1\">8,843</td></tr></tbody></table>",
-      "url": "https://www.ithome.com/1/004/085.htm",
-      "link": "https://www.ithome.com/1/004/085.htm",
-      "pubDate": "Fri, 18 Sep 2026 06:34:55 GMT",
-      "isoDate": "2026-09-18T06:34:55.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 10,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "2195 美元起 Snap Specs 消费级 AR 眼镜上市：提供蜂窝网络版本、电致变色镜片、无需外接计算单元",
-      "description": "IT之家 9 月 18 日消息，Snap 旗下正式首款面向普通消费者的独立式 AR 眼镜 Snap Specs 现已正式上市，Wi-Fi 版本定价为 2,195 美元（IT之家注：现汇率约合 14,754 元人民币）。\n官方同时联合运营商 Verizon 推出蜂窝网络版本，该版本机型定价 2,395 美元（现汇率约合 16,099 元人民币），其中 Verizon 客户数据套餐价格为每月 10 美元（现汇率约合 67.2 元人民币）起，非 Verizon 客户则需要支付每月 20 美元（现汇率约合 134.4 元人民币）起的套餐费用。\n\n规格方面，该产品镜身采用瑞士 TR90 高分子材料打造，提供两种尺寸，重量分别为 132 克与 136 克，设备支持近视镜片插片，并附带多种鼻托配件，以适配不同用户佩戴需求。\n\n该眼镜使用 Snap 自研的 LCoS（硅基液晶）显示技术，拥有 51 度视场角（FOV）以及 1600 万色显示能力。同时设备配备了电致变色镜片，可在 10 秒内从透明切换至墨镜模式。\n\n官方强调，该机无需外接计算单元即可独立运行，其内部搭载了两颗高通骁龙处理器，其中一颗专门负责计算机视觉任务，另一颗则用于运行 Snap AR 界面，设备内置 AI 功能，能够实时监测用户所看到的内容，理解用户当前目标，并实时提供情境化帮助，同时开发者也能创建能够实时响应现实世界的智能 AR 应用。\n续航方面，该机在“混合使用”场景下可提供最长约 4 小时续航，而附带的充电盒则可将总续航时间扩展至约 20 小时。",
-      "content": "<p data-vmark=\"24bf\">IT之家 9 月 18 日消息，Snap 旗下正式首款面向普通消费者的独立式 AR 眼镜 Snap Specs 现已正式上市，Wi-Fi 版本定价为 2,195 美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 14,754 元人民币）。</span></p><p data-vmark=\"53b4\">官方同时联合运营商 Verizon 推出蜂窝网络版本，该版本机型定价 2,395 美元<span class=\"exch-money-value\">（现汇率约合 16,099 元人民币）</span>，其中 Verizon 客户数据套餐价格为每月 10 美元<span class=\"exch-money-value\">（现汇率约合 67.2 元人民币）</span>起，非 Verizon 客户则需要支付每月 20 美元<span class=\"exch-money-value\">（现汇率约合 134.4 元人民币）</span>起的套餐费用。</p><p data-vmark=\"daf7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/01a6e5e0-92e7-4769-8b11-2c307b28f4dd.png\" w=\"1440\" h=\"871\" data-weibo=\"0\" data-vmark=\"de3d\" class=\"no-alt-img\"></p><p data-vmark=\"6ad2\">规格方面，该产品镜身采用瑞士 TR90 高分子材料打造，提供两种尺寸，重量分别为 132 克与 136 克，设备支持近视镜片插片，并附带多种鼻托配件，以适配不同用户佩戴需求。</p><p data-vmark=\"f53c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/1d8b9815-1f21-4523-bf57-84aa56a6a30f.png\" w=\"1440\" h=\"941\" data-weibo=\"1\" data-vmark=\"bec5\" class=\"no-alt-img\"></p><p data-vmark=\"6a3b\">该眼镜使用 Snap 自研的 LCoS（硅基液晶）显示技术，拥有 51 度视场角（FOV）以及 1600 万色显示能力。同时设备配备了电致变色镜片，可在 10 秒内从透明切换至墨镜模式。</p><p data-vmark=\"4eba\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/e429d45a-0fb3-4e40-983d-4dcc29cfbd3c.png\" w=\"1440\" h=\"951\" data-weibo=\"2\" data-vmark=\"c096\" class=\"no-alt-img\"></p><p data-vmark=\"a9e3\">官方强调，该机无需外接计算单元即可独立运行，其内部搭载了两颗高通骁龙处理器，其中一颗专门负责计算机视觉任务，另一颗则用于运行 Snap AR 界面，设备内置 AI 功能，能够实时监测用户所看到的内容，理解用户当前目标，并实时提供情境化帮助，同时开发者也能创建能够实时响应现实世界的智能 AR 应用。</p><p data-vmark=\"f81d\">续航方面，该机在“混合使用”场景下可提供最长约 4 小时续航，而附带的充电盒则可将总续航时间扩展至约 20 小时。</p><p data-vmark=\"5f74\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/6/6877c2b8-81c1-4a9a-9a57-b5e7a0132bb3.png\" w=\"1440\" h=\"954\" data-weibo=\"3\" data-vmark=\"a646\" class=\"no-alt-img\"></p>",
-      "url": "https://www.ithome.com/1/003/974.htm",
-      "link": "https://www.ithome.com/1/003/974.htm",
-      "pubDate": "Fri, 18 Sep 2026 02:43:14 GMT",
-      "isoDate": "2026-09-18T02:43:14.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 4,
-      "crossTags": []
-    }
-  ]
+  "count": 0,
+  "articles": []
 }
