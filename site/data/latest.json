@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-19",
-  "generatedAt": "2026-09-19T21:30:16.829Z",
-  "totalArticles": 5,
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-20T00:50:01.366Z",
+  "totalArticles": 4,
   "sections": [
     {
       "id": "core-businesses",
       "title": "核心业务",
-      "count": 5
+      "count": 4
     },
     {
       "id": "ip-legal",
