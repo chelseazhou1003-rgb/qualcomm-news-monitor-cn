@@ -1,10 +1,35 @@
 {
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T17:44:25.883Z",
+  "generatedAt": "2026-09-19T21:30:16.829Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 1,
+  "count": 2,
   "articles": [
+    {
+      "title": "消息称荣耀 WIN 平板搭载 8.4 英寸超高刷 OLED 屏，可能是第一个万级大电池小平板",
+      "description": "IT之家 9 月 19 日消息，博主 @体验more 今日透露，荣耀 WIN 平板搭载 8.4 英寸超高刷 OLED 屏，芯片为骁龙 8 Elite Gen 5（第五代骁龙 8 至尊版），支持主动散热风扇，可能是第一个万级大电池小平板。\n\n据IT之家此前报道，荣耀 WIN 小平板已于 9 月 16 日开启盲约。荣耀中国区智慧生活业务部部长林林已确认这款平板搭载第五代骁龙 8 至尊版处理器，还有风扇。\n\n目前暂无这款新品的更多信息，博主 @数码闲聊站 曾在今年 6 月猜测，荣耀小平板或命名为 WIN Pad mini。",
+      "content": "<p data-vmark=\"dc7f\">IT之家 9 月 19 日消息，博主 @体验more 今日透露，<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2025/12/26/5bddf410-27ca-4a73-9e22-cf06a1aa95f1.png?x-bce-process=image/format,f_auto\" data-topic-id=\"59237\">荣耀 WIN</span> 平板搭载<strong> 8.4 英寸超高刷 OLED 屏</strong>，芯片为骁龙 8 Elite Gen 5（第五代骁龙 8 至尊版），支持主动散热风扇，<strong>可能是第一个万级大电池小平板</strong>。</p><p style=\"text-align: center;\" data-vmark=\"ef0a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/b101f46d-62a3-4ec0-aed5-8a2b80a6ecf2.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"416\" data-mpos=\"2,0\" data-weibo=\"0\"  data-vmark=\"f1e7\" class=\"no-alt-img\"></p><p data-vmark=\"9a81\">据IT之家此前报道，荣耀 WIN 小平板已于 9 月 16 日开启盲约。荣耀中国区智慧生活业务部部长林林已确认这款平板搭载第五代骁龙 8 至尊版处理器，还有风扇。</p><p style=\"text-align: center;\" data-vmark=\"01d1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4c377935-cd66-47d9-9e23-87cf60b18548.jpg?x-bce-process=image/format,f_auto\" w=\"750\" h=\"1001\" data-weibo=\"1\" data-vmark=\"b13a\" class=\"no-alt-img\"></p><p data-vmark=\"ee7a\">目前暂无这款新品的更多信息，<a target=\"_blank\" href=\"https://www.ithome.com/0/962/685.htm\">博主 @数码闲聊站 曾在今年 6 月猜测</a>，荣耀小平板或命名为 WIN Pad mini。</p>",
+      "url": "https://www.ithome.com/1/004/532.htm",
+      "link": "https://www.ithome.com/1/004/532.htm",
+      "pubDate": "Sat, 19 Sep 2026 10:47:00 GMT",
+      "isoDate": "2026-09-19T10:47:00.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 2,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "oem"
+    },
     {
       "title": "荣耀 Magic9 系列手机搭载行业独家双 3D 生物识别，9 月 28 日发布",
       "description": "IT之家 9 月 19 日消息，荣耀手机今日宣布，荣耀 Magic9 系列带来行业独家双 3D 生物识别，包括 3D 超声波指纹识别与 3D 人脸识别。\n\n荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会将于 9 月 28 日在北京举行，目前博主 @数码闲聊站 已曝光荣耀 Magic9 系列手机规格信息，IT之家整理如下：\n荣耀 Magic9：\n\n6.37\"2664*1236p 1.5K+120Hz LTPS 小直屏，大 R 角极窄四等边；\n\n骁龙 8E5 处理器（第五代骁龙 8 至尊版），8000mAh 大电池 +80W 有线充 +50W 无线充；\n\n55Mp F2.0 1:1 方形前摄，后置 200Mp 1/1.4\" F1.9 主摄 +50Mp F2.0 超广角 +200Mp 1/1.56\" 3.5X F2.6 潜望长焦；\n\n3D 超声波指纹，AI 键 + 拍照键，横向大矩阵冷雕 Deco，IP68/69/69K\n\n荣耀 Magic9 Pro Max：\n\n6.8\"2868*1320p 1.5K+120Hz LTPO 大直屏，大 R 角极窄四等边\n\n骁龙 8EE6 处理器（第六代骁龙 8 超级至尊版），8800mAh 大电池 +100W 有线充 +80W 无线充；\n\n55Mp F2.0 1:1 方形前摄，后置 200Mp 1/1.28\" F1.57 超大底主摄 +50Mp F2.0 超广角 +200Mp 1/1.4\" F2.6 大底潜望长焦，\n\n3D 人脸识别 +3D 超声波指纹，AI 键 + 拍照键，横向大矩阵 Deco，双 1216 扬声器，IP68/69/69K\n\n\n▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏\n\n▲ IT之家开箱：荣耀 Magic9 Pro Max 图赏\n荣耀 Magic9 超能版：\n6.81\"2788*1280p 1.5K+120Hz 直屏，1mm 级别极窄边框，横向大矩阵 Deco，\n骁龙 8E5 处理器（第五代骁龙 8 至尊版），主动散热风扇\n11000mAh 电池，80W 有线充，50W 无线充\n前置 50Mp，后置 200Mp 主摄 +12Mp 超广角 +50Mp 3X 长焦",
