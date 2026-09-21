@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
-  "generatedAt": "2026-09-22T01:13:18.436Z",
-  "count": 6,
+  "generatedAt": "2026-09-22T05:15:35.839Z",
+  "count": 5,
   "articles": [
     {
       "title": "谷歌携五大 PC 厂商正式推出首批 Googlebook 笔记本，起售价 899 美元",
@@ -92,25 +92,6 @@
       "section": "macro-environment",
       "subCategory": "customers-partners",
       "tagScore": 58,
-      "crossTags": []
-    },
-    {
-      "title": "贝森特称美方提议建立中美AI安全通报机制 将提请峰会考虑",
-      "description": "格里尔补充道，美国针对AI先进芯片和半导体制造设备的出口管制等问题，并不在此次AI相关磋商的议程之内\n\n\n     当地时间2026年9月20日晚上7时52分，美国纽约摩根大通总部，美国财长贝森特结束中美经贸磋商后，向记者介绍了磋商情况，之后离开磋商地点。图：财新 曾佳\n    \n   \n　　【财新网】当地时间9月20日，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔在美国纽约举行经贸磋商。据新华社消息，双方以两国元首重要共识为引领，秉持相互尊重、和平共处、合作共赢的原则，围绕落实历次经贸磋商共识、促进双边贸易投资等双方共同关心的重要经贸问题，进行了坦诚、深入、富有建设性的交流，并就人工智能有关问题举行对话。\n　　这场中美经贸磋商在纽约的摩根大通总部举行。\n　　美方和中方代表团于当天上午10时30分左右，分别从总部大楼的两个不同侧门进入。经过中午短暂的午休后，直至晚间近8时许，副总理何立峰、中国国际贸易谈判代表李成钢、财政部副部长廖岷等中方代表一行人，分批从大楼内走出。",
-      "content": "<blockquote><p>格里尔补充道，美国针对AI先进芯片和半导体制造设备的出口管制等问题，并不在此次AI相关磋商的议程之内</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-09-21/178997331290772_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-09-21/178997331290772_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>当地时间2026年9月20日晚上7时52分，美国纽约摩根大通总部，美国财长贝森特结束中美经贸磋商后，向记者介绍了磋商情况，之后离开磋商地点。图：财新 曾佳</dd>\n    </dl>\n   <br>\n       <p>　　<b>【财新网】</b>当地时间9月20日，中美经贸中方牵头人、国务院副总理<a href=\"https://key.caixin.com/topic/BQ02.000006438\" target=\"_blank\">何立峰</a>与美方牵头人、美国财政部长贝森特和贸易代表格里尔在美国纽约举行经贸磋商。据新华社消息，双方以两国元首重要共识为引领，秉持相互尊重、和平共处、合作共赢的原则，围绕落实历次经贸磋商共识、促进双边贸易投资等双方共同关心的重要经贸问题，进行了坦诚、深入、富有建设性的交流，并就人工智能有关问题举行对话。</p>\n<p>　　这场中美经贸磋商在纽约的摩根大通总部举行。</p>\n<p>　　美方和中方代表团于当天上午10时30分左右，分别从总部大楼的两个不同侧门进入。经过中午短暂的午休后，直至晚间近8时许，副总理何立峰、中国国际贸易谈判代表<a href=\"https://s.ccxe.com.cn/entities/persons/30056908249?originReferrer=pcarticle\" target=\"_blank\">李成钢</a>、财政部副部长<a href=\"https://s.ccxe.com.cn/entities/persons/304012359?originReferrer=pcarticle\" target=\"_blank\">廖岷</a>等中方代表一行人，分批从大楼内走出。</p>\n      ",
-      "url": "https://international.caixin.com/2026-09-21/102487081.html",
-      "link": "https://international.caixin.com/2026-09-21/102487081.html",
-      "pubDate": "Mon, 21 Sep 2026 06:14:24 GMT",
-      "isoDate": "2026-09-21T06:14:24.000Z",
-      "author": "",
-      "sourceId": "caixin",
-      "sourceName": "财新网",
-      "sourceGroup": "finance",
-      "fetchStrategy": "rsshub",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "tagScore": 11,
       "crossTags": []
     }
   ]
