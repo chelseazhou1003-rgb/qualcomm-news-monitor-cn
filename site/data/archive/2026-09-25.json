@@ -1,10 +1,113 @@
 {
   "date": "2026-09-25",
   "generatedAt": "2026-09-25T01:58:38.513Z",
-  "section": "macro-environment",
-  "sectionTitle": "宏观环境",
-  "count": 3,
+  "count": 8,
   "articles": [
+    {
+      "title": "高通新王牌：个人 AI 时代来了",
+      "description": "为期两天的骁龙峰会，高通一口气拿出了好几个全新平台，从手机、电脑、耳机，到手表、眼镜、VR/XR。面对即将到来的个人 AI 时代，高通已经完全准备好了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "content": "为期两天的骁龙峰会，高通一口气拿出了好几个全新平台，从手机、电脑、耳机，到手表、眼镜、VR/XR。面对即将到来的个人 AI 时代，高通已经完全准备好了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "url": "https://www.ifanr.com/1682048?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "link": "https://www.ifanr.com/1682048?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Thu, 24 Sep 2026 08:08:16 +0000",
+      "isoDate": "2026-09-24T08:08:16.000Z",
+      "author": "爱范儿视频",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 4,
+      "crossTags": []
+    },
+    {
+      "title": "AI 想包办你的一切，高通想包办你的 AI",
+      "description": "AI 的下一站，是全设备\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "content": "AI 的下一站，是全设备<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "url": "https://www.ifanr.com/1681946?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "link": "https://www.ifanr.com/1681946?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Thu, 24 Sep 2026 05:35:32 +0000",
+      "isoDate": "2026-09-24T05:35:32.000Z",
+      "author": "肖钦鹏",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "",
+      "tagScore": 0,
+      "crossTags": []
+    },
+    {
+      "title": "早报｜GPT-6 Sol发布，价格腰斩/特努斯：Siri AI不应代替人际关系/4999起，OPPO Find X10系列发布",
+      "description": "· 第六代骁龙 8 双旗舰发布，iQOO 16、红魔 12 Pro+ 首批搭载\r\n· Qwen Intelligence 亮相，荣耀 Magic9 系列、Robot Phone 首批搭载\r\n· 前小米 XLA 负责人陈龙创业，研发「自进化」具身大模型\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "content": "· 第六代骁龙 8 双旗舰发布，iQOO 16、红魔 12 Pro+ 首批搭载\r\n· Qwen Intelligence 亮相，荣耀 Magic9 系列、Robot Phone 首批搭载\r\n· 前小米 XLA 负责人陈龙创业，研发「自进化」具身大模型<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+      "url": "https://www.ifanr.com/1681566?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "link": "https://www.ifanr.com/1681566?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "pubDate": "Wed, 23 Sep 2026 00:05:46 +0000",
+      "isoDate": "2026-09-23T00:05:46.000Z",
+      "author": "郑廷旭",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 2,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "许斐确认小米 18 Pro 系列手机将走向全球，推出国际版",
+      "description": "IT之家 9 月 24 日消息，小米集团副总裁、集团 CMO 许斐今天在 X 平台宣布，小米 18 Pro 系列手机将走向全球，推出国际版。\n\n据IT之家了解，小米近几年的旗舰直板机型，一般只有数字标准版 / Ultra 机型会推出国际版。\n作为参考，小米 18 Pro 手机采用新一代自研屏幕封装工艺，0.99mm 极窄四等边框；机身采用大微弧四曲中框设计，手感更圆润；搭载一体式纯平背屏，首发第六代骁龙 8 至尊版，定价 5999 元起。\n\n而小米 18 Pro Max 手机将首发第六代骁龙 8 超级至尊版，内置新一代小米金沙江电池，电池容量达 8500mAh，采用全新 M11 发光体系，后置全焦段徕卡光学三摄，定价 6999 元起。\nIT之家昨天在 2026 骁龙峰会现场获悉，小米 18 Pro 系列将于年内登陆全球市场。",
+      "content": "<p data-vmark=\"7451\">IT之家 9 月 24 日消息，小米集团副总裁、集团 CMO 许斐今天在 X 平台宣布，小米 18 Pro 系列手机将走向全球，推出国际版。</p><p style=\"text-align: center;\" data-vmark=\"2749\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1d0b8298-80cc-46b7-b449-579401b25ede.png?x-bce-process=image/format,f_auto\" w=\"1196\" h=\"1342\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FXuFei_Xiaomi%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FXuFei_Xiaomi%2Fstatus%2F2103020887985541410%22%2C%22qualityValue%22%3A%22png256%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1144f28de5eb4f6d16815d2912cc770fe3912ab70f8eb97c8c63debfa0974398aa83154ca3a698a62\" data-vmark=\"88e1\" class=\"no-alt-img\"></p><p data-vmark=\"4946\">据IT之家了解，小米近几年的旗舰直板机型，一般只有数字标准版 / Ultra 机型会推出国际版。</p><p data-vmark=\"1411\">作为参考，小米 18 Pro 手机采用新一代自研屏幕封装工艺，0.99mm 极窄四等边框；机身采用大微弧四曲中框设计，手感更圆润；搭载一体式纯平背屏，首发第六代骁龙 8 至尊版，定价 5999 元起。</p><p data-vmark=\"1e73\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ec5338ef-d1a8-4e3d-b15f-264c96d0afe6.jpg\" w=\"1280\" h=\"960\" data-weibo=\"1\" data-mpos=\"2,2\"  data-vmark=\"78e9\" class=\"no-alt-img\"></p><p data-vmark=\"9c97\">而小米 18 Pro Max 手机将首发第六代骁龙 8 超级至尊版，内置新一代小米金沙江电池，电池容量达 8500mAh，采用全新 M11 发光体系，后置全焦段徕卡光学三摄，定价 6999 元起。</p><p data-vmark=\"93a5\">IT之家昨天在 2026 骁龙峰会现场获悉，<strong>小米 18 Pro 系列将于年内登陆全球市场</strong>。</p>",
+      "url": "https://www.ithome.com/1/007/010.htm",
+      "link": "https://www.ithome.com/1/007/010.htm",
+      "pubDate": "Thu, 24 Sep 2026 12:58:49 GMT",
+      "isoDate": "2026-09-24T12:58:49.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 11,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "高通宣布与苹果续签全球专利许可协议，2027 年 4 月 1 日起生效",
+      "description": "IT之家 9 月 24 日消息，高通公司今日宣布，已与苹果（Apple）续签全球专利许可协议，新协议将于 2027 年 4 月 1 日起生效。\n高通技术许可业务（QTL）执行副总裁兼总经理约翰 · 韩（John Han）表示：“我们很高兴能够延长与苹果的许可协议。”\n据IT之家了解，高通公司旗下包括专利许可业务 QTL 以及绝大多数专利资产。高通公司旗下子公司高通技术公司及其子公司负责高通绝大部分工程和研发工作，以及几乎全部产品和服务业务，其中包括 QCT 半导体业务。\n\n延伸阅读\n高通与苹果之间曾经历漫长的专利诉讼。2017 年，苹果在美国、爱尔兰、中国等地起诉高通，指控其按整机售价收取专利费的做法违反 FRAND（公平、合理、非歧视）原则；2019 年 4 月 16 日，两家公司宣布在全球范围内撤销所有诉讼并达成和解，签署了一份为期六年的全球专利许可协议，自 2019 年 4 月 1 日起生效，并附带两年续约选项，同时还达成一份多年芯片供应协议。外界估算苹果向高通支付的和解金额约为 45 亿美元。\n在芯片供应层面，2023 年 9 月高通宣布与苹果延长合同，继续为 2024 年、2025 年和 2026 年发布的 iPhone 提供 5G 基带芯片，当时高通表示新协议与 2019 年签署的先前协议类似。此前市场原本预计苹果自研基带将率先用于 2023 年的 iPhone，这一延长被外界视为苹果自研基带进展慢于预期。\n苹果的自研基带项目于 2018 年启动，2019 年通过收购英特尔的智能手机芯片业务得到强化。2025 年 2 月发布的 iPhone 16e 首发搭载苹果自研基带芯片 C1，此后 iPhone Air、iPhone 17e、M5 iPad Pro 等设备陆续采用 C1、C1X。据消息源透露，苹果计划在 iPhone 18 系列上全面采用自研 C 系列基带，正在研发的 C2 基带性能更强，接近高通最新基带，并预计支持毫米波 5G。\n苹果长期是高通的最大客户，据彭博社编制的数据，苹果占据高通收入的近四分之一。高通的专利许可业务 QTL 按手机整机售价的一定比例收取专利费，而非按芯片成本计算。2025 财年第三财季，高通 QTL 营收为 13.18 亿美元，同比增长约 4%，税前利润率高达 71%，是公司利润率最高的业务板块。\n此外，在本次续签消息公布后，高通股价盘前收复此前失地，转而上涨 1%。",
+      "content": "<p data-vmark=\"7717\">IT之家 9 月 24 日消息，高通公司今日宣布，已与苹果（Apple）续签全球专利许可协议，新协议将于 2027 年 4 月 1 日起生效。</p><p data-vmark=\"a489\">高通技术许可业务（QTL）执行副总裁兼总经理约翰 · 韩（John Han）表示：“我们很高兴能够延长与苹果的许可协议。”</p><p data-vmark=\"0041\">据IT之家了解，高通公司旗下包括专利许可业务 QTL 以及绝大多数专利资产。高通公司旗下子公司高通技术公司及其子公司负责高通绝大部分工程和研发工作，以及几乎全部产品和服务业务，其中包括 QCT 半导体业务。</p><blockquote data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-ai-task=\"129d7010-2066-449e-a2a3-01c556c1a961\" data-refs=\"JTVCJTIyaHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGZ3ElMkZuZXdzcm9vbSUyRjIwMTklMkYwNCUyRnF1YWxjb21tLWFuZC1hcHBsZS1hZ3JlZS10by1kcm9wLWFsbC1saXRpZ2F0aW9uJTJGJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZuZXcucXEuY29tJTJGcmFpbiUyRmElMkYyMDIzMDkxMUEwOU1aTDAwJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZuZXdzLmNoaW5hLmNvbSUyRnNvY2lhbGdkJTJGMTAwMDAxNjklMkYyMDI2MDUxNSUyRjQ5NDk2MzEyLmh0bWwlMjIlMkMlMjJodHRwJTNBJTJGJTJGbS5oaWJvci5jb20uY24lMkZ3YXBfZGV0YWlsLmFzcHglM0ZpZCUzRDI1ZWMxNzAyZGQ2NTQ2ODFiM2VmYjI0YjVjNTQxMzc3JTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZ3d3cuaWZuZXdzLmNvbSUyRm5ld3MuaHRtbCUzRmFpZCUzRDg3MjgyNCUyNmNpZCUzRDQ4JTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZzdG9jay4xMGpxa2EuY29tLmNuJTJGMjAyNjA5MjQlMkZjNjgwMjcyNjIxLnNodG1sJTIyJTVE\" class=\"ai-point \"><h3 data-vmark=\"efb9\">延伸阅读</h3><p data-vmark=\"af76\"><span data-ref-ids=\"\" data-ref-urls=\"0\">高通与苹果之间曾经历漫长的专利诉讼。2017 年，苹果在美国、爱尔兰、中国等地起诉高通，指控其按整机售价收取专利费的做法违反 FRAND（公平、合理、非歧视）原则；2019 年 4 月 16 日，两家公司宣布在全球范围内撤销所有诉讼并达成和解，签署了一份为期六年的全球专利许可协议，自 2019 年 4 月 1 日起生效，并附带两年续约选项，同时还达成一份多年芯片供应协议。外界估算苹果向高通支付的和解金额约为 45 亿美元。</span></p><p data-vmark=\"eb84\"><span data-ref-ids=\"\" data-ref-urls=\"1\">在芯片供应层面，2023 年 9 月高通宣布与苹果延长合同，继续为 2024 年、2025 年和 2026 年发布的 iPhone 提供 5G 基带芯片，当时高通表示新协议与 2019 年签署的先前协议类似。此前市场原本预计苹果自研基带将率先用于 2023 年的 iPhone，这一延长被外界视为苹果自研基带进展慢于预期。</span></p><p data-vmark=\"1776\"><span data-ref-ids=\"\" data-ref-urls=\"2,3\">苹果的自研基带项目于 2018 年启动，2019 年通过收购英特尔的智能手机芯片业务得到强化。2025 年 2 月发布的 iPhone 16e 首发搭载苹果自研基带芯片 C1，此后 iPhone Air、iPhone 17e、M5 iPad Pro 等设备陆续采用 C1、C1X。据消息源透露，苹果计划在 iPhone 18 系列上全面采用自研 C 系列基带，正在研发的 C2 基带性能更强，接近高通最新基带，并预计支持毫米波 5G。</span></p><p data-vmark=\"406c\"><span data-ref-ids=\"\" data-ref-urls=\"1,3\">苹果长期是高通的最大客户，据彭博社编制的数据，苹果占据高通收入的近四分之一。高通的专利许可业务 QTL 按手机整机售价的一定比例收取专利费，而非按芯片成本计算。2025 财年第三财季，高通 QTL 营收为 13.18 亿美元，同比增长约 4%，税前利润率高达 71%，是公司利润率最高的业务板块。</span></p><p data-vmark=\"65b6\"><span data-ref-ids=\"\" data-ref-urls=\"4,5\">此外，在本次续签消息公布后，高通股价盘前收复此前失地，转而上涨 1%。</span></p></blockquote>",
+      "url": "https://www.ithome.com/1/006/988.htm",
+      "link": "https://www.ithome.com/1/006/988.htm",
+      "pubDate": "Thu, 24 Sep 2026 11:41:00 GMT",
+      "isoDate": "2026-09-24T11:41:00.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "tagScore": 38,
+      "crossTags": [
+        {
+          "type": "competitor",
+          "id": "apple"
+        }
+      ]
+    },
     {
       "title": "30年期美债收益率创2004年6月以来新高，美主要股指全线低开",
       "description": "纽约联储主席威廉姆斯称，预计年内再加息一次“是合理的”。\n美债抛售潮仍在延续。\n当地时间周四（24日），30年期美债收益率一度触及5.446%，创2004年6月以来最高水平；10年期美债收益率一度升至5.15%，最新回落至5.10%附近，仍为2007年7月以来最高；2年期美债收益率周三一度升至4.897%、创2023年以来新高，周四小幅回落至4.85%附近。\n受此拖累，美股低开低走。截至记者发稿，三大股指全线下挫。道指跌300.77点，跌幅0.58%，报51210.82点；纳指跌210.57点，跌幅0.78%，报26725.46点；标普500指数跌35.25点，跌幅0.46%，报7670.78点，已抹去9月以来全部涨幅。\n投资者同时密切关注日内举行的中美元首会晤。\n多重因素推升收益率\n本轮美债抛售自周三起明显加速。当天公布的9月标普全球（S&P Global）采购经理人指数（PMI）初值显示，美国私营部门活动扩张速度创五年多来最快，投入和产出价格指标同步升至多年高位，令市场对通胀反弹的担忧再度升温。当天一场700亿美元规模的5年期美债拍卖需求疲软，同样加剧了收益率的上行压力。\n地缘政治因素亦在推波助澜。随着美国与伊朗紧张局势持续，国际油价不断走高，布伦特原油期货日内盘中突破每桶105美元。市场担心能源价格上涨将进一步传导至通胀端，美国柴油价格已刷新历史纪录。\n美债抛售还蔓延至全球债市。日本10年期国债收益率升至1996年8月以来最高，英国国债和德国国债收益率亦刷新多年高点。\n美国资管机构Madison Investments固定收益主管桑德斯（Mike Sanders）表示，财政、经济、地缘政治与供给侧通胀压力多重因素交织，让债市面临相对陌生的局面，近期收益率上行已不能简单归因于赤字担忧。\n加息押注升温，科技股承压\n强劲的数据叠加美联储官员的鹰派表态，令市场对年内再度加息的预期迅速升温。美国劳工部日内公布的数据显示，截至9月19日当周初请失业金人数减少1000人至19.7万，低于市场预期的20.1万，仍处于历史低位附近，进一步印证美国劳动力市场的韧性。\n纽约联储主席威廉姆斯（John Williams）日内在伦敦出席活动时表示，预计年内再加息一次“是合理的”。芝商所（CME）“美联储观察”工具显示，市场当前预计10月加息的概率约为七成，而一周前这一概率还不足五成。\n利率高企持续压制风险偏好。周三美股三大股指全线收跌，标普500指数11个板块中10个下跌；周四开盘后芯片股领跌，甲骨文股价一度重挫逾5%。据报道，该公司正寻求以“不可抗力”条款规避新墨西哥州一处数据中心项目延期的风险。美元指数则连续走强，有望实现5月以来最长连涨。",
