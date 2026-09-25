@@ -1,9 +1,9 @@
 {
-  "date": "2026-09-25",
-  "generatedAt": "2026-09-25T20:19:01.467Z",
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T01:34:03.639Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 5,
+  "count": 4,
   "articles": [
     {
       "title": "苹果与高通续签专利协议：芯片可以不用，专利仍绕不开",
@@ -26,29 +26,6 @@
           "type": "competitor",
           "id": "apple"
         },
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "iQOO Pad Ultra 平板搭载 8.8 英寸 165Hz OLED 极竞屏：四等边 2.65mm 边框、局部峰值亮度 4500nits",
-      "description": "IT之家 9 月 25 日消息，iQOO Pad Ultra 平板将于 9 月 29 日 19:00 发布。\niQOO 手机官方今日宣布，iQOO Pad Ultra 搭载 8.8 英寸 165Hz OLED 极竞屏，四等边 2.65mm 边框。\n根据官方海报，iQOO Pad Ultra 屏幕局部峰值亮度 4500nits，响应速度 < 1ms，屏占比达 93.3%。\n\n据IT之家此前报道，在 2026 骁龙峰会上，vivo 宣布 iQOO Pad Ultra 将首批搭载高通第六代骁龙 8 超级至尊版处理器。\n\n据介绍，iQOO Pad Ultra 搭载冰穹五重风冷散热系统，内置一颗 30×30×3.5mm 主动散热风扇。\n\n这款平板采用全金属机身，厚 5.74mm，机身重 298g；配备对称式超线性双扬声器、双 X 轴线性马达。",
-      "content": "<p data-vmark=\"875c\">IT之家 9 月 25 日消息，iQOO Pad Ultra 平板将于 9 月 29 日 19:00 发布。</p><p data-vmark=\"ab66\">iQOO 手机官方今日宣布，iQOO Pad Ultra 搭载 <strong>8.8 英寸 165Hz OLED</strong> 极竞屏，四等边 <strong>2.65mm</strong> 边框。</p><p data-vmark=\"2549\">根据官方海报，iQOO Pad Ultra 屏幕局部峰值亮度 4500nits，响应速度 &lt; 1ms，屏占比达 93.3%。</p><p style=\"text-align: center;\" data-vmark=\"5d0c\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/c84f5d7b-be36-49bb-947b-805dab2d2ec9.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1920\" data-mpos=\"2,2\" data-weibo=\"0\"  data-vmark=\"7e07\" class=\"no-alt-img\"></p><p data-vmark=\"3e84\">据IT之家此前报道，在 2026 骁龙峰会上，vivo 宣布 iQOO Pad Ultra 将首批搭载高通<strong>第六代骁龙 8 超级至尊版</strong>处理器。</p><p style=\"text-align: center;\" data-vmark=\"142d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/d536a505-5abc-4979-b9c3-74b51506d3c9.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1920\" data-weibo=\"1\" data-vmark=\"7c9c\" class=\"no-alt-img\"></p><p data-vmark=\"38c4\">据介绍，iQOO Pad Ultra 搭载冰穹五重风冷散热系统，内置一颗 30×30×3.5mm 主动散热风扇。</p><p style=\"text-align: center;\" data-vmark=\"e65f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/f136a892-21af-4e5f-bbcc-72e598aa5277.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1920\" data-weibo=\"2\" data-vmark=\"740e\" class=\"no-alt-img\"></p><p data-vmark=\"a926\">这款平板采用全金属机身，厚 5.74mm，机身重 298g；配备对称式超线性双扬声器、双 X 轴线性马达。</p><p style=\"text-align: center;\" data-vmark=\"d2b8\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/82d2fcbc-f737-41ca-93ce-c0b15493b9f0.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1920\" data-weibo=\"3\" data-vmark=\"9b53\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"1fb2\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/2b11b52b-6d67-4bd8-ac8d-29adfa39d6bd.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1920\" data-weibo=\"4\" data-vmark=\"0d77\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"5da7\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4739\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/1/007/112.htm",
-      "link": "https://www.ithome.com/1/007/112.htm",
-      "pubDate": "Fri, 25 Sep 2026 04:20:54 GMT",
-      "isoDate": "2026-09-25T04:20:54.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 2,
-      "crossTags": [
         {
           "type": "stakeholder",
           "id": "oem"
