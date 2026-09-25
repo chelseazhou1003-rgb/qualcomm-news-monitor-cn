@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
-  "generatedAt": "2026-09-25T06:01:34.468Z",
-  "count": 8,
+  "generatedAt": "2026-09-25T08:53:50.558Z",
+  "count": 9,
   "articles": [
     {
       "title": "高通新王牌：个人 AI 时代来了",
@@ -63,6 +63,29 @@
       ]
     },
     {
+      "title": "高通押注 AI 生态：一套软件栈通吃所有设备，编程语言 Mojo 将原生支持 Win11",
+      "description": "IT之家 9 月 25 日现场消息，在夏威夷举办的 2026 骁龙峰会第二日活动中，高通技术公司先进 AI 软件与平台执行副总裁克里斯 · 拉特纳（Chris Lattner）发表主题演讲，称 AI 行业的竞争正逐渐从“拼芯片”转向“拼生态”。\n在本次主题演讲中，拉特纳指出 AI 软件往往深度绑定特定硬件：换一家公司芯片，开发者可能就要重新适配、优化和调试。\n拉特纳在演讲提出 Modular 平台，目标是让在 GPU、NPU 和数据中心 ASIC 等不同架构上运行同一套 AI 软件，让同一个 AI 应用有机会在本地设备和云端之间更灵活地切换。\n高通过去最强的公众认知主要集中在 Snapdragon 芯片，但 AI 时代，芯片本身只是基础。真正决定开发者是否愿意采用某个平台的，还有编译器、运行时、模型框架、调度系统和工具链等。\n高通不仅想把 AI 算力放进设备，还想让开发者更容易真正用起来。否则，即使手机或电脑拥有强大的 NPU，用户也可能只得到几个演示功能。\n高通在 2026 年 6 月 24 日宣布已达成收购 Modular 的最终协议（全股票交易，估值约 39–40 亿美元（IT之家注：现汇率约合 262.18 – 268.91 亿元人民币）），并在 2026 年 7 月 29 日正式完成收购。\n而通过收购 Modular，高通公司试图获得一整套 AI 软件能力，其中最值得关注的是 Mojo，这是面向 AI 和底层高性能计算的编程语言。\n在本次演讲中，拉特纳把 Mojo 定位为一种兼顾易用性和性能的语言：语法接近 Python，但希望具备系统级编程的性能和可移植性。\nIT之家此前报道，Mojo 1.0 已发布，并同步开源标准库、编译器和工具链在内的完整语言。\n微软宣布与 Modular 合作为 Mojo 提供 Windows 原生支持，让开发者能够在 Windows 上使用接近 Python 的语法进行系统级编程，并面向不同平台和厂商开发应用。\n高通明确表示，Modular 的软件平台将进入其骁龙等完整产品组合，对于用户而言，骁龙品牌覆盖手机、PC、汽车、可穿戴设备和其他边缘终端，如果软件适配顺利推进，可以加速本地 AI 落地。",
+      "content": "<p data-vmark=\"8263\">IT之家 9 月 25 日现场消息，在夏威夷举办的 2026 骁龙峰会第二日活动中，高通技术公司先进 AI 软件与平台执行副总裁克里斯 · 拉特纳（Chris Lattner）发表主题演讲，<strong>称 AI 行业的竞争正逐渐从“拼芯片”转向“拼生态”。</strong></p><p data-vmark=\"0eb2\">在本次主题演讲中，拉特纳指出 AI 软件往往深度绑定特定硬件：换一家公司芯片，开发者可能就要重新适配、优化和调试。</p><p data-vmark=\"d9f2\">拉特纳在演讲提出 Modular 平台，<strong>目标是让在 GPU、NPU 和数据中心 ASIC 等不同架构上运行同一套 AI 软件</strong>，让同一个 AI 应用有机会在本地设备和云端之间更灵活地切换。</p><p data-vmark=\"16cb\">高通过去最强的公众认知主要集中在 Snapdragon 芯片，但 AI 时代，芯片本身只是基础。真正决定开发者是否愿意采用某个平台的，还有编译器、运行时、模型框架、调度系统和工具链等。</p><p data-vmark=\"1932\">高通不仅想把 AI 算力放进设备，还想让开发者更容易真正用起来。否则，即使手机或电脑拥有强大的 NPU，用户也可能只得到几个演示功能。</p><p data-vmark=\"c83e\">高通在 2026 年 6 月 24 日宣布已达成收购 Modular 的最终协议（全股票交易，估值约 39–40 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 262.18 – 268.91 亿元人民币）</span>），并在 2026 年 7 月 29 日正式完成收购。</p><p data-vmark=\"e48a\">而通过收购 Modular，高通公司试图获得一整套 AI 软件能力，其中最值得关注的是 Mojo，这是面向 AI 和底层高性能计算的编程语言。</p><p data-vmark=\"6b7e\">在本次演讲中，拉特纳把 Mojo 定位为一种兼顾易用性和性能的语言：语法接近 Python，但希望具备系统级编程的性能和可移植性。</p><p data-vmark=\"83a9\">IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/991/914.htm\">Mojo 1.0 已发布，并同步开源标准库、编译器和工具链在内的完整语言。</a></p><p data-vmark=\"734d\">微软宣布与 Modular 合作为 Mojo 提供 Windows 原生支持，让开发者能够在 Windows 上使用接近 Python 的语法进行系统级编程，并面向不同平台和厂商开发应用。</p><p data-vmark=\"b660\">高通明确表示，Modular 的软件平台将进入其骁龙等完整产品组合，对于用户而言，骁龙品牌覆盖手机、PC、汽车、可穿戴设备和其他边缘终端，如果软件适配顺利推进，可以加速本地 AI 落地。</p>",
+      "url": "https://www.ithome.com/1/007/050.htm",
+      "link": "https://www.ithome.com/1/007/050.htm",
+      "pubDate": "Thu, 24 Sep 2026 22:52:28 GMT",
+      "isoDate": "2026-09-24T22:52:28.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 18,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "platform-partner"
+        }
+      ]
+    },
+    {
       "title": "许斐确认小米 18 Pro 系列手机将走向全球，推出国际版",
       "description": "IT之家 9 月 24 日消息，小米集团副总裁、集团 CMO 许斐今天在 X 平台宣布，小米 18 Pro 系列手机将走向全球，推出国际版。\n\n据IT之家了解，小米近几年的旗舰直板机型，一般只有数字标准版 / Ultra 机型会推出国际版。\n作为参考，小米 18 Pro 手机采用新一代自研屏幕封装工艺，0.99mm 极窄四等边框；机身采用大微弧四曲中框设计，手感更圆润；搭载一体式纯平背屏，首发第六代骁龙 8 至尊版，定价 5999 元起。\n\n而小米 18 Pro Max 手机将首发第六代骁龙 8 超级至尊版，内置新一代小米金沙江电池，电池容量达 8500mAh，采用全新 M11 发光体系，后置全焦段徕卡光学三摄，定价 6999 元起。\nIT之家昨天在 2026 骁龙峰会现场获悉，小米 18 Pro 系列将于年内登陆全球市场。",
       "content": "<p data-vmark=\"7451\">IT之家 9 月 24 日消息，小米集团副总裁、集团 CMO 许斐今天在 X 平台宣布，小米 18 Pro 系列手机将走向全球，推出国际版。</p><p style=\"text-align: center;\" data-vmark=\"2749\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/1d0b8298-80cc-46b7-b449-579401b25ede.png?x-bce-process=image/format,f_auto\" w=\"1196\" h=\"1342\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FXuFei_Xiaomi%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FXuFei_Xiaomi%2Fstatus%2F2103020887985541410%22%2C%22qualityValue%22%3A%22png256%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1144f28de5eb4f6d16815d2912cc770fe3912ab70f8eb97c8c63debfa0974398aa83154ca3a698a62\" data-vmark=\"88e1\" class=\"no-alt-img\"></p><p data-vmark=\"4946\">据IT之家了解，小米近几年的旗舰直板机型，一般只有数字标准版 / Ultra 机型会推出国际版。</p><p data-vmark=\"1411\">作为参考，小米 18 Pro 手机采用新一代自研屏幕封装工艺，0.99mm 极窄四等边框；机身采用大微弧四曲中框设计，手感更圆润；搭载一体式纯平背屏，首发第六代骁龙 8 至尊版，定价 5999 元起。</p><p data-vmark=\"1e73\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/ec5338ef-d1a8-4e3d-b15f-264c96d0afe6.jpg\" w=\"1280\" h=\"960\" data-weibo=\"1\" data-mpos=\"2,2\"  data-vmark=\"78e9\" class=\"no-alt-img\"></p><p data-vmark=\"9c97\">而小米 18 Pro Max 手机将首发第六代骁龙 8 超级至尊版，内置新一代小米金沙江电池，电池容量达 8500mAh，采用全新 M11 发光体系，后置全焦段徕卡光学三摄，定价 6999 元起。</p><p data-vmark=\"93a5\">IT之家昨天在 2026 骁龙峰会现场获悉，<strong>小米 18 Pro 系列将于年内登陆全球市场</strong>。</p>",
@@ -82,29 +105,6 @@
         {
           "type": "stakeholder",
           "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "高通宣布与苹果续签全球专利许可协议，2027 年 4 月 1 日起生效",
-      "description": "IT之家 9 月 24 日消息，高通公司今日宣布，已与苹果（Apple）续签全球专利许可协议，新协议将于 2027 年 4 月 1 日起生效。\n高通技术许可业务（QTL）执行副总裁兼总经理约翰 · 韩（John Han）表示：“我们很高兴能够延长与苹果的许可协议。”\n据IT之家了解，高通公司旗下包括专利许可业务 QTL 以及绝大多数专利资产。高通公司旗下子公司高通技术公司及其子公司负责高通绝大部分工程和研发工作，以及几乎全部产品和服务业务，其中包括 QCT 半导体业务。\n\n延伸阅读\n高通与苹果之间曾经历漫长的专利诉讼。2017 年，苹果在美国、爱尔兰、中国等地起诉高通，指控其按整机售价收取专利费的做法违反 FRAND（公平、合理、非歧视）原则；2019 年 4 月 16 日，两家公司宣布在全球范围内撤销所有诉讼并达成和解，签署了一份为期六年的全球专利许可协议，自 2019 年 4 月 1 日起生效，并附带两年续约选项，同时还达成一份多年芯片供应协议。外界估算苹果向高通支付的和解金额约为 45 亿美元。\n在芯片供应层面，2023 年 9 月高通宣布与苹果延长合同，继续为 2024 年、2025 年和 2026 年发布的 iPhone 提供 5G 基带芯片，当时高通表示新协议与 2019 年签署的先前协议类似。此前市场原本预计苹果自研基带将率先用于 2023 年的 iPhone，这一延长被外界视为苹果自研基带进展慢于预期。\n苹果的自研基带项目于 2018 年启动，2019 年通过收购英特尔的智能手机芯片业务得到强化。2025 年 2 月发布的 iPhone 16e 首发搭载苹果自研基带芯片 C1，此后 iPhone Air、iPhone 17e、M5 iPad Pro 等设备陆续采用 C1、C1X。据消息源透露，苹果计划在 iPhone 18 系列上全面采用自研 C 系列基带，正在研发的 C2 基带性能更强，接近高通最新基带，并预计支持毫米波 5G。\n苹果长期是高通的最大客户，据彭博社编制的数据，苹果占据高通收入的近四分之一。高通的专利许可业务 QTL 按手机整机售价的一定比例收取专利费，而非按芯片成本计算。2025 财年第三财季，高通 QTL 营收为 13.18 亿美元，同比增长约 4%，税前利润率高达 71%，是公司利润率最高的业务板块。\n此外，在本次续签消息公布后，高通股价盘前收复此前失地，转而上涨 1%。",
-      "content": "<p data-vmark=\"7717\">IT之家 9 月 24 日消息，高通公司今日宣布，已与苹果（Apple）续签全球专利许可协议，新协议将于 2027 年 4 月 1 日起生效。</p><p data-vmark=\"a489\">高通技术许可业务（QTL）执行副总裁兼总经理约翰 · 韩（John Han）表示：“我们很高兴能够延长与苹果的许可协议。”</p><p data-vmark=\"0041\">据IT之家了解，高通公司旗下包括专利许可业务 QTL 以及绝大多数专利资产。高通公司旗下子公司高通技术公司及其子公司负责高通绝大部分工程和研发工作，以及几乎全部产品和服务业务，其中包括 QCT 半导体业务。</p><blockquote data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-ai-task=\"129d7010-2066-449e-a2a3-01c556c1a961\" data-refs=\"JTVCJTIyaHR0cHMlM0ElMkYlMkZ3d3cuYXBwbGUuY29tJTJGZ3ElMkZuZXdzcm9vbSUyRjIwMTklMkYwNCUyRnF1YWxjb21tLWFuZC1hcHBsZS1hZ3JlZS10by1kcm9wLWFsbC1saXRpZ2F0aW9uJTJGJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZuZXcucXEuY29tJTJGcmFpbiUyRmElMkYyMDIzMDkxMUEwOU1aTDAwJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZuZXdzLmNoaW5hLmNvbSUyRnNvY2lhbGdkJTJGMTAwMDAxNjklMkYyMDI2MDUxNSUyRjQ5NDk2MzEyLmh0bWwlMjIlMkMlMjJodHRwJTNBJTJGJTJGbS5oaWJvci5jb20uY24lMkZ3YXBfZGV0YWlsLmFzcHglM0ZpZCUzRDI1ZWMxNzAyZGQ2NTQ2ODFiM2VmYjI0YjVjNTQxMzc3JTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZ3d3cuaWZuZXdzLmNvbSUyRm5ld3MuaHRtbCUzRmFpZCUzRDg3MjgyNCUyNmNpZCUzRDQ4JTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZzdG9jay4xMGpxa2EuY29tLmNuJTJGMjAyNjA5MjQlMkZjNjgwMjcyNjIxLnNodG1sJTIyJTVE\" class=\"ai-point \"><h3 data-vmark=\"efb9\">延伸阅读</h3><p data-vmark=\"af76\"><span data-ref-ids=\"\" data-ref-urls=\"0\">高通与苹果之间曾经历漫长的专利诉讼。2017 年，苹果在美国、爱尔兰、中国等地起诉高通，指控其按整机售价收取专利费的做法违反 FRAND（公平、合理、非歧视）原则；2019 年 4 月 16 日，两家公司宣布在全球范围内撤销所有诉讼并达成和解，签署了一份为期六年的全球专利许可协议，自 2019 年 4 月 1 日起生效，并附带两年续约选项，同时还达成一份多年芯片供应协议。外界估算苹果向高通支付的和解金额约为 45 亿美元。</span></p><p data-vmark=\"eb84\"><span data-ref-ids=\"\" data-ref-urls=\"1\">在芯片供应层面，2023 年 9 月高通宣布与苹果延长合同，继续为 2024 年、2025 年和 2026 年发布的 iPhone 提供 5G 基带芯片，当时高通表示新协议与 2019 年签署的先前协议类似。此前市场原本预计苹果自研基带将率先用于 2023 年的 iPhone，这一延长被外界视为苹果自研基带进展慢于预期。</span></p><p data-vmark=\"1776\"><span data-ref-ids=\"\" data-ref-urls=\"2,3\">苹果的自研基带项目于 2018 年启动，2019 年通过收购英特尔的智能手机芯片业务得到强化。2025 年 2 月发布的 iPhone 16e 首发搭载苹果自研基带芯片 C1，此后 iPhone Air、iPhone 17e、M5 iPad Pro 等设备陆续采用 C1、C1X。据消息源透露，苹果计划在 iPhone 18 系列上全面采用自研 C 系列基带，正在研发的 C2 基带性能更强，接近高通最新基带，并预计支持毫米波 5G。</span></p><p data-vmark=\"406c\"><span data-ref-ids=\"\" data-ref-urls=\"1,3\">苹果长期是高通的最大客户，据彭博社编制的数据，苹果占据高通收入的近四分之一。高通的专利许可业务 QTL 按手机整机售价的一定比例收取专利费，而非按芯片成本计算。2025 财年第三财季，高通 QTL 营收为 13.18 亿美元，同比增长约 4%，税前利润率高达 71%，是公司利润率最高的业务板块。</span></p><p data-vmark=\"65b6\"><span data-ref-ids=\"\" data-ref-urls=\"4,5\">此外，在本次续签消息公布后，高通股价盘前收复此前失地，转而上涨 1%。</span></p></blockquote>",
-      "url": "https://www.ithome.com/1/006/988.htm",
-      "link": "https://www.ithome.com/1/006/988.htm",
-      "pubDate": "Thu, 24 Sep 2026 11:41:00 GMT",
-      "isoDate": "2026-09-24T11:41:00.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "ip",
-      "tagScore": 38,
-      "crossTags": [
-        {
-          "type": "competitor",
-          "id": "apple"
         }
       ]
     },
@@ -162,6 +162,29 @@
       "section": "macro-environment",
       "subCategory": "customers-partners",
       "tagScore": 8,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "高通孟樸：智能体跨终端协同需2027年至2028年落地",
+      "description": "AI这轮技术革命是中国产业界准备最充足的一次\n\n\n     资料图：孟樸。图：视觉中国\n    \n   \n　　【财新网】“我经历了IT革命、互联网革命，AI这轮技术革命是中国产业界准备最充足的一次”，9月24日，高通公司中国区董事长孟樸在2026高通骁龙峰会期间接受财新等采访指出，互联网革命初期，中国人才、资金积累不足，主要处于跟随状态，当前，中国在资金、人才等产业要素上已形成较好的基础。\n　　孟樸表示，过去两年，AI眼镜、AI可穿戴设备等新型终端不断出现，AI终端的产品化和商业化进程明显加快。2026年7月举行的世界人工智能大会期间，字节豆包、努比亚、阶跃三家厂商均展示了AI手机产品。\n　　“三家厂商分别代表三种不同的路径。荣耀代表传统手机厂商路径，在现有智能手机功能基础上叠加AI能力，豆包手机是由传统硬件厂商和大模型 AI 公司进行合作，阶跃则是做大模型的公司，跨界想办法做硬件。”孟樸说，目前判断哪种路径能够胜出为时尚早。回顾功能手机时代，早期手机厂商如今已所剩无几。AI手机也将是竞争极为激烈的市场，企业需要长期投入技术，准确把握消费者的核心需求。",
+      "content": "<blockquote><p>AI这轮技术革命是中国产业界准备最充足的一次</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-09-25/179029576476678_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-09-25/179029576476678_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>资料图：孟樸。图：视觉中国</dd>\n    </dl>\n   <br>\n       <p>　　<b>【财新网】</b>“我经历了IT革命、互联网革命，AI这轮技术革命是中国产业界准备最充足的一次”，9月24日，高通公司中国区董事长孟樸在2026高通骁龙峰会期间接受财新等采访指出，互联网革命初期，中国人才、资金积累不足，主要处于跟随状态，当前，中国在资金、人才等产业要素上已形成较好的基础。</p>\n<p>　　孟樸表示，过去两年，AI眼镜、AI可穿戴设备等新型终端不断出现，AI终端的产品化和商业化进程明显加快。2026年7月举行的世界人工智能大会期间，<a href=\"https://s.ccxe.com.cn/entities/companies/20120823168?originReferrer=pcarticle\" target=\"_blank\">字节豆包</a>、<a href=\"https://s.ccxe.com.cn/entities/companies/200231166?originReferrer=pcarticle\" target=\"_blank\">努比亚</a>、<a href=\"https://s.ccxe.com.cn/entities/companies/20099598213?originReferrer=pcarticle\" target=\"_blank\">阶跃</a>三家厂商均展示了AI手机产品。</p>\n<p>　　“三家厂商分别代表三种不同的路径。<a href=\"https://s.ccxe.com.cn/entities/companies/20086423112?originReferrer=pcarticle\" target=\"_blank\">荣耀</a>代表传统手机厂商路径，在现有智能手机功能基础上叠加AI能力，豆包手机是由传统硬件厂商和大模型 AI 公司进行合作，阶跃则是做大模型的公司，跨界想办法做硬件。”孟樸说，目前判断哪种路径能够胜出为时尚早。回顾功能手机时代，早期手机厂商如今已所剩无几。AI手机也将是竞争极为激烈的市场，企业需要长期投入技术，准确把握消费者的核心需求。</p>\n      ",
+      "url": "https://www.caixin.com/2026-09-25/102488650.html",
+      "link": "https://www.caixin.com/2026-09-25/102488650.html",
+      "pubDate": "Fri, 25 Sep 2026 00:12:49 GMT",
+      "isoDate": "2026-09-25T00:12:49.000Z",
+      "author": "",
+      "sourceId": "caixin",
+      "sourceName": "财新网",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 16,
       "crossTags": [
         {
           "type": "stakeholder",

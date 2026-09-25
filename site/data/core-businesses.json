@@ -1,10 +1,56 @@
 {
   "date": "2026-09-25",
-  "generatedAt": "2026-09-25T06:01:34.468Z",
+  "generatedAt": "2026-09-25T08:53:50.558Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 4,
+  "count": 6,
   "articles": [
+    {
+      "title": "高通孟樸：智能体跨终端协同需2027年至2028年落地",
+      "description": "AI这轮技术革命是中国产业界准备最充足的一次\n\n\n     资料图：孟樸。图：视觉中国\n    \n   \n　　【财新网】“我经历了IT革命、互联网革命，AI这轮技术革命是中国产业界准备最充足的一次”，9月24日，高通公司中国区董事长孟樸在2026高通骁龙峰会期间接受财新等采访指出，互联网革命初期，中国人才、资金积累不足，主要处于跟随状态，当前，中国在资金、人才等产业要素上已形成较好的基础。\n　　孟樸表示，过去两年，AI眼镜、AI可穿戴设备等新型终端不断出现，AI终端的产品化和商业化进程明显加快。2026年7月举行的世界人工智能大会期间，字节豆包、努比亚、阶跃三家厂商均展示了AI手机产品。\n　　“三家厂商分别代表三种不同的路径。荣耀代表传统手机厂商路径，在现有智能手机功能基础上叠加AI能力，豆包手机是由传统硬件厂商和大模型 AI 公司进行合作，阶跃则是做大模型的公司，跨界想办法做硬件。”孟樸说，目前判断哪种路径能够胜出为时尚早。回顾功能手机时代，早期手机厂商如今已所剩无几。AI手机也将是竞争极为激烈的市场，企业需要长期投入技术，准确把握消费者的核心需求。",
+      "content": "<blockquote><p>AI这轮技术革命是中国产业界准备最充足的一次</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-09-25/179029576476678_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-09-25/179029576476678_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>资料图：孟樸。图：视觉中国</dd>\n    </dl>\n   <br>\n       <p>　　<b>【财新网】</b>“我经历了IT革命、互联网革命，AI这轮技术革命是中国产业界准备最充足的一次”，9月24日，高通公司中国区董事长孟樸在2026高通骁龙峰会期间接受财新等采访指出，互联网革命初期，中国人才、资金积累不足，主要处于跟随状态，当前，中国在资金、人才等产业要素上已形成较好的基础。</p>\n<p>　　孟樸表示，过去两年，AI眼镜、AI可穿戴设备等新型终端不断出现，AI终端的产品化和商业化进程明显加快。2026年7月举行的世界人工智能大会期间，<a href=\"https://s.ccxe.com.cn/entities/companies/20120823168?originReferrer=pcarticle\" target=\"_blank\">字节豆包</a>、<a href=\"https://s.ccxe.com.cn/entities/companies/200231166?originReferrer=pcarticle\" target=\"_blank\">努比亚</a>、<a href=\"https://s.ccxe.com.cn/entities/companies/20099598213?originReferrer=pcarticle\" target=\"_blank\">阶跃</a>三家厂商均展示了AI手机产品。</p>\n<p>　　“三家厂商分别代表三种不同的路径。<a href=\"https://s.ccxe.com.cn/entities/companies/20086423112?originReferrer=pcarticle\" target=\"_blank\">荣耀</a>代表传统手机厂商路径，在现有智能手机功能基础上叠加AI能力，豆包手机是由传统硬件厂商和大模型 AI 公司进行合作，阶跃则是做大模型的公司，跨界想办法做硬件。”孟樸说，目前判断哪种路径能够胜出为时尚早。回顾功能手机时代，早期手机厂商如今已所剩无几。AI手机也将是竞争极为激烈的市场，企业需要长期投入技术，准确把握消费者的核心需求。</p>\n      ",
+      "url": "https://www.caixin.com/2026-09-25/102488650.html",
+      "link": "https://www.caixin.com/2026-09-25/102488650.html",
+      "pubDate": "Fri, 25 Sep 2026 00:12:49 GMT",
+      "isoDate": "2026-09-25T00:12:49.000Z",
+      "author": "",
+      "sourceId": "caixin",
+      "sourceName": "财新网",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 16,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "高通押注 AI 生态：一套软件栈通吃所有设备，编程语言 Mojo 将原生支持 Win11",
+      "description": "IT之家 9 月 25 日现场消息，在夏威夷举办的 2026 骁龙峰会第二日活动中，高通技术公司先进 AI 软件与平台执行副总裁克里斯 · 拉特纳（Chris Lattner）发表主题演讲，称 AI 行业的竞争正逐渐从“拼芯片”转向“拼生态”。\n在本次主题演讲中，拉特纳指出 AI 软件往往深度绑定特定硬件：换一家公司芯片，开发者可能就要重新适配、优化和调试。\n拉特纳在演讲提出 Modular 平台，目标是让在 GPU、NPU 和数据中心 ASIC 等不同架构上运行同一套 AI 软件，让同一个 AI 应用有机会在本地设备和云端之间更灵活地切换。\n高通过去最强的公众认知主要集中在 Snapdragon 芯片，但 AI 时代，芯片本身只是基础。真正决定开发者是否愿意采用某个平台的，还有编译器、运行时、模型框架、调度系统和工具链等。\n高通不仅想把 AI 算力放进设备，还想让开发者更容易真正用起来。否则，即使手机或电脑拥有强大的 NPU，用户也可能只得到几个演示功能。\n高通在 2026 年 6 月 24 日宣布已达成收购 Modular 的最终协议（全股票交易，估值约 39–40 亿美元（IT之家注：现汇率约合 262.18 – 268.91 亿元人民币）），并在 2026 年 7 月 29 日正式完成收购。\n而通过收购 Modular，高通公司试图获得一整套 AI 软件能力，其中最值得关注的是 Mojo，这是面向 AI 和底层高性能计算的编程语言。\n在本次演讲中，拉特纳把 Mojo 定位为一种兼顾易用性和性能的语言：语法接近 Python，但希望具备系统级编程的性能和可移植性。\nIT之家此前报道，Mojo 1.0 已发布，并同步开源标准库、编译器和工具链在内的完整语言。\n微软宣布与 Modular 合作为 Mojo 提供 Windows 原生支持，让开发者能够在 Windows 上使用接近 Python 的语法进行系统级编程，并面向不同平台和厂商开发应用。\n高通明确表示，Modular 的软件平台将进入其骁龙等完整产品组合，对于用户而言，骁龙品牌覆盖手机、PC、汽车、可穿戴设备和其他边缘终端，如果软件适配顺利推进，可以加速本地 AI 落地。",
+      "content": "<p data-vmark=\"8263\">IT之家 9 月 25 日现场消息，在夏威夷举办的 2026 骁龙峰会第二日活动中，高通技术公司先进 AI 软件与平台执行副总裁克里斯 · 拉特纳（Chris Lattner）发表主题演讲，<strong>称 AI 行业的竞争正逐渐从“拼芯片”转向“拼生态”。</strong></p><p data-vmark=\"0eb2\">在本次主题演讲中，拉特纳指出 AI 软件往往深度绑定特定硬件：换一家公司芯片，开发者可能就要重新适配、优化和调试。</p><p data-vmark=\"d9f2\">拉特纳在演讲提出 Modular 平台，<strong>目标是让在 GPU、NPU 和数据中心 ASIC 等不同架构上运行同一套 AI 软件</strong>，让同一个 AI 应用有机会在本地设备和云端之间更灵活地切换。</p><p data-vmark=\"16cb\">高通过去最强的公众认知主要集中在 Snapdragon 芯片，但 AI 时代，芯片本身只是基础。真正决定开发者是否愿意采用某个平台的，还有编译器、运行时、模型框架、调度系统和工具链等。</p><p data-vmark=\"1932\">高通不仅想把 AI 算力放进设备，还想让开发者更容易真正用起来。否则，即使手机或电脑拥有强大的 NPU，用户也可能只得到几个演示功能。</p><p data-vmark=\"c83e\">高通在 2026 年 6 月 24 日宣布已达成收购 Modular 的最终协议（全股票交易，估值约 39–40 亿美元<span class=\"exch-money-value\">（IT之家注：现汇率约合 262.18 – 268.91 亿元人民币）</span>），并在 2026 年 7 月 29 日正式完成收购。</p><p data-vmark=\"e48a\">而通过收购 Modular，高通公司试图获得一整套 AI 软件能力，其中最值得关注的是 Mojo，这是面向 AI 和底层高性能计算的编程语言。</p><p data-vmark=\"6b7e\">在本次演讲中，拉特纳把 Mojo 定位为一种兼顾易用性和性能的语言：语法接近 Python，但希望具备系统级编程的性能和可移植性。</p><p data-vmark=\"83a9\">IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/0/991/914.htm\">Mojo 1.0 已发布，并同步开源标准库、编译器和工具链在内的完整语言。</a></p><p data-vmark=\"734d\">微软宣布与 Modular 合作为 Mojo 提供 Windows 原生支持，让开发者能够在 Windows 上使用接近 Python 的语法进行系统级编程，并面向不同平台和厂商开发应用。</p><p data-vmark=\"b660\">高通明确表示，Modular 的软件平台将进入其骁龙等完整产品组合，对于用户而言，骁龙品牌覆盖手机、PC、汽车、可穿戴设备和其他边缘终端，如果软件适配顺利推进，可以加速本地 AI 落地。</p>",
+      "url": "https://www.ithome.com/1/007/050.htm",
+      "link": "https://www.ithome.com/1/007/050.htm",
+      "pubDate": "Thu, 24 Sep 2026 22:52:28 GMT",
+      "isoDate": "2026-09-24T22:52:28.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 18,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "platform-partner"
+        }
+      ]
+    },
     {
       "title": "许斐确认小米 18 Pro 系列手机将走向全球，推出国际版",
       "description": "IT之家 9 月 24 日消息，小米集团副总裁、集团 CMO 许斐今天在 X 平台宣布，小米 18 Pro 系列手机将走向全球，推出国际版。\n\n据IT之家了解，小米近几年的旗舰直板机型，一般只有数字标准版 / Ultra 机型会推出国际版。\n作为参考，小米 18 Pro 手机采用新一代自研屏幕封装工艺，0.99mm 极窄四等边框；机身采用大微弧四曲中框设计，手感更圆润；搭载一体式纯平背屏，首发第六代骁龙 8 至尊版，定价 5999 元起。\n\n而小米 18 Pro Max 手机将首发第六代骁龙 8 超级至尊版，内置新一代小米金沙江电池，电池容量达 8500mAh，采用全新 M11 发光体系，后置全焦段徕卡光学三摄，定价 6999 元起。\nIT之家昨天在 2026 骁龙峰会现场获悉，小米 18 Pro 系列将于年内登陆全球市场。",
