@@ -1,12 +1,12 @@
 {
-  "date": "2026-09-27",
-  "generatedAt": "2026-09-27T20:30:02.465Z",
-  "totalArticles": 12,
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T01:19:06.857Z",
+  "totalArticles": 14,
   "sections": [
     {
       "id": "core-businesses",
       "title": "核心业务",
-      "count": 10
+      "count": 11
     },
     {
       "id": "ip-legal",
@@ -21,7 +21,7 @@
     {
       "id": "macro-environment",
       "title": "宏观环境",
-      "count": 2
+      "count": 3
     },
     {
       "id": "competitors",
