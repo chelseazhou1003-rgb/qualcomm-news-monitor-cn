@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
-  "generatedAt": "2026-09-28T06:01:31.233Z",
-  "count": 14,
+  "generatedAt": "2026-09-28T07:25:32.908Z",
+  "count": 13,
   "articles": [
     {
       "title": "高通新王牌：个人 AI 时代来了",
@@ -206,29 +206,6 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 10,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "荣耀 Magic9 系列手机配置汇总：至高搭载高通第六代骁龙 8 超级至尊版，9 月 28 日发布",
-      "description": "IT之家 9 月 27 日消息，荣耀 Magic9 系列手机发布会将于 9 月 28 日 14:30 举行，博主 @数码闲聊站 今日对新机的爆料进行了汇总。\nIT之家整理如下：\nMagic9\n\n6.37 英寸 1.5K+120Hz LTPS 小直屏，第五代骁龙 8 至尊版处理器，8000mAh 电池 +80W 有线快充 +50W 无线快充；\n\n55Mp 1:1 方形前摄，后置 200Mp 1/1.4 英寸主摄 +50Mp 超广角 +200Mp 1/1.56 英寸 3.5X 潜望长焦；\n\n3D 超声波指纹，AI 键 + 拍照，IP68/69/69K，机身厚度 8.49mm / 重量 209g（已知 16GB+512GB 5999 元）。\n\nMagic9 Pro Max\n\n6.8 英寸 1.5K+120Hz LTPO 大直屏，第六代骁龙 8 超级至尊版处理器，8800mAh 电池 +100W 有线快充 +80W 无线快充；\n\n55Mp 1:1 方形前摄，后置 200Mp 1/1.28\" 英寸 3°OIS 主摄 +50Mp 超广角 +200Mp 1/1.4\" 英寸 3.5X 潜望长焦；\n\n3D 人脸识别 +3D 超声波指纹，AI 键 + 拍照键，X 轴大马达，双 1216 扬声器，IP68/69/69K，机身厚度 8.59mm / 重量 233g。\n\nMagic9 超能版\n\n6.81\"1.5K+120Hz 直屏，第五代骁龙 8 至尊版处理器 + 主动散热风扇，11000mAh 电池 +80W 有线快充 +50W 无线快充；\n\n前置 50Mp，后置 200Mp 主摄 +12Mp 超广角 +50Mp 3X 长焦；\n\n光学指纹，机身厚度 8.1mm / 重量 227g。\n\n\n本月早些时候，荣耀正式官宣全新年度旗舰荣耀 Magic9 系列将于 9 月 28 日正式发布。荣耀官方表示，作为承接荣耀 Magic 系列十年沉淀、同时也是荣耀品牌焕新后的首款作品，荣耀 Magic9 系列秉持“敢想敢不同”的品牌态度，将在外观、影像、AI 三大维度迎来全面进阶。\n目前，IT之家拿到了荣耀 Magic9 Pro Max「苔青」配色，新机采用全金属机身，并带来了全新的“大导之眼”镜头模组设计。\n机身细节方面，荣耀 Magic9 Pro Max 延续 Magic 系列对于简洁线条的设计理念，机身边框、背部衔接以及整体轮廓均进行了重新设计，使整机保持旗舰手机的精致感。在背部设计上，荣耀 Magic9 Pro Max 带来了全新的“大导之眼”镜头模组。\n\n▲ IT之家开箱：荣耀 Magic9 Pro Max",
-      "content": "<p data-vmark=\"cfc8\">IT之家 9 月 27 日消息，荣耀 Magic9 系列手机发布会将于 9 月 28 日 14:30 举行，博主 @数码闲聊站 今日对新机的爆料进行了汇总。</p><p data-vmark=\"ee53\">IT之家整理如下：</p><h3 data-vmark=\"8b04\">Magic9</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"5d6e\">6.37 英寸 1.5K+120Hz LTPS 小直屏，第五代骁龙 8 至尊版处理器，8000mAh 电池 +80W 有线快充 +50W 无线快充；</p></li><li><p data-vmark=\"ee60\">55Mp 1:1 方形前摄，后置 200Mp 1/1.4 英寸主摄 +50Mp 超广角 +200Mp 1/1.56 英寸 3.5X 潜望长焦；</p></li><li><p data-vmark=\"fdac\">3D 超声波指纹，AI 键 + 拍照，IP68/69/69K，机身厚度 8.49mm / 重量 209g（已知 16GB+512GB 5999 元）。</p></li></ul><h3 data-vmark=\"5e0e\">Magic9 Pro Max</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"ea30\">6.8 英寸 1.5K+120Hz LTPO 大直屏，第六代骁龙 8 超级至尊版处理器，8800mAh 电池 +100W 有线快充 +80W 无线快充；</p></li><li><p data-vmark=\"5736\">55Mp 1:1 方形前摄，后置 200Mp 1/1.28\" 英寸 3°OIS 主摄 +50Mp 超广角 +200Mp 1/1.4\" 英寸 3.5X 潜望长焦；</p></li><li><p data-vmark=\"e7f5\">3D 人脸识别 +3D 超声波指纹，AI 键 + 拍照键，X 轴大马达，双 1216 扬声器，IP68/69/69K，机身厚度 8.59mm / 重量 233g。</p></li></ul><h3 data-vmark=\"37c1\">Magic9 超能版</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"b819\">6.81\"1.5K+120Hz 直屏，第五代骁龙 8 至尊版处理器 + 主动散热风扇，11000mAh 电池 +80W 有线快充 +50W 无线快充；</p></li><li><p data-vmark=\"1997\">前置 50Mp，后置 200Mp 主摄 +12Mp 超广角 +50Mp 3X 长焦；</p></li><li><p data-vmark=\"717b\">光学指纹，机身厚度 8.1mm / 重量 227g。</p></li></ul><p data-vmark=\"907f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/5619843c-3576-4abd-9c1a-e15791a6c409.png\" w=\"750\" h=\"745\" data-mpos=\"2,2\" data-weibo=\"0\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5347751178273664%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"90cb\" class=\"no-alt-img\"></p><p data-vmark=\"aeb1\">本月早些时候，荣耀正式官宣全新年度旗舰荣耀 Magic9 系列将于 9 月 28 日正式发布。荣耀官方表示，作为承接荣耀 Magic 系列十年沉淀、同时也是荣耀品牌焕新后的首款作品，荣耀 Magic9 系列秉持“敢想敢不同”的品牌态度，将在外观、影像、AI 三大维度迎来全面进阶。</p><p data-vmark=\"9a20\">目前，IT之家拿到了荣耀 Magic9 Pro Max「苔青」配色，<strong>新机采用全金属机身</strong>，并带来了全新的“大导之眼”镜头模组设计。</p><p data-vmark=\"8fb8\">机身细节方面，荣耀 Magic9 Pro Max 延续 Magic 系列对于简洁线条的设计理念，机身边框、背部衔接以及整体轮廓均进行了重新设计，使整机保持旗舰手机的精致感。在背部设计上，荣耀 Magic9 Pro Max 带来了全新的“大导之眼”镜头模组。</p><p data-vmark=\"11b2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/4067b307-83dd-4d54-97cc-19b85ed9d75e.png\" w=\"1210\" h=\"803\" data-weibo=\"1\" data-vmark=\"78e9\" class=\"no-alt-img\"></p><figcaption>▲ IT之家开箱：荣耀 Magic9 Pro Max</figcaption><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"dd75\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4569\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/1/007/524.htm",
-      "link": "https://www.ithome.com/1/007/524.htm",
-      "pubDate": "Sun, 27 Sep 2026 06:56:08 GMT",
-      "isoDate": "2026-09-27T06:56:08.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 9,
       "crossTags": [
         {
           "type": "stakeholder",
