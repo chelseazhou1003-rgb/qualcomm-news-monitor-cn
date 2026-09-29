@@ -1,7 +1,7 @@
 {
   "date": "2026-09-30",
-  "generatedAt": "2026-09-30T05:04:39.345Z",
-  "count": 5,
+  "generatedAt": "2026-09-30T06:01:31.969Z",
+  "count": 4,
   "articles": [
     {
       "title": "奇瑞 2027 款纵横 G700 车型上市：限时 30.49 万元起，搭载华为乾崑智驾 ADS 5",
@@ -78,29 +78,6 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 9,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "iQOO 15 手机销量突破 200 万台",
-      "description": "IT之家 9 月 29 日现场消息，iQOO 16 及 iQOO Pad Ultra 新品发布会正在举行，IT之家在现场获悉，iQOO 15 手机销量突破 200 万台。\n\niQOO 15 手机于 2025 年 10 月 20 日发布，搭载第五代骁龙 8 至尊版处理器、2K 三星珠峰屏（M14 发光材料），采用 iQOO 有史以来最好最强的 M14 发光材料，售价 4199 元起。\n续航方面，iQOO 15 配备 7000mAh 单电芯蓝海电池，使用第四代硅负极技术和第二代半固态电池技术；四大技术大幅提升电池健康度，全场景直驱供电边玩边充不发热；支持 100W 超快闪充及 40W 无线快充，兼容 PPS 和 PD 快充。\n影像方面，iQOO 15 搭载 5000 万像素索尼超防抖大底主摄、5000 万像素超广角、3200 万像素前置、5000 万像素索尼 Pro 级潜望长焦。超薄棱镜三重反射 M 型光路设计，搭配 NICE 算法和大模型画质增强技术，还有 Live Photo、AI 视效等玩法。",
-      "content": "<p data-vmark=\"2e95\">IT之家 9 月 29 日现场消息，iQOO 16 及 iQOO Pad Ultra 新品发布会正在举行，IT之家在现场获悉，iQOO 15 手机销量突破 200 万台。</p><p data-vmark=\"3513\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/bac84923-5c68-42cc-93db-153e9abe3d7d.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1081\" data-weibo=\"0\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d191acfd3ff3a9965ea1fba6524bcfccfeba4456c8462265ee4066cd08d0e7a918b04cca15d64f751e\" data-vmark=\"5447\" class=\"no-alt-img\"></p><p data-vmark=\"f339\"><strong>iQOO 15 手机于 2025 年 10 月 20 日发布</strong>，搭载第五代骁龙 8 至尊版处理器、2K 三星珠峰屏（M14 发光材料），采用 iQOO 有史以来最好最强的 M14 发光材料，售价 4199 元起。</p><p data-vmark=\"0d67\">续航方面，iQOO 15 配备 7000mAh 单电芯蓝海电池，使用第四代硅负极技术和第二代半固态电池技术；四大技术大幅提升电池健康度，全场景直驱供电边玩边充不发热；支持 100W 超快闪充及 40W 无线快充，兼容 PPS 和 PD 快充。</p><p data-vmark=\"2359\">影像方面，iQOO 15 搭载 5000 万像素索尼超防抖大底主摄、5000 万像素超广角、3200 万像素前置、5000 万像素索尼 Pro 级潜望长焦。超薄棱镜三重反射 M 型光路设计，搭配 NICE 算法和大模型画质增强技术，还有 Live Photo、AI 视效等玩法。</p><p data-vmark=\"1050\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2025/10/817e8cd2-57c2-473c-a5e4-e9b17aa4d390.jpg\" w=\"1440\" h=\"777\" data-weibo=\"1\" data-vmark=\"ca4f\" data-mpos=\"0,0\"  class=\"no-alt-img\"></p>",
-      "url": "https://www.ithome.com/1/008/443.htm",
-      "link": "https://www.ithome.com/1/008/443.htm",
-      "pubDate": "Tue, 29 Sep 2026 11:18:18 GMT",
-      "isoDate": "2026-09-29T11:18:18.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 7,
       "crossTags": [
         {
           "type": "stakeholder",
