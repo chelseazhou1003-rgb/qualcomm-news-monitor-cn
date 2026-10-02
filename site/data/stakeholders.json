@@ -1,10 +1,28 @@
 {
-  "date": "2026-10-02",
-  "generatedAt": "2026-10-02T22:10:29.540Z",
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T03:33:19.867Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 3,
+  "count": 4,
   "articles": [
+    {
+      "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
+      "description": "IT之家 10 月 3 日消息，Microsoft（微软）当地时间 1 日通过 DirectX 开发者博客宣布，高级着色器交付 (ASD) 将在本月扩展到高通、英特尔、英伟达硬件上。\n由于 AMD 的 \"RDNA\" 家族已率先支持 ASD，这意味着该特性即将实现对四大 GPU 制造商平台的全覆盖。更多用户将可享受到直接下载云端预编译着色器带来的好处：缩短加载时间、消除着色器卡顿。\n\n高通已通过今年 9 月 22 日上线的 2026.08.3 显卡驱动为骁龙 X2 的核显提供了 ASD 支持。英特尔、英伟达的支持将在本月晚些时候到来，兼容的英特尔设备包括 Arc B570 / B580 独立显卡、第 2~3 代酷睿 Ultra 处理器核显，英伟达方面则是所有 RTX GPU 以及 RTX Spark 系统。\nIT之家了解到，首款支持多 GPU 供应商 ASD 的游戏为《战争机器：事变日》(Gears of War: E-Day)。",
+      "content": "<p data-vmark=\"a4b8\">IT之家 10 月 3 日消息，Microsoft（微软）当地时间 1 日通过 DirectX 开发者博客宣布，高级着色器交付 (ASD) 将在本月扩展到高通、英特尔、英伟达硬件上。</p><p data-vmark=\"accb\">由于 AMD 的 \"RDNA\" 家族已率先支持 ASD，这意味着<strong>该特性即将实现对四大 GPU 制造商平台的全覆盖</strong>。更多用户将可享受到直接下载云端预编译着色器带来的好处：缩短加载时间、消除着色器卡顿。</p><p data-vmark=\"b77c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a3098d1c-f431-41bf-a65b-fffe77f5bb7f.jpg\" w=\"624\" h=\"326\" data-weibo=\"0\" data-vmark=\"9492\" class=\"no-alt-img\"></p><p data-vmark=\"f067\">高通已通过今年 9 月 22 日上线的 2026.08.3 显卡驱动为骁龙 X2 的核显提供了 ASD 支持。<strong>英特尔、英伟达的支持将在本月晚些时候到来</strong>，兼容的英特尔设备包括 Arc B570 / B580 独立显卡、第 2~3 代酷睿 Ultra 处理器核显，英伟达方面则是所有 RTX GPU 以及 RTX Spark 系统。</p><p data-vmark=\"0f62\">IT之家了解到，首款支持多 GPU 供应商 ASD 的游戏为《战争机器：事变日》(Gears of War: E-Day)。</p>",
+      "url": "https://www.ithome.com/1/009/373.htm",
+      "link": "https://www.ithome.com/1/009/373.htm",
+      "pubDate": "Fri, 02 Oct 2026 16:16:55 GMT",
+      "isoDate": "2026-10-02T16:16:55.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "tagScore": 3,
+      "crossTags": []
+    },
     {
       "title": "荣耀 WIN 小平板正面照疑曝光，有望支持 240Hz 刷新率",
       "description": "IT之家 10 月 2 日消息，小红书账号 @荣耀WIN实验室 于 9 月 30 日分享了一款 WIN 系列小平板的正面照，支持超高刷新率，预计将于近期亮相。\n\n据博主 @数码闲聊站 于 9 月 21 日爆料，荣耀 WIN2 系列 +WIN Pad 小平板确定 10 月发布。\n据其爆料，荣耀 WIN2 系列顶配搭载骁龙 8EE6（第六代骁龙 8 超级至尊版处理器）+ 主动散热风扇 + 超高刷 OLED ，今年唯一万级大电池的 2nm 新机。小平板搭载骁龙 8E5（第五代骁龙 8 至尊版处理器）+ 主动散热风扇 +8 英寸级别超高刷 OLED，没有 5G 通信版本。\n\n此外，该博主后续再爆料，荣耀 WIN Pad 小平板将拥有黑 / 银两种配色，搭载 8.4 英寸左右的 OLED 挖孔屏，刷新率干到 240Hz。\n关于荣耀 WIN 小平板的更多消息，IT之家也会持续关注并带来更多报道。",

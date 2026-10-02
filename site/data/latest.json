@@ -1,7 +1,7 @@
 {
-  "date": "2026-10-02",
-  "generatedAt": "2026-10-02T22:10:29.540Z",
-  "totalArticles": 4,
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T03:33:19.867Z",
+  "totalArticles": 5,
   "sections": [
     {
       "id": "core-businesses",
@@ -31,7 +31,7 @@
     {
       "id": "stakeholders",
       "title": "关键利益相关方",
-      "count": 3
+      "count": 4
     }
   ]
 }
