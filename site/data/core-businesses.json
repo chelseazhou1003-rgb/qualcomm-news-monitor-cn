@@ -1,8 +1,50 @@
 {
   "date": "2026-10-03",
-  "generatedAt": "2026-10-03T07:17:21.456Z",
+  "generatedAt": "2026-10-03T10:21:09.155Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 0,
-  "articles": []
+  "count": 2,
+  "articles": [
+    {
+      "title": "产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%",
+      "description": "IT之家 10 月 3 日消息，数码博主 @i冰宇宙 昨日（10 月 2 日）发布博文，表示：“三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核心部件。据悉，其产量比上一代产品提高了 10%。”\n\nIT之家查询相关资料，韩媒 The Elec 称三星已锁定 Galaxy S27、S27 Plus 和 S27 Pro 三款机型的 Exynos 2700 供应量，表明芯片已脱离样品阶段。\n报道称三星提高 Exynos 2700 芯片产量的主要原因，就是为了满足 Galaxy S27 Pro 这款新机型。通常情况下，从晶圆到成品芯片需要三到四个月的时间，也契合 Galaxy S27 系列明年 1 月发布节奏。\n与 Galaxy S26 策略一致，三星延续双芯片方案。韩国和欧洲销售的 S27、S27 Plus 及 S27 Pro 将搭载 Exynos 2700。美国和中国市场则采用高通第六代骁龙 8 系列，预估会采用 for Galaxy 版本。\n性能方面，消息源 @kro_roe 称 Exynos 2700 在 Geekbench 6 单核测试中稳定得分在 3,900 分左右。\n\n在多核方面，有消息称在 GeekBench 6 跑分中，相比较高通第六代骁龙 8 超级至尊版，三星 Exynos 2700 芯片高出 9.5%，得分超过 14000 分。",
+      "content": "<p data-vmark=\"e9a1\">IT之家 10 月 3 日消息，数码博主 @i冰宇宙 昨日（10 月 2 日）发布博文，表示：“三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核心部件。据悉，其产量比上一代产品提高了 10%。”</p><p data-vmark=\"dd07\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/800fd6b2-51c3-43c0-a341-3e05030eccaa.png\" w=\"958\" h=\"199\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d15bb325dceae6a88dbd708c591d8a1f1d728907b2b776698e509b00c442399421a56a3eb6420ce08c\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fwww.weibo.com%2F5673255066%2FRkP2qtKMw%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F5673255066%2FRkP2qtKMw%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"ecd3\" class=\"no-alt-img\"></p><p data-vmark=\"065c\">IT之家查询相关资料，<strong>韩媒 The Elec 称三星已锁定 Galaxy S27、S27 Plus 和 S27 Pro 三款机型的 Exynos 2700 供应量</strong>，表明芯片已脱离样品阶段。</p><p data-vmark=\"e7a7\">报道称三星提高 Exynos 2700 芯片产量的主要原因，就是为了满足 Galaxy S27 Pro 这款新机型。通常情况下，从晶圆到成品芯片需要三到四个月的时间，也契合 Galaxy S27 系列明年 1 月发布节奏。</p><p data-vmark=\"9fb2\">与 Galaxy S26 策略一致，三星延续双芯片方案。韩国和欧洲销售的 S27、S27 Plus 及 S27 Pro 将搭载 Exynos 2700。美国和中国市场则采用高通第六代骁龙 8 系列，预估会采用 for Galaxy 版本。</p><p data-vmark=\"1045\">性能方面，消息源 @kro_roe 称 Exynos 2700 在 Geekbench 6 单核测试中稳定得分在 3,900 分左右。</p><p data-vmark=\"4d9a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d8ce9cbc-4e68-4bf6-acdc-5d39da1996db.png\" w=\"1123\" h=\"609\" data-mpos=\"2,0\" data-weibo=\"1\"  data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2Fkro_roe%2Fstatus%2F2105637577361698949%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2Fkro_roe%2Fstatus%2F2105637577361698949%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"edce\" class=\"no-alt-img\"></p><p data-vmark=\"5c01\">在多核方面，有消息称在 GeekBench 6 跑分中，相比较高通第六代骁龙 8 超级至尊版，三星 Exynos 2700 芯片高出 9.5%，得分超过 14000 分。</p>",
+      "url": "https://www.ithome.com/1/009/393.htm",
+      "link": "https://www.ithome.com/1/009/393.htm",
+      "pubDate": "Sat, 03 Oct 2026 01:13:22 GMT",
+      "isoDate": "2026-10-03T01:13:22.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 15,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "苹果回应少数美国运营商 AT&T 版 iPhone 18 Pro Max 出现 SOS 通信故障",
+      "description": "IT之家 10 月 3 日消息，科技媒体 9to5Mac 昨日（10 月 2 日）发布博文，报道称美国电信运营商 AT&T 和苹果公司分别发布声明，表示少量美版 iPhone 18 Pro Max 存在蜂窝网络问题。\nIT之家曾于 9 月援引市场调查机构 TechInsights 公布的拆解报告，美国版苹果 iPhone 18 Pro Max 采用高通骁龙 X80 调制解调器，成为 iPhone 18 产品线中唯一采用该通信方案的机型。\n不过部分使用美版 iPhone 18 Pro Max 的用户反馈，该机型存在蜂窝网络问题，可能导致设备失去服务并无法拨打电话。受影响用户的手机状态栏显示“SOS”，通话、短信和数据连接均无法使用。\n电信运营商 AT&T 于 10 月 2 日发布公告：\n\n您好，这里是 AT&T。请注意：您的 iPhone 18 Pro Max 有重要的 Apple 软件更新可用。部分手机可能无法完成通话 / 短信 / 数据连接。请立即通过设置 > 通用 > 软件更新方式更新至 iOS 27.0.1，如有任何疑问，请联系 AT&T 或 Apple。\n\n苹果公司也于昨日发布公告：\n\n我们发现少数使用 AT&T 网络的 iPhone 18 Pro Max 用户存在一个问题，该问题可能导致设备失去服务且无法拨打电话。\n我们已于本周早些时候发布了 iOS 27.0.1，强烈建议所有 iPhone 18 Pro Max 用户立即更新，并且今天还将发布运营商设置更新。这些更新旨在共同防止此问题的发生。\n\n博文指出为了遏制问题扩散，苹果公司已发布 iOS 27.0.1 更新、运营商 AT&T 也发布了设置更新，不过已失去服务的设备无法通过软件修复，需更换硬件。相关用户应联系 Apple Support 或 AT&T，也可前往 Apple Store 或 AT&T 营业厅处理。",
+      "content": "<p data-vmark=\"4ce5\">IT之家 10 月 3 日消息，科技媒体 9to5Mac 昨日（10 月 2 日）发布博文，报道称美国电信运营商 AT&amp;T 和苹果公司分别发布声明，<strong>表示少量美版 iPhone 18 Pro Max 存在蜂窝网络问题。</strong></p><p data-vmark=\"86b6\">IT之家曾于 9 月援引市场调查机构 TechInsights 公布的拆解报告，<a href=\"https://www.ithome.com/1/004/353.htm\" target=\"_blank\">美国版苹果 iPhone 18 Pro Max 采用高通骁龙 X80 调制解调器</a>，成为 iPhone 18 产品线中唯一采用该通信方案的机型。</p><p data-vmark=\"a5be\">不过部分使用美版 iPhone 18 Pro Max 的用户反馈，该机型存在蜂窝网络问题，可能导致设备失去服务并无法拨打电话。受影响用户的手机状态栏显示“SOS”，通话、短信和数据连接均无法使用。</p><p data-vmark=\"b9ac\">电信运营商 AT&amp;T 于 10 月 2 日发布公告：</p><blockquote><p data-vmark=\"1ef5\">您好，这里是 AT&amp;T。请注意：您的 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/10/6f4fe9f8-a63c-4b46-9052-3ff89f330d24.png?x-bce-process=image/format,f_auto\" data-topic-id=\"68075\">iPhone 18 Pro Max</span> 有重要的 Apple 软件更新可用。部分手机可能无法完成通话 / 短信 / 数据连接。请立即通过设置 &gt; 通用 &gt; 软件更新方式更新至 iOS 27.0.1，如有任何疑问，请联系 AT&amp;T 或 Apple。</p></blockquote><p data-vmark=\"e0ad\">苹果公司也于昨日发布公告：</p><blockquote><p data-vmark=\"eac9\">我们发现少数使用 AT&amp;T 网络的 iPhone 18 Pro Max 用户存在一个问题，该问题可能导致设备失去服务且无法拨打电话。</p><p data-vmark=\"0580\">我们已于本周早些时候发布了 iOS 27.0.1，强烈建议所有 iPhone 18 Pro Max 用户立即更新，并且今天还将发布运营商设置更新。这些更新旨在共同防止此问题的发生。</p></blockquote><p data-vmark=\"5908\">博文指出为了遏制问题扩散，苹果公司已发布 iOS 27.0.1 更新、运营商 AT&amp;T 也发布了设置更新，不过已失去服务的设备无法通过软件修复，需更换硬件。相关用户应联系 Apple Support 或 AT&amp;T，也可前往 Apple Store 或 AT&amp;T 营业厅处理。</p><p data-vmark=\"6192\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0ab47e49-5f40-43ad-a06d-82e389304257.png\" w=\"800\" h=\"450\" data-weibo=\"0\" data-vmark=\"41c2\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/1/009/378.htm",
+      "link": "https://www.ithome.com/1/009/378.htm",
+      "pubDate": "Fri, 02 Oct 2026 23:20:42 GMT",
+      "isoDate": "2026-10-02T23:20:42.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 4,
+      "crossTags": []
+    }
+  ]
 }
