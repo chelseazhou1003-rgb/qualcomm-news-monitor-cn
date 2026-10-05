@@ -1,9 +1,7 @@
 {
   "date": "2026-10-06",
   "generatedAt": "2026-10-06T00:25:59.856Z",
-  "section": "core-businesses",
-  "sectionTitle": "核心业务",
-  "count": 4,
+  "count": 6,
   "articles": [
     {
       "title": "三星 W27 心系天下折叠屏手机发布会预计 10 月 29 日举行，线下已开启预定",
@@ -47,6 +45,33 @@
       "crossTags": []
     },
     {
+      "title": "高通与华为达成逻辑折叠芯片技术相关专利授权，韬定律加速出海",
+      "description": "IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，高通公司已同意获得支撑华为技术有限公司新型逻辑折叠芯片制造技术的专利许可，这对华为及其在海外 AI 市场的推动力来说是一笔胜利（原文为 Qualcomm Inc. has agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique，其中的 license patents 存在翻译歧义，可以指授权专利、也可以指获得许可，此处语境下偏向于高通获得专利许可）。\n报道称，与高通的协议有助于验证华为的芯片制造能力。华为视其新架构为提升半导体性能的突破，帮助缩小与台积电等行业领导者的差距。该方法着重于提升数据传输速度，弥补光刻机方面的不足。\n\n据IT之家此前报道，华为与高通今日宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。\n华为称，该交易完成之后，公司全部专利许可协议的累计总金额预计将超过 69 亿美元（IT之家注：现汇率约合 463.02 亿元人民币）。\n专利许可协议公布后，高通盘前股价最高涨超 4%。\n\n相关阅读：\n\n《华为首款“韬定律逻辑折叠”芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代》\n\n《麒麟 2026 芯片晶体管密度暴涨 55%，华为何庭波更新韬定律论文》",
+      "content": "<p data-vmark=\"10a7\">IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，<strong>高通公司已同意获得支撑华为技术有限公司新型逻辑折叠芯片制造技术的专利许可</strong>，这对华为及其在海外 AI 市场的推动力来说是一笔胜利（原文为 Qualcomm Inc. has agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique，其中的 license patents 存在翻译歧义，可以指授权专利、也可以指获得许可，此处语境下偏向于高通获得专利许可）。</p><p data-vmark=\"7ef3\">报道称，<strong>与高通的协议有助于验证华为的芯片制造能力</strong>。华为视其新架构为提升半导体性能的突破，帮助缩小与台积电等行业领导者的差距。该方法着重于提升数据传输速度，弥补光刻机方面的不足。</p><p data-vmark=\"93f6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/028e7003-f16a-4adc-b600-fb6f4a27537d.png?x-bce-process=image/format,f_auto\" w=\"658\" h=\"834\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d14806b408c252a8e49cfd086ccdfb3775390813b8879c2cfa195d5fc2c77251a69c0de712d8c34fec\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FHuawei%2Fstatus%2F2106988893237289247%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FHuawei%2Fstatus%2F2106988893237289247%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"7352\" class=\"no-alt-img\"></p><p data-vmark=\"05ec\">据IT之家此前报道，<a href=\"https://www.ithome.com/1/009/806.htm\" target=\"_blank\">华为与高通今日宣布达成一项长期、广泛的专利许可协议</a>，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。</p><p data-vmark=\"e913\">华为称，该交易完成之后，公司全部专利许可协议的累计总金额预计将超过 69 亿美元<span class=\"exch-money-value \">（IT之家注：现汇率约合 463.02 亿元人民币）</span>。</p><p data-vmark=\"4bdc\">专利许可协议公布后，高通盘前股价最高涨超 4%。</p><p data-vmark=\"ba9e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c2710150-5911-41cd-ba3a-3a1d21c8307e.jpg?x-bce-process=image/format,f_auto\" w=\"787\" h=\"659\" data-weibo=\"1\" data-mpos=\"2,0\"  data-vmark=\"bcc9\" class=\"no-alt-img\"></p><p data-vmark=\"880c\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"0e36\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/009/739.htm\">华为首款“韬定律逻辑折叠”芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代</a>》</p></li><li><p data-vmark=\"9bc9\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/998/598.htm\">麒麟 2026 芯片晶体管密度暴涨 55%，华为何庭波更新韬定律论文</a>》</p></li></ul>",
+      "url": "https://www.ithome.com/1/009/852.htm",
+      "link": "https://www.ithome.com/1/009/852.htm",
+      "pubDate": "Mon, 05 Oct 2026 09:40:18 GMT",
+      "isoDate": "2026-10-05T09:40:18.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "frand-licensing",
+      "tagScore": 36,
+      "crossTags": [
+        {
+          "type": "competitor",
+          "id": "huawei"
+        },
+        {
+          "type": "stakeholder",
+          "id": "foundry"
+        }
+      ]
+    },
+    {
       "title": "荣耀 WIN 小平板上架：搭 8.4 英寸 240Hz OLED 挖孔屏，有望 10 月 15 日发售",
       "description": "IT之家 10 月 5 日消息，荣耀 WIN 小平板现已在京东上架，页面显示该机有望于 10 月 15 日发售。\n京东荣耀 WIN 平板待发布直达链接\n\n此前消息显示，该机拥有黑 / 银两种配色，搭载 8.4 英寸 240Hz OLED 挖孔屏，搭载骁龙 8E5（第五代骁龙 8 至尊版处理器）+ 主动散热风扇，不过没有 5G 通信版本。\n\n关于荣耀 WIN 小平板的更多消息，IT之家也会持续关注并带来更多报道。",
       "content": "<p data-vmark=\"88f6\">IT之家 10 月 5 日消息，荣耀 WIN 小平板现已在京东上架，页面显示该机有望于 10 月 15 日发售。</p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/FOwjf6K\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FDwSUn9\" data-iosurl=\"https://u.jd.com/FOwPBNo\" data-androidurl=\"https://u.jd.com/FrwELm0\" data-hosnexturl=\"https://u.jd.com/FDw3x08\" data-hosurl=\"https://u.jd.com/FDwyHmY\" data-uwpurl=\"https://u.jd.com/F6wWTz7\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fF6w2bvU%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/FOwlNzF\" data-lpwxurl=\"https://u.jd.com/FOwpS88\"   data-ncid=\"246964\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/526476/36/3855/123402/6aa9f48fF5c7c5b08/00833203203442e1.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\">荣耀 WIN 平板</span></span><span class=\"card-abstract\"></span><span class=\"card-controls\"><span class=\"price\">待发布</span><span class=\"card-btn-deep\">直达链接</span></span></span></span></a></dir><p data-vmark=\"1bb2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8aa41f57-bf5e-4888-ac4a-a8a37d4916a2.png\" w=\"886\" h=\"508\" data-weibo=\"0\" data-vmark=\"ca9f\" class=\"no-alt-img\"></p><p data-vmark=\"3602\">此前消息显示，该机拥有黑 / 银两种配色，搭载 8.4 英寸 240Hz OLED 挖孔屏，搭载骁龙 8E5（第五代骁龙 8 至尊版处理器）+ 主动散热风扇，不过没有 5G 通信版本。</p><p data-vmark=\"87eb\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/0b62906e-809a-4f5c-ae1a-c96472f31b7b.png\" w=\"750\" h=\"306\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5345609063334200%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"1\" data-mpos=\"2,0\"  data-vmark=\"68f6\" class=\"no-alt-img\"></p><p data-vmark=\"4a6c\">关于荣耀 WIN 小平板的更多消息，IT之家也会持续关注并带来更多报道。</p>",
@@ -86,6 +111,29 @@
       "subCategory": "semiconductors",
       "tagScore": 4,
       "crossTags": []
+    },
+    {
+      "title": "AI进化速递丨华为与高通宣布达成广泛专利许可协议",
+      "description": "华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域……\n①华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域；\n②鸿海：预计第四季度与人工智能相关的业务将继续增长；\n③德国电信：预计到2030年，AI和自动化将节省约25亿欧元间接成本。",
+      "content": "<figure><img src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/5efb780525052098534e92734c6f9ad3.jpg\" alt=\"AI进化速递丨华为与高通宣布达成广泛专利许可协议\" referrerpolicy=\"no-referrer\"></figure><p>华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域……</p><p>①华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域；<br><br>②鸿海：预计第四季度与人工智能相关的业务将继续增长；<br><br>③德国电信：预计到2030年，AI和自动化将节省约25亿欧元间接成本。</p>",
+      "url": "https://www.yicai.com/news/103384546.html",
+      "link": "https://www.yicai.com/news/103384546.html",
+      "pubDate": "Mon, 05 Oct 2026 13:00:07 GMT",
+      "isoDate": "2026-10-05T13:00:07.000Z",
+      "author": "江雪",
+      "sourceId": "yicai",
+      "sourceName": "第一财经",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "tagScore": 12,
+      "crossTags": [
+        {
+          "type": "competitor",
+          "id": "huawei"
+        }
+      ]
     }
   ]
 }
