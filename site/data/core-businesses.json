@@ -1,68 +1,18 @@
 {
   "date": "2026-10-05",
-  "generatedAt": "2026-10-05T09:18:27.081Z",
+  "generatedAt": "2026-10-05T15:42:50.730Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
   "count": 3,
   "articles": [
     {
-      "title": "再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%",
-      "description": "IT之家 10 月 5 日消息，韩媒 ddaily 于 10 月 2 日发布博文，报道称在决定上调 10%~20% 基础上，台积电计划 2027 年第一季度针对最先进晶圆出货价格，再次上调约 6%~8%，理由是制造成本和电力费用上涨。\n报道援引半导体业界消息称，台积电 2 纳米制程订单激增，公司已将晶圆订单目标较原计划提高 15% 至 20%。\n为应对订单增长，台积电将位于新竹宝山和高雄等地的 5 座 2 纳米专用量产工厂转入全面运转状态，而先进制程产能集中让部分客户难以获得新增晶圆配额。\n高通（Qualcomm）、AMD 等芯片设计企业面临制造成本上升与单一供应链风险，因此部分客户开始寻求台积电以外的供应来源，三星电子代工业务因此获得潜在订单机会。\n三星正推进第 2 代 2 纳米制程 SF2P，目标将良率提升至 70% 以上。若该制程良率稳定性获得验证，三星代工有望承接因台积电涨价和产能紧张而转移的先进制程订单。",
-      "content": "<p data-vmark=\"1be8\">IT之家 10 月 5 日消息，韩媒 ddaily 于 10 月 2 日发布博文，报道称<a href=\"https://www.ithome.com/1/003/824.htm\" target=\"_blank\">在决定上调 10%~20% 基础上</a>，台积电计划 2027 年第一季度针对最先进晶圆出货价格，<strong>再次上调约 6%~8%，</strong>理由是制造成本和电力费用上涨。</p><p data-vmark=\"fbc0\">报道援引半导体业界消息称，台积电 2 纳米制程订单激增，公司已将晶圆订单目标较原计划提高 15% 至 20%。</p><p data-vmark=\"96ed\">为应对订单增长，台积电将位于新竹宝山和高雄等地的 5 座 2 纳米专用量产工厂转入全面运转状态，而先进制程产能集中让部分客户难以获得新增晶圆配额。</p><p data-vmark=\"3702\">高通（Qualcomm）、AMD 等芯片设计企业面临制造成本上升与单一供应链风险，因此部分客户开始寻求台积电以外的供应来源，三星电子代工业务因此获得潜在订单机会。</p><p class=\"my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:align-top\" data-vmark=\"6b99\">三星正推进第 2 代 2 纳米制程 SF2P，目标将良率提升至 70% 以上。若该制程良率稳定性获得验证，三星代工有望承接因台积电涨价和产能紧张而转移的先进制程订单。</p>",
-      "url": "https://www.ithome.com/1/009/740.htm",
-      "link": "https://www.ithome.com/1/009/740.htm",
-      "pubDate": "Sun, 04 Oct 2026 23:29:15 GMT",
-      "isoDate": "2026-10-04T23:29:15.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 27,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        },
-        {
-          "type": "stakeholder",
-          "id": "foundry"
-        }
-      ]
-    },
-    {
-      "title": "荣耀平板 X10 Mini 上架：9.7 英寸护眼屏，10 月 23 日发售",
-      "description": "IT之家 10 月 4 日消息，荣耀平板 X10 Mini 现已在京东平台上架并预约，将于 10 月 23 日 10:00 发售。\nIT之家从官方海报获悉，这款新品配备 9.7 英寸 2K 护眼屏，内置 8000mAh 大电池，获得 SGS 抗摔抗压五星金标认证。\n\n作为参考，今年 3 月发布的荣耀平板 X10 搭载高通骁龙 680 处理器，首发价 1299 元起。该产品配备 11 英寸 LCD 护眼屏，内置 10100mAh 电池，前后均配备 500 万像素摄像头，标配 15W 充电器。",
-      "content": "<p data-vmark=\"7a53\">IT之家 10 月 4 日消息，荣耀平板 X10 Mini 现已在京东平台上架并预约，将于 10 月 23 日 10:00 发售。</p><p data-vmark=\"7d0d\">IT之家从官方海报获悉，这款新品配备<strong> 9.7 英寸 2K 护眼屏</strong>，内置 8000mAh 大电池，获得 SGS 抗摔抗压五星金标认证。</p><p data-vmark=\"c87c\" style=\"text-align: center;\"><img src=\"https://qimg.ithome.com/newfiles/2026/10/db1f61a4-6240-43e3-a8f3-f375a9590608.png?x-bce-process=image/format,f_auto\" w=\"1080\" h=\"1080\" data-weibo=\"0\" data-vmark=\"def8\" class=\"no-alt-img\"></p><p data-vmark=\"da27\">作为参考，今年 3 月发布的荣耀平板 X10 搭载高通骁龙 680 处理器，首发价 1299 元起。该产品配备 11 英寸 LCD 护眼屏，内置 10100mAh 电池，前后均配备 500 万像素摄像头，标配 15W 充电器。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"83a1\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4842\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/1/009/729.htm",
-      "link": "https://www.ithome.com/1/009/729.htm",
-      "pubDate": "Sun, 04 Oct 2026 13:31:32 GMT",
-      "isoDate": "2026-10-04T13:31:32.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "",
-      "tagScore": 0,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
-    },
-    {
-      "title": "HMD Slate Tab 5G 平板曝光：设计灵感来自微软 Surface / 诺基亚 Lumia 2520、有望随 Skyline 2 手机一同发布",
-      "description": "IT之家 10 月 4 日消息，消息源 smashx_60 现已曝光了 HMD Slate Tab 5G 二合一平板电脑，该机搭载安卓系统，据称已开发了两年，有望随同 Skyline 2 手机一同发布。\n参考消息源曝光的产品外观渲染图，可以看到该机可选蓝 / 橙双色，正面配备了一块疑似 15.6 英寸 2K 分辨率 LCD 面板；平板背面采用单摄设计，印有 HMD 标识，底部带有扩展触点，整体设计灵感来自于微软 Surface 及诺基亚 Lumia 2520。\n\n\n而在 Skyline 2 方面，此前消息称该机正面配备一块 6.55 英寸 FHD+ 144Hz OLED 面板（峰值亮度 1200 尼特），匹配 50MP 自拍摄像头；背面采用 108MP 主摄 + 50MP 长焦 + 50MP 超广角设计。搭载高通骁龙 7s Gen 4 处理器，匹配 8/12GB RAM 及 256GB 存储空间，内置搭载 5000mAh 电池，支持 40W 有线充电及 15W（Qi2）无线充电。同时具备了 IP54 认证、双扬声器。",
-      "content": "<p data-vmark=\"3235\">IT之家 10 月 4 日消息，消息源 smashx_60 现已曝光了 HMD Slate Tab 5G 二合一平板电脑，该机搭载安卓系统，据称已开发了两年，有望随同 Skyline 2 手机一同发布。</p><p data-vmark=\"54a2\">参考消息源曝光的产品外观渲染图，可以看到该机可选蓝 / 橙双色，正面配备了一块疑似 15.6 英寸 2K 分辨率 LCD 面板；平板背面采用单摄设计，印有 HMD 标识，底部带有扩展触点，整体设计灵感来自于微软 Surface 及诺基亚 Lumia 2520。</p><p style=\"text-align: center;\" data-vmark=\"0aa4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0d24b6fa-665f-4583-9fbe-1921c6b5dce9.png?x-bce-process=image/format,f_auto\" w=\"1090\" h=\"370\" data-weibo=\"0\" data-vmark=\"94bb\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"49cc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/34bb14fc-639f-4f4d-b49a-6e19f1179631.png?x-bce-process=image/format,f_auto\" w=\"1114\" h=\"382\" data-weibo=\"1\" data-vmark=\"aff4\" class=\"no-alt-img\"></p><p data-vmark=\"4305\">而在 Skyline 2 方面，此前消息称该机正面配备一块 6.55 英寸 FHD+ 144Hz OLED 面板（峰值亮度 1200 尼特），匹配 50MP 自拍摄像头；背面采用 108MP 主摄 + 50MP 长焦 + 50MP 超广角设计。搭载高通骁龙 7s Gen 4 处理器，匹配 8/12GB RAM 及 256GB 存储空间，内置搭载 5000mAh 电池，支持 40W 有线充电及 15W（Qi2）无线充电。同时具备了 IP54 认证、双扬声器。</p><p style=\"text-align: center;\" data-vmark=\"ad83\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/12466fce-21b3-431e-8171-a3e25210b8fb.png?x-bce-process=image/format,f_auto\" w=\"976\" h=\"910\" data-weibo=\"2\" data-vmark=\"e1a5\" class=\"no-alt-img\"></p>",
-      "url": "https://www.ithome.com/1/009/693.htm",
-      "link": "https://www.ithome.com/1/009/693.htm",
-      "pubDate": "Sun, 04 Oct 2026 10:12:03 GMT",
-      "isoDate": "2026-10-04T10:12:03.000Z",
+      "title": "HMD Slate Tab 5G 平板完整规格曝光：10.6 英寸 2K 90Hz 面板、骁龙 7s Gen 2 + 8G + 128G",
+      "description": "IT之家 10 月 5 日消息，外媒 nokianews 现已曝光了 HMD Slate Tab 5G 平板电脑完整规格信息。\n\n该机使用 Fabula 设计，灵感来自于诺基亚 Lumia 2520 平板。正面配备一块 10.6 英寸 2000x1200 分辨率 90Hz IPS LCD 面板，外覆大猩猩玻璃 3，匹配 8Mp 自拍摄像头和 13Mp 后置摄像头。\n该机搭载高通骁龙 7s Gen 2 处理器，匹配 8GB RAM 和 128GB UFS 2.2 存储空间，内置 9250mAh 电池（支持 30W 有线充电）。同时该机支持 5G 网络通信、蓝牙 5.2、Wi-Fi 6E、NFC 等特性，并提供了 POGO 扩展触点和 3.5mm 耳机孔。",
+      "content": "<p data-vmark=\"ecc5\">IT之家 10 月 5 日消息，外媒 nokianews 现已曝光了 HMD Slate Tab 5G 平板电脑完整规格信息。</p><p style=\"text-align: center;\" data-vmark=\"a45a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f099341b-2ab9-454c-b98c-4436787135ff.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"802\" data-weibo=\"0\" data-vmark=\"f16c\" class=\"no-alt-img\"></p><p data-vmark=\"2563\">该机使用 Fabula 设计，灵感来自于诺基亚 Lumia 2520 平板。正面配备一块 10.6 英寸 2000x1200 分辨率 90Hz IPS LCD 面板，外覆大猩猩玻璃 3，匹配 8Mp 自拍摄像头和 13Mp 后置摄像头。</p><p data-vmark=\"3dbe\">该机搭载高通骁龙 7s Gen 2 处理器，匹配 8GB RAM 和 128GB UFS 2.2 存储空间，内置 9250mAh 电池（支持 30W 有线充电）。同时该机支持 5G 网络通信、蓝牙 5.2、Wi-Fi 6E、NFC 等特性，并提供了 POGO 扩展触点和 3.5mm 耳机孔。</p>",
+      "url": "https://www.ithome.com/1/009/816.htm",
+      "link": "https://www.ithome.com/1/009/816.htm",
+      "pubDate": "Mon, 05 Oct 2026 06:47:16 GMT",
+      "isoDate": "2026-10-05T06:47:16.000Z",
       "author": "",
       "sourceId": "ithome",
       "sourceName": "IT之家",
@@ -70,11 +20,52 @@
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
-      "tagScore": 6,
+      "tagScore": 7,
+      "crossTags": []
+    },
+    {
+      "title": "iQOO 16 手机首销情况曝光：同期约为 iQOO 15 的 50%、iQOO 13 的 100%",
+      "description": "IT之家 10 月 5 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料了 iQOO 16 手机的首销情况（Sell out）。\n\n以首销当天（20:30 开售）+ 后三天为标准\niQOO 16 同期约为 iQOO 15 的 50%、iQOO 13 的 100%\n\n\n\n▲ IT之家开箱：iQOO 16「赛道」配色图赏\n据IT之家此前报道，iQOO 16 手机于 9 月 29 日发布，搭载第六代骁龙 8 超级至尊版、2K 三星珠峰屏，零售价 5999 元起。\n新品首销期间，全国国补 / 地补限时上线，全版本补贴立减 500 元，到手价 5499 元起：\n\n12GB+256GB 版零售价 5999 元，国补到手价 5499 元\n\n12GB+512GB 版零售价 6799 元，全国地补到手价 6299 元\n\n16GB+512GB 版零售价 7499 元，全国地补到手价 6999 元\n\n16GB+1TB 版零售价 8499 元，全国地补到手价 7999 元",
+      "content": "<p data-vmark=\"3b5f\">IT之家 10 月 5 日消息，长期关注国内手机市场份额的数码博主<span class=\"no-auto-spacing \"> @RD观测 </span>今日爆料了 <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/30/25fefbf0-6085-4e28-af0e-f7b3ff6611bd.png?x-bce-process=image/format,f_auto\" data-topic-id=\"68330\">iQOO 16</span> 手机的首销情况（Sell out）。</p><blockquote><p data-vmark=\"5bdd\">以首销当天（20:30 开售）+ 后三天为标准</p><p data-vmark=\"ec5e\"><strong>iQOO 16 同期约为 iQOO 15 的 50%、iQOO 13 的 100%</strong></p></blockquote><p style=\"text-align: center;\" data-vmark=\"3057\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f32f73cc-dd20-4440-92d1-674a318b7c2f.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1160\" data-vmark=\"972f\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d10c7200aa041a40f4068046382e6e00ce6218ba705e5a06df5366c67626c1e3517a5ef34abbe64a2b\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"57bc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/a490db25-d4d3-43a0-9c45-8c71acd20c38.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"960\" data-weibo=\"1\" data-vmark=\"e928\" class=\"no-alt-img\"></p><figcaption>▲ IT之家开箱：iQOO 16「赛道」配色图赏</figcaption><p data-vmark=\"e0aa\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/1/008/471.htm\">iQOO 16 手机于 9 月 29 日发布</a>，搭载第六代骁龙 8 超级至尊版、2K 三星珠峰屏，零售价 5999 元起。</p><p data-vmark=\"4c85\">新品首销期间，全国国补 / 地补限时上线，全版本补贴立减 500 元，到手价 5499 元起：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"1e12\">12GB+256GB 版零售价 5999 元，国补到手价 5499 元</p></li><li><p data-vmark=\"be51\">12GB+512GB 版零售价 6799 元，全国地补到手价 6299 元</p></li><li><p data-vmark=\"43c9\">16GB+512GB 版零售价 7499 元，全国地补到手价 6999 元</p></li><li><p data-vmark=\"c4d6\">16GB+1TB 版零售价 8499 元，全国地补到手价 7999 元</p></li></ul><p style=\"text-align: center;\" data-vmark=\"5109\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/36ac875f-0637-41a5-a25e-d66e251ee911.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2608\" data-weibo=\"2\"  data-vmark=\"c711\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/1/009/774.htm",
+      "link": "https://www.ithome.com/1/009/774.htm",
+      "pubDate": "Mon, 05 Oct 2026 02:32:01 GMT",
+      "isoDate": "2026-10-05T02:32:01.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 7,
       "crossTags": [
         {
           "type": "stakeholder",
-          "id": "platform-partner"
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "vivo Y600k Turbo 手机开售：第四代骁龙 7s，12GB+256GB 售价 2799 元",
+      "description": "IT之家 10 月 5 日消息，vivo Y600k Turbo 手机现已在官网开售，搭载第四代骁龙 7s，有电光蓝、千禧粉、沙丘金三种颜色可选，12GB+256GB 售价 2799 元。\n\nvivo Y600k Turbo 手机搭载第四代骁龙 7s 移动平台，12GB LPDDR4X 双通道内存，256GB UFS3.1 存储；电池容量 9020mAh（商品页显示为 9000mAh），支持 90W 闪充。\n\n这款手机搭载了一块 6.83 英寸 OLED 屏幕，分辨率 2800×1260，支持 120Hz 刷新率，局部峰值亮度 5000 尼特；机身重 215g，厚 8.29mm；前置摄像头 800 万像素，后置双摄分别为 5000 万像素（主摄） + 200 万像素（虚化）。\n\nIT之家获悉，这款手机支持屏下光学指纹、红外遥控、全功能 NFC、IP68 + IP69 防尘防水；搭载金刚盾玻璃，通过八项军标环境测试。",
+      "content": "<p data-vmark=\"1890\">IT之家 10 月 5 日消息，vivo Y600k Turbo 手机现已在官网开售，搭载第四代骁龙 7s，有电光蓝、千禧粉、沙丘金三种颜色可选，<strong>12GB+256GB 售价 2799 元</strong>。</p><p style=\"text-align: center;\" data-vmark=\"9c17\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2411fc9f-4f59-474d-b724-5dd341a432cd.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1240\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d149c0198d4b973805bce1d990fc5736be32e4e71dd9ed874c9e7a7c4154cfa470057dc5ff74571f98\" data-vmark=\"c8ff\" class=\"no-alt-img\"></p><p data-vmark=\"343e\">vivo Y600k Turbo 手机搭载第四代骁龙 7s 移动平台，12GB LPDDR4X 双通道内存，256GB UFS3.1 存储；电池容量 9020mAh（商品页显示为 9000mAh），支持 90W 闪充。</p><p style=\"text-align: center;\" data-vmark=\"bbdc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d68f364b-3cce-494d-8709-d43e5e70cb0e.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"854\" data-weibo=\"1\" data-vmark=\"9059\" class=\"no-alt-img\"></p><p data-vmark=\"0d07\">这款手机搭载了一块 6.83 英寸 OLED 屏幕，分辨率 2800×1260，支持 120Hz 刷新率，局部峰值亮度 5000 尼特；机身重 215g，厚 8.29mm；前置摄像头 800 万像素，后置双摄分别为 5000 万像素（主摄） + 200 万像素（虚化）。</p><p style=\"text-align: center;\" data-vmark=\"f603\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8f4d685a-d4a8-48c1-9cca-34a674eeca28.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1245\" data-weibo=\"2\"  data-vmark=\"d94d\" class=\"no-alt-img\"></p><p data-vmark=\"2e4c\">IT之家获悉，这款手机支持屏下光学指纹、红外遥控、全功能 NFC、IP68 + IP69 防尘防水；搭载金刚盾玻璃，通过八项军标环境测试。</p><p style=\"text-align: center;\" data-vmark=\"d6c7\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/34b70d40-21e9-4c12-8526-6b932f71d16b.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1078\" data-weibo=\"3\" data-vmark=\"64fb\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/1/009/766.htm",
+      "link": "https://www.ithome.com/1/009/766.htm",
+      "pubDate": "Mon, 05 Oct 2026 02:05:24 GMT",
+      "isoDate": "2026-10-05T02:05:24.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 13,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
         }
       ]
     }
