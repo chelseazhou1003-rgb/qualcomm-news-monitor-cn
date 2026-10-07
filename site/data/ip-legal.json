@@ -1,32 +1,8 @@
 {
-  "date": "2026-10-07",
-  "generatedAt": "2026-10-07T17:20:01.752Z",
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T06:01:36.008Z",
   "section": "ip-legal",
   "sectionTitle": "知识产权与法律",
-  "count": 1,
-  "articles": [
-    {
-      "title": "AI进化速递丨华为与高通宣布达成广泛专利许可协议",
-      "description": "华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域……\n①华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域；\n②鸿海：预计第四季度与人工智能相关的业务将继续增长；\n③德国电信：预计到2030年，AI和自动化将节省约25亿欧元间接成本。",
-      "content": "<figure><img src=\"https://imgcdn.yicai.com/uppics/slides/2026/10/5efb780525052098534e92734c6f9ad3.jpg\" alt=\"AI进化速递丨华为与高通宣布达成广泛专利许可协议\" referrerpolicy=\"no-referrer\"></figure><p>华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域……</p><p>①华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域；</p>\n\n<p>②鸿海：预计第四季度与人工智能相关的业务将继续增长；</p>\n\n<p>③德国电信：预计到2030年，AI和自动化将节省约25亿欧元间接成本。</p>\n",
-      "url": "https://www.yicai.com/news/103384546.html",
-      "link": "https://www.yicai.com/news/103384546.html",
-      "pubDate": "Mon, 05 Oct 2026 13:00:07 GMT",
-      "isoDate": "2026-10-05T13:00:07.000Z",
-      "author": "江雪",
-      "sourceId": "yicai",
-      "sourceName": "第一财经",
-      "sourceGroup": "finance",
-      "fetchStrategy": "rsshub",
-      "section": "ip-legal",
-      "subCategory": "ip",
-      "tagScore": 12,
-      "crossTags": [
-        {
-          "type": "competitor",
-          "id": "huawei"
-        }
-      ]
-    }
-  ]
+  "count": 0,
+  "articles": []
 }
