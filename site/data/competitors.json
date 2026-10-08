@@ -1,8 +1,100 @@
 {
   "date": "2026-10-08",
-  "generatedAt": "2026-10-08T06:17:38.147Z",
+  "generatedAt": "2026-10-08T10:18:01.101Z",
   "section": "competitors",
   "sectionTitle": "竞争对手",
-  "count": 0,
-  "articles": []
+  "count": 3,
+  "articles": [
+    {
+      "title": "今日开盘：小幅低开 沪指跌幅0.08%",
+      "description": "沪指开盘报3838.98点，跌幅 0.08%；深成指报12896.45点，涨幅 0.07%\n\n财新网10月08日电:沪指开盘报3838.98点，跌幅0.08%。\n深成指报12896.45点，涨幅0.07%；创业板指报3140.46点，涨幅0.17%；中小板指报7936.27点，跌幅0.16%。\n盘面上，综合领涨，基础化工、国防军工、交通运输、医药生物、建筑材料等板块涨幅居前，房地产领跌，有色金属、食品饮料、煤炭、非银金融、传媒等走弱。\n消息面上，普京说中美俄领导人可能在APEC峰会期间举行三方会晤，中方表示，欢迎普京总统出席APEC领导人非正式会议；假期海外市场整体偏暖，节后A股怎么走；央行开展12000亿买断式逆回购；国庆超21.4亿人次出行，以旧换新带动消费超330亿；10日起国内航线燃油附加费小幅上调；央行连续23个月增持黄金，单月增持规模达本轮最高；华为与高通宣布达成广泛专利许可协议；苹果将联手LG推出门铃、门锁、恒温器。",
+      "content": "<blockquote><p>沪指开盘报3838.98点，跌幅 0.08%；深成指报12896.45点，涨幅 0.07%</p></blockquote><br>\n       <p>财新网10月08日电:沪指开盘报3838.98点，跌幅0.08%。</p>\n<p>深成指报12896.45点，涨幅0.07%；创业板指报3140.46点，涨幅0.17%；中小板指报7936.27点，跌幅0.16%。</p>\n<p>盘面上，综合领涨，基础化工、国防军工、交通运输、医药生物、建筑材料等板块涨幅居前，房地产领跌，有色金属、食品饮料、煤炭、非银金融、传媒等走弱。</p>\n<p>消息面上，普京说中美俄领导人可能在APEC峰会期间举行三方会晤，中方表示，欢迎普京总统出席APEC领导人非正式会议；假期海外市场整体偏暖，节后<a href=\"https://stock.caixin.com/m/market?originReferrer=pcarticle\" target=\"_blank\">A股</a>怎么走；央行开展12000亿买断式逆回购；国庆超21.4亿人次出行，以旧换新带动消费超330亿；10日起国内航线燃油附加费小幅上调；央行连续23个月增持黄金，单月增持规模达本轮最高；<a href=\"https://s.ccxe.com.cn/entities/companies/200081369?originReferrer=pcarticle\" target=\"_blank\">华为</a>与高通宣布达成广泛专利许可协议；苹果将联手LG推出门铃、门锁、恒温器。</p>\n      ",
+      "url": "https://finance.caixin.com/2026-10-08/102491054.html",
+      "link": "https://finance.caixin.com/2026-10-08/102491054.html",
+      "pubDate": "Thu, 08 Oct 2026 01:29:53 GMT",
+      "isoDate": "2026-10-08T01:29:53.000Z",
+      "author": "",
+      "sourceId": "caixin",
+      "sourceName": "财新网",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "tagScore": 4,
+      "crossTags": [
+        {
+          "type": "competitor",
+          "id": "apple"
+        },
+        {
+          "type": "competitor",
+          "id": "huawei"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "apple"
+    },
+    {
+      "title": "今日开盘：小幅低开 沪指跌幅0.08%",
+      "description": "沪指开盘报3838.98点，跌幅 0.08%；深成指报12896.45点，涨幅 0.07%\n\n财新网10月08日电:沪指开盘报3838.98点，跌幅0.08%。\n深成指报12896.45点，涨幅0.07%；创业板指报3140.46点，涨幅0.17%；中小板指报7936.27点，跌幅0.16%。\n盘面上，综合领涨，基础化工、国防军工、交通运输、医药生物、建筑材料等板块涨幅居前，房地产领跌，有色金属、食品饮料、煤炭、非银金融、传媒等走弱。\n消息面上，普京说中美俄领导人可能在APEC峰会期间举行三方会晤，中方表示，欢迎普京总统出席APEC领导人非正式会议；假期海外市场整体偏暖，节后A股怎么走；央行开展12000亿买断式逆回购；国庆超21.4亿人次出行，以旧换新带动消费超330亿；10日起国内航线燃油附加费小幅上调；央行连续23个月增持黄金，单月增持规模达本轮最高；华为与高通宣布达成广泛专利许可协议；苹果将联手LG推出门铃、门锁、恒温器。",
+      "content": "<blockquote><p>沪指开盘报3838.98点，跌幅 0.08%；深成指报12896.45点，涨幅 0.07%</p></blockquote><br>\n       <p>财新网10月08日电:沪指开盘报3838.98点，跌幅0.08%。</p>\n<p>深成指报12896.45点，涨幅0.07%；创业板指报3140.46点，涨幅0.17%；中小板指报7936.27点，跌幅0.16%。</p>\n<p>盘面上，综合领涨，基础化工、国防军工、交通运输、医药生物、建筑材料等板块涨幅居前，房地产领跌，有色金属、食品饮料、煤炭、非银金融、传媒等走弱。</p>\n<p>消息面上，普京说中美俄领导人可能在APEC峰会期间举行三方会晤，中方表示，欢迎普京总统出席APEC领导人非正式会议；假期海外市场整体偏暖，节后<a href=\"https://stock.caixin.com/m/market?originReferrer=pcarticle\" target=\"_blank\">A股</a>怎么走；央行开展12000亿买断式逆回购；国庆超21.4亿人次出行，以旧换新带动消费超330亿；10日起国内航线燃油附加费小幅上调；央行连续23个月增持黄金，单月增持规模达本轮最高；<a href=\"https://s.ccxe.com.cn/entities/companies/200081369?originReferrer=pcarticle\" target=\"_blank\">华为</a>与高通宣布达成广泛专利许可协议；苹果将联手LG推出门铃、门锁、恒温器。</p>\n      ",
+      "url": "https://finance.caixin.com/2026-10-08/102491054.html",
+      "link": "https://finance.caixin.com/2026-10-08/102491054.html",
+      "pubDate": "Thu, 08 Oct 2026 01:29:53 GMT",
+      "isoDate": "2026-10-08T01:29:53.000Z",
+      "author": "",
+      "sourceId": "caixin",
+      "sourceName": "财新网",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "tagScore": 4,
+      "crossTags": [
+        {
+          "type": "competitor",
+          "id": "apple"
+        },
+        {
+          "type": "competitor",
+          "id": "huawei"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "huawei"
+    },
+    {
+      "title": "T早报｜特朗普宣布成立超级智能工作组；科技富豪年内财富增量超8450亿美元创新高；华尔街启动600亿美元AI芯片融资交易",
+      "description": "推荐：华为与高通达成专利许可合作；谷歌Gemini调整订阅方案权限；华为发布Mate 90系列采用麒麟芯片\n\n\n     当地时间10月4日，美国总统特朗普宣布正式成立“Super Intelligent Force”（SIF）超级智能工作组。图：视觉中国\n    \n   \n　　【财新网】\n　　特朗普宣布成立超级智能工作组\n　　当地时间10月4日，美国总统特朗普宣布正式成立“Super Intelligent Force”（SIF）超级智能工作组，负责在超级智能领域协调联邦政府与消费者、公共利益组织、宗教组织、关键基础设施提供商以及超级智能企业的沟通与合作，以确保美国继续保持全球领先。特朗普宣布，该工作组由国家情报总监杰伊·克莱顿（Jay Clayton）、联邦贸易委员会主席安德鲁·弗格森（Andrew Ferguson）、负责研究与工程事务的国防部副部长埃米尔·迈克尔（Emil Michael）以及人事管理局局长斯科特·库珀（Scott Kupor）共同领导。",
+      "content": "<blockquote><p>推荐：华为与高通达成专利许可合作；谷歌Gemini调整订阅方案权限；华为发布Mate 90系列采用麒麟芯片</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-10-08/179142078248651_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-10-08/179142078248651_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>当地时间10月4日，美国总统特朗普宣布正式成立“Super Intelligent Force”（SIF）超级智能工作组。图：视觉中国</dd>\n    </dl>\n   <br>\n       <p>　　<b>【财新网】</b></p>\n<p>　<b>　特朗普宣布成立超级智能工作组</b></p>\n<p>　　当地时间10月4日，美国总统特朗普宣布正式成立“Super Intelligent Force”（SIF）超级智能工作组，负责在超级智能领域协调联邦政府与消费者、公共利益组织、宗教组织、关键基础设施提供商以及超级智能企业的沟通与合作，以确保美国继续保持全球领先。特朗普宣布，该工作组由国家情报总监杰伊·克莱顿（Jay Clayton）、联邦贸易委员会主席安德鲁·弗格森（Andrew Ferguson）、负责研究与工程事务的国防部副部长埃米尔·迈克尔（Emil Michael）以及人事管理局局长斯科特·库珀（Scott Kupor）共同领导。</p>\n      ",
+      "url": "https://www.caixin.com/2026-10-08/102491032.html",
+      "link": "https://www.caixin.com/2026-10-08/102491032.html",
+      "pubDate": "Thu, 08 Oct 2026 00:40:06 GMT",
+      "isoDate": "2026-10-08T00:40:06.000Z",
+      "author": "",
+      "sourceId": "caixin",
+      "sourceName": "财新网",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "tagScore": 4,
+      "crossTags": [
+        {
+          "type": "competitor",
+          "id": "huawei"
+        },
+        {
+          "type": "stakeholder",
+          "id": "regulators"
+        },
+        {
+          "type": "stakeholder",
+          "id": "platform-partner"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "huawei"
+    }
+  ]
 }
