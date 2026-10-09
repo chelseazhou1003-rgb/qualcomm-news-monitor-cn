@@ -1,9 +1,7 @@
 {
   "date": "2026-10-10",
   "generatedAt": "2026-10-10T00:38:06.251Z",
-  "section": "stakeholders",
-  "sectionTitle": "关键利益相关方",
-  "count": 2,
+  "count": 4,
   "articles": [
     {
       "title": "小米 18 Fold 中折叠手机登顶安兔兔 9 月 Android 旗舰性能榜，搭玄戒 O3 芯片平均跑分超 462 万",
@@ -26,9 +24,43 @@
           "type": "stakeholder",
           "id": "oem"
         }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
+      ]
+    },
+    {
+      "title": "ANBERNIC 预览双屏掌机 RG DDS：高通骁龙 G2 Gen 2，内置伸缩式触控笔",
+      "description": "IT之家 10 月 9 日消息，ANBERNIC（安伯尼克）今日预览了双屏掌机新品 RG DDS。这一型号基于高通骁龙 G2 Gen 2 移动平台，配备 2 块 IPS LCD 显示面板。\n\nRG DDS 上屏为 4.7\" 1200×720 500nits、下屏为 4\" 960×720 500nits，像素密度均为 300PPI。\n其机身内部包含主动散热、Z 轴线性马达、6000mAh 电池；外部配备金属无极转轴，覆盖 UV 涂层；下部左侧收纳伸缩式触控笔，右侧提供实体 AI 按键；上部集成一对扬声器。",
+      "content": "<p data-vmark=\"3e78\">IT之家 10 月 9 日消息，ANBERNIC（安伯尼克）今日预览了双屏掌机新品 RG DDS。这一型号<strong>基于高通骁龙 G2 Gen 2 移动平台</strong>，配备 2 块 IPS LCD 显示面板。</p><p style=\"text-align: center;\" data-vmark=\"aa6e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/22a13471-732a-4a13-864c-868a271e2e13.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"240b\" class=\"no-alt-img\"></p><p data-vmark=\"6713\">RG DDS <strong>上屏为 4.7\" 1200×720 500nits、下屏为 4\" 960×720 500nits</strong>，像素密度均为 300PPI。</p><p data-vmark=\"fb67\">其机身内部包含主动散热、Z 轴线性马达、<strong>6000mAh 电池</strong>；外部配备金属无极转轴，覆盖 UV 涂层；下部左侧<strong>收纳伸缩式触控笔</strong>，右侧提供实体 AI 按键；上部集成一对扬声器。</p>",
+      "url": "https://www.ithome.com/1/011/093.htm",
+      "link": "https://www.ithome.com/1/011/093.htm",
+      "pubDate": "Fri, 09 Oct 2026 10:55:27 GMT",
+      "isoDate": "2026-10-09T10:55:27.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 4,
+      "crossTags": []
+    },
+    {
+      "title": "iQOO Neo12 手机官宣“本月见”：内置风扇设计，号称拥有 Ultra 级性能统治力",
+      "description": "IT之家 10 月 9 日消息，iQOO Neo 系列产品经理罗佳慧今日发布视频，宣布 Neo12 新机“本月见”。\n\n她透露，新机拥有 Ultra 级性能统治力，会搭载新一代冰穹主动散热风扇 + 全新冰穹风道，同时拥有“旗舰双芯”。\n值得一提的是，这款新机还将配备 iQOO 史上最高刷新率的屏幕，主打超高清 + 超高刷特性。\n参考IT之家今日早些时候报道，博主 @数码闲聊站 爆料称，iQOO Neo12 手机确认 10 月登场，安排了 9 月新旗舰都没有的 2K+185Hz 定制新屏 + 主动散热风扇 + 骁龙 8E5 处理器 + 自研电竞芯片 Q3。\n该博主表示，iQOO Neo12 的屏幕是行业独占且首发维信诺基于第四代发光技术 pTSF 打造的全新发光材料，满血双芯 + 风扇，整体规格不是简单的性能越级，有点 Ultra 的意思，与 16 更像是各有侧重的双旗舰定位。\n\n作为参考，iQOO Neo11 手机于去年 10 月发布，搭载 BOE Q10+ 发光基材 6.82 英寸 2K 144Hz 高刷屏以及骁龙 8 至尊版处理器，提供「面对疾风」、「像素方橙」等配色，支持 3200Hz 瞬时触控采样率，定价 2599 元（IT之家注：12+256GB）起。",
+      "content": "<p data-vmark=\"61c0\">IT之家 10 月 9 日消息，iQOO Neo 系列产品经理罗佳慧今日发布视频，<strong>宣布 Neo12 新机“本月见”</strong>。</p><p style=\"text-align: center;\" data-vmark=\"ef30\"><a href=\"https://weibo.com/5630197864/RlQp91rO2\" class=\"ithome_super_player\" target=\"_blank\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/be240d9d-2137-4350-a2c0-45041b8126f9.jpg\"></a></p><p data-vmark=\"ce19\">她透露，新机拥有 Ultra 级性能统治力，<strong>会搭载新一代冰穹主动散热风扇 + 全新冰穹风道</strong>，同时拥有“旗舰双芯”。</p><p data-vmark=\"9598\">值得一提的是，<strong>这款新机还将配备 iQOO 史上最高刷新率的屏幕</strong>，主打超高清 + 超高刷特性。</p><p data-vmark=\"23a7\">参考IT之家今日早些时候报道，博主 @数码闲聊站 爆料称，<a href=\"https://www.ithome.com/1/010/798.htm\" target=\"_blank\">iQOO Neo12 手机确认 10 月登场</a>，安排了 9 月新旗舰都没有的 2K+185Hz 定制新屏 + 主动散热风扇 + 骁龙 8E5 处理器 + 自研电竞芯片 Q3。</p><p data-vmark=\"378e\">该博主表示，iQOO Neo12 的屏幕是行业独占且首发维信诺基于第四代发光技术 pTSF 打造的全新发光材料，满血双芯 + 风扇，整体规格不是简单的性能越级，有点 Ultra 的意思，与 16 更像是各有侧重的双旗舰定位。</p><p style=\"text-align: center;\" data-vmark=\"855e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8e185c83-87ae-4bcc-9cee-a4448d14c0ca.jpg?x-bce-process=image/format,f_auto\" w=\"839\" h=\"1102\" data-vmark=\"f5a1\" data-weibo=\"0\"  class=\"no-alt-img\"></p><p data-vmark=\"1980\">作为参考，<a target=\"_blank\" href=\"https://www.ithome.com/0/893/627.htm\">iQOO Neo11 手机于去年 10 月</a><a target=\"_blank\" href=\"https://www.ithome.com/0/893/627.htm\">发布</a>，搭载 BOE Q10+ 发光基材 6.82 英寸 2K 144Hz 高刷屏以及骁龙 8 至尊版处理器，提供「面对疾风」、「像素方橙」等配色，支持 3200Hz 瞬时触控采样率，定价 2599 元（IT之家注：12+256GB）起。</p><p style=\"text-align: center;\" data-vmark=\"ab10\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e5350157-2eb8-4033-97c7-489b0d2c7b30.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1920\" data-vmark=\"f89c\" data-mpos=\"0,0\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/1/011/069.htm",
+      "link": "https://www.ithome.com/1/011/069.htm",
+      "pubDate": "Fri, 09 Oct 2026 09:19:33 GMT",
+      "isoDate": "2026-10-09T09:19:33.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 13,
+      "crossTags": []
     },
     {
       "title": "苹果、三星相继传出减产，存储涨价压力逼近临界点？",
@@ -51,9 +83,7 @@
           "type": "stakeholder",
           "id": "oem"
         }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
+      ]
     }
   ]
 }
