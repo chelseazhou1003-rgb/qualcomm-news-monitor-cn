@@ -1,12 +1,12 @@
 {
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T06:01:26.705Z",
-  "totalArticles": 6,
+  "generatedAt": "2026-10-11T06:58:34.195Z",
+  "totalArticles": 5,
   "sections": [
     {
       "id": "core-businesses",
       "title": "核心业务",
-      "count": 4
+      "count": 3
     },
     {
       "id": "ip-legal",
@@ -31,7 +31,7 @@
     {
       "id": "stakeholders",
       "title": "关键利益相关方",
-      "count": 2
+      "count": 1
     }
   ]
 }
