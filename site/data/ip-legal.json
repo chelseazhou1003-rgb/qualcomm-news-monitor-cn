@@ -1,32 +1,8 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T15:46:16.035Z",
+  "generatedAt": "2026-10-10T22:47:21.234Z",
   "section": "ip-legal",
   "sectionTitle": "知识产权与法律",
-  "count": 1,
-  "articles": [
-    {
-      "title": "高通诉 Arm 案 5 天审议暂未裁决，陪审团下周二续议",
-      "description": "IT之家 10 月 10 日消息，路透社昨日（10 月 9 日）发布博文，报道称在为期 5 天的案件审理后，美国特拉华州联邦法院的陪审团昨日未能就高通诉 Arm 一案达成裁决，表示将于下周二恢复审议。\nIT之家曾于 10 月 6 日发布博文，报道称当地时间星期一（10 月 5 日），芯片制造商高通与芯片技术公司 Arm 再次对簿公堂，在美国特拉华州联邦法院展开为期五天的陪审团审判。\n\n不过陪审团在星期五讨论了约 4 个小时后，未能达成一致意见，表示将于下周二恢复审议。\n路透社报道称争议焦点包括 Arm 是否违反许可协议，以及是否故意干预高通与 Meta 的部分交易。高通指称，Arm 扣留了其芯片设计所需的软件补丁和工具，违反双方许可协议。高通还称，Arm 违反一项价格条款，该条款旨在确保高通为 Arm 处理器设计支付的价格，不高于最低价格的 110%。\n高通还要求陪审团认定，Arm 曾向彭博社泄露一封 2024 年信函。该信函告知高通涉嫌违反关键许可协议。高通认为，泄露行为意在破坏其与 Meta 的交易；这一主张仍待陪审团判断。\nArm 否认高通因诉讼所涉指控遭受损害。Arm 律师称，高通提起诉讼是为了在双方争论许可条款时增加谈判筹码。\n这场审判是两家公司近 2 年来的第 2 次。2024 年的审判中，Arm 未能说服陪审团认定高通违反许可协议。两案均有 Arm 首席执行官 Rene Haas 和高通首席执行官 Cristiano Amon 作证，并由美国地区法官 Maryellen Noreika 主持。",
-      "content": "<p data-vmark=\"845e\">IT之家 10 月 10 日消息，路透社昨日（10 月 9 日）发布博文，报道称在为期 5 天的案件审理后，<strong>美国特拉华州联邦法院的陪审团昨日未能就高通诉 Arm 一案达成裁决，表示将于下周二恢复审议。</strong></p><p data-vmark=\"0e9c\">IT之家曾于 10 月 6 日发布博文，报道称当地时间星期一（10 月 5 日），<a href=\"https://www.ithome.com/1/010/016.htm\" target=\"_blank\">芯片制造商高通与芯片技术公司 Arm 再次对簿公堂，在美国特拉华州联邦法院展开为期五天的陪审团审判</a>。</p><p style=\"text-align: center;\" data-vmark=\"8e29\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e96c676e-269b-41fb-a032-04f807597bc1.png?x-bce-process=image/format,f_auto\" w=\"1123\" h=\"1441\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FReutersLegal%2Fstatus%2F2108599658767425889%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FReutersLegal%2Fstatus%2F2108599658767425889%22%2C%22qualityValue%22%3A%22png256%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"6d6c\" class=\"no-alt-img\"></p><p data-vmark=\"5a46\">不过陪审团在星期五讨论了约 4 个小时后，未能达成一致意见，表示将于下周二恢复审议。</p><p data-vmark=\"f9a2\">路透社报道称争议焦点包括 Arm 是否违反许可协议，以及是否故意干预高通与 Meta 的部分交易。高通指称，Arm 扣留了其芯片设计所需的软件补丁和工具，违反双方许可协议。高通还称，Arm 违反一项价格条款，该条款旨在确保高通为 Arm 处理器设计支付的价格，不高于最低价格的 110%。</p><p data-vmark=\"98c5\">高通还要求陪审团认定，Arm 曾向彭博社泄露一封 2024 年信函。该信函告知高通涉嫌违反关键许可协议。高通认为，泄露行为意在破坏其与 Meta 的交易；这一主张仍待陪审团判断。</p><p data-vmark=\"8ac0\">Arm 否认高通因诉讼所涉指控遭受损害。Arm 律师称，高通提起诉讼是为了在双方争论许可条款时增加谈判筹码。</p><p data-vmark=\"c7fd\">这场审判是两家公司近 2 年来的第 2 次。2024 年的审判中，Arm 未能说服陪审团认定高通违反许可协议。两案均有 Arm 首席执行官 Rene Haas 和高通首席执行官 Cristiano Amon 作证，并由美国地区法官 Maryellen Noreika 主持。</p>",
-      "url": "https://www.ithome.com/1/011/383.htm",
-      "link": "https://www.ithome.com/1/011/383.htm",
-      "pubDate": "Sat, 10 Oct 2026 07:14:19 GMT",
-      "isoDate": "2026-10-10T07:14:19.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "patent-litigation",
-      "tagScore": 31,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "platform-partner"
-        }
-      ]
-    }
-  ]
+  "count": 0,
+  "articles": []
 }
