@@ -1,10 +1,28 @@
 {
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T06:58:34.195Z",
+  "generatedAt": "2026-10-11T10:13:45.055Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 3,
+  "count": 4,
   "articles": [
+    {
+      "title": "高通工程师质疑 Linux 系统 LTS 发行版是否过时：AI 时代也许更适合快速滚动更新补丁",
+      "description": "IT之家 10 月 11 日消息，据 phoronix 昨日（10 月 10 日）报道，Linux Plumbers Conference 大会于本周在捷克布拉格举行，高通工程师 Khem Raj 在大会上质疑 Linux Long Term Support（LTS）发行版在生成式 AI 时代的适配性，尤其是在不断有大量补丁提交和错误报告的情况下。\n\nKhem Raj 论证了 AI 时代滚动更新发行版的好处，表示随着 AI 编程智能体不断加快对 Linux 内核及相关开源项目的补丁提交速度，给开源维护者带来了巨大负担，也给发行版厂商带来了很大负担。\n\nIT之家从 PPT 获悉，Raj 认为滚动更新的好处在于减少对所有补丁回溯的需求、保持与上游较小的分歧、进行更快的安全修复等等。\n不过他也提到，滚动更新模式在认证、资格审查等方面存在挑战。\n\n\nRaj 表示，需要重新思考 LTS 版本的实用性，看看滚动更新模式是否对发行版更有效，尤其是嵌入式 Linux 发行版，以及社区较小的维护版本。Raj 还表示，也可以尝试利用生成式 AI 工具来辅助维护 LTS 版本发布。",
+      "content": "<p data-vmark=\"c60d\">IT之家 10 月 11 日消息，据 phoronix 昨日（10 月 10 日）报道，Linux Plumbers Conference 大会于本周在捷克布拉格举行，<strong>高通工程师 Khem Raj 在大会上质疑 Linux Long Term Support（LTS）发行版在生成式 AI 时代的适配性</strong>，尤其是在不断有大量补丁提交和错误报告的情况下。</p><p style=\"text-align: center;\" data-vmark=\"e11f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/dc16399a-ae7d-4647-88d5-00f840223176.png?x-bce-process=image/format,f_auto\" w=\"919\" h=\"263\" data-weibo=\"0\" data-vmark=\"9e20\" class=\"no-alt-img\"></p><p data-vmark=\"9e1c\">Khem Raj 论证了 AI 时代滚动更新发行版的好处，表示随着 AI 编程智能体不断加快对 Linux 内核及相关开源项目的补丁提交速度，给开源维护者带来了巨大负担，也给发行版厂商带来了很大负担。</p><p style=\"text-align: center;\" data-vmark=\"8a68\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8a5b0cb5-78bb-4417-84c4-89b66df10cff.png?x-bce-process=image/format,f_auto\" w=\"1185\" h=\"661\" data-weibo=\"1\" data-vmark=\"045a\" class=\"no-alt-img\"></p><p data-vmark=\"e55a\">IT之家从 PPT 获悉，Raj 认为滚动更新的好处在于减少对所有补丁回溯的需求、保持与上游较小的分歧、进行更快的安全修复等等。</p><p data-vmark=\"2f4a\">不过他也提到，滚动更新模式在认证、资格审查等方面存在挑战。</p><p style=\"text-align: center;\" data-vmark=\"4c42\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/bfc80b72-4bd2-4bbe-b285-643b12d0ac6d.png?x-bce-process=image/format,f_auto\" w=\"1188\" h=\"662\" data-weibo=\"2\" data-vmark=\"07d3\" class=\"no-alt-img\"></p><p style=\"text-align: center;\" data-vmark=\"4fc1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1d64049d-cb37-4273-b0c8-5054056e80b0.png?x-bce-process=image/format,f_auto\" w=\"1180\" h=\"658\" data-weibo=\"3\" data-vmark=\"6d2f\" class=\"no-alt-img\"></p><p data-vmark=\"c331\">Raj 表示，需要重新思考 LTS 版本的实用性，看看滚动更新模式是否对发行版更有效，尤其是嵌入式 Linux 发行版，以及社区较小的维护版本。Raj 还表示，<strong>也可以尝试利用生成式 AI 工具来辅助维护 LTS 版本发布</strong>。</p>",
+      "url": "https://www.ithome.com/1/011/558.htm",
+      "link": "https://www.ithome.com/1/011/558.htm",
+      "pubDate": "Sun, 11 Oct 2026 01:34:50 GMT",
+      "isoDate": "2026-10-11T01:34:50.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "iot-xr",
+      "tagScore": 2,
+      "crossTags": []
+    },
     {
       "title": "2026 款理想 i6 六大升级公布：电动前备箱、96 千瓦时自研大电池等",
       "description": "IT之家 10 月 10 日消息，2026 款理想 i6 六大升级今日公布，全国 485 家门店将于 10 月 11 日同步开启静态体验。\nIT之家整理官方介绍如下：\n\n更好的灯：ADB 矩阵大灯，照得更亮。智能遮蔽，对向车辆不晃眼。弯道随动，照亮转角盲区。视野更广更远，夜路倍感安心。\n\n电动前备箱：开合省力，顺手好用。电动开合省力，超大容积能装。语音、敲击、远程等多种方式开启。前盖高度可调，高个矮个都顺手。\n\n更舒适的座椅：前排零重力、后排大躺椅。前排双零重力座椅，150° 超大躺角，1 米 85 身高，也能从容躺卧，腰背臀 18 点揉捏按摩，腿托四向可调。更有二排皇后座，140° 大躺角、舒适腿托齐备。\n\n更大的屏：前排全景屏、二排娱乐屏。一排旗舰同款 29 英寸 6K 全景屏，视野开阔，信息尽收眼底。二排 21 英寸 4K 娱乐屏，高清沉浸，享受越级影音。\n\n更强的“芯”：两颗强芯，满血智能体验。高通骁龙 8797 座舱芯片，语音、导航、影音交互丝滑流畅。自研马赫 M100 芯片，1280TOPS 超高算力，顶级“大脑”让辅助驾驶更安全高效。\n\n更长的续航：自研超充大电池，充超快续航长。96 千瓦时自研大电池，780 公里超长续航。支持 5C 极速超充，日常通勤少充几次，长途旅行轻松补能。\n\n\nIT之家注意到，10 月 11 日，全国 485 家门店将同步开启 2026 款理想 i6 的静态体验。10 月 28 日，2026 款理想 i6 将正式发布，并同步开启试驾。开启交付的时间预计为 11 月初。",
