@@ -1,27 +1,8 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T06:01:23.814Z",
+  "generatedAt": "2026-10-12T08:01:00.125Z",
   "section": "ip-legal",
   "sectionTitle": "知识产权与法律",
-  "count": 1,
-  "articles": [
-    {
-      "title": "跻身全球第一梯队：华为 × 华东师大联合研发时序预测基础模型，登顶国际权威时序测评双榜单",
-      "description": "IT之家 10 月 11 日消息，据华为云官方消息，近日，华为公司 (华为云行业大模型团队 + 2012 应用场景创新实验室 + 小巧灵突击队) 与华东师范大学联合团队研发的昇腾原生时序预训练模型取得重磅突破，成功登顶国际权威时序评测榜单 TIME-leaderboard 和 GIFT-Eval（Pretrained 类目）。\n\n▲ TIME 评测榜单\n\n▲ GIFT-Eval 榜单（Pretrained 类目）\n据介绍，时序基础模型作为人工智能赋能气象预测、能源调度、工业运维、金融分析等核心场景的关键技术底座，是当下 AI 基础研究与产业落地的核心赛道。研发团队基于华为昇腾生态，完成了模型的训练推理的深度优化，最终打造出高精度、高鲁棒性、高通用性、易工程化的通用时序基模型底座。\n华为云官方表示，在顶级模型扎堆的 TIME-leaderboard 和 GIFT-Eval 榜单中，七曜模型脱颖而出，成功登顶，标志着国内时序基础模型正式跻身全球第一梯队，完成从跟跑到赶超的跨越式突破。\n\nIT之家从华为云官方获悉，模型既可直接用于各类零样本时序预测任务，适配电网负荷研判、工业设备异常时序检测、金融趋势分析等核心场景，也支持低成本二次微调，快速适配各垂直行业定制化需求，兼顾算力、高自主模型知识产权。",
-      "content": "<p data-vmark=\"4ca4\">IT之家 10 月 11 日消息，据华为云官方消息，近日，华为公司 (华为云行业大模型团队 + 2012 应用场景创新实验室 + 小巧灵突击队) 与华东师范大学联合团队研发的昇腾原生时序预训练模型取得重磅突破，<strong>成功登顶国际权威时序评测榜单 TIME-leaderboard 和 GIFT-Eval（Pretrained 类目）</strong>。</p><p data-vmark=\"b843\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ffcf5f19-1aa4-4917-b566-913cb239eb36.png\" w=\"1080\" h=\"570\" data-s=\"300,640\" data-type=\"png\" data-weibo=\"0\" alt=\"图片\" data-vmark=\"5b9b\"></p><figcaption>▲ TIME 评测榜单</figcaption><p data-vmark=\"9387\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/133918d3-6188-4791-8210-ced4b29918a6.png\" w=\"1080\" h=\"665\" data-s=\"300,640\" data-type=\"png\" data-weibo=\"1\" alt=\"图片\" data-vmark=\"731b\"></p><figcaption>▲ GIFT-Eval 榜单（Pretrained 类目）</figcaption><p data-vmark=\"fa84\">据介绍，时序基础模型作为人工智能赋能气象预测、能源调度、工业运维、金融分析等核心场景的关键技术底座，<strong>是当下 AI 基础研究与产业落地的核心赛道</strong>。研发团队基于华为昇腾生态，完成了模型的训练推理的深度优化，最终打造出高精度、高鲁棒性、高通用性、易工程化的通用时序基模型底座。</p><p data-vmark=\"ce2f\">华为云官方表示，在顶级模型扎堆的 TIME-leaderboard 和 GIFT-Eval 榜单中，七曜模型脱颖而出，成功登顶，<strong>标志着国内时序基础模型正式跻身全球第一梯队，完成从跟跑到赶超的跨越式突破</strong>。</p><p data-vmark=\"19fa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/865d6db4-ec07-4a9b-9fa5-6b3b1ca2d1c1.png\" w=\"1080\" h=\"543\" data-weibo=\"2\" alt=\"图片\" data-vmark=\"6b1c\"></p><p data-vmark=\"079a\">IT之家从华为云官方获悉，<strong>模型既可直接用于各类零样本时序预测任务</strong>，适配电网负荷研判、工业设备异常时序检测、金融趋势分析等核心场景，<strong>也支持低成本二次微调，快速适配各垂直行业定制化需求</strong>，兼顾算力、高自主模型知识产权。</p>",
-      "url": "https://www.ithome.com/1/011/631.htm",
-      "link": "https://www.ithome.com/1/011/631.htm",
-      "pubDate": "Sun, 11 Oct 2026 08:30:53 GMT",
-      "isoDate": "2026-10-11T08:30:53.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "ip",
-      "tagScore": 2,
-      "crossTags": []
-    }
-  ]
+  "count": 0,
+  "articles": []
 }

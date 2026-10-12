@@ -1,9 +1,9 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T06:01:23.814Z",
+  "generatedAt": "2026-10-12T08:01:00.125Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 5,
+  "count": 3,
   "articles": [
     {
       "title": "消息称荣耀 WIN Pad 平板搭载 8.4 英寸 240Hz OLED 屏，本月发布",
@@ -68,42 +68,6 @@
           "id": "oem"
         }
       ]
-    },
-    {
-      "title": "理想汽车欧洲战略发布会官宣明晚举行，理想 i6 将亮相法国巴黎",
-      "description": "IT之家 10 月 11 日消息，理想汽车今日官宣欧洲战略发布会暨理想 i6 欧洲首秀将于北京时间明晚 19:30 举行，理想 i6 即将亮相法国巴黎。\n\nIT之家注意到，2026 款理想 i6 是理想首款纯电全球车，10 月 12 日将在巴黎车展完成欧洲首秀，后续将在欧洲市场上市交付。从整车到关键零部件，包括自研电机、电池、芯片等，均按照全球标准打造。安全方面，2026 款理想 i6 同样按照 Euro NCAP 五星安全标准开发，在欧洲上市后也会接受 Euro NCAP 的正式测试。\n今日，全国 485 家门店将同步开启 2026 款理想 i6 的静态体验。10 月 28 日，2026 款理想 i6 将正式发布，并同步开启试驾。开启交付的时间预计为 11 月初。\n据此前官方介绍，2026 款理想 i6 有多项升级，包括更好的 ADB 矩阵大灯、电动前备箱、前排零重力、后排大躺椅、一排旗舰同款 29 英寸 6K 全景屏、二排 21 英寸 4K 娱乐屏、高通骁龙 8797 座舱芯片、自研马赫 M100 芯片、96 千瓦时自研大电池、780 公里超长续航。",
-      "content": "<p data-vmark=\"46f6\">IT之家 10 月 11 日消息，理想汽车今日官宣欧洲战略发布会暨理想 i6 欧洲首秀将于北京时间明晚 19:30 举行，理想 i6 即将亮相法国巴黎。</p><p data-vmark=\"5677\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5b29fc1c-a902-450b-9e08-ee7e9185d10a.png\" w=\"638\" h=\"1482\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F6001272153%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6001272153%2FRmarbs5Dh%22%2C%22qualityValue%22%3A%22png256%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"120d\" class=\"no-alt-img\"></p><p data-vmark=\"1fd4\">IT之家注意到，<strong>2026 款理想 i6 是理想首款纯电全球车</strong>，10 月 12 日将在巴黎车展完成欧洲首秀，后续将在欧洲市场上市交付。从整车到关键零部件，包括自研电机、电池、芯片等，均按照全球标准打造。安全方面，2026 款理想 i6 同样按照 Euro NCAP 五星安全标准开发，在欧洲上市后也会接受 Euro NCAP 的正式测试。</p><p data-vmark=\"fe18\">今日，全国 485 家门店将同步开启 2026 款理想 i6 的静态体验。10 月 28 日，2026 款理想 i6 将正式发布，并同步开启试驾。开启交付的时间预计为 11 月初。</p><p data-vmark=\"ebec\">据此前官方介绍，2026 款理想 i6 有多项升级，包括更好的 ADB 矩阵大灯、电动前备箱、前排零重力、后排大躺椅、一排旗舰同款 29 英寸 6K 全景屏、二排 21 英寸 4K 娱乐屏、高通骁龙 8797 座舱芯片、自研马赫 M100 芯片、96 千瓦时自研大电池、780 公里超长续航。</p><p style=\"text-align: center;\" data-vmark=\"bbcd\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5b6466a5-4ba6-474f-9bf3-c90b9e1aca5b.jpg\" w=\"1080\" h=\"16011\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"5e90\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"1e4b\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4869\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/1/011/639.htm",
-      "link": "https://www.ithome.com/1/011/639.htm",
-      "pubDate": "Sun, 11 Oct 2026 09:01:12 GMT",
-      "isoDate": "2026-10-11T09:01:12.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 13,
-      "crossTags": []
-    },
-    {
-      "title": "一加 16 全新游戏助手公布：射击显示增强、自研游戏相机等",
-      "description": "IT之家 10 月 11 日消息，一加 16 新品发布会将于 10 月 12 日 19:00 举行，带来全新游戏助手，支持射击显示增强、游戏语音降噪、全新游戏光效、自研游戏相机。\n\n\n\n\n据IT之家此前报道，一加 16 手机首批搭载第六代骁龙 8 超级至尊版，搭配全新一代风驰游戏内核，出厂即写入芯片底层。\n一加 16 手机搭载与京东方联合研发的 185Hz 第四代东方屏，采用全新 X4 发光材料，日常使用支持全局 165Hz 超高刷，采用 1.15mm 极窄四等边屏幕。\n配置汇总如下：\n\n6.78 英寸 1.5K+185Hz BOE X4 直屏，支持 165Hz 全局超高刷，1.15mm LIPO 物理四等边；\n\n前置 50Mp，后置 200Mp HPE 主摄 +50Mp 超广角 +50Mp IMX882 3X 潜望长焦；\n\n骁龙 8EE6 处理器（第六代骁龙 8 超级至尊版处理器），9000mAh 电池 +100W 有线充 +50W 无线充，\n\n相对大尺寸 X 轴马达，大师对称双扬，3D 超声波指纹，IP66/IP68/IP69/IP69K，USB 3.2 Gen1",
-      "content": "<p data-vmark=\"7827\">IT之家 10 月 11 日消息，一加 16 新品发布会将于 10 月 12 日 19:00 举行，带来全新游戏助手，支持射击显示增强、游戏语音降噪、全新游戏光效、自研游戏相机。</p><p data-vmark=\"34fe\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/1da0ed4c-166d-4720-ab9d-ce62a02e8716.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"0\" data-vmark=\"e7be\" class=\"no-alt-img\"></p><p data-vmark=\"004d\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/730d1f04-1c5a-4008-b568-2db2f1d82668.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"1\" data-vmark=\"c308\" class=\"no-alt-img\"></p><p data-vmark=\"86da\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/c4287fd1-0389-448a-9999-3c8fecc3b304.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"2\" data-vmark=\"b686\" class=\"no-alt-img\"></p><p data-vmark=\"9bde\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/d0ff8345-f76d-4e14-beb1-c612c4585ba6.jpg\" w=\"1080\" h=\"1440\" data-weibo=\"3\" data-vmark=\"3780\" class=\"no-alt-img\"></p><p data-vmark=\"4354\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/1/007/689.htm\">一加 16 手机首批搭载第六代骁龙 8 超级至尊版</a>，搭配全新一代风驰游戏内核，出厂即写入芯片底层。</p><p data-vmark=\"1e45\">一加 16 手机搭载与京东方联合研发的 <a href=\"https://www.ithome.com/1/010/837.htm\" target=\"_blank\">185Hz 第四代东方屏</a>，采用全新 X4 发光材料，日常使用支持全局 165Hz 超高刷，采用 1.15mm 极窄四等边屏幕。</p><p data-vmark=\"db33\"><strong>配置汇总如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"2809\">6.78 英寸 1.5K+185Hz BOE X4 直屏，支持 165Hz 全局超高刷，1.15mm LIPO 物理四等边；</p></li><li><p data-vmark=\"d1e6\">前置 50Mp，后置 200Mp HPE 主摄 +50Mp 超广角 +50Mp IMX882 3X 潜望长焦；</p></li><li><p data-vmark=\"df37\">骁龙 8EE6 处理器（第六代骁龙 8 超级至尊版处理器），9000mAh 电池 +100W 有线充 +50W 无线充，</p></li><li><p data-vmark=\"783c\">相对大尺寸 X 轴马达，大师对称双扬，3D 超声波指纹，IP66/IP68/IP69/IP69K，USB 3.2 Gen1</p></li></ul><p data-vmark=\"7562\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/9/25c7d189-d309-4162-b8f0-0ff82324ec57.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1080\" data-weibo=\"4\" data-vmark=\"7ccc\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" data-vmark=\"ad32\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=4813\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/1/011/635.htm",
-      "link": "https://www.ithome.com/1/011/635.htm",
-      "pubDate": "Sun, 11 Oct 2026 08:43:13 GMT",
-      "isoDate": "2026-10-11T08:43:13.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 6,
-      "crossTags": []
     }
   ]
 }
