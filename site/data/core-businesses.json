@@ -1,9 +1,9 @@
 {
   "date": "2026-10-15",
-  "generatedAt": "2026-10-15T06:41:02.860Z",
+  "generatedAt": "2026-10-15T08:56:30.357Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 7,
+  "count": 4,
   "articles": [
     {
       "title": "消息称 Steam Frame OLED 头显正在开发：代号 Plano，单眼原生分辨率 3552*3840",
@@ -90,60 +90,6 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 15,
-      "crossTags": []
-    },
-    {
-      "title": "iQOO Pad Pro 8.8 英寸平板预热：165Hz OLED 屏、298g 重、5.74mm 厚、9020mAh 电池",
-      "description": "IT之家 10 月 14 日消息，iQOO Pad Pro 8.8 英寸平板现已在全渠道开启预约。iQOO 旗舰系列产品经理王侃今日对这款新品进行预热，公布了部分参数。\n\nIT之家整理汇总如下：\n\n性能：第五代骁龙 8 至尊版、自研电竞芯片 Q3\n\n屏幕：8.8 英寸 165Hz OLED 极竞屏\n\n尺寸：298g 重、5.74mm 厚\n\n续航：9020mAh 蓝海电池\n\n散热：内置主动散热风扇，30×30×3.5mm 尺寸，散热总面积达 23253mm²\n\n\n作为参考，iQOO Pad Ultra 小平板于 9 月 29 日正式发布，10 月 5 日全渠道正式开售，搭载第六代骁龙 8 超级至尊版和自研电竞芯片 Q4，屏幕尺寸、机身重量、电池等参数与 iQOO Pad Pro 8.8 英寸相同，首销价 5999 元起：\n\n12GB+256GB：6499 元，首销优惠价 5999 元，国补后 5499 元\n\n16GB+256GB：7199 元\n\n16GB+512GB：7999 元\n\n16GB+1TB：8999 元",
-      "content": "<p data-vmark=\"e5f3\">IT之家 10 月 14 日消息，iQOO Pad Pro 8.8 英寸平板现已在全渠道开启预约。iQOO 旗舰系列产品经理王侃今日对这款新品进行预热，公布了部分参数。</p><p style=\"text-align: center;\" data-vmark=\"2567\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ea641b08-b3e0-4b5a-bdb2-412e63a99c05.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1104\" data-weibo=\"0\"  data-vmark=\"2745\" class=\"no-alt-img\"></p><p data-vmark=\"ac77\">IT之家整理汇总如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"74f9\">性能：第五代骁龙 8 至尊版、自研电竞芯片 Q3</p></li><li><p data-vmark=\"faf3\">屏幕：8.8 英寸 165Hz OLED 极竞屏</p></li><li><p data-vmark=\"f68e\">尺寸：298g 重、5.74mm 厚</p></li><li><p data-vmark=\"b539\">续航：9020mAh 蓝海电池</p></li><li><p data-vmark=\"2e2e\">散热：内置主动散热风扇，30×30×3.5mm 尺寸，散热总面积达 23253mm²</p></li></ul><p style=\"text-align: center;\" data-vmark=\"5222\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/925c89f5-7a1d-4a6a-8ddf-e675dd956f05.jpg?x-bce-process=image/format,f_auto\" w=\"1048\" h=\"7691\" data-weibo=\"1\" data-vmark=\"7dee\" class=\"no-alt-img\"></p><p data-vmark=\"6b5f\">作为参考，<a target=\"_blank\" href=\"https://www.ithome.com/1/008/472.htm\">iQOO Pad Ultra 小平板于 9 月 29 日正式发布</a>，10 月 5 日全渠道正式开售，搭载第六代骁龙 8 超级至尊版和自研电竞芯片 Q4，屏幕尺寸、机身重量、电池等参数与 iQOO Pad Pro 8.8 英寸相同，<strong>首销价 5999 元起</strong>：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8cf7\">12GB+256GB：6499 元，首销优惠价 5999 元，国补后 5499 元</p></li><li><p data-vmark=\"0bde\">16GB+256GB：7199 元</p></li><li><p data-vmark=\"bd54\">16GB+512GB：7999 元</p></li><li><p data-vmark=\"9198\">16GB+1TB：8999 元</p></li></ul><p style=\"text-align: center;\" data-vmark=\"3ea4\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/bcd5cd66-1cfa-453b-9ffe-bfc5fdd8a4eb.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1578\" data-weibo=\"2\" data-vmark=\"f177\" class=\"no-alt-img\"></p>",
-      "url": "https://www.ithome.com/1/013/099.htm",
-      "link": "https://www.ithome.com/1/013/099.htm",
-      "pubDate": "Wed, 14 Oct 2026 13:11:07 GMT",
-      "isoDate": "2026-10-14T13:11:07.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 6,
-      "crossTags": []
-    },
-    {
-      "title": "iQOO Neo12 手机官宣“十月底见”：pTSF 技术 2K 185Hz 超冠屏、第五代骁龙 8 至尊版芯片",
-      "description": "IT之家 10 月 14 日消息，在今天的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 产品副总裁罗峰现场宣布，iQOO Neo12“十月底见”（PPT 显示十月见）。\n\n据介绍，iQOO Neo12 手机将行业首发搭载 pTSF 技术的 2K 185Hz 超冠屏、行业首发「天空之镜」发光材料、行业首发 2K 185Hz 高性能驱动芯片。\n另外，新机将行业首发 2K 185FPS 超分超帧并发、行业首批适配原生 2K 超高清游戏、适配超 50 款原生 185 帧游戏等。新机将在本月发布。\nIT之家整理 iQOO Neo12 手机已公布 / 曝光配置如下：\n\n性能：第五代骁龙 8 至尊版处理器 | 自研电竞芯片 Q3 | 全新一代 Monster 超核引擎\n\n散热：冰穹风冷散热系统（主动散热风扇）\n\n外观：方形 Deco 造型设计\n\n屏幕：pTSF 技术的 2K 185Hz 超冠屏 |「天空之镜」发光材料 | 2K 185Hz 高性能驱动芯片\n\n显示：2K 分辨率 | 185Hz 超高刷 | 2200nits 全屏峰值亮度 | 自研 XDR 动态范围增强 | 圆偏振光显示 2.0 | 1nit 睡眠屏 | 低功耗特性\n\n游戏：2K 185FPS 超分超帧并发 | 适配原生 2K 超高清游戏 | 配超 50 款原生 185 帧游戏 | 全场景光追 | 超分超帧并发 | 游戏滤镜 | 视效增强 | 游戏相机 | 游戏眩光防护 | iQOO 16 同款 Q-flex 操控技术\n\n电池：9000mAh 蓝海大电池 | 采用单电芯设计 | 第五代硅负极技术 | 能量密度达 916Wh/L\n\n材质：金属中框\n\n安全：3D 超声波指纹\n\n定位：与数字旗舰形成 iQOO 的双旗舰布局",
-      "content": "<p data-vmark=\"6b41\">IT之家 10 月 14 日消息，在今天的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 产品副总裁罗峰现场宣布，<strong>iQOO Neo12“十月底见”</strong>（PPT 显示十月见）。</p><p style=\"text-align: center;\" data-vmark=\"beee\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8d660d06-c0a1-4a69-97cd-f7debd08234c.jpg?x-bce-process=image/format,f_auto\" w=\"1434\" h=\"805\" data-mpos=\"2,0\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d16adf136fe0d437a7c9549109b1627d16cc6ab008f29afc230c0e52c8d74473e6f35781a3de38dc3a\" data-vmark=\"01a3\" class=\"no-alt-img\"></p><p data-vmark=\"4a19\">据介绍，iQOO Neo12 手机将行业首发搭载 pTSF 技术的 2K 185Hz 超冠屏、行业首发「天空之镜」发光材料、行业首发 2K 185Hz 高性能驱动芯片。</p><p data-vmark=\"34c9\">另外，新机将行业首发 2K 185FPS 超分超帧并发、行业首批适配原生 2K 超高清游戏、适配超 50 款原生 185 帧游戏等。新机将在本月发布。</p><p data-vmark=\"98e8\">IT之家整理 iQOO Neo12 手机已公布 / 曝光配置如下：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"febe\">性能：第五代骁龙 8 至尊版处理器 | 自研电竞芯片 Q3 | 全新一代 Monster 超核引擎</p></li><li><p data-vmark=\"5388\">散热：冰穹风冷散热系统（主动散热风扇）</p></li><li><p data-vmark=\"17fb\">外观：方形 Deco 造型设计</p></li><li><p data-vmark=\"b696\">屏幕：pTSF 技术的 2K 185Hz 超冠屏 |「天空之镜」发光材料 | 2K 185Hz 高性能驱动芯片</p></li><li><p data-vmark=\"f490\">显示：2K 分辨率 | 185Hz 超高刷 | 2200nits 全屏峰值亮度 | 自研 XDR 动态范围增强 | 圆偏振光显示 2.0 | 1nit 睡眠屏 | 低功耗特性</p></li><li><p data-vmark=\"b4cf\">游戏：2K 185FPS 超分超帧并发 | 适配原生 2K 超高清游戏 | 配超 50 款原生 185 帧游戏 | 全场景光追 | 超分超帧并发 | 游戏滤镜 | 视效增强 | 游戏相机 | 游戏眩光防护 | <span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/30/25fefbf0-6085-4e28-af0e-f7b3ff6611bd.png?x-bce-process=image/format,f_auto\" data-topic-id=\"68330\">iQOO 16</span> 同款 Q-flex 操控技术</p></li><li><p data-vmark=\"fec7\">电池：9000mAh 蓝海大电池 | 采用单电芯设计 | 第五代硅负极技术 | 能量密度达 916Wh/L</p></li><li><p data-vmark=\"c822\">材质：金属中框</p></li><li><p data-vmark=\"b725\">安全：3D 超声波指纹</p></li><li><p data-vmark=\"bc6b\">定位：与数字旗舰形成 iQOO 的双旗舰布局</p></li></ul><p style=\"text-align: center;\" data-vmark=\"275f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/5209f6da-9c6a-4701-a3e7-54ae0c4346af.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1630\" data-vmark=\"12bd\" data-mpos=\"2,0\" data-weibo=\"1\"  class=\"no-alt-img\"></p>",
-      "url": "https://www.ithome.com/1/013/093.htm",
-      "link": "https://www.ithome.com/1/013/093.htm",
-      "pubDate": "Wed, 14 Oct 2026 12:51:35 GMT",
-      "isoDate": "2026-10-14T12:51:35.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 18,
-      "crossTags": []
-    },
-    {
-      "title": "iQOO Neo12 官宣首发 pTSF 技术超冠屏：「天空之镜」发光材料，号称让 185Hz 进入 2K 时代",
-      "description": "IT之家 10 月 14 日消息，在今天的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 宣布，iQOO Neo12 新机拥有三大首发技术 + 七大争锋屏幕体验 + 2K 185Hz 超豪华游戏生态，并喊话“让 185Hz 进入 2K 时代”。\n\n据介绍，iQOO Neo12 手机将行业首发搭载 pTSF 技术的 2K 185Hz 超冠屏、行业首发「天空之镜」发光材料、行业首发 2K 185Hz 高性能驱动芯片。\n新机屏幕将拥有 2K 分辨率、185Hz 超高刷、2200nits 全屏峰值亮度、自研 XDR 动态范围增强、游戏眩光防护、圆偏振光显示 2.0、1nit 睡眠屏、iQOO 16 同款 Q-flex 操控技术、低功耗特性等。\n另外，iQOO Neo12 将行业首发 2K 185FPS 超分超帧并发、行业首批适配原生 2K 超高清游戏、适配超 50 款原生 185 帧游戏等。新机将在本月发布。\n据IT之家此前报道，iQOO Neo12 还搭载第五代骁龙 8 至尊版处理器 + 冰穹风冷散热系统，配备自研电竞芯片 Q3，支持光追、超分、超帧、滤镜、游戏相机。新机内置 9000mAh 蓝海大电池，采用单电芯设计、第五代硅负极技术，能量密度高达 916Wh/L。",
-      "content": "<p data-vmark=\"e4be\">IT之家 10 月 14 日消息，在今天的维信诺 × iQOO × 清华大学屏幕技术沟通会上，iQOO 宣布，<strong>i</strong><strong>QOO Neo12 新机拥有三大首发技术 + 七大争锋屏幕体验 + 2K 185Hz 超豪华游戏生态</strong>，并喊话“让 185Hz 进入 2K 时代”。</p><p style=\"text-align: center;\" data-vmark=\"df50\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4ed8bef6-2f0b-4543-8085-5872b9460cca.jpg\" w=\"1440\" h=\"5382\" data-vmark=\"c7ae\" data-mpos=\"2,2\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1e402905cefa37b3a77ed1718e90a844277601de8e50a1421a8fc1c4b33cb09f466bc8ca3b08432f1\" class=\"no-alt-img\"></p><p data-vmark=\"4a19\">据介绍，iQOO Neo12 手机将行业首发搭载 pTSF 技术的 2K 185Hz 超冠屏、<strong>行业首发「天空之镜」发光材料</strong>、行业首发 2K 185Hz 高性能驱动芯片。</p><p data-vmark=\"5bf8\">新机屏幕将拥有 2K 分辨率、185Hz 超高刷、<strong>2200nits 全屏峰值亮度</strong>、自研 XDR 动态范围增强、游戏眩光防护、圆偏振光显示 2.0、1nit 睡眠屏、<strong><span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/30/25fefbf0-6085-4e28-af0e-f7b3ff6611bd.png?x-bce-process=image/format,f_auto\" data-topic-id=\"68330\">iQOO 16</span> 同款 Q-flex 操控技术</strong>、低功耗特性等。</p><p data-vmark=\"34c9\">另外，iQOO Neo12 将行业首发 2K 185FPS 超分超帧并发、行业首批适配原生 2K 超高清游戏、适配超 50 款原生 185 帧游戏等。新机将在本月发布。</p><p data-vmark=\"741b\">据IT之家此前报道，iQOO Neo12 还搭载第五代骁龙 8 至尊版处理器 + 冰穹风冷散热系统，<strong>配备自研电竞芯片 Q3</strong>，支持光追、超分、超帧、滤镜、游戏相机。新机内置 9000mAh 蓝海大电池，采用单电芯设计、第五代硅负极技术，能量密度高达 916Wh/L。</p><p style=\"text-align: center;\" data-vmark=\"4fe1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/169e965d-c16d-4e39-b395-b9bb34b9c2c5.jpg\" w=\"1440\" h=\"3186\" data-vmark=\"952f\" data-mpos=\"2,2\"  class=\"no-alt-img\"></p>",
-      "url": "https://www.ithome.com/1/013/086.htm",
-      "link": "https://www.ithome.com/1/013/086.htm",
-      "pubDate": "Wed, 14 Oct 2026 12:28:01 GMT",
-      "isoDate": "2026-10-14T12:28:01.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 8,
       "crossTags": []
     }
   ]
