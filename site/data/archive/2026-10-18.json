@@ -1,6 +1,89 @@
 {
   "date": "2026-10-18",
-  "generatedAt": "2026-10-18T06:01:26.926Z",
-  "count": 0,
-  "articles": []
+  "generatedAt": "2026-10-18T08:24:51.835Z",
+  "count": 4,
+  "articles": [
+    {
+      "title": "IT早报 1018：曝华为全新子品牌星芒手机主攻线上性价比；消息称奇瑞智界将获批独立造车资质；DeepSeek V4.1 Flash-1017 新版本发布；英伟达否认 RTX 5090 停产传闻...",
+      "description": "“IT早报”时间，大家好，现在是 2026 年 10 月 18 日星期日，今天的重要科技资讯有：\n1. 华为星芒子品牌手机规划曝光：主攻线上相对有性价比，规划新机中含主动散热版本\n数码博主透露该品牌主攻线上、定位性价比，已规划多款新机，其中一款搭载主动散热风扇。华为早已完成星芒商标注册，目前官方未公布产品详情。>> 查看详情\n2. 奇瑞智界将获批独立造车资质，内部人士确认计划独立上市\n工信部公示显示智界新准入生产地址来自奇瑞注销的原有厂区，资质获批后将取得独立造车资质，内部人士确认智界未来计划独立上市。>> 查看详情\n\n3. DeepSeek V4.1 Flash-1017 新版本发布：性能提升、耗时缩短，许愿式编程一键成真\n新版本模型能力提升，运行时间缩短调用成本下降，已适配多个开发平台，强化学习训练后可在素材有限时直接生成可运行项目，模型权重已开源开放下载。>> 查看详情\n\n4. 英伟达否认 RTX 5090 停产传闻，承认供应链产能受限\n针对此前 RTX 5090 停产爆料和市场缺货猜测，英伟达高管明确辟谣，称该显卡仍是核心产品将继续供货，同时承认当前供应链产能受限，正推动产品上市。>> 查看详情\n5. 新增激光雷达：大众安徽全新与众 06 / 与众 07 正式上市，首发惊喜价 9.99 万元起\n大众安徽全新与众 06 和与众 07 正式上市，Lite 版推出双十一惊喜价，最低 9.99 万元起。新车标配车顶激光雷达和征程 6H 芯片，支持城区领航辅助。>> 查看详情\n\n6. 市场监管总局：立案查处加油机作弊案件 399 件、案值 2.7 亿元、罚没款 1.43 亿元\n国家市场监督管理总局 16 日通报，2025 年以来，市场监管总局会同公安部等部门聚焦城乡接合部、国省道沿线等加油机作弊违法行为高发频发区域，共立案查处加油机作弊案件 399 件、案值 2.7 亿元、罚没款 1.43 亿元。>> 查看详情\n7. 消息称苹果 iPhone 18 Pro Max 手机刷新纪录：W41 单周单品国内激活近 90 万台\n博主 @数码闲聊站 10 月 17 日透露，iPhone 18 Pro Max 又刷新纪录了，W41 单周单品激活近 90 万。>> 查看详情\n8. 纯血鸿蒙智行再进化？曝智界独立造车资质备案中，通过后新车尾标将变更为“智界汽车”\n工信部 10 月 16 日晚发布了《道路机动车辆生产企业及产品公告》（第 412 批）拟发布的新准入车辆生产企业及已准入企业变更信息清单，安徽智界新能源汽车有限公司在列。据博主 @未来的学习笔记 解读，智界的独立造车资质已经在备案中了，通过之后，新车尾标就会变成“智界汽车”。>> 查看详情\n9. 古尔曼称苹果首款折叠 iPhone Duo 需求“空前”，首销线下恐难直接买下\n彭博社记者马克 · 古尔曼（Mark Gurman）10 月 17 日在 X 平台连续发文称，苹果明显是在供应量尚未充足的情况下“过早”推出首款折叠屏手机 iPhone Duo，目的可能是抢先将其推向市场。>> 查看详情\n10. 10.97 万元起吉利星瑞 L PLUS 正式上市，国内首款搭载激光雷达的燃油轿车\n新车定位宽体旗舰智混家轿，轴距 2845mm，提供多款车漆内饰选择，搭载吉利 i-HEV 智擎混动技术，零百加速 7.7 秒，还配备激光雷达支持双场景 NOA。>> 查看详情\n\n11. 高通 CMO 莫珂东：骁龙 8 Elite Gen 6 不存在系统性散热问题\n莫珂东表示，骁龙 8 Elite Gen 6（此处应指系列芯片，包含第六代骁龙 8 至尊版、第六代骁龙 8 超级至尊版两款芯片）不存在系统性散热问题。>> 查看详情\n12. 昔年“彩电一哥”谢幕：康佳确定退市，连续 4 年累亏约 203 亿元\n*ST 康佳 A (000016.SZ) 10 月 16 日发布公告，称深交所《关于康佳集团股份有限公司股票终止上市的决定》（深证上〔2026〕1390 号），深交所决定终止公司股票上市。>> 查看详情\n13. 特斯拉司机自称开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤\n该事故再次引发对 FSD 驾驶员监督、道路标志识别能力的讨论，此前特斯拉已因类似问题被调查召回，类似事故仍有发生。>> 查看详情\n14. 特斯拉美国 Model Y 穿越高速隔离带致人死亡，驾驶辅助系统处于启用状态\n特斯拉提交给 NHTSA 的报告披露，新泽西州事故中 Model Y 事发前已确认启用驾驶辅助系统，但相关核心信息被标记为机密而遮蔽。>> 查看详情\n15. 腾讯 WorkBuddy 已提前适配苹果首款折叠屏手机 iPhone Duo\n腾讯 WorkBuddy 宣布已提前适配 iPhone Duo，并公布六种适配打开方式，涵盖内屏分栏、跨 App 拖拽、帐篷模式等场景。>> 查看详情\n\n16. 比亚迪第三代唐四驱版申报：双电机峰值功率 215、300 kW，四季度上市\n工信部发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，比亚迪第三代唐 EV 双电机四驱版车型完成申报，此前申报公示的为 300kW 单电机后驱版。>> 查看详情\n\n17. 工信部公布新准入车辆生产企业名单，岚图汽车在列\n岚图汽车（VOYAH）是东风汽车集团有限公司旗下的高端智慧新能源品牌。>> 查看详情\n\n18. 长安汽车新任董事长赵非称国内车市下滑严重：但海外还有机会，要全力以赴聚焦海外发展\n赵非谈到，国内车市下滑严重，但海外还有机会，长安要全力以赴聚焦海外发展，长安在新能源和智能化上面，可能比国外的一些友商更强，这让长安保持住优势。>> 查看详情\n19. IDC 等机构谈苹果首款折叠 iPhone Duo：首发难抢，今年出货预估 600~700 万台\nCounterpoint 预计苹果售价 1999 美元起的首款折叠屏 iPhone Duo 初期需求将超过供应，因为庞大的 iPhone 存量用户中只要小部分尝鲜就会消化有限产能。>> 查看详情\n今天就先聊到这里，IT早报，咱们明天见。",
+      "content": "<p data-vmark=\"76f2\">“IT早报”时间，大家好，现在是 2026 年 10 月 18 日星期日，今天的重要科技资讯有：</p><h2 data-vmark=\"803b\">1. 华为星芒子品牌手机规划曝光：主攻线上相对有性价比，规划新机中含主动散热版本</h2><p data-vmark=\"f596\">数码博主透露该品牌主攻线上、定位性价比，已规划多款新机，其中一款搭载主动散热风扇。华为早已完成星芒商标注册，目前官方未公布产品详情。&gt;&gt; <a href=\"https://www.ithome.com/1/014/299.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"46d4\">2. 奇瑞智界将获批独立造车资质，内部人士确认计划独立上市</h2><p data-vmark=\"0698\">工信部公示显示智界新准入生产地址来自奇瑞注销的原有厂区，资质获批后将取得独立造车资质，内部人士确认智界未来计划独立上市。&gt;&gt; <a href=\"https://www.ithome.com/1/014/352.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"217a\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/47af8777-fe54-4dca-9a67-bbae1480b820.jpg\" w=\"1312\" h=\"1047\" data-marks=\"1931fd9d012eb6d1ae5e2a4d11dbd40809ed695d64894648c8c82b9ee0dedfcb1c02ff939ff264e2a1e8aea97bdfdd95\" data-vmark=\"44f0\" data-weibo=\"0\" class=\"no-alt-img\"></p><h2 data-vmark=\"bceb\">3. DeepSeek V4.1 Flash-1017 新版本发布：性能提升、耗时缩短，许愿式编程一键成真</h2><p data-vmark=\"4484\">新版本模型能力提升，运行时间缩短调用成本下降，已适配多个开发平台，强化学习训练后可在素材有限时直接生成可运行项目，模型权重已开源开放下载。&gt;&gt; <a href=\"https://www.ithome.com/1/014/328.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"c62e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/ca365e64-d286-4a9b-842d-37162dbd5fe2.jpg?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"543\" data-vmark=\"dc59\" data-weibo=\"1\" class=\"no-alt-img\"></p><h2 data-vmark=\"32f4\">4. 英伟达否认 RTX 5090 停产传闻，承认供应链产能受限</h2><p data-vmark=\"8244\">针对此前 RTX 5090 停产爆料和市场缺货猜测，英伟达高管明确辟谣，称该显卡仍是核心产品将继续供货，同时承认当前供应链产能受限，正推动产品上市。&gt;&gt; <a href=\"https://www.ithome.com/1/014/407.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"58bd\">5. 新增激光雷达：大众安徽全新与众 06 / 与众 07 正式上市，首发惊喜价 9.99 万元起</h2><p data-vmark=\"6005\">大众安徽全新与众 06 和与众 07 正式上市，Lite 版推出双十一惊喜价，最低 9.99 万元起。新车标配车顶激光雷达和征程 6H 芯片，支持城区领航辅助。&gt;&gt; <a href=\"https://www.ithome.com/1/014/325.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"b544\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/9899ae04-4917-44cd-b2a6-eca2a234e3e3.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"2\" data-vmark=\"0360\" class=\"no-alt-img\"></p><h2 data-vmark=\"064b\">6. 市场监管总局：立案查处加油机作弊案件 399 件、案值 2.7 亿元、罚没款 1.43 亿元</h2><p data-vmark=\"2a0b\">国家市场监督管理总局 16 日通报，2025 年以来，市场监管总局会同公安部等部门聚焦城乡接合部、国省道沿线等加油机作弊违法行为高发频发区域，共立案查处加油机作弊案件 399 件、案值 2.7 亿元、罚没款 1.43 亿元。&gt;&gt; <a href=\"https://www.ithome.com/1/014/273.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"8f58\">7. 消息称<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/10/6f4fe9f8-a63c-4b46-9052-3ff89f330d24.png?x-bce-process=image/format,f_auto\" data-topic-id=\"68075\">苹果 iPhone 18 Pro Max</span> 手机刷新纪录：W41 单周单品国内激活近 90 万台</h2><p data-vmark=\"df4a\">博主 @数码闲聊站 10 月 17 日透露，iPhone 18 Pro Max 又刷新纪录了，W41 单周单品激活近 90 万。&gt;&gt; <a href=\"https://www.ithome.com/1/014/272.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"ece2\">8. 纯血鸿蒙智行再进化？曝智界独立造车资质备案中，通过后新车尾标将变更为“智界汽车”</h2><p data-vmark=\"6d57\">工信部 10 月 16 日晚发布了《道路机动车辆生产企业及产品公告》（第 412 批）拟发布的新准入车辆生产企业及已准入企业变更信息清单，安徽智界新能源汽车有限公司在列。据博主 @未来的学习笔记 解读，智界的独立造车资质已经在备案中了，通过之后，新车尾标就会变成“智界汽车”。&gt;&gt; <a href=\"https://www.ithome.com/1/014/253.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"16a2\">9. 古尔曼称苹果首款折叠 iPhone Duo 需求“空前”，首销线下恐难直接买下</h2><p data-vmark=\"19c0\">彭博社记者马克 · 古尔曼（Mark Gurman）10 月 17 日在 X 平台连续发文称，苹果明显是在供应量尚未充足的情况下“过早”推出首款折叠屏手机 iPhone Duo，目的可能是抢先将其推向市场。&gt;&gt; <a href=\"https://www.ithome.com/1/014/247.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"b6b2\">10. 10.97 万元起吉利星瑞 L PLUS 正式上市，国内首款搭载激光雷达的燃油轿车</h2><p data-vmark=\"e657\">新车定位宽体旗舰智混家轿，轴距 2845mm，提供多款车漆内饰选择，搭载吉利 i-HEV 智擎混动技术，零百加速 7.7 秒，还配备激光雷达支持双场景 NOA。&gt;&gt; <a href=\"https://www.ithome.com/1/014/394.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"1796\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/2960daf8-fa60-4f64-9ae8-606d5acbfce5.png\" w=\"1125\" h=\"633\" data-vmark=\"6fa1\" data-weibo=\"3\" class=\"no-alt-img\"></p><h2 data-vmark=\"4a09\">11. 高通 CMO 莫珂东：骁龙 8 Elite Gen 6 不存在系统性散热问题</h2><p data-vmark=\"c138\">莫珂东表示，骁龙 8 Elite Gen 6（此处应指系列芯片，包含第六代骁龙 8 至尊版、第六代骁龙 8 超级至尊版两款芯片）不存在系统性散热问题。&gt;&gt; <a href=\"https://www.ithome.com/1/014/211.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"a6eb\">12. 昔年“彩电一哥”谢幕：康佳确定退市，连续 4 年累亏约 203 亿元</h2><p data-vmark=\"c4e3\">*ST 康佳 A (<span class=\"link-text-start-with-http\">000016.SZ</span>) 10 月 16 日发布公告，称深交所《关于康佳集团股份有限公司股票终止上市的决定》（深证上〔2026〕1390 号），深交所决定终止公司股票上市。&gt;&gt; <a href=\"https://www.ithome.com/1/014/212.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"44dc\">13. 特斯拉司机自称开启 FSD 后睡着，车辆冲入封闭车道撞飞警车致加州两名巡警重伤</h2><p data-vmark=\"63bf\">该事故再次引发对 FSD 驾驶员监督、道路标志识别能力的讨论，此前特斯拉已因类似问题被调查召回，类似事故仍有发生。&gt;&gt; <a href=\"https://www.ithome.com/1/014/348.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"5f5a\">14. 特斯拉美国 Model Y 穿越高速隔离带致人死亡，驾驶辅助系统处于启用状态</h2><p data-vmark=\"2613\">特斯拉提交给 NHTSA 的报告披露，新泽西州事故中 Model Y 事发前已确认启用驾驶辅助系统，但相关核心信息被标记为机密而遮蔽。&gt;&gt; <a href=\"https://www.ithome.com/1/014/346.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"7a36\">15. 腾讯 WorkBuddy 已提前适配苹果首款折叠屏手机 iPhone Duo</h2><p data-vmark=\"c8b3\">腾讯 WorkBuddy 宣布已提前适配 iPhone Duo，并公布六种适配打开方式，涵盖内屏分栏、跨 App 拖拽、帐篷模式等场景。&gt;&gt; <a href=\"https://www.ithome.com/1/014/306.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"f488\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0c72b558-d5d3-4d7d-99f1-30bdfcf3a44c.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"1918\" data-weibo=\"4\" data-vmark=\"cd5a\" class=\"no-alt-img\"></p><h2 data-vmark=\"9f13\">16. 比亚迪第三代唐四驱版申报：双电机峰值功率 215、300 kW，四季度上市</h2><p data-vmark=\"83ea\">工信部发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，比亚迪第三代唐 EV 双电机四驱版车型完成申报，此前申报公示的为 300kW 单电机后驱版。&gt;&gt; <a href=\"https://www.ithome.com/1/014/267.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"97d3\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/dbc4feb5-d342-4f77-b5f8-5a49b586e4b3.jpg\" w=\"1393\" h=\"719\" data-vmark=\"8910\" data-weibo=\"5\" alt=\"比亚迪唐EV 前部照片\"></p><h2 data-vmark=\"5d16\">17. 工信部公布新准入车辆生产企业名单，岚图汽车在列</h2><p data-vmark=\"37a4\">岚图汽车（VOYAH）是东风汽车集团有限公司旗下的高端智慧新能源品牌。&gt;&gt; <a href=\"https://www.ithome.com/1/014/262.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"4560\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/58398002-7dc8-443c-a711-5255df13a13a.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"678\" data-mpos=\"2,0\" data-weibo=\"6\"  data-vmark=\"15fe\" class=\"no-alt-img\"></p><h2 data-vmark=\"ff99\">18. 长安汽车新任董事长赵非称国内车市下滑严重：但海外还有机会，要全力以赴聚焦海外发展</h2><p data-vmark=\"19d6\">赵非谈到，国内车市下滑严重，但海外还有机会，长安要全力以赴聚焦海外发展，长安在新能源和智能化上面，可能比国外的一些友商更强，这让长安保持住优势。&gt;&gt; <a href=\"https://www.ithome.com/1/014/255.htm\" target=\"_blank\">查看详情</a></p><h2 data-vmark=\"7f8d\">19. IDC 等机构谈苹果首款折叠 iPhone Duo：首发难抢，今年出货预估 600~700 万台</h2><p data-vmark=\"1943\">Counterpoint 预计苹果售价 1999 美元起的首款折叠屏 iPhone Duo 初期需求将超过供应，因为庞大的 iPhone 存量用户中只要小部分尝鲜就会消化有限产能。&gt;&gt; <a href=\"https://www.ithome.com/1/014/203.htm\" target=\"_blank\">查看详情</a></p><p data-vmark=\"ba7f\">今天就先聊到这里，IT早报，咱们明天见。</p>",
+      "url": "https://www.ithome.com/1/014/427.htm",
+      "link": "https://www.ithome.com/1/014/427.htm",
+      "pubDate": "Sat, 17 Oct 2026 23:52:03 GMT",
+      "isoDate": "2026-10-17T23:52:03.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "automotive",
+      "tagScore": 31,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "regulators"
+        }
+      ]
+    },
+    {
+      "title": "12.88 万元起，广汽埃安 Ray7 预售 2 小时订单达 6817 单",
+      "description": "IT之家 10 月 17 日消息，广汽埃安刚刚宣布 Ray7 预售开启仅 2 小时，订单达 6817 单。该车于今晚开启预售，共 5 款车型，价格为 12.88 万元起。\n\n车身尺寸方面，长宽高为 4960×1900×1455mm，轴距达 2920mm，提供仲夏紫、闪电黄、月辉银、风暴红、熔岩灰、云舒白、热带蓝车色。座舱配备高通骁龙 8295P 座舱芯片 +24GB LPDDR4 运存 +128GB UFS 闪存，15.6 英寸 2.5K 高清中控屏 + 车手互联全覆盖。\n此外，该车搭载华为 DriveONE 多合一电驱，配合埃安全新热管理系统和 28 合一热管理模块，CLTC 百公里电耗仅为 9.7 度，CLTC 纯电续航超 700km。\nIT之家附预售价如下：\n\n530 后驱驾趣版 12.88 万元\n\n530 后驱激光版 13.88 万元\n\n702 后驱驾趣宁德版 13.88 万元\n\n702 后驱激光宁德版 14.88 万元\n\n702 后驱 EMB 激光宁德版 15.88 万元",
+      "content": "<p data-vmark=\"5b72\">IT之家 10 月 17 日消息，广汽埃安刚刚宣布 Ray7 预售开启仅 2 小时，订单达 6817 单。该车于今晚开启预售，共 5 款车型，价格为 12.88 万元起。</p><p style=\"text-align: center;\" data-vmark=\"2d8e\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/8ee63d37-a111-4f9e-939d-9a368ef80265.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"2695\" data-weibo=\"0\"  data-vmark=\"18a3\" class=\"no-alt-img\"></p><p data-vmark=\"9979\">车身尺寸方面，长宽高为 4960×1900×1455mm，轴距达 2920mm，提供仲夏紫、闪电黄、月辉银、风暴红、熔岩灰、云舒白、热带蓝车色。座舱配备高通骁龙 8295P 座舱芯片 +24GB LPDDR4 运存 +128GB UFS 闪存，15.6 英寸 2.5K 高清中控屏 + 车手互联全覆盖。</p><p data-vmark=\"046a\">此外，该车搭载华为 DriveONE 多合一电驱，配合埃安全新热管理系统和 28 合一热管理模块，CLTC 百公里电耗仅为 9.7 度，CLTC 纯电续航超 700km。</p><p data-vmark=\"d2b6\"><strong>IT之家附预售价如下：</strong></p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"3aa2\">530 后驱驾趣版 12.88 万元</p></li><li><p data-vmark=\"0efb\">530 后驱激光版 13.88 万元</p></li><li><p data-vmark=\"5aef\">702 后驱驾趣宁德版 13.88 万元</p></li><li><p data-vmark=\"7256\">702 后驱激光宁德版 14.88 万元</p></li><li><p data-vmark=\"d3d8\">702 后驱 EMB 激光宁德版 15.88 万元</p></li></ul>",
+      "url": "https://www.ithome.com/1/014/410.htm",
+      "link": "https://www.ithome.com/1/014/410.htm",
+      "pubDate": "Sat, 17 Oct 2026 15:01:05 GMT",
+      "isoDate": "2026-10-17T15:01:05.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "automotive",
+      "tagScore": 6,
+      "crossTags": []
+    },
+    {
+      "title": "广汽埃安 Ray7 开启预售：华为 DriveONE 多合一电驱，12.88 万元起",
+      "description": "IT之家 10 月 17 日消息，广汽埃安 Ray7 纯电轿车今日开启预售，共 5 款车型，预售价 12.88 万元起。\nIT之家附价格信息如下：\n\n530 后驱驾趣版 12.88 万元\n\n530 后驱激光版 13.88 万元\n\n702 后驱驾趣宁德版 13.88 万元\n\n702 后驱激光宁德版 14.88 万元\n\n702 后驱 EMB 激光宁德版 15.88 万元\n\n\n该车提供仲夏紫、闪电黄、月辉银、风暴红、熔岩灰、云舒白、热带蓝车色，定位“大 5 米超级纯电轿车”，配备 3.6m 量子星环贯穿前后 LED 灯。\n该车提供炽光竞驰、云纱暖米、极速赛道内饰，一体式运动座椅，前排一键 / 语音舒躺，配备高通骁龙 8295P 座舱芯片 +24GB LPDDR4 运存 +128GB UFS 闪存，15.6 英寸 2.5K 高清中控屏 + 车手互联全覆盖。此外，该车搭载同级最高半固态 192 线激光雷达以及同级领先一段式端到端大模型。\n三电方面，该车搭载华为 DriveONE 多合一电驱，拥有同级领先 0.22Cd 低风阻，全新一代智能热管理系统，全球首发华为 DriveONE EMB 全电线控制动，同级首搭华为 iTrack 动态扭矩分配系统。",
+      "content": "<p data-vmark=\"e518\">IT之家 10 月 17 日消息，广汽埃安 Ray7 纯电轿车今日开启预售，共 5 款车型，预售价 12.88 万元起。</p><p data-vmark=\"d2b6\">IT之家附价格信息如下：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"3aa2\">530 后驱驾趣版 12.88 万元</p></li><li><p data-vmark=\"0efb\">530 后驱激光版 13.88 万元</p></li><li><p data-vmark=\"5aef\">702 后驱驾趣宁德版 13.88 万元</p></li><li><p data-vmark=\"7256\">702 后驱激光宁德版 14.88 万元</p></li><li><p data-vmark=\"d3d8\">702 后驱 EMB 激光宁德版 15.88 万元</p></li></ul><p data-vmark=\"b52e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e1071a16-1b83-4cab-9385-d38bda3c3ffb.png\" w=\"654\" h=\"1054\" data-weibo=\"0\" data-vmark=\"08b2\" class=\"no-alt-img\"></p><p data-vmark=\"9195\">该车提供<strong>仲夏紫、闪电黄、月辉银、风暴红、熔岩灰、云舒白、热带蓝</strong>车色，定位“大 5 米超级纯电轿车”，配备 3.6m 量子星环贯穿前后 LED 灯。</p><p data-vmark=\"3784\">该车提供炽光竞驰、云纱暖米、极速赛道内饰，一体式运动座椅，前排一键 / 语音舒躺，配备高通<strong>骁龙 8295P 座舱芯片</strong> +24GB LPDDR4 运存 +128GB UFS 闪存，15.6 英寸 2.5K 高清中控屏 + 车手互联全覆盖。此外，该车搭载同级最高半固态 192 线激光雷达以及同级领先一段式端到端大模型。</p><p data-vmark=\"4977\">三电方面，该车搭载<strong>华为 DriveONE 多合一电驱</strong>，拥有同级领先 0.22Cd 低风阻，全新一代智能热管理系统，全球首发华为 DriveONE EMB 全电线控制动，同级首搭华为 iTrack 动态扭矩分配系统。</p><p data-vmark=\"1e7f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/11396d63-d23f-4c5a-ba40-a353bd755ffa.png\" w=\"661\" h=\"2883\" data-weibo=\"1\" data-vmark=\"5c24\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/1/014/398.htm",
+      "link": "https://www.ithome.com/1/014/398.htm",
+      "pubDate": "Sat, 17 Oct 2026 13:06:00 GMT",
+      "isoDate": "2026-10-17T13:06:00.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 4,
+      "crossTags": []
+    },
+    {
+      "title": "荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，标准版 / Pro 版配置曝光",
+      "description": "IT之家 10 月 17 日消息，据博主 @数码闲聊站 今日爆料，荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，他还曝光了标准版 / Pro 版配置。\n\n标准版：第五代骁龙 8 至尊版处理器 + 单风扇 +12070mAh 电池 +90W 有线充；\n\nPro 版：第六代骁龙 8 超级至尊版处理器 + 双风扇 +10100mAh 电池 +100W 有线充 + 无线充。\n\n\nIT之家注意到，荣耀 WIN2 系列手机现已开启预约，新品提供快开黑、指定赢、红蓝 Buff 三种配色，提供 12GB+256GB、16GB+256GB、12GB+512GB、16GB+512GB 和 16GB+1TB 五种内存 / 存储空间组合。该系列机型采用了横向矩阵 Deco + 立边设计，后置 RGB 灯 + 散热风扇，后盖拥有云纹状特殊图案。\n\n维信诺昨晚宣布，维信诺与荣耀全球首发 2K 185Hz 电竞屏，荣耀 WIN2 系列手机全系搭载。海报显示，维信诺作为荣耀 WIN2 系列屏幕唯一战略供应伙伴，联合定制全球首款 2K 185Hz 电竞护眼屏。",
+      "content": "<p data-vmark=\"50d1\">IT之家 10 月 17 日消息，据博主 @数码闲聊站 今日爆料，荣耀 WIN2 全系维信诺 2K+185Hz 大直屏，他还曝光了标准版 / Pro 版配置。</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"20c9\">标准版：第五代骁龙 8 至尊版处理器 + 单风扇 +12070mAh 电池 +90W 有线充；</p></li><li><p data-vmark=\"92da\">Pro 版：第六代骁龙 8 超级至尊版处理器 + 双风扇 +10100mAh 电池 +100W 有线充 + 无线充。</p></li></ul><p data-vmark=\"37e9\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/4607e683-9237-4a82-99cc-ebe12e75a68d.png\" w=\"638\" h=\"1031\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2Fu%2F6048569942%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRn3QJ7rlb%22%2C%22qualityValue%22%3A%22original%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1f5366ff4fdefe19cc37378b2e195f91179c21a151d521cef36450797effa27869ac53cf3c5944d94\" data-vmark=\"d23f\" class=\"no-alt-img\"></p><p data-vmark=\"ad8f\">IT之家注意到，荣耀 WIN2 系列手机现已开启预约，新品提供快开黑、指定赢、红蓝 Buff 三种配色，提供 12GB+256GB、16GB+256GB、12GB+512GB、16GB+512GB 和 16GB+1TB 五种内存 / 存储空间组合。该系列机型采用了横向矩阵 Deco + 立边设计，<strong>后置 RGB 灯 + 散热风扇</strong>，后盖拥有云纹状特殊图案。</p><p style=\"text-align: center;\" data-vmark=\"e917\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/155d0268-50bd-44ad-bb14-b1b4ff80828f.jpg\" w=\"1072\" h=\"1916\" data-mpos=\"2,0\" data-weibo=\"1\"  data-vmark=\"104f\" class=\"no-alt-img\"></p><p data-vmark=\"fd2d\">维信诺昨晚宣布，维信诺与荣耀全球首发 2K 185Hz 电竞屏，荣耀 WIN2 系列手机全系搭载。海报显示，维信诺作为荣耀 WIN2 系列屏幕唯一战略供应伙伴，联合定制全球首款 2K 185Hz 电竞护眼屏。</p>",
+      "url": "https://www.ithome.com/1/014/349.htm",
+      "link": "https://www.ithome.com/1/014/349.htm",
+      "pubDate": "Sat, 17 Oct 2026 09:44:41 GMT",
+      "isoDate": "2026-10-17T09:44:41.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 4,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    }
+  ]
 }
