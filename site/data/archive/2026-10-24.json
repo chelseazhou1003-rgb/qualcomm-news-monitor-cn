@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T17:49:07.638Z",
-  "count": 3,
+  "generatedAt": "2026-10-24T22:08:16.388Z",
+  "count": 4,
   "articles": [
     {
       "title": "14.99 万元起，捷途山海 L7 PLUS 1.5L C-DM 智驾版新增“智享精英版”“激光雷达豪华版”上市",
@@ -61,6 +61,25 @@
       "section": "macro-environment",
       "subCategory": "supply-chain",
       "tagScore": 6,
+      "crossTags": []
+    },
+    {
+      "title": "美国财政部拟限制对华生物技术投资",
+      "description": "中国创新药的License-out（对外许可授权）和药明康德等CRO提供的外包研发不受影响，但可能覆盖NewCo、Co-Co和股权投资\n\n\n     资料图：约翰·穆勒纳尔（John Moolenaar）。2026年以来，美国将生物技术纳入监管的呼声渐起，主要推动者之一就是美国众议院“美中战略竞争特别委员会”主席约翰·穆勒纳尔。图：视觉中国\n    \n   \n　　【财新网】美国对中国的生物技术投资将受美方更严格监管。10月22日，美国财政部发布《全面对外投资国家安全法》（COINS Act）的实施细则的拟议规则，更新对外投资安全计划（OISP）。\n　　2025年12月，COINS Act作为《2026财年国防授权法》的一部分获得通过，旨在禁止或要求申报美国企业在敏感海外领域的投资，明确列出了五个领域：包括半导体技术与微电子、人工智能系统、量子信息技术、高性能计算与超级计算，以及高超音速系统。",
+      "content": "<blockquote><p>中国创新药的License-out（对外许可授权）和药明康德等CRO提供的外包研发不受影响，但可能覆盖NewCo、Co-Co和股权投资</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-10-24/179284626874739_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-10-24/179284626874739_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>资料图：约翰·穆勒纳尔（John Moolenaar）。2026年以来，美国将生物技术纳入监管的呼声渐起，主要推动者之一就是美国众议院“美中战略竞争特别委员会”主席约翰·穆勒纳尔。图：视觉中国</dd>\n    </dl>\n   <br>\n       <p>　　<b>【财新网】</b>美国对中国的生物技术投资将受美方更严格监管。10月22日，美国财政部发布《全面对外投资国家安全法》（COINS Act）的实施细则的拟议规则，更新对外投资安全计划（OISP）。</p>\n<p>　　2025年12月，COINS Act作为《2026财年国防授权法》的一部分获得通过，旨在禁止或要求申报美国企业在敏感海外领域的投资，明确列出了五个领域：包括半导体技术与微电子、人工智能系统、量子信息技术、高性能计算与超级计算，以及高超音速系统。</p>\n      ",
+      "url": "https://www.caixin.com/2026-10-24/102496975.html",
+      "link": "https://www.caixin.com/2026-10-24/102496975.html",
+      "pubDate": "Sat, 24 Oct 2026 12:34:21 GMT",
+      "isoDate": "2026-10-24T12:34:21.000Z",
+      "author": "",
+      "sourceId": "caixin",
+      "sourceName": "财新网",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "tagScore": 2,
       "crossTags": []
     }
   ]
