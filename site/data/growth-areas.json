@@ -1,8 +1,32 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T18:10:54.834Z",
+  "generatedAt": "2026-10-25T22:35:48.422Z",
   "section": "growth-areas",
   "sectionTitle": "增长领域",
-  "count": 0,
-  "articles": []
+  "count": 1,
+  "articles": [
+    {
+      "title": "AI进化速递丨启元机器人第5000台个人机器人正式下线",
+      "description": "①启元机器人第5000台个人机器人正式下线；\n\n②无问芯穹与三体宇宙联合发布智子Agent 1.0；\n\n③三星Exynos 2700内部测试得分超过高通旗舰芯片；\n\n④星闪3.0标准成果发布：面向全场景智能物联，瞄准AI、无源、毫米波等方向；\n\n⑤英国宣布设立AI生物安全实验室。",
+      "content": "<p>①启元机器人第5000台个人机器人正式下线；<br>\n<br>\n②无问芯穹与三体宇宙联合发布智子Agent 1.0；<br>\n<br>\n③三星Exynos 2700内部测试得分超过高通旗舰芯片；<br>\n<br>\n④星闪3.0标准成果发布：面向全场景智能物联，瞄准AI、无源、毫米波等方向；<br>\n<br>\n⑤英国宣布设立AI生物安全实验室。</p>\n",
+      "url": "https://www.yicai.com/news/103408308.html",
+      "link": "https://www.yicai.com/news/103408308.html",
+      "pubDate": "Sun, 25 Oct 2026 12:49:09 GMT",
+      "isoDate": "2026-10-25T12:49:09.000Z",
+      "author": "漆辛夷",
+      "sourceId": "yicai",
+      "sourceName": "第一财经",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "section": "growth-areas",
+      "subCategory": "embodied-ai-robotics",
+      "tagScore": 6,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    }
+  ]
 }
