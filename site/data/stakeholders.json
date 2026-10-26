@@ -1,34 +1,27 @@
 {
   "date": "2026-10-26",
-  "generatedAt": "2026-10-26T16:09:04.685Z",
+  "generatedAt": "2026-10-26T23:29:58.063Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
   "count": 1,
   "articles": [
     {
-      "title": "AI进化速递丨启元机器人第5000台个人机器人正式下线",
-      "description": "①启元机器人第5000台个人机器人正式下线；\n\n②无问芯穹与三体宇宙联合发布智子Agent 1.0；\n\n③三星Exynos 2700内部测试得分超过高通旗舰芯片；\n\n④星闪3.0标准成果发布：面向全场景智能物联，瞄准AI、无源、毫米波等方向；\n\n⑤英国宣布设立AI生物安全实验室。",
-      "content": "<p>①启元机器人第5000台个人机器人正式下线；<br>\n<br>\n②无问芯穹与三体宇宙联合发布智子Agent 1.0；<br>\n<br>\n③三星Exynos 2700内部测试得分超过高通旗舰芯片；<br>\n<br>\n④星闪3.0标准成果发布：面向全场景智能物联，瞄准AI、无源、毫米波等方向；<br>\n<br>\n⑤英国宣布设立AI生物安全实验室。</p>\n",
-      "url": "https://www.yicai.com/news/103408308.html",
-      "link": "https://www.yicai.com/news/103408308.html",
-      "pubDate": "Sun, 25 Oct 2026 12:49:09 GMT",
-      "isoDate": "2026-10-25T12:49:09.000Z",
-      "author": "漆辛夷",
-      "sourceId": "yicai",
-      "sourceName": "第一财经",
-      "sourceGroup": "finance",
-      "fetchStrategy": "rsshub",
-      "section": "growth-areas",
-      "subCategory": "embodied-ai-robotics",
-      "tagScore": 6,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
+      "title": "微软重新分工 Win11 硬件安全：Pluton 剥离 TPM 2.0 职能",
+      "description": "IT之家 10 月 26 日消息，科技媒体 NeoWin 今天（10 月 26 日）发布博文，报道称微软更新支持文档，宣布在新一代 AMD、英特尔和高通平台上，Pluton 安全协处理器不再承担 TPM 2.0 功能，TPM 将改由厂商固件 TPM 或独立 TPM 提供。\nIT之家注：在 Windows 11 系统中，微软提高了硬件门槛，其中一项硬性要求就是设备必须要支持可信平台模块（TPM）2.0 版本。\n\nTPM 通常以独立芯片、CPU 内的固件模块，或 SoC 中的安全协处理器形式存在。它拥有受保护存储区域，可保存密钥、证书、密码哈希和度量值；即使系统被重装或硬盘被拆走，这些受 TPM 保护的数据也难以被直接取出。\n在架构层面，Pluton 是微软主导、由 AMD、英特尔、高通等芯片厂商在处理器内部实现的安全架构。该架构直接在 SoC 中集成安全处理器、受保护存储和安全固件，目标是减少攻击者通过物理接触或固件攻击窃取密钥、凭证和系统数据的机会。\n在硬件落地方面，Pluton 将关键安全能力移入主处理器内部，让安全 CPU、密钥存储和加密引擎与系统主 CPU、内存及外部总线之间有更强的隔离边界。这样，密钥不必经过主板线路传输，攻击面更小。\n微软 Pluton 目前在 Windows 11 上运行以下芯片集的设备上可用：\n\nAMD：Ryzen™ 6000、7000、8000、9000 和 Ryzen™ AI 系列处理器\n\nIntel®：酷睿™系列处理器 - Ultra 200V 系列，Series 3 和 Ultra Series 3 处理器\n\nQualcomm：Snapdragon® 8cx Gen 3 和 Snapdragon® X 系列处理器\n\n此前 Pluton 的重要卖点之一，正是能够直接充当 TPM 2.0，并通过更隔离的硬件环境，降低攻击者物理接触设备后窃取数据的风险。\n\n报道称微软已调整其 Pluton 安全架构在新硬件上的角色。根据微软更新后的 2026 年硬件指导，在 AMD、英特尔和高通的新一代芯片平台上，Pluton 将不再作为系统的 TPM 2.0 使用。\nTPM 功能后续将改由处理器厂商提供的固件 TPM（fTPM）承担，例如英特尔的 PTT，或由主板上的独立 TPM 芯片提供。\n\n微软强调，这一变化并不意味着放弃 Pluton。Pluton 仍将继续存在于当前及未来的 Windows 设备中，并继续提供硬件隔离的安全环境，本次调整只是剥离“作为 TPM”的职能。\n不过，微软并未说明为何要在新平台上做出这一调整，也未公布是否与兼容性、供应链、安全策略或厂商实现方式有关。",
+      "content": "<p data-vmark=\"eb40\">IT之家 10 月 26 日消息，科技媒体 NeoWin 今天（10 月 26 日）发布博文，报道称微软更新支持文档，宣布在新一代 AMD、英特尔和高通平台上，<strong>Pluton 安全协处理器不再承担 TPM 2.0 功能</strong>，TPM 将改由厂商固件 TPM 或独立 TPM 提供。</p><p data-vmark=\"68db\">IT之家注：在 Windows 11 系统中，微软提高了硬件门槛，其中一项硬性要求就是设备必须要支持可信平台模块（TPM）2.0 版本。</p><p data-vmark=\"328c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/f8d5ed79-aabd-4aa7-9ca8-43a0b298411c.png?x-bce-process=image/format,f_auto\" w=\"1280\" h=\"720\" data-weibo=\"0\" data-vmark=\"5c41\" class=\"no-alt-img\"></p><p data-vmark=\"3eb9\">TPM 通常以独立芯片、CPU 内的固件模块，或 SoC 中的安全协处理器形式存在。它拥有受保护存储区域，可保存密钥、证书、密码哈希和度量值；即使系统被重装或硬盘被拆走，这些受 TPM 保护的数据也难以被直接取出。</p><p data-vmark=\"73f3\">在架构层面，Pluton 是微软主导、由 AMD、英特尔、高通等芯片厂商在处理器内部实现的安全架构。该架构直接在 SoC 中集成安全处理器、受保护存储和安全固件，目标是减少攻击者通过物理接触或固件攻击窃取密钥、凭证和系统数据的机会。</p><p data-vmark=\"86f6\">在硬件落地方面，Pluton 将关键安全能力移入主处理器内部，让安全 CPU、密钥存储和加密引擎与系统主 CPU、内存及外部总线之间有更强的隔离边界。这样，密钥不必经过主板线路传输，攻击面更小。</p><p data-vmark=\"f7f1\" style=\"text-align: start;\">微软 Pluton 目前在 Windows 11 上运行以下芯片集的设备上可用：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"584f\">AMD：Ryzen™ 6000、7000、8000、9000 和 Ryzen™ AI 系列处理器</p></li><li><p data-vmark=\"108e\">Intel®：酷睿™系列处理器 - Ultra 200V 系列，Series 3 和 Ultra Series 3 处理器</p></li><li><p data-vmark=\"b04f\">Qualcomm：Snapdragon® 8cx Gen 3 和 Snapdragon® X 系列处理器</p></li></ul><p data-vmark=\"9673\">此前 Pluton 的重要卖点之一，<strong>正是能够直接充当 TPM 2.0</strong>，并通过更隔离的硬件环境，降低攻击者物理接触设备后窃取数据的风险。</p><p data-vmark=\"bb90\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/0e683dd3-892c-48c6-9005-f8d3795a4fd7.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"809\" data-weibo=\"1\" alt=\"Windows 11 security powered by TPM 20\" data-vmark=\"01d9\" class=\"no-alt-img\"></p><p data-vmark=\"5f46\">报道称微软已调整其 Pluton 安全架构在新硬件上的角色。根据微软更新后的 2026 年硬件指导，在 AMD、英特尔和高通的新一代芯片平台上，<strong>Pluton 将不再作为系统的 TPM 2.0 使用。</strong></p><p data-vmark=\"68c9\"><strong>TPM 功能后续将改由处理器厂商提供的固件 TPM（fTPM）承担</strong>，例如英特尔的 PTT，或由主板上的独立 TPM 芯片提供。</p><p data-vmark=\"021f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/00300d56-b57e-4a03-b985-18c82a624f88.jpg?x-bce-process=image/format,f_auto\" w=\"416\" h=\"492\" data-weibo=\"2\" alt=\"Microsoft Pluton\" data-vmark=\"63c7\" class=\"no-alt-img\"></p><p data-vmark=\"ab14\">微软强调，这一变化并不意味着放弃 Pluton。Pluton 仍将继续存在于当前及未来的 Windows 设备中，并继续提供硬件隔离的安全环境，<strong>本次调整只是剥离“作为 TPM”的职能。</strong></p><p data-vmark=\"0d36\">不过，微软并未说明为何要在新平台上做出这一调整，也未公布是否与兼容性、供应链、安全策略或厂商实现方式有关。</p>",
+      "url": "https://www.ithome.com/1/018/142.htm",
+      "link": "https://www.ithome.com/1/018/142.htm",
+      "pubDate": "Mon, 26 Oct 2026 12:15:01 GMT",
+      "isoDate": "2026-10-26T12:15:01.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "tagScore": 17,
+      "crossTags": []
     }
   ]
 }
