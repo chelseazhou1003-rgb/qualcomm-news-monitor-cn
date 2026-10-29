@@ -1,7 +1,7 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T06:01:37.535Z",
-  "totalArticles": 1,
+  "generatedAt": "2026-10-29T09:16:10.258Z",
+  "totalArticles": 2,
   "sections": [
     {
       "id": "core-businesses",
@@ -21,7 +21,7 @@
     {
       "id": "macro-environment",
       "title": "宏观环境",
-      "count": 0
+      "count": 1
     },
     {
       "id": "competitors",
