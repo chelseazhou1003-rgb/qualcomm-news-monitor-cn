@@ -1,34 +1,8 @@
 {
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T10:37:59.841Z",
+  "generatedAt": "2026-11-01T17:46:30.994Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 1,
-  "articles": [
-    {
-      "title": "英特尔业绩不及预期股价下挫 美股科技板块缘何连日下挫",
-      "description": "英特尔单日大跌29%，创下上世纪70年代以来最大跌幅，并拖累芯片股齐跌\n\n\n     10月30日，受四季度业绩指引不及预期影响，英特尔单日大跌29%，创下上世纪70年代以来最大跌幅，并引领芯片股齐跌。图：视觉中国\n    \n   \n　　【财新网】美股科技巨头在10月最后一周密集发布第三季度财报，让AI盈利兑现忧虑再次升温，美股三大股指连续两日收跌，英特尔、谷歌（NASDAQ：GOOG）录得多年来的最大跌幅。\n　　10月30日，受四季度业绩指引不及预期影响，英特尔单日大跌29%，创下上世纪70年代以来最大跌幅，并引领芯片股齐跌：高通、超威半导体、迈威尔科技、ARM都有约10%的跌幅，英伟达也下跌4.22%，费城半导体指数单日下跌7.2%。",
-      "content": "<blockquote><p>英特尔单日大跌29%，创下上世纪70年代以来最大跌幅，并拖累芯片股齐跌</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-10-31/179342987532647_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-10-31/179342987532647_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>10月30日，受四季度业绩指引不及预期影响，英特尔单日大跌29%，创下上世纪70年代以来最大跌幅，并引领芯片股齐跌。图：视觉中国</dd>\n    </dl>\n   <br>\n       <p>　　<b>【财新网】</b>美股科技巨头在10月最后一周密集发布第三季度财报，让AI盈利兑现忧虑再次升温，美股三大股指连续两日收跌，英特尔、谷歌（NASDAQ：GOOG）录得多年来的最大跌幅。</p>\n<p>　　10月30日，受四季度业绩指引不及预期影响，英特尔单日大跌29%，创下上世纪70年代以来最大跌幅，并引领芯片股齐跌：高通、超威半导体、迈威尔科技、ARM都有约10%的跌幅，英伟达也下跌4.22%，费城半导体指数单日下跌7.2%。</p>\n      ",
-      "url": "https://www.caixin.com/2026-10-31/102499487.html",
-      "link": "https://www.caixin.com/2026-10-31/102499487.html",
-      "pubDate": "Sat, 31 Oct 2026 06:54:25 GMT",
-      "isoDate": "2026-10-31T06:54:25.000Z",
-      "author": "",
-      "sourceId": "caixin",
-      "sourceName": "财新网",
-      "sourceGroup": "finance",
-      "fetchStrategy": "rsshub",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 10,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "platform-partner"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "platform-partner"
-    }
-  ]
+  "count": 0,
+  "articles": []
 }

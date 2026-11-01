@@ -1,50 +1,45 @@
 {
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T10:37:59.841Z",
+  "generatedAt": "2026-11-01T17:46:30.994Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
   "count": 2,
   "articles": [
     {
-      "title": "高通发布骁龙 X 系列 PC 处理器 Windows 显卡驱动，改进多款游戏体验",
-      "description": "IT之家 11 月 1 日消息，Qualcomm（高通）于当地时间 10 月 29 日发布了适用于骁龙 X 系列 PC 处理器的 2026.10.1 版本 Adreno GPU Windows 显卡驱动程序。\n\n该驱动程序针对初代骁龙 X 和骁龙 X2 处理器有以下改进：\n\n骁龙 X\n\n\n游戏稳定性 / 质量改进\n\n\n《永劫无间》(NARAKA: BLADEPOINT)\n\n《荒野大镖客：救赎 2》(Red Dead Redemption 2)\n\n《机械战警：暴戾都市》(RoboCop: Rogue City)\n\n\n应用稳定性与性能提升\n\n\nLuminar Neo\n\nScam AI\n\n\n骁龙 X2\n\n\n游戏稳定性 / 质量改进\n\n\n《刺客信条：黑旗记忆重置》(Assassin's Creed Black Flag Resynced)\n\n《驱灵者：新伊甸的幽灵》(Banishers: Ghosts of New Eden)\n\n《极限竞速：地平线 6》(Forza Horizon 6)\n\n《侠盗猎车手 5 传承版》(Grand Theft Auto V Legacy)\n\n《漫威对决》(Marvel Rivals)\n\n《NBA 2K26》\n\n《机械战警：暴戾都市》(RoboCop: Rogue City)\n\n《僵尸世界大战》(World War Z)\n\n\n应用稳定性与性能提升\n\n\nLuminar Neo\n\nScam AI\n\n\n此外，高通注意到，对于运行 Microsoft Windows 11 操作系统 Build 26100.3915 及更高版本的用户，存在一个已知的操作系统问题：当连接或断开外接显示器，或更改显示模式和 / 或分辨率时，《地铁：离去》(Metro Exodus)《席德 · 梅尔的文明 VI》(Sid Meier's Civilization VI)《求生之路 2》(Left 4 Dead 2) 等游戏会出现崩溃或卡死的情况。\n参考\n\nhttps://softwarecenter.qualcomm.com/catalog/item/Windows_Graphics_Driver",
-      "content": "<p data-vmark=\"9ab4\">IT之家 11 月 1 日消息，Qualcomm（高通）于当地时间 10 月 29 日发布了适用于骁龙 X 系列 PC 处理器的 2026.10.1 版本 Adreno GPU Windows 显卡驱动程序。</p><p style=\"text-align: center;\" data-vmark=\"1ec9\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/36744b46-3832-44a3-b137-bb2cbb665119.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" data-weibo=\"0\" data-vmark=\"964e\" class=\"no-alt-img\"></p><p data-vmark=\"42fa\">该驱动程序针对初代骁龙 X 和骁龙 X2 处理器有以下改进：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"f371\"><strong>骁龙 X</strong></p></li><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"ca01\">游戏稳定性 / 质量改进</p></li><ul class=\"custom_dash list-paddingleft-1\"><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"90c8\">《永劫无间》(NARAKA: BLADEPOINT)</p></li><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"160c\">《荒野大镖客：救赎 2》(Red Dead Redemption 2)</p></li><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"c188\">《机械战警：暴戾都市》(RoboCop: Rogue City)</p></li></ul><li><p data-vmark=\"fc34\">应用稳定性与性能提升</p></li><ul class=\"custom_dash list-paddingleft-1\"><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"4896\">Luminar Neo</p></li><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"c5e4\">Scam AI</p></li></ul></ul><li><p data-vmark=\"4a05\"><strong>骁龙 X2</strong></p></li><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"48c2\">游戏稳定性 / 质量改进</p></li><ul class=\"custom_dash list-paddingleft-1\"><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"4eb6\">《刺客信条：黑旗记忆重置》(Assassin's Creed Black Flag Resynced)</p></li><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"4611\">《驱灵者：新伊甸的幽灵》(Banishers: Ghosts of New Eden)</p></li><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"343e\">《极限竞速：地平线 6》(Forza Horizon 6)</p></li><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"0e69\">《侠盗猎车手 5 传承版》(Grand Theft Auto V Legacy)</p></li><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"30c1\">《漫威对决》(Marvel Rivals)</p></li><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"e071\">《NBA 2K26》</p></li><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"0d46\">《机械战警：暴戾都市》(RoboCop: Rogue City)</p></li><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"3552\">《僵尸世界大战》(World War Z)</p></li></ul><li><p data-vmark=\"fd24\">应用稳定性与性能提升</p></li><ul class=\"custom_dash list-paddingleft-1\"><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"466b\">Luminar Neo</p></li><li class=\"list-dash list-dash-paddingleft\"><p data-vmark=\"5b13\">Scam AI</p></li></ul></ul></ul><p data-vmark=\"3c38\">此外，高通注意到，对于运行 Microsoft Windows 11 操作系统 Build 26100.3915 及更高版本的用户，<strong>存在一个已知的操作系统问题</strong>：当连接或断开外接显示器，或更改显示模式和 / 或分辨率时，《地铁：离去》(Metro Exodus)《席德 · 梅尔的文明 VI》(Sid Meier's Civilization VI)《求生之路 2》(Left 4 Dead 2) 等游戏会出现崩溃或卡死的情况。</p><p data-vmark=\"1b05\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"b1fc\"><a href=\"https://softwarecenter.qualcomm.com/catalog/item/Windows_Graphics_Driver\" target=\"_blank\"><span class=\"link-text-start-with-http\">https://softwarecenter.qualcomm.com/catalog/item/Windows_Graphics_Driver</span></a></p></li></ul>",
-      "url": "https://www.ithome.com/1/020/667.htm",
-      "link": "https://www.ithome.com/1/020/667.htm",
-      "pubDate": "Sun, 01 Nov 2026 01:54:18 GMT",
-      "isoDate": "2026-11-01T01:54:18.000Z",
+      "title": "一加推出 Turbo 6Vs 手机：第四代高通骁龙 7s 处理器，12G + 256G 售 3699 元",
+      "description": "IT之家 11 月 1 日消息，一加现已在其商城上架 Turbo 6Vs 手机，该机搭载第四代高通骁龙 7s 处理器，匹配 12GB RAM 和 256GB 存储空间，定价为 3699 元。\n\n\n该机提供双色可选，整体厚度 8.5mm，正面配备一块 6.78 英寸 2772x1272 分辨率 144Hz AMOLED 面板（峰值亮度 800 尼特，激发亮度 1800 尼特），匹配 16Mp 自拍摄像头。手机背面采用 50Mp 主摄 + 2Mp 辅助摄像头。\n\n\n该机使用第四代高通骁龙 7s 处理器，搭载 12GB LPDDR4X RAM 和 256GB UFS 3.1 存储，手机搭载 9000mAh 电池。IT之家附产品参数：",
+      "content": "<p data-vmark=\"4595\">IT之家 11 月 1 日消息，一加现已在其商城上架 Turbo 6Vs 手机，该机搭载第四代高通骁龙 7s 处理器，匹配 12GB RAM 和 256GB 存储空间，定价为 3699 元。</p><p data-vmark=\"c4bc\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/2c759ff5-b81e-47af-a8e1-7860f2759847.jpg?x-bce-process=image/format,f_auto\" w=\"1298\" h=\"716\" data-weibo=\"0\" data-vmark=\"fe8f\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d142283128a9f19669588a1afe0904ebb6923a91c04933404415b9c2409799fe2fed2b0d92f8ad0728\" class=\"no-alt-img\"></p><p data-vmark=\"30d0\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/98b82bcc-44e4-449f-be74-d0c13fd7490f.jpg?x-bce-process=image/format,f_auto\" w=\"1078\" h=\"1234\" data-weibo=\"1\" data-vmark=\"c66a\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d1972984aafa1c39ac5c8f38d1d8deb2acbb40d8f545d004727f95bd2a6c6a608b03cb4aa2eb1847cf\" class=\"no-alt-img\"></p><p data-vmark=\"cb48\">该机提供双色可选，整体厚度 8.5mm，正面配备一块 6.78 英寸 2772x1272 分辨率 144Hz AMOLED 面板（峰值亮度 800 尼特，激发亮度 1800 尼特），匹配 16Mp 自拍摄像头。手机背面采用 50Mp 主摄 + 2Mp 辅助摄像头。</p><p data-vmark=\"be8f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/219cdb44-4222-402d-8a24-fe75dd6c47d0.jpg?x-bce-process=image/format,f_auto\" w=\"1208\" h=\"525\" data-weibo=\"2\" data-vmark=\"f9bd\" data-mpos=\"0,0\" data-marks=\"1931fd9d012eb6d13d617b6457540a59f989ef2810e6b1e8b34c89e27605c6f5cde8fda934dd4948003994c5dd0cf684\" class=\"no-alt-img\"></p><p data-vmark=\"baae\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/9e0a490e-0902-4bc9-81f2-4cf5b52ae9eb.jpg?x-bce-process=image/format,f_auto\" w=\"1272\" h=\"648\" data-weibo=\"3\" data-vmark=\"1f1f\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d1da45569a1481ca9a26d6dacbd576bbf535744abfb44d8336c894e6d7fb805bd2b6a2fb87c2a2988c\" class=\"no-alt-img\"></p><p data-vmark=\"e61c\">该机使用第四代高通骁龙 7s 处理器，搭载 12GB LPDDR4X RAM 和 256GB UFS 3.1 存储，手机搭载 9000mAh 电池。IT之家附产品参数：</p><p data-vmark=\"7935\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/02b1cba6-979f-4aa0-b9b1-1bc60aa994ed.jpg?x-bce-process=image/format,f_auto\" w=\"1088\" h=\"962\" data-weibo=\"4\" data-vmark=\"9991\" data-mpos=\"0,2\" data-marks=\"1931fd9d012eb6d15b67b9cf87f3d7c7e7ae771c2065fc9fcfa87700b4cd92e99fefb4f9ac48821d90ef84a6fa17fdad\" class=\"no-alt-img\"></p><p data-vmark=\"84d8\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8177c178-0904-4c4d-ad16-b350a92e38c0.jpg?x-bce-process=image/format,f_auto\" w=\"1086\" h=\"1036\" data-weibo=\"5\" data-vmark=\"9177\" data-mpos=\"2,2\"  class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/1/020/764.htm",
+      "link": "https://www.ithome.com/1/020/764.htm",
+      "pubDate": "Sun, 01 Nov 2026 08:47:29 GMT",
+      "isoDate": "2026-11-01T08:47:29.000Z",
       "author": "",
       "sourceId": "ithome",
       "sourceName": "IT之家",
       "sourceGroup": "tech",
       "fetchStrategy": "rss",
       "section": "core-businesses",
-      "subCategory": "pc-chips-computing",
-      "tagScore": 3,
+      "subCategory": "mobile-chips",
+      "tagScore": 7,
       "crossTags": []
     },
     {
-      "title": "英特尔业绩不及预期股价下挫 美股科技板块缘何连日下挫",
-      "description": "英特尔单日大跌29%，创下上世纪70年代以来最大跌幅，并拖累芯片股齐跌\n\n\n     10月30日，受四季度业绩指引不及预期影响，英特尔单日大跌29%，创下上世纪70年代以来最大跌幅，并引领芯片股齐跌。图：视觉中国\n    \n   \n　　【财新网】美股科技巨头在10月最后一周密集发布第三季度财报，让AI盈利兑现忧虑再次升温，美股三大股指连续两日收跌，英特尔、谷歌（NASDAQ：GOOG）录得多年来的最大跌幅。\n　　10月30日，受四季度业绩指引不及预期影响，英特尔单日大跌29%，创下上世纪70年代以来最大跌幅，并引领芯片股齐跌：高通、超威半导体、迈威尔科技、ARM都有约10%的跌幅，英伟达也下跌4.22%，费城半导体指数单日下跌7.2%。",
-      "content": "<blockquote><p>英特尔单日大跌29%，创下上世纪70年代以来最大跌幅，并拖累芯片股齐跌</p></blockquote><br>\n    <dl class=\"media_pic\">\n     <dt><img data-src=\"https://img.caixin.com/2026-10-31/179342987532647_840_560.jpg\" class=\"cx-img-loader\" src=\"https://img.caixin.com/2026-10-31/179342987532647_840_560.jpg\" referrerpolicy=\"no-referrer\"></dt>\n     <dd>10月30日，受四季度业绩指引不及预期影响，英特尔单日大跌29%，创下上世纪70年代以来最大跌幅，并引领芯片股齐跌。图：视觉中国</dd>\n    </dl>\n   <br>\n       <p>　　<b>【财新网】</b>美股科技巨头在10月最后一周密集发布第三季度财报，让AI盈利兑现忧虑再次升温，美股三大股指连续两日收跌，英特尔、谷歌（NASDAQ：GOOG）录得多年来的最大跌幅。</p>\n<p>　　10月30日，受四季度业绩指引不及预期影响，英特尔单日大跌29%，创下上世纪70年代以来最大跌幅，并引领芯片股齐跌：高通、超威半导体、迈威尔科技、ARM都有约10%的跌幅，英伟达也下跌4.22%，费城半导体指数单日下跌7.2%。</p>\n      ",
-      "url": "https://www.caixin.com/2026-10-31/102499487.html",
-      "link": "https://www.caixin.com/2026-10-31/102499487.html",
-      "pubDate": "Sat, 31 Oct 2026 06:54:25 GMT",
-      "isoDate": "2026-10-31T06:54:25.000Z",
+      "title": "广汽昊铂埃安 BU 10 月销量 42357 辆同比增长 56.79%，Ray7 将于 11 月 12 日上市",
+      "description": "IT之家 11 月 1 日消息，广汽埃安今日宣布，昊铂埃安 BU 10 月销量 42,357 辆，连续 8 个月逆势正增长，同比增长 56.79%、环比增长 19.33%。\n此外官方还宣布，埃安 Ray7 将于 11 月 12 日在上海长三角国际电竞文化中心正式上市。\n\n据IT之家此前报道，广汽埃安 Ray7 于 10 月 17 日开启预售，预售价 12.88 万元起：\n\n530 后驱驾趣版：12.88 万元\n\n530 后驱激光版：13.88 万元\n\n702 后驱驾趣宁德版：13.88 万元\n\n702 后驱激光宁德版：14.88 万元\n\n702 后驱 EMB 激光宁德版：15.88 万元\n\n\n新车长宽高为 4960×1900×1455mm，轴距 2920mm；座舱配备高通骁龙 8295P 座舱芯片，搭载 15.6 英寸 2.5K 高清中控屏 + 车手互联全覆盖。\n\n该车搭载华为 DriveONE 多合一电驱，配合埃安全新热管理系统和 28 合一热管理模块，CLTC 百公里电耗 9.7 度，CLTC 纯电续航超 700km。\n\n\n相关阅读：\n\n《2026 年 10 月汽车销量 / 交付汇总（持续更新）》",
+      "content": "<p data-vmark=\"599c\">IT之家 11 月 1 日消息，广汽埃安今日宣布，昊铂埃安 BU 10 月销量 42,357 辆，<strong>连续 8 个月逆势正增长</strong>，同比增长 56.79%、环比增长 19.33%。</p><p data-vmark=\"fe6c\">此外官方还宣布，埃安 Ray7 将于 11 月 12 日在上海长三角国际电竞文化中心正式上市。</p><p style=\"text-align: center;\" data-vmark=\"c6e1\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/a5e300b2-bf19-4614-9403-c600f3410b83.jpg\" w=\"1280\" h=\"2313\" data-vmark=\"b552\" data-mpos=\"0,0\" data-weibo=\"0\"  class=\"no-alt-img\"></p><p data-vmark=\"b10c\">据IT之家此前报道，<a target=\"_blank\" href=\"https://www.ithome.com/1/014/398.htm\">广汽埃安 Ray7 于 10 月 17 日开启预售</a>，预售价 12.88 万元起：</p><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"3aa2\">530 后驱驾趣版：12.88 万元</p></li><li><p data-vmark=\"0efb\">530 后驱激光版：13.88 万元</p></li><li><p data-vmark=\"5aef\">702 后驱驾趣宁德版：13.88 万元</p></li><li><p data-vmark=\"7256\">702 后驱激光宁德版：14.88 万元</p></li><li><p data-vmark=\"d3d8\">702 后驱 EMB 激光宁德版：15.88 万元</p></li></ul><p style=\"text-align: center;\" data-vmark=\"ef64\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/b5506aa5-86a6-42b0-992e-838ac21b691e.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"803\" data-vmark=\"44ca\" data-weibo=\"1\" class=\"no-alt-img\"></p><p data-vmark=\"989c\">新车长宽高为 4960×1900×1455mm，轴距 2920mm；座舱配备高通骁龙 8295P 座舱芯片，搭载 15.6 英寸 2.5K 高清中控屏 + 车手互联全覆盖。</p><p style=\"text-align: center;\" data-vmark=\"8e65\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/50d6242a-78b7-4522-bb69-70b790d39490.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"720\" data-vmark=\"b592\" data-weibo=\"2\" class=\"no-alt-img\"></p><p data-vmark=\"046a\">该车搭载华为 DriveONE 多合一电驱，配合埃安全新热管理系统和 28 合一热管理模块，CLTC 百公里电耗 9.7 度，CLTC 纯电续航超 700km。</p><p style=\"text-align: center;\" data-vmark=\"4328\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4cd94b7f-4877-493a-9f7e-02d67eccf2c3.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"4261\" data-vmark=\"9e15\" data-weibo=\"3\" class=\"no-alt-img\"></p><p data-vmark=\"4e5e\" class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5078\" frameborder=\"no\"></iframe></p><p data-vmark=\"7da3\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"478f\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/020/661.htm\">2026 年 10 月汽车销量 / 交付汇总（持续更新）</a>》</p></li></ul>",
+      "url": "https://www.ithome.com/1/020/722.htm",
+      "link": "https://www.ithome.com/1/020/722.htm",
+      "pubDate": "Sun, 01 Nov 2026 06:13:37 GMT",
+      "isoDate": "2026-11-01T06:13:37.000Z",
       "author": "",
-      "sourceId": "caixin",
-      "sourceName": "财新网",
-      "sourceGroup": "finance",
-      "fetchStrategy": "rsshub",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
       "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 10,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "platform-partner"
-        }
-      ]
+      "subCategory": "automotive",
+      "tagScore": 8,
+      "crossTags": []
     }
   ]
 }
