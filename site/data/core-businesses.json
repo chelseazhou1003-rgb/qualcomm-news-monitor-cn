@@ -1,8 +1,77 @@
 {
   "date": "2026-11-02",
-  "generatedAt": "2026-11-02T06:01:27.517Z",
+  "generatedAt": "2026-11-02T09:03:12.911Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 0,
-  "articles": []
+  "count": 3,
+  "articles": [
+    {
+      "title": "消息称三星首款 AI 眼镜 12 月中旬登陆韩国、美国，要和 Meta 抢市场？",
+      "description": "IT之家 11 月 2 日消息，据 TrendForce 今天报道，三星正准备进军 AI 智能眼镜市场，计划 12 月中旬在韩国和美国推出品牌首款 AI 智能眼镜。命名暂定为“Intelligent Eyewear”，售价尚未确定。\n\nIT之家从原报道获悉，这款 AI 眼镜的首发市场不包括欧洲、中国和日本等地。三星考虑到 AI 眼镜是全新产品品类，因此希望先评估韩国和美国市场需求及用户反馈，再决定是否扩大市场范围。\n硬件方面，Intelligent Eyewear 将搭载谷歌 Android XR 平台、集成 Gemini AI，通过摄像头和麦克风感知环境，提供实时翻译和语音导航等功能。该产品还可以拍摄文件和会议场景，将有关信息整理到 Galaxy 手机的笔记 App。该产品并没有显示屏，主要通过语音交互。\n同时，该产品预计将搭载高通骁龙 AR1 Gen 1 处理器，单次充电续航最长 9 小时。产品设计层面，三星已经和 Gentle Monster 与 Warby Parker 合作。今年 5 月的 Google I/O 大会上，三星展示了两种设计方案；上个月在伦敦举行的 Galaxy Unpacked 活动则出现了另外两款设计。\n值得注意的是，智能眼镜市场已经有多个玩家入局，三星能否成功杀出重围尚无定论。例如 XREAL 刚刚发布了全球首款 Android XR 智能 AR 眼镜 XREAL AURA，预计 11 月中旬在美国、加拿大、日本和韩国等市场出货。并且 Meta 已经深耕智能眼镜市场多年，他们的产品已经覆盖高中低不同价格段。",
+      "content": "<p data-vmark=\"9805\">IT之家 11 月 2 日消息，据 TrendForce 今天报道，三星正准备进军 AI 智能眼镜市场，计划 12 月中旬在韩国和美国推出品牌首款 AI 智能眼镜。命名暂定为“Intelligent Eyewear”，售价尚未确定。</p><p style=\"text-align: center;\" data-vmark=\"476d\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/a1dfcd96-d38b-4b3f-b9e4-12a7c41042ef.jpg?x-bce-process=image/format,f_auto\" w=\"1024\" h=\"576\" data-weibo=\"0\" data-vmark=\"4ffa\" class=\"no-alt-img\"></p><p data-vmark=\"426d\">IT之家从原报道获悉，这款 AI 眼镜的首发市场不包括欧洲、中国和日本等地。三星考虑到 AI 眼镜是全新产品品类，因此希望先评估韩国和美国市场需求及用户反馈，再决定是否扩大市场范围。</p><p data-vmark=\"6524\">硬件方面，Intelligent Eyewear 将搭载谷歌 Android XR 平台、集成 Gemini AI，通过摄像头和麦克风感知环境，提供实时翻译和语音导航等功能。该产品还可以拍摄文件和会议场景，将有关信息整理到 Galaxy 手机的笔记 App。该产品并没有显示屏，主要通过语音交互。</p><p data-vmark=\"3d6b\">同时，该产品预计将搭载高通骁龙 AR1 Gen 1 处理器，单次充电续航最长 9 小时。产品设计层面，三星已经和 Gentle Monster 与 Warby Parker 合作。今年 5 月的 Google I/O 大会上，三星展示了两种设计方案；上个月在伦敦举行的 Galaxy Unpacked 活动则出现了另外两款设计。</p><p data-vmark=\"814a\">值得注意的是，智能眼镜市场已经有多个玩家入局，三星能否成功杀出重围尚无定论。<a href=\"https://www.ithome.com/1/019/424.htm\" target=\"_blank\">例如 XREAL 刚刚发布了全球首款 Android XR 智能 AR 眼镜 XREAL AURA</a>，预计 11 月中旬在美国、加拿大、日本和韩国等市场出货。并且 Meta 已经深耕智能眼镜市场多年，他们的产品已经覆盖高中低不同价格段。</p>",
+      "url": "https://www.ithome.com/1/020/866.htm",
+      "link": "https://www.ithome.com/1/020/866.htm",
+      "pubDate": "Mon, 02 Nov 2026 01:00:01 GMT",
+      "isoDate": "2026-11-02T01:00:01.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "iot-xr",
+      "tagScore": 6,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        },
+        {
+          "type": "stakeholder",
+          "id": "platform-partner"
+        }
+      ]
+    },
+    {
+      "title": "海贝推出 HiBy R6III SE 便携 Hi-Fi 播放器：4 颗 CS43198 DAC 芯片，1798 元",
+      "description": "IT之家 11 月 1 日消息，海贝宣布推出一款 HiBy R6III SE 便携 Hi-Fi 播放器，定价为 1798 元。\n\n该机整体尺寸为 129.4 x 73.1 x 15.6 mm，重量为 250 g。提供黑色和海军蓝两种颜色选择，正面配备了一块 5 英寸 1280x720 分辨率 IPS 面板，背部搭配了钻石切割纹理的玻璃背板。\n\n该机采用 4 颗 CS43198 DAC 芯片，支持 8 路独立输出。耳放部分支持 A 类和 AB 类模式切换，其中 A 类耳放由 OPA1652 运放、晶体管及 ELNA 音频电容组成。硬件搭载 45.158MHz 和 49.152MHz 两颗专用音频晶振。\n\n该机搭载骁龙 665 处理器，配备 3GB RAM 与 32GB 存储空间，机身底部配备 3.5mm PO、4.4mm BAL、3.5mm LO 和 4.4mm BAL.LO 模拟音频接口，以及支持同轴输出的 USB-C 数字接口。系统内置全局 DTA 技术可绕开安卓 SRC，并支持 HiByCast 全局遥控。无线端支持 2.4G 与 5.0G 双频 WiFi 及双向 Bluetooth 5.0，兼容 UAT、LDAC 等蓝牙协议。\n该播放器内置 4500mAh 容量电池。在 AB 类模式下，3.5mm 单端输出续航约为 13 小时，4.4mm 平衡输出续航约为 11 小时；切换至 A 类模式时，3.5mm 单端续航为 11 小时，4.4mm 平衡输出续航为 9 小时。\nIT之家附产品参数：",
+      "content": "<p data-vmark=\"42d9\">IT之家 11 月 1 日消息，海贝宣布推出一款 HiBy R6III SE 便携 Hi-Fi 播放器，定价为 1798 元。</p><p style=\"text-align: center;\" data-vmark=\"e6be\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/195fe4c9-5c4b-49bc-a2be-e361627e4cdc.png?x-bce-process=image/format,f_auto\" w=\"650\" h=\"1012\" data-weibo=\"0\" data-vmark=\"8680\" class=\"no-alt-img\"></p><p data-vmark=\"ed0a\">该机整体尺寸为 129.4 x 73.1 x 15.6 mm，重量为 250 g。提供黑色和海军蓝两种颜色选择，正面配备了一块 5 英寸 1280x720 分辨率 IPS 面板，背部搭配了钻石切割纹理的玻璃背板。</p><p style=\"text-align: center;\" data-vmark=\"1182\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/353a7ca0-5ce0-4ea9-93d7-098f1c0e9d60.png?x-bce-process=image/format,f_auto\" w=\"596\" h=\"698\" data-weibo=\"1\" data-vmark=\"d686\" class=\"no-alt-img\"></p><p data-vmark=\"8acd\">该机采用 4 颗 CS43198 DAC 芯片，支持 8 路独立输出。耳放部分支持 A 类和 AB 类模式切换，其中 A 类耳放由 OPA1652 运放、晶体管及 ELNA 音频电容组成。硬件搭载 45.158MHz 和 49.152MHz 两颗专用音频晶振。</p><p style=\"text-align: center;\" data-vmark=\"2030\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4af59592-2890-4401-8027-91dc3393ceb5.png?x-bce-process=image/format,f_auto\" w=\"608\" h=\"708\" data-weibo=\"2\" data-vmark=\"e8ea\" class=\"no-alt-img\"></p><p data-vmark=\"8560\">该机搭载骁龙 665 处理器，配备 3GB RAM 与 32GB 存储空间，机身底部配备 3.5mm PO、4.4mm BAL、3.5mm LO 和 4.4mm <span class=\"link-text-start-with-http\">BAL.LO</span> 模拟音频接口，以及支持同轴输出的 USB-C 数字接口。系统内置全局 DTA 技术可绕开安卓 SRC，并支持 HiByCast 全局遥控。无线端支持 2.4G 与 5.0G 双频 WiFi 及双向 Bluetooth 5.0，兼容 UAT、LDAC 等蓝牙协议。</p><p data-vmark=\"cc8f\">该播放器内置 4500mAh 容量电池。在 AB 类模式下，3.5mm 单端输出续航约为 13 小时，4.4mm 平衡输出续航约为 11 小时；切换至 A 类模式时，3.5mm 单端续航为 11 小时，4.4mm 平衡输出续航为 9 小时。</p><p data-vmark=\"a689\">IT之家附产品参数：</p><p style=\"text-align: center;\" data-vmark=\"5b2b\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/0e55a63f-e332-48f2-8a2a-b5407516c216.png?x-bce-process=image/format,f_auto\" w=\"462\" h=\"1414\" data-weibo=\"3\" data-vmark=\"629e\" class=\"no-alt-img\"></p>",
+      "url": "https://www.ithome.com/1/020/836.htm",
+      "link": "https://www.ithome.com/1/020/836.htm",
+      "pubDate": "Sun, 01 Nov 2026 14:01:22 GMT",
+      "isoDate": "2026-11-01T14:01:22.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "tagScore": 7,
+      "crossTags": []
+    },
+    {
+      "title": "7499 → 5718 元：vivo X300 Ultra 国补新低，配 3+2 蔡司大师镜头群",
+      "description": "【京东活动可能随时变更，需以实付款为准】\nvivo X300 Ultra 手机 2026 年 4 月开售，新机号称「专业 V 单」，搭载第五代骁龙 8 至尊版处理器、拥有 3+2 蔡司大师镜头群，12GB+512GB 定价 7499 元。\n京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 500 元国补后仅需 5718.25 元：\n\n领 1000 元直播间券：点此查看。\n\n领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）：点此查看。\n\n京东 vivo X300 Ultra12GB+512GB 国补后 5718.25 元领 1000 元券\n京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花：点此抽取。\n\n京东 vivo X300 Ultra12GB+512GB 国补后 5718.25 元领 1000 元券\n\n淘宝 11.11 主会场：点此前往\n\n京东 11.11 主会场：点此前往\n\n京东 11.11 手机叠加国补立减千元：点此查看\n\n京东 11.11 家电家居主会场：点此前往\n\n京东 11.11 数码主会场：点此前往",
+      "content": "<h3 data-vmark=\"fd3d\">【京东活动可能随时变更，需以实付款为准】</h3><p data-vmark=\"59e8\">vivo X300 Ultra 手机 2026 年 4 月开售，新机号称「专业 V 单」，搭载第五代骁龙 8 至尊版处理器、拥有 3+2 蔡司大师镜头群，12GB+512GB 定价 7499 元。</p><p data-vmark=\"9816\">京东 11.11 大促期间，按下方步骤下单，叠加 PLUS 立减 + 500 元国补后仅需 5718.25 元：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"143b\">领 1000 元直播间券：<a href=\"https://u.jd.com/e1vw6rk\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eGvIBY5\" data-iosurl=\"https://u.jd.com/ervMkzK\" data-androidurl=\"https://u.jd.com/eOnoKlA\" data-hosnexturl=\"https://u.jd.com/eDvtmXw\" data-hosurl=\"https://u.jd.com/eDnemRY\" data-itwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fegvKKGh%26EA_PTAG%3d17078.27.380\" data-lpwxurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fe6n4wGI%26EA_PTAG%3d17078.27.380\" data-uwpurl=\"https://u.jd.com/eGnFQOA\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fervCJW2%26EA_PTAG%3d17078.27.380\" data-ncid=\"262468\">点此查看</a>。</p></li><li><p data-vmark=\"fa38\">领 800-80 元 PLUS 专享券（需 2 积分 10 点、20 点抢）：<a href=\"https://u.jd.com/eOvt0yz\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eane85D\" data-iosurl=\"https://u.jd.com/ervwI1T\" data-androidurl=\"https://u.jd.com/eGvt7Kd\" data-hosnexturl=\"https://u.jd.com/eGvsQHq\" data-hosurl=\"https://u.jd.com/e6nF4yo\" data-uwpurl=\"https://u.jd.com/eDvtI3S\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fervsYGy%26EA_PTAG%3d17078.27.380\" data-ncid=\"262468\">点此查看</a>。</p></li></ul><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eDnUrlG\" target=\"_blank\" data-wapurl=\"https://u.jd.com/egvMJn8\" data-iosurl=\"https://u.jd.com/e6vKg0v\" data-androidurl=\"https://u.jd.com/e1n9HOi\" data-hosnexturl=\"https://u.jd.com/eanF6gw\" data-hosurl=\"https://u.jd.com/eDnFZad\" data-uwpurl=\"https://u.jd.com/egvCniO\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fe1nh6ml%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/eGnkowv\" data-lpwxurl=\"https://u.jd.com/eOn4gMW\"   data-ncid=\"262468\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/407305/21/4983/28681/69c096dcF0f67e720/008332032075682b.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> vivo X300 Ultra</span></span><span class=\"card-abstract\">12GB+512GB</span><span class=\"card-controls\"><span class=\"price\"> 国补后 5718.25 元</span><span class=\"card-btn-deep\">领 1000 元券</span></span></span></span></a></dir><p data-vmark=\"14b2\">京东 11.11 无门槛红包至高 26888 元，支持即领即用，下单直接当钱花：<a href=\"https://u.jd.com/eDnxPjd\" target=\"_blank\" data-wapurl=\"https://u.jd.com/eOnFAsz\" data-iosurl=\"https://u.jd.com/eGvty8i\" data-androidurl=\"https://u.jd.com/e6nXleI\" data-hosnexturl=\"https://u.jd.com/eOnxYCw\" data-hosurl=\"https://u.jd.com/e1n5uU4\" data-uwpurl=\"https://u.jd.com/ern4PkM\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252feDn5ih8%26EA_PTAG%3d17078.27.380\" data-ncid=\"262468\"><strong>点此抽取</strong></a>。</p><p data-vmark=\"9c5b\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/img/share/93763d5c-3621-4a2e-8de4-d9b654269fd0.png\" w=\"750\" h=\"1826\" data-for-products=\"JTdCJTIycHJvZHVjdElkcyUyMiUzQSU1QjQ3NTk4JTVEJTJDJTIycHJvZHVjdHMlMjIlM0ElNUIlN0IlMjJwcm9kdWN0TmFtZSUyMiUzQSUyMnZpdm8lMjBYMzAwJTIwVWx0cmElMjIlMkMlMjJwcm9kdWN0SWQlMjIlM0E0NzU5OCU3RCU1RCUyQyUyMnRpdGxlJTIyJTNBJTIyJUU0JUJBJUE3JUU1JTkzJTgxJUU1JThGJTgyJUU2JTk1JUIwJUU4JUFGJUE2JUU2JTgzJTg1JTIyJTJDJTIyYmdDb2xvciUyMiUzQSUyMiUyMzAwMDAwMCUyMiUyQyUyMmxpbmVDb2xvciUyMiUzQSUyMiUyM0EyQTJBMiUyMiUyQyUyMnRleHRDb2xvciUyMiUzQSUyMiUyM0ZGRkZGRiUyMiUyQyUyMmZpcnN0Q29sb3IlMjIlM0ElMjIlMjNkMjIyMjIlMjIlMkMlMjJxckNvZGUlMjIlM0F0cnVlJTJDJTIyd2F0ZXJNYXJrJTIyJTNBdHJ1ZSUyQyUyMnNob3dJbWFnZSUyMiUzQXRydWUlMkMlMjJzaG93U2F0ZWxsaXRlJTIyJTNBZmFsc2UlN0Q=\" data-vmark=\"219f\" class=\"no-alt-img\"></p><dir><a contenteditable=\"false\" href=\"https://u.jd.com/eDnUrlG\" target=\"_blank\" data-wapurl=\"https://u.jd.com/egvMJn8\" data-iosurl=\"https://u.jd.com/e6vKg0v\" data-androidurl=\"https://u.jd.com/e1n9HOi\" data-hosnexturl=\"https://u.jd.com/eanF6gw\" data-hosurl=\"https://u.jd.com/eDnFZad\" data-uwpurl=\"https://u.jd.com/egvCniO\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fe1nh6ml%26EA_PTAG%3d17078.27.380\" data-itwxurl=\"https://u.jd.com/eGnkowv\" data-lpwxurl=\"https://u.jd.com/eOn4gMW\"   data-ncid=\"262468\"><span class=\"card main-site\"><span class=\"card-logo\"><img src=\"https://img14.360buyimg.com/pop/jfs/t1/407305/21/4983/28681/69c096dcF0f67e720/008332032075682b.jpg\" w=\"800\" h=\"800\"></span><span class=\"card-info\"><span class=\"card-title\"><span class=\"mall-data\">京东</span><span class=\"card-name\"> vivo X300 Ultra</span></span><span class=\"card-abstract\">12GB+512GB</span><span class=\"card-controls\"><span class=\"price\"> 国补后 5718.25 元</span><span class=\"card-btn-deep\">领 1000 元券</span></span></span></span></a></dir><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f8e0\">淘宝 11.11 主会场：<a href=\"https://s.click.taobao.com/a6muNbi\" target=\"_blank\"><strong>点此前往</strong></a></p></li><li><p data-vmark=\"9603\">京东 11.11 主会场：<a href=\"https://u.jd.com/FgXTbTA\" target=\"_blank\" data-wapurl=\"https://u.jd.com/F1XkzeO\" data-iosurl=\"https://u.jd.com/F6XEMr0\" data-androidurl=\"https://u.jd.com/FaXBM2A\" data-hosnexturl=\"https://u.jd.com/FaXE6ud\" data-hosurl=\"https://u.jd.com/FaXWGOm\" data-uwpurl=\"https://u.jd.com/FOXjm0u\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFaXEnKV%26EA_PTAG%3d17078.27.380\" data-ncid=\"252082\"><strong>点此前往</strong></a></p></li><li><p data-vmark=\"bb09\" style=\"text-align: left;\">京东 11.11 手机叠加国补立减千元：<a href=\"https://u.jd.com/FDXJm2Q\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FGXXcon\" data-iosurl=\"https://u.jd.com/paPWrmy\" data-androidurl=\"https://u.jd.com/FGXTAaA\" data-hosnexturl=\"https://u.jd.com/paPWrmy\" data-hosurl=\"https://u.jd.com/FrXEEHo\" data-uwpurl=\"https://u.jd.com/FaXUwNy\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFOXRxYJ%26EA_PTAG%3d17078.27.380\" data-ncid=\"252082\"><strong>点此查看</strong></a></p></li><li><p data-vmark=\"f2eb\">京东 11.11 家电家居主会场：<a href=\"https://u.jd.com/F6Xx6fg\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FgXNRwE\" data-iosurl=\"https://u.jd.com/FrXxd1m\" data-androidurl=\"https://u.jd.com/FOXJxnf\" data-hosnexturl=\"https://u.jd.com/FOXfLLj\" data-hosurl=\"https://u.jd.com/FgXc3fP\" data-uwpurl=\"https://u.jd.com/FGXkTz1\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFrXR52p%26EA_PTAG%3d17078.27.380\" data-ncid=\"252082\"><strong>点此前往</strong></a></p></li><li><p data-vmark=\"c8c9\">京东 11.11 数码主会场：<a href=\"https://u.jd.com/F6XZzwW\" target=\"_blank\" data-wapurl=\"https://u.jd.com/FrXchRd\" data-iosurl=\"https://u.jd.com/FDXlKad\" data-androidurl=\"https://u.jd.com/pGPx9Qn\" data-hosnexturl=\"https://u.jd.com/F1Xj32k\" data-hosurl=\"https://u.jd.com/FOXjnzm\" data-uwpurl=\"https://u.jd.com/FDXANoO\" data-wxmpurl=\"ithome://openmp?appid=wx91d27dbf599dff74&amp;path=%2fpages%2funion%2fproxy%2fproxy%3fspreadUrl%3dhttps%253a%252f%252fu.jd.com%252fFgX5wjM%26EA_PTAG%3d17078.27.380\" data-ncid=\"252082\"><strong>点此前往</strong></a></p></li></ul>",
+      "url": "https://www.ithome.com/1/020/827.htm",
+      "link": "https://www.ithome.com/1/020/827.htm",
+      "pubDate": "Sun, 01 Nov 2026 12:39:41 GMT",
+      "isoDate": "2026-11-01T12:39:41.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 4,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    }
+  ]
 }
