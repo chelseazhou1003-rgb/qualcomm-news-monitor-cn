@@ -1,18 +1,18 @@
 {
   "date": "2026-11-03",
-  "generatedAt": "2026-11-03T06:01:33.371Z",
+  "generatedAt": "2026-11-03T09:49:17.847Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 2,
+  "count": 1,
   "articles": [
     {
-      "title": "广汽埃安 Ray7 车型 11 月 12 日上市：搭载华为 DriveONE 多合一电驱，预售价 12.88 万元起",
-      "description": "IT之家 11 月 2 日消息，广汽埃安宣布旗下埃安 Ray7 车型将于 11 月 12 日正式上市，该机已经在 10 月 17 日开启预售，包含五款车型，预售价区间 12.88-15.88 万元。\n\n该车提供仲夏紫、闪电黄、月辉银、风暴红、熔岩灰、云舒白、热带蓝车色，定位“大 5 米超级纯电轿车”，配备 3.6m 量子星环贯穿前后 LED 灯。\n该车提供炽光竞驰、云纱暖米、极速赛道内饰，一体式运动座椅，前排一键 / 语音舒躺，配备高通骁龙 8295P 座舱芯片 +24GB LPDDR4 运存 +128GB UFS 闪存，15.6 英寸 2.5K 高清中控屏 + 车手互联全覆盖。此外，该车搭载同级最高半固态 192 线激光雷达以及同级领先一段式端到端大模型。\n三电方面，该车搭载华为 DriveONE 多合一电驱，拥有同级领先 0.22Cd 低风阻，全新一代智能热管理系统，全球首发华为 DriveONE EMB 全电线控制动，同级首搭华为 iTrack 动态扭矩分配系统。",
-      "content": "<p data-vmark=\"cfee\">IT之家 11 月 2 日消息，广汽埃安宣布旗下埃安 Ray7 车型将于 11 月 12 日正式上市，该机已经在 10 月 17 日开启预售，包含五款车型，预售价区间 12.88-15.88 万元。</p><p data-vmark=\"b52e\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/e1071a16-1b83-4cab-9385-d38bda3c3ffb.png?x-bce-process=image/format,f_auto\" w=\"654\" h=\"1054\" data-weibo=\"0\" data-vmark=\"08b2\" class=\"no-alt-img\"></p><p data-vmark=\"9195\">该车提供仲夏紫、闪电黄、月辉银、风暴红、熔岩灰、云舒白、热带蓝车色，定位“大 5 米超级纯电轿车”，配备 3.6m 量子星环贯穿前后 LED 灯。</p><p data-vmark=\"3784\">该车提供炽光竞驰、云纱暖米、极速赛道内饰，一体式运动座椅，前排一键 / 语音舒躺，配备高通骁龙 8295P 座舱芯片 +24GB LPDDR4 运存 +128GB UFS 闪存，15.6 英寸 2.5K 高清中控屏 + 车手互联全覆盖。此外，该车搭载同级最高半固态 192 线激光雷达以及同级领先一段式端到端大模型。</p><p data-vmark=\"4977\">三电方面，该车搭载华为 DriveONE 多合一电驱，拥有同级领先 0.22Cd 低风阻，全新一代智能热管理系统，全球首发华为 DriveONE EMB 全电线控制动，同级首搭华为 iTrack 动态扭矩分配系统。</p><p data-vmark=\"1e7f\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/10/11396d63-d23f-4c5a-ba40-a353bd755ffa.png?x-bce-process=image/format,f_auto\" w=\"661\" h=\"2883\" data-weibo=\"1\" data-vmark=\"5c24\" class=\"no-alt-img\"></p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"1327\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5082\" frameborder=\"no\"></iframe></p>",
-      "url": "https://www.ithome.com/1/021/237.htm",
-      "link": "https://www.ithome.com/1/021/237.htm",
-      "pubDate": "Mon, 02 Nov 2026 10:53:33 GMT",
-      "isoDate": "2026-11-02T10:53:33.000Z",
+      "title": "高通 HBC 完成验证：133 TB/s 内存带宽 18 倍于 AI200，AI250 明年上半年出样",
+      "description": "IT之家 11 月 3 日消息，高通昨日宣布，其第一代高带宽计算（HBC）技术已在美国圣迭戈实验室完成了硬件验证，验证了该技术的完整读写能力和近存计算能力。\n高通 HBC 技术通过将多层 LPDDR 内存堆叠在计算芯片上方，试图在提升 AI 推理内存带宽的同时降低能耗。\n\n搭载该架构的 AI250 加速器计划于 2027 年上半年出样，意味着这一以 LPDDR 替代 HBM 的推理内存方案进入产品化阶段。\n\nIT之家注：HBC（High Bandwidth Compute，高带宽计算）是高通针对 AI 推理场景开发的近存计算架构。与传统 HBM 主要通过堆叠 DRAM 芯片提升带宽不同，HBC 采用多层 LPDDR 内存垂直堆叠的设计，并通过硅通孔（TSV）实现芯片间互连。堆叠结构底部则集成一颗计算芯片，负责近存计算，减少内存与处理单元之间的数据传输距离。\n高通此前公布的技术方案显示，HBC 将计算单元直接放置在内存堆叠下方，使数据传输距离从传统架构中的数厘米缩短至数微米。高通希望借助 LPDDR 相对较低的功耗，以及计算与内存紧密集成的设计，改善 AI 推理场景下的数据搬运效率。\n高通表示，HBC 的目标是实现每瓦带宽达到传统 HBM 方案的 6 倍。高通此次验证使用的早期样品采用两层 DRAM 堆叠，测试结果显示，其每瓦带宽超过 HBM4 的 5 倍，但尚未达到此前公布的 6 倍目标。正式产品预计采用四层堆叠设计。\n\n性能方面，高通公布的第一代 HBC 方案将为 AI250 加速卡提供 133 TB/s 的有效内存带宽，相比采用 LPDDR5X 内存的 AI200 加速卡提升 18 倍。\n\n根据高通 2026 年 6 月公布的数据中心产品路线图，AI250 将搭载第一代 HBC 技术，后续 AI300 则计划采用第二代 HBC。高通称，AI300 的有效内存带宽设计目标将达到 AI200 的 54 倍。\n相关阅读：\n\n《高通骁龙芯片将整合 HBC 架构：手机本地运行 AI 更快、更省电》\n\n《高通拟将数据中心芯片堆叠架构引入手机 SoC，提升端侧 AI 能力》",
+      "content": "<p data-vmark=\"8bb1\">IT之家 11 月 3 日消息，高通昨日宣布，其第一代高带宽计算（HBC）技术已在美国圣迭戈实验室完成了硬件验证，验证了该技术的完整读写能力和近存计算能力。</p><p data-vmark=\"6a58\">高通 HBC 技术通过将多层 LPDDR 内存堆叠在计算芯片上方，试图在提升 AI 推理内存带宽的同时降低能耗。</p><p style=\"text-align: center;\" data-vmark=\"9bb3\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/7140c223-efc2-4da4-99c1-cf71f0eef41c.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"737\" data-weibo=\"0\" data-vmark=\"25f9\" class=\"no-alt-img\"></p><p data-vmark=\"e372\">搭载该架构的 AI250 加速器计划于 2027 年上半年出样，意味着这一以 LPDDR 替代 HBM 的推理内存方案进入产品化阶段。</p><p style=\"text-align: center;\" data-vmark=\"2aaf\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1f7e5405-5715-423f-a2f9-998c9f24c86c.png?x-bce-process=image/format,f_auto\" w=\"814\" h=\"458\" data-weibo=\"1\" data-vmark=\"ab0a\" class=\"no-alt-img\"></p><p data-vmark=\"e946\">IT之家注：HBC（High Bandwidth Compute，高带宽计算）是高通针对 AI 推理场景开发的近存计算架构。与传统 HBM 主要通过堆叠 DRAM 芯片提升带宽不同，HBC 采用多层 LPDDR 内存垂直堆叠的设计，并通过硅通孔（TSV）实现芯片间互连。堆叠结构底部则集成一颗计算芯片，负责近存计算，减少内存与处理单元之间的数据传输距离。</p><p data-vmark=\"4ecb\">高通此前公布的技术方案显示，HBC 将计算单元直接放置在内存堆叠下方，使数据传输距离从传统架构中的数厘米缩短至数微米。高通希望借助 LPDDR 相对较低的功耗，以及计算与内存紧密集成的设计，改善 AI 推理场景下的数据搬运效率。</p><p data-vmark=\"fbb1\">高通表示，HBC 的目标是实现每瓦带宽达到传统 HBM 方案的 6 倍。高通此次验证使用的早期样品采用两层 DRAM 堆叠，测试结果显示，其每瓦带宽超过 HBM4 的 5 倍，但尚未达到此前公布的 6 倍目标。正式产品预计采用四层堆叠设计。</p><p style=\"text-align: center;\" data-vmark=\"2b9a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/426c2731-3a5f-4c3d-9ce0-68ba92f48a58.png?x-bce-process=image/format,f_auto\" w=\"814\" h=\"458\" data-weibo=\"2\" data-vmark=\"422f\" class=\"no-alt-img\"></p><p data-vmark=\"35ac\">性能方面，高通公布的第一代 HBC 方案将为 AI250 加速卡提供 133 TB/s 的有效内存带宽，相比采用 LPDDR5X 内存的 AI200 加速卡提升 18 倍。</p><p style=\"text-align: center;\" data-vmark=\"7dbc\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6cb78c28-86d3-4a5d-8bfc-3e341969f5b0.png?x-bce-process=image/format,f_auto\" w=\"814\" h=\"315\" data-weibo=\"3\" data-vmark=\"f03b\" class=\"no-alt-img\"></p><p data-vmark=\"a200\">根据高通 2026 年 6 月公布的数据中心产品路线图，AI250 将搭载第一代 HBC 技术，后续 AI300 则计划采用第二代 HBC。高通称，AI300 的有效内存带宽设计目标将达到 AI200 的 54 倍。</p><p data-vmark=\"6035\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"5a51\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/006/003.htm\">高通骁龙芯片将整合 HBC 架构：手机本地运行 AI 更快、更省电</a>》</p></li><li><p data-vmark=\"f037\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/969/371.htm\">高通拟将数据中心芯片堆叠架构引入手机 SoC，提升端侧 AI 能力</a>》</p></li></ul>",
+      "url": "https://www.ithome.com/1/021/286.htm",
+      "link": "https://www.ithome.com/1/021/286.htm",
+      "pubDate": "Mon, 02 Nov 2026 22:50:15 GMT",
+      "isoDate": "2026-11-02T22:50:15.000Z",
       "author": "",
       "sourceId": "ithome",
       "sourceName": "IT之家",
@@ -20,31 +20,8 @@
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
-      "tagScore": 4,
+      "tagScore": 16,
       "crossTags": []
-    },
-    {
-      "title": "Counterpoint 数据：智能手机 SoC 出货量 2026Q3 萎缩 21%，苹果市占逼近高通",
-      "description": "IT之家 11 月 2 日消息，Counterpoint Research 于 10 月 30 日表示，全球智能手机 SoC 出货量在 2026Q3 出现了 21% 的大幅同比萎缩。\n而在市场占有率方面，两家实现芯片与终端垂直整合的国际巨头均实现了份额增长。苹果市占达到 21%，逼近高通的 22%；三星市占也升至 8%。联发科技市占从 Q2 的 34% 下滑至 28%。\n机构提到，智能手机内存价格涨幅在 2026Q3 放缓至 5~10%，四季度还将上涨 5%；部分入门级智能手机制造商已开始使用回收内存以控制整体物料成本，但由于封装集成的关系，回收内存的应用范围仍相当有限。\n\n▲ 图源：Counterpoint Research\nCounterpoint 高级分析师 Shivani Parashar 预计，新一批旗舰 SoC 在今年 9 月的推出将刺激 2026Q4 市场，但出货量可能仍将低于 2025 年第四季度的水平。\n该机构首席分析师 Soumen Mandal 认为，2026 全年智能手机 SoC 出货量将同比下降 20%，2027 年则将再度下滑 3~4%；存储器价格预计将继续上行，但整体波动可能会有所缓和。\n参考\n\nSmartphone OEMs Shift Focus to Profitability as SoC Shipments Fall 21% YoY in Q3 2026",
-      "content": "<p data-vmark=\"a982\">IT之家 11 月 2 日消息，Counterpoint Research 于 10 月 30 日表示，<strong>全球智能手机 SoC 出货量在 2026Q3 出现了 21% 的大幅同比萎缩</strong>。</p><p data-vmark=\"5bc6\">而在市场占有率方面，两家实现芯片与终端垂直整合的国际巨头均实现了份额增长。<strong>苹果市占达到 21%</strong>，<strong>逼近高通的 22%</strong>；三星市占也升至 8%。联发科技市占从 Q2 的 34% 下滑至 28%。</p><p data-vmark=\"5b0a\">机构提到，智能手机内存价格涨幅在 2026Q3 放缓至 5~10%，四季度还将上涨 5%；<strong>部分入门级智能手机制造商已开始使用回收内存以控制整体物料成本</strong>，但由于封装集成的关系，回收内存的应用范围仍相当有限。</p><p data-vmark=\"9d23\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/104bc86e-7808-4ac1-8cdb-a50fc226860d.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"762\" data-weibo=\"0\" data-vmark=\"b226\" class=\"no-alt-img\"></p><figcaption>▲ 图源：Counterpoint Research</figcaption><p data-vmark=\"fbdb\">Counterpoint 高级分析师 Shivani Parashar 预计，新一批旗舰 SoC 在今年 9 月的推出将刺激 2026Q4 市场，但出货量可能仍将低于 2025 年第四季度的水平。</p><p data-vmark=\"9691\">该机构首席分析师 Soumen Mandal 认为，<strong>2026 全年智能手机 SoC 出货量将同比下降 20%</strong>，<strong>2027 年则将再度下滑 3~4%</strong>；存储器价格预计将继续上行，但整体波动可能会有所缓和。</p><p data-vmark=\"7e4c\"><span class=\"referenceTitle\">参考</span></p><ul class=\"custom_reference list-paddingleft-1\"><li class=\"list-undefined list-reference-paddingleft\"><p data-vmark=\"ce93\"><a href=\"https://counterpointresearch.com/en/insights/smartphone-oems-shift-focus-to-profitability-as-soc-shipments-fall-21-percent-yoy\" target=\"_blank\">Smartphone OEMs Shift Focus to Profitability as SoC Shipments Fall 21% YoY in Q3 2026</a></p></li></ul>",
-      "url": "https://www.ithome.com/1/021/118.htm",
-      "link": "https://www.ithome.com/1/021/118.htm",
-      "pubDate": "Mon, 02 Nov 2026 08:41:16 GMT",
-      "isoDate": "2026-11-02T08:41:16.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 15,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ]
     }
   ]
 }
