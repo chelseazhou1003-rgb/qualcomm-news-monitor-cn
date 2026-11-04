@@ -1,10 +1,68 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T07:43:37.472Z",
+  "generatedAt": "2026-11-04T11:21:59.328Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 3,
+  "count": 4,
   "articles": [
+    {
+      "title": "三星 Galaxy S27 系列智能手机海关舱单信息现身，高通骁龙 8 Elite Gen 6 版 S27 Pro 曝光",
+      "description": "IT之家 11 月 4 日消息，根据在第三方海关舱单数据平台纽佰德 (NBD) 上的查询，今年 9 月出现了 4 条三星电子 Galaxy S27 系列智能手机的记录，分别对应标准、Plus、Pro、Ultra 版本。\n\n这些产品的型号均符合 SM-S95xB / DS 格式，部分产品代号符合 SM-S95xBE_SEA_DX 格式，很可能对应着在东南亚 (SEA) 区域销售的国际版双卡机型。\n以下是IT之家整理的屏幕与处理器规格信息：\n\nGalaxy S27：6.3\" 屏幕，三星 Exynos 2700 处理器；\n\nGalaxy S27 Plus：6.7\" 屏幕，三星 Exynos 2700 处理器；\n\nGalaxy S27 Pro：6.5\" 屏幕，高通 SM8950（第 6 代骁龙 8 至尊版，骁龙 8 Elite Gen6）处理器；\n\nGalaxy S27 Ultra：6.9\" 屏幕，高通 SM8975（第 6 代骁龙 8 超级至尊版，骁龙 8 Elite Extreme Gen 6）处理器。\n\n相关阅读：\n\n《高通第六代骁龙 8 至尊版芯片配置曝光：SM8950 和 SM8975 双版本，台积电 2nm 工艺》\n\n《消息称高通骁龙 8 Elite Gen 6 配备 6 Slices GPU，支持 UFS 5.0》\n\n《消息称高通第六代骁龙 8 至尊版“SM8950”小米独占期半年，采用 2nm + 新一代核心架构》\n\n《消息称高通旗舰芯 SM8975 成本巨高，多个迭代机标准版采用 SM8950》",
+      "content": "<p data-vmark=\"37dc\">IT之家 11 月 4 日消息，根据在第三方海关舱单数据平台纽佰德 (NBD) 上的查询，今年 9 月出现了 4 条三星电子 Galaxy S27 系列智能手机的记录，分别对应标准、Plus、Pro、Ultra 版本。</p><p data-vmark=\"3c37\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8aab77f7-cb7a-451a-bb09-d76e97040996.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"646\" data-weibo=\"0\" data-vmark=\"c078\" class=\"no-alt-img\"></p><p data-vmark=\"26ff\">这些产品的型号均符合 SM-S95xB / DS 格式，部分产品代号符合 SM-S95xBE_SEA_DX 格式，<strong>很可能对应着在东南亚 (SEA) 区域销售的国际版双卡机型</strong>。</p><p data-vmark=\"be9d\">以下是IT之家整理的屏幕与处理器规格信息：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f381\">Galaxy S27：6.3\" 屏幕，三星 Exynos 2700 处理器；</p></li><li><p data-vmark=\"96c7\">Galaxy S27 Plus：6.7\" 屏幕，三星 Exynos 2700 处理器；</p></li><li><p data-vmark=\"197a\">Galaxy S27 Pro：6.5\" 屏幕，高通 SM8950（第 6 代骁龙 8 至尊版，骁龙 8 Elite Gen6）处理器；</p></li><li><p data-vmark=\"afed\">Galaxy S27 Ultra：6.9\" 屏幕，高通 SM8975（第 6 代骁龙 8 超级至尊版，骁龙 8 Elite Extreme Gen 6）处理器。</p></li></ul><p data-vmark=\"bada\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"6180\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/932/345.htm\">高通第六代骁龙 8 至尊版芯片配置曝光：SM8950 和 SM8975 双版本，台积电 2nm 工艺</a>》</p></li><li><p data-vmark=\"e41f\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/939/279.htm\">消息称高通骁龙 8 Elite Gen 6 配备 6 Slices GPU，支持 UFS 5.0</a>》</p></li><li><p data-vmark=\"fe45\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/002/847.htm\">消息称高通第六代骁龙 8 至尊版“SM8950”小米独占期半年，采用 2nm + 新一代核心架构</a>》</p></li><li><p data-vmark=\"65fc\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/920/468.htm\">消息称高通旗舰芯 SM8975 成本巨高，多个迭代机标准版采用 SM8950</a>》</p></li></ul>",
+      "url": "https://www.ithome.com/1/022/008.htm",
+      "link": "https://www.ithome.com/1/022/008.htm",
+      "pubDate": "Wed, 04 Nov 2026 03:19:21 GMT",
+      "isoDate": "2026-11-04T03:19:21.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 7,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        },
+        {
+          "type": "stakeholder",
+          "id": "foundry"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "oem"
+    },
+    {
+      "title": "三星 Galaxy S27 系列智能手机海关舱单信息现身，高通骁龙 8 Elite Gen 6 版 S27 Pro 曝光",
+      "description": "IT之家 11 月 4 日消息，根据在第三方海关舱单数据平台纽佰德 (NBD) 上的查询，今年 9 月出现了 4 条三星电子 Galaxy S27 系列智能手机的记录，分别对应标准、Plus、Pro、Ultra 版本。\n\n这些产品的型号均符合 SM-S95xB / DS 格式，部分产品代号符合 SM-S95xBE_SEA_DX 格式，很可能对应着在东南亚 (SEA) 区域销售的国际版双卡机型。\n以下是IT之家整理的屏幕与处理器规格信息：\n\nGalaxy S27：6.3\" 屏幕，三星 Exynos 2700 处理器；\n\nGalaxy S27 Plus：6.7\" 屏幕，三星 Exynos 2700 处理器；\n\nGalaxy S27 Pro：6.5\" 屏幕，高通 SM8950（第 6 代骁龙 8 至尊版，骁龙 8 Elite Gen6）处理器；\n\nGalaxy S27 Ultra：6.9\" 屏幕，高通 SM8975（第 6 代骁龙 8 超级至尊版，骁龙 8 Elite Extreme Gen 6）处理器。\n\n相关阅读：\n\n《高通第六代骁龙 8 至尊版芯片配置曝光：SM8950 和 SM8975 双版本，台积电 2nm 工艺》\n\n《消息称高通骁龙 8 Elite Gen 6 配备 6 Slices GPU，支持 UFS 5.0》\n\n《消息称高通第六代骁龙 8 至尊版“SM8950”小米独占期半年，采用 2nm + 新一代核心架构》\n\n《消息称高通旗舰芯 SM8975 成本巨高，多个迭代机标准版采用 SM8950》",
+      "content": "<p data-vmark=\"37dc\">IT之家 11 月 4 日消息，根据在第三方海关舱单数据平台纽佰德 (NBD) 上的查询，今年 9 月出现了 4 条三星电子 Galaxy S27 系列智能手机的记录，分别对应标准、Plus、Pro、Ultra 版本。</p><p data-vmark=\"3c37\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8aab77f7-cb7a-451a-bb09-d76e97040996.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"646\" data-weibo=\"0\" data-vmark=\"c078\" class=\"no-alt-img\"></p><p data-vmark=\"26ff\">这些产品的型号均符合 SM-S95xB / DS 格式，部分产品代号符合 SM-S95xBE_SEA_DX 格式，<strong>很可能对应着在东南亚 (SEA) 区域销售的国际版双卡机型</strong>。</p><p data-vmark=\"be9d\">以下是IT之家整理的屏幕与处理器规格信息：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f381\">Galaxy S27：6.3\" 屏幕，三星 Exynos 2700 处理器；</p></li><li><p data-vmark=\"96c7\">Galaxy S27 Plus：6.7\" 屏幕，三星 Exynos 2700 处理器；</p></li><li><p data-vmark=\"197a\">Galaxy S27 Pro：6.5\" 屏幕，高通 SM8950（第 6 代骁龙 8 至尊版，骁龙 8 Elite Gen6）处理器；</p></li><li><p data-vmark=\"afed\">Galaxy S27 Ultra：6.9\" 屏幕，高通 SM8975（第 6 代骁龙 8 超级至尊版，骁龙 8 Elite Extreme Gen 6）处理器。</p></li></ul><p data-vmark=\"bada\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"6180\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/932/345.htm\">高通第六代骁龙 8 至尊版芯片配置曝光：SM8950 和 SM8975 双版本，台积电 2nm 工艺</a>》</p></li><li><p data-vmark=\"e41f\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/939/279.htm\">消息称高通骁龙 8 Elite Gen 6 配备 6 Slices GPU，支持 UFS 5.0</a>》</p></li><li><p data-vmark=\"fe45\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/002/847.htm\">消息称高通第六代骁龙 8 至尊版“SM8950”小米独占期半年，采用 2nm + 新一代核心架构</a>》</p></li><li><p data-vmark=\"65fc\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/920/468.htm\">消息称高通旗舰芯 SM8975 成本巨高，多个迭代机标准版采用 SM8950</a>》</p></li></ul>",
+      "url": "https://www.ithome.com/1/022/008.htm",
+      "link": "https://www.ithome.com/1/022/008.htm",
+      "pubDate": "Wed, 04 Nov 2026 03:19:21 GMT",
+      "isoDate": "2026-11-04T03:19:21.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 7,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        },
+        {
+          "type": "stakeholder",
+          "id": "foundry"
+        }
+      ],
+      "isCrossTag": true,
+      "crossTagId": "foundry"
+    },
     {
       "title": "美主要股指涨跌互现，道指跌近两百点，纳指涨0.83%，英伟达涨2.29%，苹果财报不及预期，国际油价回落",
       "description": "*三大股指涨跌互现，标普500结束三连跌；\n*龙头科技股普涨，芯片股强势反弹；\n*国际油价回落，布油跌1.12%。\n周二（3日）美股三大股指涨跌互现。科技股近期承压后，投资者重新买入龙头科技股，市场同时等待美国中期选举结果出炉。\n截至收盘，道指跌197.26点，跌幅0.38%，报51786.72点；纳指涨207.65点，涨幅0.83%，报25372.01点；标普500指数涨27.52点，涨幅0.36%，结束三连跌，报7568.92点。\n\n【热门股表现】\n龙头科技股普遍上涨。SpaceX收涨3.62%，微软涨2.74%，Meta涨2.36%，英伟达涨2.29%，亚马逊涨2.06%，奈飞涨1.73%，谷歌涨0.37%；特斯拉逆势下跌1.32%。\n苹果公司股价下跌1.90%。该公司利润率指引不及预期，且第四财季iPad销售额低于华尔街预期。\n芯片股强势反弹，费城半导体指数收涨2.63%。闪迪涨4.78%，AMD涨3.65%，泰瑞达涨3.20%，美光科技涨2.58%，SK海力士涨2.09%，科磊涨2.02%，应用材料涨1.97%。\n\n热门中概股涨跌不一，纳斯达克金龙中国指数收涨0.21%。爱奇艺收涨2.70%，京东涨2.32%，新东方涨1.93%，小鹏汽车涨0.99%，网易涨0.64%，腾讯控股涨0.32%，理想汽车涨0.18%，百度涨0.09%。\n下跌阵营中，知乎跌4.14%，哔哩哔哩跌2.37%，拼多多跌1.85%，老虎证券跌1.53%，阿里巴巴跌1.14%，微博跌0.79%，富途控股跌0.52%，蔚来跌0.16%。\n【市场概述】\n尽管周二芯片股及其他人工智能相关股票出现回暖迹象，但波托马克基金管理公司（Potomac Fund Management）经济策略师肖恩·斯奈德（Shawn Snyder）认为，市场尚未走出困境。\n在他看来，“市场对资金成本以及所需债务融资规模的担忧，还将持续相当长一段时间。”不过他也表示，押注人工智能基础设施建设的相关交易可能已接近超卖区间。“或许还会再跌4%到5%，但如果这轮回调最终没有伴随经济衰退，通常跌到这个位置也就差不多了。”\n潘兴广场资本管理公司（Pershing Square）创始人比尔·阿克曼（Bill Ackman）表示，他担忧当前股市已经出现失灵。他指出，投机性交易日益盛行，加之市场体系中的杠杆规模庞大，正导致股价出现剧烈波动。\n阿克曼称，“我感觉市场每隔几天就会出现一次失灵。股票的交易价格让我完全无法理解。没错，如果你是长期投资者，能够以极低的价格买入股票，这当然是好事。但从整个国家的角度来看，我认为这并不是一件好事。”\n他还表示：“我们又回到了那种赌场式的市场，当时市场杠杆率高达95%。我认为，这对经济和社会本身都没有好处，而且正在导致股票市场出现大幅波动。”\n投资者还在关注美国中期选举。摩根大通本周表示，如果民主党同时拿下参众两院，而投资者此前又没有针对这一结果提前布局，美股大盘可能承压，人工智能概念股尤其可能遭到抛售。如果共和党保住参议院或两院控制权，美股短期内则可能上涨。\n有市场分析认为，即便特朗普仍在白宫执政，只要民主党赢得众议院或参议院其中之一，就可能左右国会对政府的调查和监督走向，而这对国防、人工智能和医疗健康等行业至关重要。\n中东局势方面，据新华社，伊朗最高国家安全委员会秘书穆赫辛·雷扎伊3日在社交媒体上说，美国对伊朗权利和诉求的回应未能令人信服。美方必须完整、明确回应伊朗提出的7项条件，并付诸实施，霍尔木兹海峡才会开放。雷扎伊10月曾表示，过去两个月里，美方通过巴基斯坦、卡塔尔、伊拉克三个国家，要求伊朗提出提议。伊朗向美方提出7项条件，并明确告知美方，除非满足这些条件，否则不会向其开放霍尔木兹海峡，也不会进行任何谈判。伊朗暂未公开这7项条件的具体内容。\n据央视新闻，当地时间11月3日，英国海上贸易行动办公室（UKMTO）发布通报称，当天19时（格林尼治时间），阿曼利马东北方向约14海里（约26公里）处发生一起船只遇袭事件。通报称，一艘油轮所属公司的安全负责人报告，该油轮遭两枚不明弹体击中。英国海上贸易行动办公室表示，截至目前，尚未收到人员伤亡或环境污染的报告。\n 【大宗表现】\n国际油价回落。WTI 12月原油期货收跌0.40美元，跌幅0.41%，报96.09美元/桶。布伦特1月原油期货收跌1.17美元，跌幅1.12%，报103.60美元/桶。\n贵金属市场下跌。COMEX黄金期货跌0.74%，报3940.20美元/盎司；COMEX白银期货跌2.12%，报49.81美元/盎司。",
@@ -55,31 +113,6 @@
       ],
       "isCrossTag": true,
       "crossTagId": "platform-partner"
-    },
-    {
-      "title": "软硬都有：荣耀研发工程师透露 700 系列新机有好几个之前产品都没有过的全新特性和硬件",
-      "description": "IT之家 11 月 3 日消息，荣耀全球首席营销官关海涛今日发文，正式官宣了数字 700 系列手机，号称“荣耀数字系列全面大换新的一代”。\n\n荣耀研发工程师 @荣耀曹工 发文透露：“确实有好几个之前在荣耀产品上都没有过的全新的，软的硬的都有。”\n\n参考IT之家今日早些时候报道，荣耀 700 元气版、荣耀 700 标准版和荣耀 700 Pro 版已通过 3C 认证，将于本月正式发布。此前爆料称，荣耀 700 系列将延续“大电池 + 中尺寸屏幕 + 窄边框”的组合，全系搭载骁龙系列处理器，且标配背屏。\n系列新机预计全系配备 2 亿像素主摄，Pro 版在此基础上增加 5000 万像素潜望式长焦镜头。电池最高容量指向 9000mAh，Pro 版还可能支持 50W 无线充电与无线反向充电。此外，荣耀 700 系列手机有望由歌手、演员鞠婧祎代言。\n\n延伸阅读\n公开信息显示，荣耀 700 系列的内部代号为“Flora”，取自罗马神话中的花神，被官方定位为荣耀数字系列迭代承启的一代。荣耀全球首席营销官关海涛表示，700 系列的焕新方向包括继承旗舰级影像能力、探索 AI 时代年轻人的新鲜玩法，并守住荣耀一直以来的优势长板。\n与荣耀 700 系列形成代际衔接的是荣耀 600 系列，该系列于 2026 年 5 月 25 日在厦门发布，同样推出 Pro 版、超级版、元气版三款机型，国补价 2294.15 元起，主打“全焦段 4K 影像”。其中荣耀 600 超级版内置 8600mAh 电池，荣耀 600 Pro 首发天玑 8550 Elite 芯片，Pro 版与超级版于 2026 年 5 月 29 日开售，元气版于 6 月 3 日上市。再往前的荣耀 500 系列发布于 2025 年 11 月，全系搭载骁龙 8 系旗舰芯片与 8000mAh 青海湖大电池，由肖战担任荣耀数字手机全球代言人。\n关于文中提到的背屏，爆料称其尺寸约 1.72 英寸，被嵌入后置摄像头模组区域，可用于显示时间、天气和消息通知，控制音乐播放，也可充当后置摄像头自拍取景器，并可与 MagicOS 11 系统联动。\n3C 认证数据库信息显示，荣耀 700 系列中型号为 FAA-AN00 与 FAP-AN00 的机型由深圳荣耀智能机器有限公司生产，型号为 FAS-AN00 的机型由长沙比亚迪电子有限公司代工，三款机型均配备支持最高 20V/4A（即 80W）充电功率输出的电源适配器。\n文中背屏可能联动的 MagicOS 11，是荣耀于 2026 年 9 月 15 日在深圳全球开发者大会上发布的手机操作系统，官方称其为行业首个实现系统级 Agent Harness（智能体调度框架）商用落地的手机操作系统，由荣耀 Magic9 首发搭载，其智能助手 YOYO 支持超过 100 步的长程任务，主动服务覆盖超过 1000 个生活场景。",
-      "content": "<p data-vmark=\"82bd\">IT之家 11 月 3 日消息，荣耀全球首席营销官关海涛今日发文，<a href=\"https://www.ithome.com/1/021/794.htm\" target=\"_blank\">正式官宣了数字 700 系列手机</a>，号称“荣耀数字系列全面大换新的一代”。</p><p style=\"text-align: center;\" data-vmark=\"e7da\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e667ab0d-bf06-40ba-9fff-5ba7236f67eb.png?x-bce-process=image/format,f_auto\" w=\"937\" h=\"595\" data-weibo=\"0\" data-marks=\"1931fd9d012eb6d1b76c10bbc5e88c0f895602743cb886382f6655e57540364729d1b2d4ca40e9a33ce1d62df798937e\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5361254247958357%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"1b37\" class=\"no-alt-img\"></p><p data-vmark=\"d6b1\">荣耀研发工程师 @荣耀曹工 发文透露：“确实有好几个之前在荣耀产品上都没有过的全新的，<strong>软的硬的都有</strong>。”</p><p style=\"text-align: center;\" data-vmark=\"e941\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/f7fdd54f-1f08-4804-b1de-47f866189bb9.png?x-bce-process=image/format,f_auto\" w=\"937\" h=\"688\" data-weibo=\"1\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fm.weibo.cn%2Fdetail%2F5361278454337812%22%2C%22qualityMode%22%3A%22original%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"02b9\" class=\"no-alt-img\"></p><p data-vmark=\"6261\">参考IT之家今日早些时候报道，荣耀 700 元气版、荣耀 700 标准版和荣耀 700 Pro 版已通过 3C 认证，将于本月正式发布。此前爆料称，荣耀 700 系列将延续“大电池 + 中尺寸屏幕 + 窄边框”的组合，全系搭载骁龙系列处理器，且标配背屏。</p><p data-vmark=\"06f7\">系列新机预计全系配备 2 亿像素主摄，Pro 版在此基础上增加 5000 万像素潜望式长焦镜头。电池最高容量指向 9000mAh，Pro 版还可能支持 50W 无线充电与无线反向充电。此外，荣耀 700 系列手机有望由歌手、演员鞠婧祎代言。</p><blockquote class=\"ai-point\" data-ai-task=\"b3cc699a-99fc-457d-aba6-5e5394bae0e7\" data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-refs=\"JTVCJTIyaHR0cCUzQSUyRiUyRm5ld3MucXEuY29tJTJGcmFpbiUyRmElMkYyMDI2MTEwM0EwRTZDVDAwJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZtLnNvaHUuY29tJTJGYSUyRjEwOTY1MDcxNjRfMTIyMDY2Njc4JTJGJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZ3d3cuaG9ub3IuY29tJTJGY24lMkZuZXdzJTJGaG9ub3ItNjAwLWxhdW5jaCUyRiUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGd3d3LmpmZGFpbHkuY29tLmNuJTJGd3glMkZkZXRhaWwuZG8lM0ZpZCUzRDExMTc5NDclMjIlMkMlMjJodHRwcyUzQSUyRiUyRnd3dy5ob25vci5jb20lMkZjbiUyRnBob25lcyUyRmhvbm9yLW4tc2VyaWVzJTJGJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZ3d3cuaG9ub3IuY29tJTJGY24lMkZhY3Rpdml0eSUyRmhvbm9yLTUwMC1zZXJpZXMtbGF1bmNoJTJGJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZtLnNvaHUuY29tJTJGYSUyRjEwOTY0MjgzNzZfMTIxODg1MDMwJTJGJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZ3d3cuaG9ub3IuY29tJTJGY24lMkZuZXdzJTJGbWFnaWMtb3MtbGF1bmNoJTJGJTIyJTVE\"><h3 data-vmark=\"5ea6\">延伸阅读</h3><p data-vmark=\"b1f9\"><span data-ref-ids=\"\" data-ref-urls=\"0,1\">公开信息显示，荣耀 700 系列的内部代号为“Flora”，取自罗马神话中的花神，被官方定位为荣耀数字系列迭代承启的一代。荣耀全球首席营销官关海涛表示，700 系列的焕新方向包括继承旗舰级影像能力、探索 AI 时代年轻人的新鲜玩法，并守住荣耀一直以来的优势长板。</span></p><p data-vmark=\"674f\"><span data-ref-ids=\"\" data-ref-urls=\"2,3,4,5\">与荣耀 700 系列形成代际衔接的是荣耀 600 系列，该系列于 2026 年 5 月 25 日在厦门发布，同样推出 Pro 版、超级版、元气版三款机型，国补价 2294.15 元起，主打“全焦段 4K 影像”。其中荣耀 600 超级版内置 8600mAh 电池，荣耀 600 Pro 首发天玑 8550 Elite 芯片，Pro 版与超级版于 2026 年 5 月 29 日开售，元气版于 6 月 3 日上市。再往前的荣耀 500 系列发布于 2025 年 11 月，全系搭载骁龙 8 系旗舰芯片与 8000mAh 青海湖大电池，由肖战担任荣耀数字手机全球代言人。</span></p><p data-vmark=\"ff18\"><span data-ref-ids=\"\" data-ref-urls=\"1,6\">关于文中提到的背屏，爆料称其尺寸约 1.72 英寸，被嵌入后置摄像头模组区域，可用于显示时间、天气和消息通知，控制音乐播放，也可充当后置摄像头自拍取景器，并可与 MagicOS 11 系统联动。</span></p><p data-vmark=\"8f29\"><span data-ref-ids=\"\" data-ref-urls=\"1\">3C 认证数据库信息显示，荣耀 700 系列中型号为 FAA-AN00 与 FAP-AN00 的机型由深圳荣耀智能机器有限公司生产，型号为 FAS-AN00 的机型由长沙比亚迪电子有限公司代工，三款机型均配备支持最高 20V/4A（即 80W）充电功率输出的电源适配器。</span></p><p data-vmark=\"4ae6\"><span data-ref-ids=\"\" data-ref-urls=\"7\">文中背屏可能联动的 MagicOS 11，是荣耀于 2026 年 9 月 15 日在深圳全球开发者大会上发布的手机操作系统，官方称其为行业首个实现系统级 Agent Harness（智能体调度框架）商用落地的手机操作系统，由<span class=\"hot-topic\" data-topic-logo=\"//pimg.ithome.com/products/2026/09/28/16568fbc-46c9-4fce-9bbb-258cc0e1bd85.png?x-bce-process=image/format,f_auto\" data-topic-id=\"66519\">荣耀 Magic9</span> 首发搭载，其智能助手 YOYO 支持超过 100 步的长程任务，主动服务覆盖超过 1000 个生活场景。</span></p></blockquote>",
-      "url": "https://www.ithome.com/1/021/823.htm",
-      "link": "https://www.ithome.com/1/021/823.htm",
-      "pubDate": "Tue, 03 Nov 2026 13:45:11 GMT",
-      "isoDate": "2026-11-03T13:45:11.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 18,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
     }
   ]
 }
