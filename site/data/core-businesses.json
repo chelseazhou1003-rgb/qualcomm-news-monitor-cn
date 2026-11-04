@@ -1,59 +1,8 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T11:21:59.328Z",
+  "generatedAt": "2026-11-04T19:36:45.427Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 2,
-  "articles": [
-    {
-      "title": "三星 Galaxy S27 系列智能手机海关舱单信息现身，高通骁龙 8 Elite Gen 6 版 S27 Pro 曝光",
-      "description": "IT之家 11 月 4 日消息，根据在第三方海关舱单数据平台纽佰德 (NBD) 上的查询，今年 9 月出现了 4 条三星电子 Galaxy S27 系列智能手机的记录，分别对应标准、Plus、Pro、Ultra 版本。\n\n这些产品的型号均符合 SM-S95xB / DS 格式，部分产品代号符合 SM-S95xBE_SEA_DX 格式，很可能对应着在东南亚 (SEA) 区域销售的国际版双卡机型。\n以下是IT之家整理的屏幕与处理器规格信息：\n\nGalaxy S27：6.3\" 屏幕，三星 Exynos 2700 处理器；\n\nGalaxy S27 Plus：6.7\" 屏幕，三星 Exynos 2700 处理器；\n\nGalaxy S27 Pro：6.5\" 屏幕，高通 SM8950（第 6 代骁龙 8 至尊版，骁龙 8 Elite Gen6）处理器；\n\nGalaxy S27 Ultra：6.9\" 屏幕，高通 SM8975（第 6 代骁龙 8 超级至尊版，骁龙 8 Elite Extreme Gen 6）处理器。\n\n相关阅读：\n\n《高通第六代骁龙 8 至尊版芯片配置曝光：SM8950 和 SM8975 双版本，台积电 2nm 工艺》\n\n《消息称高通骁龙 8 Elite Gen 6 配备 6 Slices GPU，支持 UFS 5.0》\n\n《消息称高通第六代骁龙 8 至尊版“SM8950”小米独占期半年，采用 2nm + 新一代核心架构》\n\n《消息称高通旗舰芯 SM8975 成本巨高，多个迭代机标准版采用 SM8950》",
-      "content": "<p data-vmark=\"37dc\">IT之家 11 月 4 日消息，根据在第三方海关舱单数据平台纽佰德 (NBD) 上的查询，今年 9 月出现了 4 条三星电子 Galaxy S27 系列智能手机的记录，分别对应标准、Plus、Pro、Ultra 版本。</p><p data-vmark=\"3c37\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/8aab77f7-cb7a-451a-bb09-d76e97040996.png?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"646\" data-weibo=\"0\" data-vmark=\"c078\" class=\"no-alt-img\"></p><p data-vmark=\"26ff\">这些产品的型号均符合 SM-S95xB / DS 格式，部分产品代号符合 SM-S95xBE_SEA_DX 格式，<strong>很可能对应着在东南亚 (SEA) 区域销售的国际版双卡机型</strong>。</p><p data-vmark=\"be9d\">以下是IT之家整理的屏幕与处理器规格信息：</p><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"f381\">Galaxy S27：6.3\" 屏幕，三星 Exynos 2700 处理器；</p></li><li><p data-vmark=\"96c7\">Galaxy S27 Plus：6.7\" 屏幕，三星 Exynos 2700 处理器；</p></li><li><p data-vmark=\"197a\">Galaxy S27 Pro：6.5\" 屏幕，高通 SM8950（第 6 代骁龙 8 至尊版，骁龙 8 Elite Gen6）处理器；</p></li><li><p data-vmark=\"afed\">Galaxy S27 Ultra：6.9\" 屏幕，高通 SM8975（第 6 代骁龙 8 超级至尊版，骁龙 8 Elite Extreme Gen 6）处理器。</p></li></ul><p data-vmark=\"bada\"><strong>相关阅读：</strong></p><ul class=\"small-size list-paddingleft-2\"><li><p data-vmark=\"6180\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/932/345.htm\">高通第六代骁龙 8 至尊版芯片配置曝光：SM8950 和 SM8975 双版本，台积电 2nm 工艺</a>》</p></li><li><p data-vmark=\"e41f\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/939/279.htm\">消息称高通骁龙 8 Elite Gen 6 配备 6 Slices GPU，支持 UFS 5.0</a>》</p></li><li><p data-vmark=\"fe45\">《<a target=\"_blank\" href=\"https://www.ithome.com/1/002/847.htm\">消息称高通第六代骁龙 8 至尊版“SM8950”小米独占期半年，采用 2nm + 新一代核心架构</a>》</p></li><li><p data-vmark=\"65fc\">《<a target=\"_blank\" href=\"https://www.ithome.com/0/920/468.htm\">消息称高通旗舰芯 SM8975 成本巨高，多个迭代机标准版采用 SM8950</a>》</p></li></ul>",
-      "url": "https://www.ithome.com/1/022/008.htm",
-      "link": "https://www.ithome.com/1/022/008.htm",
-      "pubDate": "Wed, 04 Nov 2026 03:19:21 GMT",
-      "isoDate": "2026-11-04T03:19:21.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 7,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        },
-        {
-          "type": "stakeholder",
-          "id": "foundry"
-        }
-      ]
-    },
-    {
-      "title": "微软 Win11 AI PC 路线图曝光：4 档硬件，8GB 内存也有 AI 入场券",
-      "description": "IT之家 11 月 4 日消息，消息源 @9550pro 昨日（11 月 3 日）在 X 平台发布推文，分享了一张题为“Windows 是混合智能之家”的幻灯片，展示了微软“混合智能”（Hybrid Intelligence）AI PC 路线图。\n\nIT之家此前报道，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，微软提出“混合智能”（hybrid intelligence）理念，强调通过混合架构，结合云端 AI 与本地计算能力，在 Windows 11 系统上实际处理用户任务。\n根据曝光的“混合智能”AI PC 路线图，微软将 AI 硬件划分为四个层级，其中最低的 Tier 0 层级涵盖配备 8GB 内存的 Windows PC，处理器包括英特尔酷睿 3/4 系列、AMD 锐龙 100/200 系列，以及骁龙 X 或 X Plus。科技媒体 Windows Central 解读认为，即便没有高内存和顶级 NPU，普通用户仍可通过云端获得 AI 能力。\n\nTier 1 则是 16GB 至 64GB 内存的 Copilot+ PC，覆盖从骁龙 X2 Plus 到 AMD Ryzen AI MAX+ 400 等多种配置。\nTier 2 面向需要在本地构建、运行 AI 模型的开发者与创作者，硬件包括英特尔酷睿 Ultra Next、NVIDIA RTX Spark 和 AMD Ryzen AI MAX+ 400。\n最高层级则是内存超过 128GB 的超级计算机，用于本地运行前沿大模型，涉及英特尔 Crescent Island、NVIDIA GB300 DGX Station 等专业平台。",
-      "content": "<p data-vmark=\"5933\">IT之家 11 月 4 日消息，消息源 @9550pro 昨日（11 月 3 日）在 X 平台发布推文，分享了一张题为“Windows 是混合智能之家”的幻灯片，<strong>展示了微软“混合智能”（Hybrid Intelligence）AI PC 路线图。</strong></p><p style=\"text-align: center;\" data-vmark=\"9d85\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/3419fce8-e5e0-4095-ad47-293003b490a3.png?x-bce-process=image/format,f_auto\" w=\"1123\" h=\"755\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2F9550pro%2Fstatus%2F2117504747339227429%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2F9550pro%2Fstatus%2F2117504747339227429%22%2C%22qualityValue%22%3A%22png256%22%7D\" data-weibo=\"0\" data-mpos=\"2,0\"  data-vmark=\"735a\" class=\"no-alt-img\"></p><p data-vmark=\"64ed\">IT之家此前报道，太平洋时间 10 月 7 日上午 10 点（北京时间 10 月 8 日凌晨 1 点）在美国旧金山举办的发布会上，<a href=\"https://www.ithome.com/1/010/309.htm\" target=\"_blank\">微软提出“混合智能”（hybrid intelligence）理念</a>，强调通过混合架构，结合云端 AI 与本地计算能力，在 Windows 11 系统上实际处理用户任务。</p><p data-vmark=\"3648\">根据曝光的“混合智能”AI PC 路线图，微软将 AI 硬件划分为四个层级，其中最低的 Tier 0 层级涵盖配备 8GB 内存的 Windows PC，处理器包括英特尔酷睿 3/4 系列、AMD 锐龙 100/200 系列，以及骁龙 X 或 X Plus。科技媒体 Windows Central 解读认为，即便没有高内存和顶级 NPU，普通用户仍可通过云端获得 AI 能力。</p><p style=\"text-align: center;\" data-vmark=\"85f0\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/4e80f05b-9d4b-4e4d-bef0-f019219c365f.jpg?x-bce-process=image/format,f_auto\" w=\"1440\" h=\"810\" alt=\"Microsoft roadmap showing Windows PC, Copilot+ PC, Builder PC, and supercomputer AI tiers, with memory requirements scaling from 8GB to 128GB+ for local AI workloads.\" data-weibo=\"1\" data-vmark=\"22f6\" class=\"no-alt-img\"></p><p data-vmark=\"0a26\">Tier 1 则是 16GB 至 64GB 内存的 Copilot+ PC，覆盖从骁龙 X2 Plus 到 AMD Ryzen AI MAX+ 400 等多种配置。</p><p data-vmark=\"11ac\">Tier 2 面向需要在本地构建、运行 AI 模型的开发者与创作者，硬件包括英特尔酷睿 Ultra Next、NVIDIA RTX Spark 和 AMD Ryzen AI MAX+ 400。</p><p data-vmark=\"2385\">最高层级则是内存超过 128GB 的超级计算机，用于本地运行前沿大模型，涉及英特尔 Crescent Island、NVIDIA GB300 DGX Station 等专业平台。</p>",
-      "url": "https://www.ithome.com/1/021/886.htm",
-      "link": "https://www.ithome.com/1/021/886.htm",
-      "pubDate": "Tue, 03 Nov 2026 23:21:17 GMT",
-      "isoDate": "2026-11-03T23:21:17.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "pc-chips-computing",
-      "tagScore": 14,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "platform-partner"
-        }
-      ]
-    }
-  ]
+  "count": 0,
+  "articles": []
 }
