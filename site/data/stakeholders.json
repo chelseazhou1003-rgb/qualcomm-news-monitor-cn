@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-07T18:42:43.079Z",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T00:39:19.595Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 3,
+  "count": 2,
   "articles": [
     {
       "title": "5999 → 2339 元：小米 MIX Flip 2 小折叠手机新低，骁龙 8 至尊版 + 双 VC 立体散热",
@@ -21,31 +21,6 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 11,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    },
-    {
-      "title": "消息称内存价格彻底崩坏前各手机厂商“超大杯”部分影像配置已属绝版硬件",
-      "description": "IT之家 11 月 7 日消息，博主 @数码闲聊站 今日发文，盘点了内存价格彻底崩坏前的“超大杯”机型：\n\n\n小米 17 Ultra —— 1 英寸 LOFIC + 2 亿连续光变\n\nFind X9 Ultra —— 双潜望长焦 + 10X 原生光变\n\nX300 Ultra —— 200Mp 1/1.12\" 35mm 主摄\n\n\n博主透露，以上大多数是绝版硬件。\n\n有网友询问若没有影像超大杯，是否会有其他替代方案？博主回复称：“Pocket 云台相机。”还有网友询问双潜望长焦后面是否还有一家新机采用？博主表示：“另一家双潜望还没落地，而且没有 10X。”\n据IT之家今日早些时候报道，该博主还爆料，称 vivo X500 Ultra 目前是正常打磨中，或许是同阵营唯一影像超大杯。vivo 副总裁、产品副总裁黄韬先前也确认，X500 Ultra 机型会正常迭代，预计明年 3-4 月发布，影像会拉开和 Pro Max 的差距，主打先锋用户与专业创作者。\n\n▲ IT之家开箱：vivo X300 Ultra 摄影师套装图赏\n延伸阅读\n此轮内存价格上涨与手机市场自身需求无关，主因是 AI 服务器抢占了存储产能 —— 同一片晶圆，做服务器内存（HBM）比做手机内存更赚钱，产能便随之倾斜。据集邦咨询等机构对内存合约价的追踪，2026 年上半年 DRAM 与 NAND 合约价连续两个季度保持两位数上涨，DRAM 在整机物料中的占比一度超过处理器，成为单一成本最高的元器件。\n文中提到的 LOFIC，全称为横向溢出积分电容（Lateral Overflow Integration Capacitor），是一种从图像传感器硬件层面重构的高动态范围成像技术。其原理类似在每个像素的光电二极管旁加装一个“电容蓄水池”，当电荷超过光电二极管容量时“横向溢出”存入备用电容，从而通过单次曝光同时记录中低亮度与高亮度信息。相较传统多帧合成 HDR，LOFIC 可减少运动模糊、鬼影与处理延迟，动态范围可达 140dB 以上，最初被用于汽车自动驾驶等复杂光线场景。\n事实上，在内存涨价压力下，Ultra 机型被取消或收缩已非个例。2026 年 4 月发布的华为 Pura 90 系列便率先取消了 Ultra 版本；此后有爆料称小米 18 Ultra 被砍，原因是 12GB+256GB 版本定价 9999 元，内部认为价格过高、销量难以支撑。另有消息称 OPPO 和 vivo 下一代 Ultra 版旗舰仅在中国市场发售，不再面向全球市场发布。\n关于 vivo X500 Ultra，此前爆料显示其基本确定搭载第六代骁龙 8 超级至尊版（骁龙 8EE6）芯片，暂定排期明年 3-4 月，其国际版也已现身数据库。另有测试信息显示，该机最新一版工程机正在测试 200Mp、1/1.12 英寸超大底的长焦方案。",
-      "content": "<p data-vmark=\"7a5b\">IT之家 11 月 7 日消息，博主 @数码闲聊站 今日发文，盘点了内存价格彻底崩坏前的“超大杯”机型：</p><blockquote><ul class=\"medium-size list-paddingleft-2\"><li><p data-vmark=\"1039\">小米 17 Ultra —— <strong>1 英寸 LOFIC</strong> + <strong>2 亿连续光变</strong></p></li><li><p data-vmark=\"f5c2\">Find X9 Ultra —— 双<strong>潜望长焦</strong> + <strong>10X 原生光变</strong></p></li><li><p data-vmark=\"e20f\">X300 Ultra —— <strong>200Mp 1/1.12\" 35mm 主摄</strong></p></li></ul></blockquote><p data-vmark=\"82e5\">博主透露，<strong>以上大多数是绝版硬件</strong>。</p><p data-vmark=\"1988\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/e9b43fe5-c7bc-4a5c-8d7b-33040ad023cb.png\" w=\"800\" h=\"1025\" data-weibo=\"0\" data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRqgiMwtIN%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" class=\"nowebp no-alt-img\"  data-vmark=\"c69e\"></p><p data-vmark=\"ab29\">有网友询问若没有影像超大杯，是否会有其他替代方案？博主回复称：“<strong>Pocket 云台相机。</strong>”还有网友询问双潜望长焦后面是否还有一家新机采用？博主表示：“<strong>另一家双潜望还没落地，而且没有 10X。</strong>”</p><p data-vmark=\"fb54\">据IT之家今日早些时候报道，该博主还爆料，<a href=\"https://www.ithome.com/1/023/633.htm\" target=\"_blank\">称 vivo X500 Ultra 目前是正常打磨中</a>，<strong>或许是同阵营唯一影像超大杯</strong>。vivo 副总裁、产品副总裁黄韬先前也确认，X500 Ultra 机型会正常迭代，预计明年 3-4 月发布，影像会拉开和 Pro Max 的差距，主打先锋用户与专业创作者。</p><p data-vmark=\"31a2\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/4/139fae7d-2ae4-4fad-b7c4-b3014958d663.jpg\" w=\"1440\" h=\"960\" data-vmark=\"9fe2\" data-weibo=\"1\" alt=\"IT之家开箱：vivo X300 Ultra 摄影师套装图赏\"></p><figcaption>▲ IT之家开箱：vivo X300 Ultra 摄影师套装图赏</figcaption><blockquote data-ai-tip=\"延伸阅读内容由 AI 生成，仅供参考。\" data-ai-task=\"741750a5-42f3-4a3c-ad4a-773c461a1f25\" data-refs=\"JTVCJTIyaHR0cHMlM0ElMkYlMkZ3d3cuaXRob21lLmNvbSUyRjElMkYwMTYlMkY5MzEuaHRtJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZ3d3cubmZuZXdzLmNvbSUyRmNvbnRlbnQlMkZwM1p2bEFwbDNsLmh0bWwlMjIlMkMlMjJodHRwcyUzQSUyRiUyRnd3dy5lZXQtY2hpbmEuY29tJTJGbmV3cyUyRjIwMjUxMDExMzc4Ni5odG1sJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZuZXdzLmNoaW5hLmNvbSUyRnNvY2lhbGdkJTJGMTAwMDAxNjklMkYyMDI2MTAxNCUyRjQ5Nzk0NTYwLmh0bWwlMjIlMkMlMjJodHRwcyUzQSUyRiUyRjNnLmNoaW5hLmNvbSUyRmFjdCUyRm5ld3MlMkYxMDAwMDE2OSUyRjIwMjYwOTAxJTJGNDk3MTIyMzIuaHRtbCUyMiUyQyUyMmh0dHBzJTNBJTJGJTJGbS5pdGhvbWUuY29tJTJGdGFncyUyRnZpdm8lMjUyMFg1MDAlMjUyMFVsdHJhJTIyJTJDJTIyaHR0cHMlM0ElMkYlMkZwaG9uZS5jbm1vLmNvbSUyRm5ld3MlMkY4MjA2NTcuaHRtbCUyMiU1RA==\" class=\"ai-point \"><h3 data-vmark=\"2067\">延伸阅读</h3><p data-vmark=\"1bbf\"><span data-ref-ids=\"\" data-ref-urls=\"0,1\">此轮内存价格上涨与手机市场自身需求无关，主因是 AI 服务器抢占了存储产能 —— 同一片晶圆，做服务器内存（HBM）比做手机内存更赚钱，产能便随之倾斜。据集邦咨询等机构对内存合约价的追踪，2026 年上半年 DRAM 与 NAND 合约价连续两个季度保持两位数上涨，DRAM 在整机物料中的占比一度超过处理器，成为单一成本最高的元器件。</span></p><p data-vmark=\"d7e9\"><span data-ref-ids=\"\" data-ref-urls=\"2\">文中提到的 LOFIC，全称为横向溢出积分电容（Lateral Overflow Integration Capacitor），是一种从图像传感器硬件层面重构的高动态范围成像技术。其原理类似在每个像素的光电二极管旁加装一个“电容蓄水池”，当电荷超过光电二极管容量时“横向溢出”存入备用电容，从而通过单次曝光同时记录中低亮度与高亮度信息。相较传统多帧合成 HDR，LOFIC 可减少运动模糊、鬼影与处理延迟，动态范围可达 140dB 以上，最初被用于汽车自动驾驶等复杂光线场景。</span></p><p data-vmark=\"861b\"><span data-ref-ids=\"\" data-ref-urls=\"3,4\">事实上，在内存涨价压力下，Ultra 机型被取消或收缩已非个例。2026 年 4 月发布的华为 Pura 90 系列便率先取消了 Ultra 版本；此后有爆料称小米 18 Ultra 被砍，原因是 12GB+256GB 版本定价 9999 元，内部认为价格过高、销量难以支撑。另有消息称 OPPO 和 vivo 下一代 Ultra 版旗舰仅在中国市场发售，不再面向全球市场发布。</span></p><p data-vmark=\"db38\"><span data-ref-ids=\"\" data-ref-urls=\"5,6\">关于 vivo X500 Ultra，此前爆料显示其基本确定搭载第六代骁龙 8 超级至尊版（骁龙 8EE6）芯片，暂定排期明年 3-4 月，其国际版也已现身数据库。另有测试信息显示，该机最新一版工程机正在测试 200Mp、1/1.12 英寸超大底的长焦方案。</span></p></blockquote>",
-      "url": "https://www.ithome.com/1/023/746.htm",
-      "link": "https://www.ithome.com/1/023/746.htm",
-      "pubDate": "Sat, 07 Nov 2026 07:47:49 GMT",
-      "isoDate": "2026-11-07T07:47:49.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 15,
       "crossTags": [
         {
           "type": "stakeholder",
