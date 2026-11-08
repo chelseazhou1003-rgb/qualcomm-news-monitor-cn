@@ -1,6 +1,6 @@
 {
   "date": "2026-11-08",
-  "generatedAt": "2026-11-08T14:44:12.638Z",
+  "generatedAt": "2026-11-08T21:54:41.769Z",
   "totalArticles": 4,
   "sections": [
     {
@@ -26,12 +26,12 @@
     {
       "id": "competitors",
       "title": "竞争对手",
-      "count": 2
+      "count": 0
     },
     {
       "id": "stakeholders",
       "title": "关键利益相关方",
-      "count": 3
+      "count": 2
     }
   ]
 }
