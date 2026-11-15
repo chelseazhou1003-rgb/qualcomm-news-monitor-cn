@@ -1,59 +1,8 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T11:07:48.149Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T02:00:11.366Z",
   "section": "stakeholders",
   "sectionTitle": "关键利益相关方",
-  "count": 2,
-  "articles": [
-    {
-      "title": "“黑苹果”有望卷土重来，新项目探索将 macOS 搬上骁龙和 x86 架构电脑",
-      "description": "IT之家 11 月 14 日消息，过去几十年里，不想花钱买 Mac、却又希望使用 macOS 的用户，可以通过组装“黑苹果”电脑实现。不过，自从苹果改用自研 Arm 芯片后，黑苹果的安装难度大幅提高。\n据外媒 TechSpot 今天（14 日）晚间报道，近期出现的至少两个新项目，则试图让 macOS 登陆骁龙和 x86 平台。\n其中一个项目开发了 Arm 转 x86 指令翻译层，计划让大多数较新的英特尔和 AMD 处理器能够运行 macOS，早期版本现已开放试用。另一个项目则在搭载骁龙处理器的华硕 Zenbook 笔记本上成功启动 macOS，部分基本功能也能正常使用。\n黑苹果的历史可以追溯到 20 世纪 80 年代，但在非苹果设备上运行 macOS 直到 21 世纪初才逐渐流行。\n2006 年，苹果放弃 PowerPC 处理器，转而采用英特尔芯片。由于 Windows 电脑广泛使用英特尔处理器，安装黑苹果也变得容易许多。后来，苹果又转向采用自研 Arm 架构的 Apple Silicon 芯片，一度让外界认为黑苹果将彻底退出历史舞台。\n工程师米格尔 · 克鲁兹上个月公布的 Snapintosh 项目，则有望首次尝试利用高通骁龙芯片，让 macOS 不再依赖 Apple Silicon。其演示了一台华硕 Zenbook A16 笔记本成功启动 macOS，不仅能够切换不同桌面模式，还能打开多个应用程序。不过，距离正常使用仍有很长一段路要走。\n\nSnapintosh 暂时只支持搭载骁龙 X2 Elite 处理器的 Zenbook A16，运行时还需要连接另一台 Mac，无法单独使用笔记本电池供电。Wi-Fi、声音、摄像头、蓝牙、睡眠和外接显示器等功能也尚未实现，画面帧率无法稳定达到 60fps。至于何时会在 GitHub 发布测试版，项目尚未给出明确时间。\n\n另一名工程师泰勒 · 史密斯开发的 Stela 项目则瞄准了更广泛的 PC 平台。Stela 利用 Arm 转 x86 指令翻译技术运行 macOS，开放测试版支持采用 Nehalem 及更新架构的英特尔处理器，以及 Bulldozer 及更新架构的 AMD 处理器。此外，电脑至少需要 8GB 内存，并配备英伟达 GTX 16 系列或更新型号的显卡。\nIT之家获悉，用户可以从 Stela 的 GitHub 代码仓库下载测试版，在 Windows 电脑上运行安装程序，再选择 U 盘制作安装介质。在线安装版需要 8GB 空间，离线安装版需要 32GB，安装 macOS 的目标硬盘还需预留 60GB 空间。Stela 同样暂不支持 Wi-Fi 和声音，但蓝牙功能可以正常使用。",
-      "content": "<p data-vmark=\"86a2\">IT之家 11 月 14 日消息，过去几十年里，不想花钱买 Mac、却又希望使用 macOS 的用户，可以通过组装“黑苹果”电脑实现。不过，自从苹果改用自研 Arm 芯片后，黑苹果的安装难度大幅提高。</p><p data-vmark=\"54e0\">据外媒 TechSpot 今天（14 日）晚间报道，近期出现的至少两个新项目，则试图让 macOS <strong>登陆骁龙和 x86 平台</strong>。</p><p data-vmark=\"f4e6\">其中一个项目<strong>开发了 Arm 转 x86 指令翻译层</strong>，计划让大多数较新的英特尔和 AMD 处理器能够运行 macOS，早期版本现已开放试用。另一个项目则在<strong>搭载骁龙处理器的华硕 Zenbook 笔记本上成功启动 macOS</strong>，部分基本功能也能正常使用。</p><p data-vmark=\"793c\">黑苹果的历史可以追溯到 20 世纪 80 年代，但在非苹果设备上运行 macOS 直到 21 世纪初才逐渐流行。</p><p data-vmark=\"6ea2\">2006 年，苹果放弃 PowerPC 处理器，转而采用英特尔芯片。由于 Windows 电脑广泛使用英特尔处理器，安装黑苹果也变得容易许多。后来，苹果又转向采用自研 Arm 架构的 Apple Silicon 芯片，一度让外界认为黑苹果将彻底退出历史舞台。</p><p data-vmark=\"9d6b\">工程师米格尔 · 克鲁兹上个月公布的 Snapintosh 项目，则有望首次尝试利用高通骁龙芯片，让 macOS 不再依赖 Apple Silicon。其演示了一台华硕 Zenbook A16 笔记本成功启动 macOS，不仅能够切换不同桌面模式，<strong>还能打开多个应用程序</strong>。不过，距离正常使用仍有很长一段路要走。</p><p data-vmark=\"99b6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/1e55c422-f171-4859-93e1-ed9643d24524.png\" w=\"1196\" h=\"1846\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FAcelogic_%2Fstatus%2F2113109332758028745%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FAcelogic_%2Fstatus%2F2113109332758028745%22%2C%22qualityValue%22%3A%22png256%22%7D\" class=\"nowebp no-alt-img\" data-weibo=\"0\" data-mpos=\"2,0\" data-marks=\"1931fd9d012eb6d10432e0debbaf526c4be06e47d570eb36a727c6fe4634bac35bb174a57f3dc4d8934f5ce6876a2b69\" data-vmark=\"4b92\"></p><p data-vmark=\"b40a\">Snapintosh <strong>暂时只支持搭载骁龙 X2 Elite 处理器的 Zenbook A16</strong>，运行时还需要<strong>连接另一台 Mac</strong>，无法单独使用笔记本电池供电。Wi-Fi、声音、摄像头、蓝牙、睡眠和外接显示器等功能也尚未实现，画面帧率无法稳定达到 60fps。至于何时会在 GitHub 发布测试版，项目尚未给出明确时间。</p><p data-vmark=\"fa20\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6dc69206-5a6b-4374-8e7f-e5f6711e4af8.png\" w=\"1196\" h=\"1720\" data-snap-from=\"%7B%22from%22%3A%22x%22%2C%22url%22%3A%22https%3A%2F%2Fx.com%2FAcelogic_%2Fstatus%2F2112443439019143423%22%2C%22qualityMode%22%3A%22auto%22%2C%22link%22%3A%22https%3A%2F%2Fx.com%2FAcelogic_%2Fstatus%2F2112443439019143423%22%2C%22qualityValue%22%3A%22original%22%7D\" class=\"nowebp no-alt-img\" data-weibo=\"1\" data-mpos=\"2,0\"  data-vmark=\"f349\"></p><p data-vmark=\"677a\">另一名工程师泰勒 · 史密斯开发的 Stela 项目则瞄准了更广泛的 PC 平台。Stela <strong>利用 Arm 转 x86 指令翻译技术运行 macOS</strong>，开放测试版支持采用 Nehalem 及更新架构的英特尔处理器，以及 Bulldozer 及更新架构的 AMD 处理器。此外，<strong>电脑至少需要 8GB 内存</strong>，并配备<strong>英伟达 GTX 16 系列或更新型号</strong>的显卡。</p><p data-vmark=\"5671\">IT之家获悉，用户可以从 Stela 的 <a href=\"https://github.com/tylertms/Stela\" target=\"_blank\">GitHub 代码仓库</a>下载测试版，在 Windows 电脑上运行安装程序，再选择 U 盘制作安装介质。<strong>在线安装版需要 8GB 空间，离线安装版需要 32GB，安装 macOS 的目标硬盘还需预留 60GB 空间</strong>。Stela 同样暂不支持 Wi-Fi 和声音，但蓝牙功能可以正常使用。</p>",
-      "url": "https://www.ithome.com/1/027/244.htm",
-      "link": "https://www.ithome.com/1/027/244.htm",
-      "pubDate": "Sat, 14 Nov 2026 14:49:44 GMT",
-      "isoDate": "2026-11-14T14:49:44.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "tagScore": 12,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    },
-    {
-      "title": "OPPO 展示 Reno17 系列手机洛天依联动定制主题，11 月 16 日发布",
-      "description": "IT之家 11 月 14 日消息，OPPO 官方微博发文，展示了 OPPO Reno17 系列手机提供的洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。\n\n除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。\n\nIT之家注意到，先前相应手机规格已曝光，具体参数如下：\nOPPO Reno17\n\n6.56 英寸 1.5K LTPS 直屏\n\n骁龙 7 Gen4 处理器\n\n前置 50Mp 镜头，后置 50Mp 主摄 +50Mp 超广角 +50Mp 3.5X 潜望长焦\n\n8000mAh 电池 +80W 快充\n\n金属中框，光学指纹\n\nOPPO Reno17 Pro\n\n6.32 英寸 1.5K LTPS 直屏\n\n天玑 8550 SUPER 处理器\n\n前置 50Mp，后置 200Mp 主摄 +50Mp 超广角 +50Mp 3.5X 潜望长焦\n\n7200mAh 电池 +80W 快充\n\n金属中框，光学指纹\n\n\nIT之家注意到，OPPO Reno17 系列手机、Watch 5 手表、Pad Air6 平板于 10 月 30 日开启预约，三款产品将同台亮相。OPPO Reno17 系列手机的四款配色已经公布，分别为：奇遇喵、冰月白、可可棕、初雪白。\n\n相关阅读：\n《OPPO Reno17 系列智能手机联动洛天依，主题曲〈点亮奇遇时刻〉上线》",
-      "content": "<p data-vmark=\"2379\">IT之家 11 月 14 日消息，OPPO 官方微博发文，展示了 OPPO Reno17 系列手机提供的洛天依定制主题，相应主题仅限 Reno17 系列机型使用，包含 4 款专属锁屏 + 壁纸，提供洛天依三色全新造型及 Q 版形象锁屏。</p><p data-vmark=\"6340\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ff2afe1c-879a-4bfb-8933-ec02eac48f53.png\" w=\"1008\" h=\"1354\" data-weibo=\"0\" data-vmark=\"57a9\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"4e1f\">除此之外，相应主题包括时间、待办、步数等多种趣味组件及跟手粒子、下雪动效、充电动画等专属交互动效。</p><p data-vmark=\"27aa\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/498eb2c2-a361-4a13-a865-ec572baf3135.png\" w=\"1008\" h=\"1362\" data-weibo=\"1\" data-vmark=\"3dba\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"1872\">IT之家注意到，先前相应手机规格已曝光，具体参数如下：</p><h3 data-vmark=\"912b\">OPPO Reno17</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"6fc0\">6.56 英寸 1.5K LTPS 直屏</p></li><li><p data-vmark=\"d8b4\">骁龙 7 Gen4 处理器</p></li><li><p data-vmark=\"181f\">前置 50Mp 镜头，后置 50Mp 主摄 +50Mp 超广角 +50Mp 3.5X 潜望长焦</p></li><li><p data-vmark=\"00ee\">8000mAh 电池 +80W 快充</p></li><li><p data-vmark=\"746a\">金属中框，光学指纹</p></li></ul><h3 data-vmark=\"322d\">OPPO Reno17 Pro</h3><ul class=\" list-paddingleft-2\"><li><p data-vmark=\"8189\">6.32 英寸 1.5K LTPS 直屏</p></li><li><p data-vmark=\"8a66\">天玑 8550 SUPER 处理器</p></li><li><p data-vmark=\"bcee\">前置 50Mp，后置 200Mp 主摄 +50Mp 超广角 +50Mp 3.5X 潜望长焦</p></li><li><p data-vmark=\"e605\">7200mAh 电池 +80W 快充</p></li><li><p data-vmark=\"323c\">金属中框，光学指纹</p></li></ul><p data-vmark=\"9834\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/2b9e8f87-501e-46b7-93d5-a765072f2814.png\" w=\"774\" h=\"597\" data-vmark=\"aa80\" data-weibo=\"2\" class=\"nowebp no-alt-img\"></p><p data-vmark=\"64a4\">IT之家注意到，OPPO Reno17 系列手机、Watch 5 手表、Pad Air6 平板于 10 月 30 日开启预约，三款产品将同台亮相。OPPO Reno17 系列手机的四款配色已经公布，分别为：奇遇喵、冰月白、可可棕、初雪白。</p><p data-vmark=\"bc1b\" class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5136\" frameborder=\"no\"></iframe></p><h3 data-vmark=\"576c\">相关阅读：</h3><p data-vmark=\"b94b\">《<a href=\"https://www.ithome.com/1/026/728.htm\" target=\"_blank\">OPPO Reno17 系列智能手机联动洛天依，主题曲〈点亮奇遇时刻〉上线</a>》</p>",
-      "url": "https://www.ithome.com/1/027/243.htm",
-      "link": "https://www.ithome.com/1/027/243.htm",
-      "pubDate": "Sat, 14 Nov 2026 14:43:21 GMT",
-      "isoDate": "2026-11-14T14:43:21.000Z",
-      "author": "",
-      "sourceId": "ithome",
-      "sourceName": "IT之家",
-      "sourceGroup": "tech",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "tagScore": 11,
-      "crossTags": [
-        {
-          "type": "stakeholder",
-          "id": "oem"
-        }
-      ],
-      "isCrossTag": true,
-      "crossTagId": "oem"
-    }
-  ]
+  "count": 0,
+  "articles": []
 }
