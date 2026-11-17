@@ -1,7 +1,7 @@
 {
   "date": "2026-11-18",
-  "generatedAt": "2026-11-18T06:01:19.931Z",
-  "count": 6,
+  "generatedAt": "2026-11-18T07:10:51.107Z",
+  "count": 7,
   "articles": [
     {
       "title": "小米 18 Pro 系列手机国际版正式发布：把背屏带向海外，1399 欧元起",
@@ -114,6 +114,25 @@
           "id": "foundry"
         }
       ]
+    },
+    {
+      "title": "财经早知道｜外交部回应美升级芯片出口管制：将采取必要措施坚决维护自身正当权益",
+      "description": "推荐：10月经济数据波动 学者建议增发3万亿元国债\n\n \n 24小时热点\n \n\n 外交部回应美升级芯片出口管制表示，美方滥用出口管制措施，甚至横加干涉中国同其他国家开展正常贸易与科技合作，无理打压中国高新技术产业发展。这是典型的经济胁迫和长臂管辖，中方将采取必要措施坚决维护自身正当权益。\n \n\n 美SEC三季度13F显示，科技股高位震荡下，美股投资大佬三季度布局现结构性分歧：文艺复兴、桥水、段永平等大幅减持英伟达，木头姐的ARK与但斌的东方港湾选择加仓，撤出的资金向存储芯片制造、晶圆代工与半导体设备。中概股同样分化，高瓴HHLR、李录、段永平加仓拼多多，高毅资产则大幅增持阿里巴巴。\n \n\n 10月经济数据全线放缓。尽管前三季度中国经济增速4.6%，市场普遍认为实现全年增长目标难度不大，但学者指出10月数据凸显",
+      "content": "<blockquote><p>推荐：10月经济数据波动 学者建议增发3万亿元国债</p></blockquote><br>\n       \n<cxintro>\n 早上好，今天是11月18日星期三。过去24小时，哪些财经新闻对普通人影响更大，未来又有什么焦点事件被市场密切关注，早知道栏目从新闻汇总到快速解读，为你一网打尽。\n</cxintro> <cxzt>\n <strong>24小时热点</strong>\n</cxzt> \n<p>\n <cxdot></cxdot><strong>外交部回应美升级芯片出口管制表示</strong>，美方滥用出口管制措施，甚至横加干涉中国同其他国家开展正常贸易与科技合作，无理打压中国高新技术产业发展。<strong>这是典型的经济胁迫和长臂管辖，中方将采取必要措施坚决维护自身正当权益。</strong></p> \n<p>\n <cxdot></cxdot>美SEC三季度13F显示，<a href=\"https://finance.caixin.com/2026-11-17/102505960.html?originReferrer=zaozhidao\"><strong>科技股高位震荡下，美股投资大佬三季度布局现结构性分歧</strong></a>：文艺复兴、桥水、段永平等大幅减持英伟达，木头姐的ARK与但斌的东方港湾选择加仓，撤出的资金向存储芯片制造、晶圆代工与半导体设备。<strong>中概股同样分化，高瓴HHLR、李录、段永平加仓拼多多</strong>，高毅资产则大幅增持阿里巴巴。</p> \n<p>\n <cxdot></cxdot>10月经济数据全线放缓。尽管前三季度中国经济增速4.6%，<strong>市场普遍认为实现全年增长目标难度不大，但学者指出10月数据凸显</strong></p>\n      ",
+      "url": "https://finance.caixin.com/2026-11-18/102506027.html",
+      "link": "https://finance.caixin.com/2026-11-18/102506027.html",
+      "pubDate": "Tue, 17 Nov 2026 23:01:37 GMT",
+      "isoDate": "2026-11-17T23:01:37.000Z",
+      "author": "",
+      "sourceId": "caixin",
+      "sourceName": "财新网",
+      "sourceGroup": "finance",
+      "fetchStrategy": "rsshub",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "tagScore": 9,
+      "crossTags": []
     },
     {
       "title": "英伟达董事会成立“国家安全与出口管制监督委员会”",
