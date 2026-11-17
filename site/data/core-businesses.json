@@ -1,18 +1,41 @@
 {
   "date": "2026-11-17",
-  "generatedAt": "2026-11-17T12:48:25.922Z",
+  "generatedAt": "2026-11-17T22:55:40.821Z",
   "section": "core-businesses",
   "sectionTitle": "核心业务",
-  "count": 1,
+  "count": 2,
   "articles": [
     {
-      "title": "夏普发布 AQUOS sense11 手机，高通骁龙 7s Gen 3 芯片、240Hz OLED 面板",
-      "description": "IT之家 11 月 17 日消息，夏普今天宣布推出 AQUOS sense11 智能手机。在官方直销渠道，新机最低配版本 8GB+128GB 售价 9.46 万日元（IT之家注：现汇率约合 3,959 元人民币）。该机还将在 NTT Docomo、au、软银、乐天移动等运营商处销售，价格各不相同。\n\n据介绍，这款手机提供铜色、金色、银色和黑色四种配色，机身厚度约 7.6mm，重量约 157g，相比前代机型薄了 1.3mm，轻了 9g。支持 IPX5、IPX8、IPX9 和 IP6X 防尘防水能力，能承受 80 °C 热水以及高压清洗机喷射的水流。\n\n参数方面，该机配备 6.2 英寸 Pro IGZO OLED 面板，分辨率为 FHD+（1080×2340），支持 1Hz-240Hz 自适应刷新率，峰值亮度可达 3000nits。搭载高通骁龙 7s Gen 3 芯片，相比 sense10 没有变化，但内存相比前代机型至少提升 2GB，可选 8GB/12GB，并支持额外 8GB 虚拟内存。\n\n影像方面，该机采用 5030 万像素广角镜头和超广角镜头，其中广角镜头 CMOS 尺寸为 1/1.55 英寸，匹配 F1.9 光圈镜头，具备光学防抖。超广角镜头支持全像素 PDAF 自动对焦。\n此外，该机采用全新薄型 W-Box 扬声器，具备 5000mAh 电池，续航号称可达 2 天。预装 Android 17 操作系统，官方承诺提供 4 次 Android 大版本更新，以及最长 6 年的安全更新。",
-      "content": "<p data-vmark=\"ebe0\">IT之家 11 月 17 日消息，夏普今天宣布推出 AQUOS sense11 智能手机。在官方直销渠道，<strong>新机最低配版本 8GB+128GB 售价 9.46 万日元<span class=\"exch-money-value\">（IT之家注：现汇率约合 3,959 元人民币）</span></strong>。该机还将在 NTT Docomo、au、软银、乐天移动等运营商处销售，价格各不相同。</p><p data-vmark=\"3cd6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/bb1daa1e-683d-4128-a15b-1a359cb0e7ba.jpg\" w=\"780\" h=\"386\" data-weibo=\"0\" class=\"nowebp no-alt-img\" data-vmark=\"3ffc\"></p><p data-vmark=\"0609\">据介绍，这款手机提供铜色、金色、银色和黑色四种配色，机身厚度约 7.6mm，重量约 157g，相比前代机型薄了 1.3mm，轻了 9g。支持 IPX5、IPX8、IPX9 和 IP6X 防尘防水能力，能承受 80 °C 热水以及高压清洗机喷射的水流。</p><p data-vmark=\"d65c\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/58cc0942-a941-4a3f-9aee-ff4e552dbae0.jpg\" w=\"780\" h=\"230\" data-weibo=\"1\" class=\"nowebp no-alt-img\" data-vmark=\"d07e\"></p><p data-vmark=\"e371\">参数方面，该机配备 6.2 英寸 Pro IGZO OLED 面板，分辨率为 FHD+（1080×2340），<strong>支持 1Hz-240Hz 自适应刷新率</strong>，峰值亮度可达 3000nits。<strong>搭载高通骁龙 7s Gen 3 芯片</strong>，相比 sense10 没有变化，但内存相比前代机型至少提升 2GB，<strong>可选 8GB/12GB</strong>，并支持额外 8GB 虚拟内存。</p><p data-vmark=\"eaa6\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/5ce5ac0f-e873-4b44-ab2b-5d60661839bc.png\" w=\"720\" h=\"502\" data-weibo=\"2\" class=\"nowebp no-alt-img\" data-vmark=\"7d75\"></p><p data-vmark=\"7e54\">影像方面，该机采用 5030 万像素广角镜头和超广角镜头，<strong>其中广角镜头 CMOS 尺寸为 1/1.55 英寸</strong>，匹配 F1.9 光圈镜头，具备光学防抖。超广角镜头支持全像素 PDAF 自动对焦。</p><p data-vmark=\"b271\">此外，该机采用全新薄型 W-Box 扬声器，<strong>具备 5000mAh 电池</strong>，续航号称可达 2 天。预装 Android 17 操作系统，官方承诺提供 4 次 Android 大版本更新，以及最长 6 年的安全更新。</p>",
-      "url": "https://www.ithome.com/1/028/100.htm",
-      "link": "https://www.ithome.com/1/028/100.htm",
-      "pubDate": "Tue, 17 Nov 2026 02:33:11 GMT",
-      "isoDate": "2026-11-17T02:33:11.000Z",
+      "title": "消息称小米 18 标准版会是 2026 年最后一款超模旗舰手机，后置“超大的影像模组”",
+      "description": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。小米创办人、董事长兼 CEO 雷军出席峰会并发表讲话，而他手中的白色新机疑似小米 18 标准版引发网友热议。\n\n博主 @数码闲聊站 今日发文，透露了小米 18 标准版更多信息。据称，该机定价在 6000 元左右，是“26 年最后一款超模旗舰”、“米 6 之后最强标准版”、“等等党的终极胜利”。\n\n有网友询问雷军照片中手机的相机 Deco 为什么看着这么大，博主表示：“因为有超大的影像模组。”还有网友询问小米 18 是否为今年最强标准版机型，博主回复称：“屏幕 / 性能 / 影像全都领跑。”\n\n另据IT之家此前报道，小米 18 标准版手机已通过 3C 认证，相关页面显示会支持 100W 快充。爆料称，小米 18 会搭载骁龙 8 Elite Gen6 处理器、200MP 相机传感器，并配备 7200mAh 电池。目前，官方暂未确认小米 18 标准版配置信息，一切以官方为准。",
+      "content": "<p data-vmark=\"317b\">IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。小米创办人、董事长兼 CEO 雷军出席峰会并发表讲话，而他手中的白色新机疑似小米 18 标准版引发网友热议。</p><p style=\"text-align: center;\" data-vmark=\"f56a\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/fbc85709-371a-43cc-8f96-1907a65f2a54.jpg?x-bce-process=image/format,f_auto\" w=\"1077\" h=\"671\" data-vmark=\"a9c8\" class=\"no-alt-img\"></p><p data-vmark=\"3ca4\">博主 @数码闲聊站 今日发文，透露了小米 18 标准版更多信息。据称，<strong>该机定价在 6000 元左右</strong>，是“26 年最后一款超模旗舰”、“米 6 之后最强标准版”、“等等党的终极胜利”。</p><p style=\"text-align: center;\" data-vmark=\"f93f\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/6f3bf8fc-359d-45d1-9342-7368ff5e207a.png?x-bce-process=image/format,f_auto\" w=\"800\" h=\"1133\" data-weibo=\"1\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F6048569942%2FRrPi1BrRR%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"97b0\" class=\"no-alt-img\"></p><p data-vmark=\"b5bc\">有网友询问雷军照片中手机的相机 Deco 为什么看着这么大，博主表示：“<strong>因为有超大的影像模组。</strong>”还有网友询问小米 18 是否为今年最强标准版机型，博主回复称：“<strong>屏幕 / 性能 / 影像全都领跑。</strong>”</p><p style=\"text-align: center;\" data-vmark=\"aa11\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d4b04e5b-bbc8-4501-aad2-a4a073887330.png?x-bce-process=image/format,f_auto\" w=\"1358\" h=\"787\" data-vmark=\"0a7a\" class=\"no-alt-img\"></p><p data-vmark=\"ceda\">另据IT之家此前报道，<a href=\"https://www.ithome.com/1/023/652.htm\" target=\"_blank\">小米 18 标准版手机已通过 3C 认证，相关页面显示会支持 100W 快充</a>。爆料称，小米 18 会搭载骁龙 8 Elite Gen6 处理器、200MP 相机传感器，并配备 7200mAh 电池。目前，官方暂未确认小米 18 标准版配置信息，一切以官方为准。</p>",
+      "url": "https://www.ithome.com/1/028/514.htm",
+      "link": "https://www.ithome.com/1/028/514.htm",
+      "pubDate": "Tue, 17 Nov 2026 12:14:11 GMT",
+      "isoDate": "2026-11-17T12:14:11.000Z",
+      "author": "",
+      "sourceId": "ithome",
+      "sourceName": "IT之家",
+      "sourceGroup": "tech",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "tagScore": 8,
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
+    },
+    {
+      "title": "雷军出席 2026 深圳 APEC 工商领导人峰会，手中新机疑似小米 18 标准版",
+      "description": "IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。小米创办人、董事长兼 CEO 雷军出席峰会，并分享了自己对于 AI 时代的看法。\n\n网传的另外一张图片显示，雷军手中拿着一款白色手机，随后引发网友热议，纷纷猜测这就是即将发布的小米 18 标准版。\n\n\nIT之家注意到，雷军个人微博最新发布的动态，分享了两张 APEC 2026 峰会现场的照片，而其微博小尾巴显示为“小米手机”，进一步佐证了网友们的猜测。按照以往惯例，雷军会在新机发布前，提前对设备进行体验，而这一时期微博的小尾巴并不会显示手机型号。\n\n有趣的是，雷军在微博还分享了一张 APEC 2026 峰会台下的现场合照，让网友们也能体验一把坐在台上的感觉。而如果雷军手中的手机是小米 18 这一猜测属实的话，这或许也是新机的影像首秀。\n\n另据IT之家此前报道，小米 18 标准版手机已通过 3C 认证，相关页面显示会支持 100W 快充。爆料称，小米 18 会搭载骁龙 8 Elite Gen6 处理器、200MP 相机传感器，并配备 7200mAh 电池。目前，官方暂未确认小米 18 标准版配置信息，一切以官方为准。",
+      "content": "<p data-vmark=\"4a24\">IT之家 11 月 17 日消息，2026 年 APEC 工商领导人峰会 11 月 17 日至 18 日在深圳举办，主题为“共促繁荣，共赢未来”。小米创办人、董事长兼 CEO 雷军出席峰会，并分享了自己对于 AI 时代的看法。</p><p data-vmark=\"de86\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/ec97871e-6527-478d-bfeb-67267df7482b.png\" w=\"1440\" h=\"855\" data-vmark=\"6c22\" class=\"no-alt-img\"></p><p data-vmark=\"4419\">网传的另外一张图片显示，雷军手中拿着一款白色手机，随后引发网友热议，<strong>纷纷猜测这就是即将发布的小米 18 标准版</strong>。</p><p data-vmark=\"8e44\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/fbc85709-371a-43cc-8f96-1907a65f2a54.jpg\" w=\"1077\" h=\"671\" data-vmark=\"a9c8\" class=\"no-alt-img\"></p><p data-vmark=\"3bf7\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/d4b04e5b-bbc8-4501-aad2-a4a073887330.png\" w=\"1358\" h=\"787\" data-weibo=\"2\" data-vmark=\"0a7a\" class=\"no-alt-img\"></p><p data-vmark=\"d807\">IT之家注意到，雷军个人微博最新发布的动态，分享了两张 APEC 2026 峰会现场的照片，而其微博小尾巴显示为“小米手机”，进一步佐证了网友们的猜测。按照以往惯例，雷军会在新机发布前，提前对设备进行体验，而这一时期微博的小尾巴并不会显示手机型号。</p><p data-vmark=\"87bf\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/dcd992d8-ae54-4ea4-9879-036b44229f87.png\" w=\"800\" h=\"1186\"  data-snap-from=\"%7B%22from%22%3A%22weibo%22%2C%22url%22%3A%22https%3A%2F%2Fweibo.com%2F1749127163%2FRrOQywgUk%22%2C%22qualityMode%22%3A%22auto%22%2C%22qualityValue%22%3A%22original%22%7D\" data-vmark=\"38da\" class=\"no-alt-img\"></p><p data-vmark=\"4a67\">有趣的是，雷军在微博还分享了一张 APEC 2026 峰会台下的现场合照，让网友们也能体验一把坐在台上的感觉。<strong>而如果雷军手中的手机是小米 18 这一猜测属实的话，这或许也是新机的影像首秀</strong>。</p><p data-vmark=\"1724\" style=\"text-align: center;\"><img src=\"https://img.ithome.com/newsuploadfiles/2026/11/840e31d3-5a3f-4e6d-8c37-903b2a9bea93.jpg\" w=\"1440\" h=\"810\" data-vmark=\"5c85\" class=\"no-alt-img\"></p><p data-vmark=\"ea3d\">另据IT之家此前报道，小米 18 标准版手机已通过 3C 认证，相关页面显示会支持 100W 快充。爆料称，小米 18 会搭载骁龙 8 Elite Gen6 处理器、200MP 相机传感器，并配备 7200mAh 电池。目前，官方暂未确认小米 18 标准版配置信息，一切以官方为准。</p><p class=\"j_iframe_show ithome-content-placeholder\" style=\"text-align: center;\" data-vmark=\"9390\"><iframe src=\"https://img.ithome.com/app/calendar/event_card.html?id=5068\" frameborder=\"no\"></iframe></p>",
+      "url": "https://www.ithome.com/1/028/505.htm",
+      "link": "https://www.ithome.com/1/028/505.htm",
+      "pubDate": "Tue, 17 Nov 2026 11:38:42 GMT",
+      "isoDate": "2026-11-17T11:38:42.000Z",
       "author": "",
       "sourceId": "ithome",
       "sourceName": "IT之家",
@@ -21,7 +44,12 @@
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "tagScore": 10,
-      "crossTags": []
+      "crossTags": [
+        {
+          "type": "stakeholder",
+          "id": "oem"
+        }
+      ]
     }
   ]
 }
