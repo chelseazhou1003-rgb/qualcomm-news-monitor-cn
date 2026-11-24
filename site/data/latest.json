@@ -1,7 +1,7 @@
 {
   "date": "2026-11-25",
-  "generatedAt": "2026-11-25T00:29:20.978Z",
-  "totalArticles": 6,
+  "generatedAt": "2026-11-25T06:01:27.500Z",
+  "totalArticles": 7,
   "sections": [
     {
       "id": "core-businesses",
@@ -11,7 +11,7 @@
     {
       "id": "ip-legal",
       "title": "知识产权与法律",
-      "count": 0
+      "count": 1
     },
     {
       "id": "growth-areas",
@@ -26,12 +26,12 @@
     {
       "id": "competitors",
       "title": "竞争对手",
-      "count": 0
+      "count": 1
     },
     {
       "id": "stakeholders",
       "title": "关键利益相关方",
-      "count": 0
+      "count": 1
     }
   ]
 }
